@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AETHER // Daily Intelligence Briefing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bg-glow-1"></div>
+    <div class="bg-glow-2"></div>
+    
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="header-logo">
+                <span class="logo-accent">//</span> AETHER NEWS BRIEFING
+            </div>
+            <div class="header-meta">
+                <div class="meta-item">
+                    <span class="meta-label">STATUS</span>
+                    <span class="meta-value status-active"><span class="pulse-dot"></span> ACTIVE</span>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">UPDATED</span>
+                    <span id="update-time" class="meta-value">--:-- --</span>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">DATE</span>
+                    <span id="briefing-date" class="meta-value">---- --, ----</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- News Sections Grid -->
+        <main class="news-grid">
+            <!-- Section: World News -->
+            <div class="news-column" id="col-world">
+                <div class="column-header">
+                    <div class="column-title">
+                        <span class="col-dot dot-world"></span>
+                        <h3>Global Affairs</h3>
+                    </div>
+                    <span class="badge">World</span>
+                </div>
+                <div class="news-list" id="list-world">
+                    <!-- Dynamic Items -->
+                </div>
+            </div>
+
+            <!-- Section: AI Market -->
+            <div class="news-column" id="col-ai">
+                <div class="column-header">
+                    <div class="column-title">
+                        <span class="col-dot dot-ai"></span>
+                        <h3>Artificial Intelligence</h3>
+                    </div>
+                    <span class="badge">Tech & AI</span>
+                </div>
+                <div class="news-list" id="list-ai">
+                    <!-- Dynamic Items -->
+                </div>
+            </div>
+
+            <!-- Section: Finance & Markets -->
+            <div class="news-column" id="col-markets">
+                <div class="column-header">
+                    <div class="column-title">
+                        <span class="col-dot dot-markets"></span>
+                        <h3>Financial Markets</h3>
+                    </div>
+                    <span class="badge">Economy</span>
+                </div>
+                <div class="news-list" id="list-markets">
+                    <!-- Dynamic Items -->
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div>Aether News Agent &copy; 2026. Powered by Antigravity AI.</div>
+            <div class="footer-links">
+                <a href="#" onclick="forceRefresh(event)">Manual Sync</a>
+                <span class="divider">|</span>
+                <span class="footer-status">Next Briefing Scheduled: Tomorrow 6:00 AM</span>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Load briefing data
+        async function loadBriefing() {
+            try {
+                const response = await fetch('briefing.json');
+                if (!response.ok) {
+                    throw new Error('Briefing JSON failed to load');
+                }
+                const data = await response.json();
+                renderData(data);
+            } catch (err) {
+                console.error(err);
+            }
+        }
+
+        function renderData(data) {
+            // Update metadata
+            document.getElementById('briefing-date').textContent = data.date || 'Today';
+            document.getElementById('update-time').textContent = data.timestamp || '--:--';
+
+            const sections = ['world', 'ai', 'markets'];
+            sections.forEach(secName => {
+                const container = document.getElementById(`list-${secName}`);
+                container.innerHTML = ''; // Clear loading
+                
+                const articles = data.sections[secName] || [];
+                if (articles.length === 0) {
+                    container.innerHTML = '<div class="no-news">No news items available.</div>';
+                    return;
+                }
+
+                articles.forEach((art, index) => {
+                    const articleCard = document.createElement('a');
+                    articleCard.href = art.link || '#';
+                    articleCard.target = '_blank';
+                    articleCard.className = 'glass-card news-card';
+                    articleCard.style.animationDelay = `${index * 0.05}s`;
+
+                    const dateStr = formatPubDate(art.pubDate);
+
+                    articleCard.innerHTML = `
+                        <div class="news-source">${art.source || 'General'}</div>
+                        <h4 class="news-title">${art.title}</h4>
+                        <div class="news-meta">
+                            <span>${dateStr}</span>
+                            <span class="news-arrow">
+                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1 11L11 1M11 1H3M11 1V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </span>
+                        </div>
+                    `;
+                    container.appendChild(articleCard);
+                });
+            });
+        }
+
+        function formatPubDate(dateStr) {
+            if (!dateStr) return 'Recently';
+            try {
+                // Example google news format: "Thu, 02 Jul 2026 00:00:00 GMT" or "2026-07-02T00:00:00Z"
+                const date = new Date(dateStr);
+                if (isNaN(date.getTime())) return dateStr;
+                
+                const now = new Date();
+                const diffMs = now - date;
+                const diffHrs = Math.floor(diffMs / (1000 * 60 * 60));
+                
+                if (diffHrs < 1) {
+                    const diffMins = Math.floor(diffMs / (1000 * 60));
+                    return diffMins <= 1 ? 'Just now' : `${diffMins}m ago`;
+                } else if (diffHrs < 24) {
+                    return `${diffHrs}h ago`;
+                } else {
+                    return date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+                }
+            } catch (e) {
+                return dateStr;
+            }
+        }
+
+        function forceRefresh(e) {
+            e.preventDefault();
+            const btn = e.target;
+            btn.textContent = 'Syncing...';
+            btn.style.opacity = '0.5';
+            btn.style.pointerEvents = 'none';
+            
+            // Just refresh data
+            setTimeout(() => {
+                loadBriefing();
+                btn.textContent = 'Manual Sync';
+                btn.style.opacity = '1';
+                btn.style.pointerEvents = 'auto';
+            }, 800);
+        }
+
+        // Initialize
+        window.addEventListener('DOMContentLoaded', loadBriefing);
+    </script>
+</body>
+</html>
