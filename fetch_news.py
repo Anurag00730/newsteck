@@ -2,13 +2,13 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import json
 import email.utils
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import os
 
 FEEDS = {
-    "world": "https://news.google.com/rss/search?q=world+news+when:1d&hl=en-US&gl=US&ceid=US:en",
-    "ai": "https://news.google.com/rss/search?q=Artificial+Intelligence+LLM+ChatGPT+when:1d&hl=en-US&gl=US&ceid=US:en",
-    "markets": "https://news.google.com/rss/search?q=stock+market+finance+economy+when:1d&hl=en-US&gl=US&ceid=US:en"
+    "world": "https://news.google.com/rss/search?q=India+news+when:1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "ai": "https://news.google.com/rss/search?q=Artificial+Intelligence+LLM+ChatGPT+when:1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "markets": "https://news.google.com/rss/search?q=Indian+stock+market+Nifty+Sensex+finance+when:1d&hl=en-IN&gl=IN&ceid=IN:en"
 }
 
 def fetch_feed(url):
@@ -74,9 +74,12 @@ def parse_rss(xml_data, max_items=8):
 
 def main():
     print("Starting news fetch...")
+    ist_tz = timezone(timedelta(hours=5, minutes=30))
+    now_ist = datetime.now(timezone.utc).astimezone(ist_tz)
+    
     result = {
-        "date": datetime.now().strftime("%B %d, %Y"),
-        "timestamp": datetime.now().strftime("%I:%M %p"),
+        "date": now_ist.strftime("%B %d, %Y"),
+        "timestamp": now_ist.strftime("%I:%M %p") + " IST",
         "sections": {}
     }
     
