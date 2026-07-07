@@ -1,9 +1,156 @@
 {
   "date": "July 07, 2026",
-  "timestamp": "12:10 PM IST",
+  "timestamp": "03:51 PM IST",
   "sections": {
-    "world": [],
-    "ai": [],
-    "markets": []
+    "world": [
+      {
+        "title": "India welcomes US-Iran ceasefire agreement, emphasizing dialogue and diplomacy",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0lfU1hfWGJWMHY2VUY1Tld6Q3ZxR1JpTlhod3Y0UHdhS3RsNjZQamR0blRXTUVHN3o2TThlTGlQbHJKTHR4cG5fcnV6dVp1a25ZUFp3X3lvSUE3SVVZQlgyUm5HOUdqOVJtalZWa3JYbEU2Tkp0bWZFM2c2RmZpR3hQTVNOTHp4UU1LOVk4TE5FQk5NT2lCSTFaMXZtNlNGNkdqdHFB?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 07:24:51 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "Pakistan's \"War\" Threat To India Over Indus Water Amid Monsoon Blues",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3p1cXZrTHNfdHhBQjM1U1NDZUdSQUc2MkdSQ3NzcFEyMkQwQnJtTkpLaWhWTTdOWXdCSXI2OGRLb2xrQ3ZVVWhQSUZMcGZqdHNzWnpwUEFpNWZlWVNGNjE1Mi1qSzFoUmJTWUdjTnNUSWFMNlFqLVhFd0RXLUNCcnBvVjlWOXdpbjl2VVFMRzdMR1I2eTNxOGFYdEdoUURvbm5lZkhHM1VfRjTSAbMBQVVfeXFMUGlTU1ZHZUNVREZETGZZalE3Mk1KTV9LMGkyTXY5SjJVVkFLQjZ2NkE0b3BSLW9ObnlFcjlUWnhGTlluTGUwLTNKWXBPeVQ4NHBJZ3RTZ2tUNXprcVRyV282RmRJb2pBaWZHei1vT3BUUGU2QmNKd0RqLURJSUZHSVZiMTFZYnlRcDdWWDgyQXk1MUt5endHYUFFbXdKa3d0RGJTaEN5cWw3VjJSZEpTODlDSGs?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 05:34:12 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "Indonesia Signs BrahMos Missile Deal with India",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOExaMnpxSkN2cmxhZ2NyTVVkenFzbkhQc2Z1ZFo2cUgzM2oxYzZicXVpWnItX3RnVDZtR3hFSHlITThuWUc4OVdWZ1pZSTJ2ejBiU19CeEtyTndydGhYb3FJcVJjZkF5Y0JNbks4Z3pXMk9FdURWMVZJYkkwNldDbWNOX0hMNno2Wm9jSWRsYTZTMnRYSmxicg?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 07:00:16 GMT",
+        "source": "navalnews.com"
+      },
+      {
+        "title": "India news: Delhi to supply Indonesia with BrahMos missiles",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnVtZzk3N1dBZTRQSlgycjJyV2tDYUVDcUFrLTlJZHBzc3MzelBoVXVUYWJtOUotNjZZMktpVHFVWG5Ya1gwUTZyN1pVYTFTUVJZM1MwdU8zWFYwLVlITXB0cmxTNnI5VFV2OVdhZTV6anpjUTBzbHFlSGFhQlhkMlBzd1B1b0NXYWNkd21Jc0MwT1VlMWlyeEFn?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 08:00:15 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling | Akashvani News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVtOUxmV0ZtMHh0M01NWDRQN0ItVlNBd3ZvZVI0bUJLRnEyT3p2Xy1Hb1N6ZDdmME1LVUt6NzRkNzVyTmdydGxQS3VkSm5iTWY4N0JOWThfLWw0Y0VxVkFDSTZrSzhSZHNiZFZpQmVaai1JOUFqQVQ2MmNNREVRTGI2YTJ0NmVYY1VPSHNoc1g2bWxRU01jMFVtWWNtMVJpWXFMbmhWOA?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 07:03:31 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "India news: Kerala landslide kills 1, several feared trapped",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTG1qNnh2Nkt4czd2bUtCa1ozZmJySjZtTEh3c185SGdrbzFkZVFqcFlNUFBlaUdzS3BXUXZ2azN2MlVTaUNFMDJZYVRfWUlMcnBXenFNZHlBQnFqMDh2NUdza1RaMlRTTEtCTjQ2eVhxdXlvdHkzY2R2ZFFnMGY2cTduV1ZxX0ZOUVo3RjNJcXU3cTZFOVhCZDd3?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 09:52:23 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 07:58:59 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "India news: Mumbai building collapse amid rains kills 6",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 20:30:33 GMT",
+        "source": "DW.com"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Previsible’s 2026 State of AI Discovery Report Finds Google Remains the Center of AI Discovery, With ChatGPT Leading Standalone LLMs",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPT0NOQ2FVRTFHUmdQMU1hUUFhR09UQkRzNU1ILVk2dzc3b2prei1Nc1ZDUTFrN09HZjRHcGJSSEhiYXNPZl8zazBFMDA5OVhVOTk0SEM3UVNuSHZVcFl3S2JKWDQ1eVA3SkNOYVVEZC1NcVdRWURma0Q1NXJhUmZvd3l2VjhyUDQ5ZjEyaEpCOW9kWHp6TENyOHdXckNReE5wZktocUpBSFhxWkVra3RzdFp3SmdvSHBOcFRLZWo3aU5ETUl5YVlNVWJhcFdXaFNzS3k3NWsyWE1WUHdTc0NrS3prbDhFWm1LM29ZWHM2S2QwR3pJak4tc0x4Mzdvc3ZrQTF2N182clpnVmlzMmxFYlpMLTBBZw?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 19:00:00 GMT",
+        "source": "Business Wire"
+      },
+      {
+        "title": "Korea startup program spurs proxy buys of overseas AI, prompting MSS review - CHOSUNBIZ",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbUtaRzZYTm1Ga1FzNmlDSG5UcmJKMEpGQW9ETWVReDVXV29mMDhQbWl6SnBuYkIxUmpVT0Y5aUM3NGJXMzhPdWhZMlZZam1sMC00ZVRYVE55VHc2OGJsV25OaUVkb1Ftdy1kMGllMUJYdThFV3FITUk0MmFseWVBWdIBlAFBVV95cUxNeHU0eHFCSHVoQklFOFgzSTI5LUhQVlBiaHhaQ0w4X05teEE0aEt0akhhaW1zNW1IYjFVaWJwdlRGMXJiTnA5VUhVLXAyTG4xLWdrYk93cHF6TjZqck5ENTlhdzhHYU1MXzcyNTFVT0VlMDZiSk14ZW5sQXdlZ1g3aFNvQ0pCTmFqVnN2Mk1BX19FYVFr?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 21:01:00 GMT",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Reddit uses LLM technology to fight against AI",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDFRaTEweUlGV0FDTHBibGowbnFGeU9IbnVueEdFalRSeERFR3pjaDdoNl9lYXFnb0tZNHhuUUtRWFRiY2p5QWcyYV8wLUN2cXpZRXlnSVp6dFkzM3VMTUxKdUQ1QTh6bnVzNXZwTmdBUkM0NFVwaTBWM2F4dGZkdHdkLUNGTVBhdVdLYjBsdk15Q1k?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 15:29:20 GMT",
+        "source": "Zamin.uz"
+      },
+      {
+        "title": "OpenAI Built a $300 Billion Valuation on ChatGPT's Usage - Stargate LLM Is Sharing That Upside With Users",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczVPbmtFOVREekFKc08yZ2xGMTBENU1oTGwtS2NVUy1OcTB1eUtKSnR1dDdCZldqODAyUk1kaTdaY1VmQUhkQlhQaVVieDdpaTdFb09ERzExQV9zb3NjUGpWcjFLOUlLWE95TFFzalgxS19iNnV6dV9XSkEzN3QtaTZjcVRyUnlsbG5mYUs4Ym5CbHRSVmpkem9jczFYbkd1RFFaTXBSUHQwUnl1b1ZwYzJnRklyVWIzbHVxT1pyaEphbG8?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 17:00:37 GMT",
+        "source": "Blockonomi"
+      },
+      {
+        "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 07:25:34 GMT",
+        "source": "Forbes"
+      },
+      {
+        "title": "Inside Claude: Anthropic finds AI uses a human-like reasoning workspace",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbEl6eEpxZjEwV1Ruc0pXZWxyclpYbVRuV0U4MmFLSHJQaS1LRHpvelNTcUtnRzd1OEg3M0hfOWQ0TG1PZV9yLVNxS3llN3A2QjUyRmdGQXpzVGV6dGthYmYwYkNfajg1REdWZTNMdEJ0YUwtLXQySEdOcGhoc0ltcFVsVTFNSWx0MmNRYzBiWlhqelN2S3BRbEQwTUxCUzZrZUhiUjBhN3o2SDVxcVdLdktTczEtOExJUmRkNlJJbEI5bndRbjNMZ0Q2SVJhLXZ6WVQ3ZHhhY3pjRUlNWkVsTU04NzhTdno5b0tsSlhsdUjSAfYBQVVfeXFMUFlDWFVTS24wbWhKcTZoU1ZNUlNIMlhyUGVaS1FVU1d5N3BabDN0dWlPZG1oUTN4WmIxM3g2VzNRMnFfZVpRSXVWbm9nNHlvXzJwbS1WVnN3cDlkVFRQVTlNY0ZFOTRCTEJ0dTZOamdsNE5LWjJWUUhBVnhMRHZXYThJTGpwVnBnWEd1Z3RkR0s4cFFBUnp0ZVdqSHM4T3JCRGlKdE1LNV9zVE1xLVpBbHBlcFg2MTJTTzNfNFFRSExBTUJtdWhuNjJzY2hMdkxXaEpsMGZ5QndRcm53LXNVU0RfTTNCRmhWcWRpRUJSMjVWZjNqUEdR?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 09:47:16 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Building Resilience In The Age Of Export-Controlled AI",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejNWYzc1aHg2U0xEcGtTOGI0Y1QweHY4NkF2aXdtZVpuQTZfV0ZxUVJBYzZMMEF2VHlRcU9CbkRHeHp5cEx0dmlnRk9VbGpFWFRMWTlnU0RiaGxVTGJud01Ub2wxZWptNG9uSWwtSVpvbWxtVU9FOHlSLThCeVlEQjdaT0VrZjZkNjY1bTRJQTAzV2JlSm5oS2hfVUZTY2RkdlNEVlNvdmJmeUtDR2fSAbYBQVVfeXFMTng4eGt3WHpadENaYnVpLS1MdTJfWkdXVXNkd1lqdGFYVkUxUFEwUmk2OEI2QkVwYXUyWFdTVXJqOGZmaVNPYmhueUxhR0dYUTdsQ2ZkcWxtQTNjZzFZOW1MNUJVYnA1QjV4MVF6U0c2T0h3V1RWdjRneUU2MkdsS2s2M3p2TlpZWHp2Z0V5YklGWXRmU1kzTmtEdnNwWlY4ZHoxQzQycFJkS1pqOXNNYXppMVplWEE?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 16:55:16 GMT",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "DeepSeek V4 is here: How it compares to ChatGPT, Claude, Gemini",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXRWZ1ZVaXI5MDBqdWtjLWc0VFB4Y1hMRl84M0FCQ1haa3JvRjBNVnQtUzlxYm5lcm9ScUx3QXVPV2ZjcGoyRWo5Njk1NnEwdXVIZ09ScDd5aFpJLU1JblpObkRIbENvcFh4ZDl6ZkNSVHVuZW9nLUZzNFdiSThyVWlaeF9JeDlI?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 22:00:00 GMT",
+        "source": "Mashable"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Sensex, Nifty trade higher in early deals amid positive global cues",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWdFU2VRYjc3cnpkUXpkQ1ZZZ0U4ejR4eDVVeWF4S2hfOFZxXzQ0cVUxT0xJaWZGVWFsMkFWejB6ZEdWb0FYSWo0QmhLRlV4QUg3Nm4zNU1ibzVZWWxnMzhuNmNidUZxNlF6TVpIZzhzX0RVbGpsQURtemlvRXlwTWFmOVNIWEhkR3NFeVVQRkRiNElKcUNGTA?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 04:33:31 GMT",
+        "source": "Telangana Today"
+      },
+      {
+        "title": "Where is the Sensex and Nifty headed?",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQczVDeWJqbWdRTHZvQndhTWFsZ1FRUDlXTUR6VWJjcWxsWGZlMEpOY1g4RFlhTG9pLWh2Y3N3XzFsLS1yd1pWc1Zlb0xvRkxnWFVVUkc2bDE5ZkFhNnh0dzcyMThzWFg4cFNRZlhoM05JRndCTVd5SDVsczRNSGJSZFVSZ21URGs1S1A5S0s1TUVyaHlEOGJnMG43aWdjWVk3QllnOEt1UWtVeW5uMWhlWDBjSXZKZGUtUjg0bU9xV1JuaVZNZ2xscE9OZXUzSkp0ampKdTg5bVRKVnFvYmZVS1B6aTIzTVc5RkJGeXR6NXJrRnJk0gH6AUFVX3lxTFBNeVROQ0lKNDkzNU5XZGpnYlJLT0o0ejhmYmM5cGZDRVhwMHJoVzRiTzd1N1hWamh3WUxRTEVfSnRhaWRzZnBIRE5Rb0t3V1o3dFFXUmhTN2FOZTNRUmtDaDFkQ1J2Y09FMnZVX1ZzYmVoejhfbEVUV3NCT0FZZmdCNDk1Wk55bGNKZXN6SmtCNjZtajVDcU1ic2R6Z3NwWnZpdExzbm5WOVl0TjJqZkNMWWtNbkFOeVhTNmZCUkRQUnhsVTlkQzFMTGJRMXNDSFZsZEhkVXFuMllqanc0NWh2a3AwVlhhZE42VHFlUzBIX3RoY0t6TlVkb0E?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 03:30:17 GMT",
+        "source": "livemint.com"
+      },
+      {
+        "title": "GIFT Nifty up, signals positive start for Sensex, Nifty as Wall Street rallies on AI earnings optimism",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYXdIUmlmcGQwV2EwSElIRW1tZHYtOGxxcVpESnFvZGMydlhJUG0xYnNrM2ZtMEtCZm0wRzlIczJyNnFvcF9hWWlrRXpiaEhzUjA2Nm91RjZnZmxxS1o4ZjMwZkp2XzRqVzRyMUVSa1c2Uk1EMzFoY1VUWjl4emhEUUtEWWYxMEdUc0hCdW9oZVRHYWllTHFRQnN5Z1MyamFUNE1HXzIxZG5Ec2M0NTBGMmt5QjdiSG9rYXdnU3F5NWxlU25FcjNUYmpUYV9DWlVRUjhmSUxBYWc5WW80N19NQXByQWtHUWllZjI0X05rTWNNcjQ1bC1Wdk1qM3htUdIB_gFBVV95cUxNYXdIUmlmcGQwV2EwSElIRW1tZHYtOGxxcVpESnFvZGMydlhJUG0xYnNrM2ZtMEtCZm0wRzlIczJyNnFvcF9hWWlrRXpiaEhzUjA2Nm91RjZnZmxxS1o4ZjMwZkp2XzRqVzRyMUVSa1c2Uk1EMzFoY1VUWjl4emhEUUtEWWYxMEdUc0hCdW9oZVRHYWllTHFRQnN5Z1MyamFUNE1HXzIxZG5Ec2M0NTBGMmt5QjdiSG9rYXdnU3F5NWxlU25FcjNUYmpUYV9DWlVRUjhmSUxBYWc5WW80N19NQXByQWtHUWllZjI0X05rTWNNcjQ1bC1Wdk1qM3htUQ?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 02:48:41 GMT",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Nifty 50, Sensex Rise for 4th Day — Why Bulls Are Eyeing 24,800 Next",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wT3kzSHAxYVExRTg1VXNBMG9JZGR3bXQ4WG1lOUdOMDFPUDQ4MHBzYmhNQW1ybV8zaGhwQXRkWHUxVWotQ0lnOVpTYWRNR0gzYkY0eWgxVFNMczgzdmdhNEx0VG81R3ZEblhsdHRSVU9aeC1zQ2hRZg?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 12:24:31 GMT",
+        "source": "NiftyTrader"
+      },
+      {
+        "title": "Vedanta, PFC to LIC Housing: THESE 5 Stocks Look Surprisingly Cheap on Valuation | Full List",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU55RE4yeUtFS0ZEb1J5bURSSXo3SXlWZHBYRHNQM05Na002VVRoR0p0UVE1bW5JNVlPVUxDaWFNckNCd0ZxcnJtdUZOenV3dTNUazdvZkNZZXgyUEwydUxLc0NfZHN1NmRyTExfaERmdFpjTWlCXzVkVC1Ic0h4OEpYX1V3RmxFWEltdnVIaGU1QWstWjR2S0Rwc3o3dk54V1JVb25oRTZFTUdxdnYxekVfTDVJRGtzeWxvakFhbnpXclVPeUplc3pBZVJLZw?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 22:50:39 GMT",
+        "source": "Goodreturns"
+      },
+      {
+        "title": "Indian Markets Surge Amid Stable Crude Prices",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFF5SVYzRkdtclllX2k2N3E0TEFCSGpFOXQ2SzRVRXFpdHJSTERkVVhFSmxzY3dzVHpxMndJdEJjcWpXOUJ6aU9yR2s2VHFtVXdVc0JoNndDLWxzN0NZenhYalhGN012MWxVV2dYaHQ1eFlSbmNCczRvRVE3clpmMl9iR0Jrc1NmUVZSSzBVa0JaV250NFdhRlcxYmdPMHU0Y0dGM21n0gGmAUFVX3lxTE94UXlJVjNGR21yWWVfaTY3cTRMQUJIakU5dDZLNFVFcWl0clJMRGRVWEVKbHNjd3NUenEyd0l0QmNxalc5QnppT3JHazZUcW1Vd1VzQmg2d0MtbHM3Q1l6eFhqWEY3TXYxbFVXZ1hodDV4WVJuY0JzNG9FUTdyWmYyX2JHQmtzU2ZRVlJLMFVrQlpXbnQ0V2FGVzFiZ08wdTRjR0YzbWc?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 10:34:12 GMT",
+        "source": "Devdiscourse"
+      },
+      {
+        "title": "Sensex, Nifty take winning run to fourth session; investor wealth swells by over Rs 8.2 lakh crore",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON0VTb0NUNWl3U3NFcGRQMFFTWnZwaU84VmVpUlFpRlZtN3VyaWxnT0Z5d3l5V3lZRnl6Q1NiMzBta24xRkNTTHk4eVh0c09PWEVpcGFWRDJtTVlHbnZGTUo4aUZhREtWakdrNEpNLWxtTlJMWHhiUTZjbktPQ1JldUxDck02UHRPQ01YR2NzdlU1QlJHVzlZTEZsTU1KejFVX0U4UDlIemRBRzRKYkRmYU9PczlFVW4xQ2ZRNjBRSW4wbTc1ZXpfdl8wNGd1aS10VEtLVFJXY1BtWUkzem5UemhNeGNZOUgzREJzeEx1LUhlMzE4bHJ0OVJrNzlnM0xQU09uMEkzQVI?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 12:04:45 GMT",
+        "source": "MSN"
+      },
+      {
+        "title": "Justride Enterprises Nine Monthly Results, Nine Monthly Earnings for Justride Enterprises",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MNVVKaUlRTzQxNml4VXhuZTA0THJqRGtQUzhfZTdsVGVEaUxVZjZ6VVFPa202Yk1pcjQxNW4xV3lDc3JsTmNocHdIS2E4by1uUG5wNzQ1VzBSbHhSVnIySXQ2dUZkX2pmWndkNl9KaExHazF6OWc?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 16:38:02 GMT",
+        "source": "The Economic Times"
+      }
+    ]
   }
 }
