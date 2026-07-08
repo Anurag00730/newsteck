@@ -1,6 +1,6 @@
 {
   "date": "July 09, 2026",
-  "timestamp": "02:30 AM IST",
+  "timestamp": "04:29 AM IST",
   "sections": {
     "world": [
       {
@@ -8,6 +8,12 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVExqRS1ya3g2Y1lJMXR0UThBVFQ3ZjlDNDdpZC1VbnR4dnhOREhYSllWeTNKdDMyZzMyVU1CQjFnbnBxa3RnbXFkNTduTWd6dU9FWV81VW8tNzN3ZFVpeEdMMGs4RWxobXpHRjBaVFduNmpZellQSDZ4MHJVTmxjOTh1ZjZYcEtSajBJeGdoQmxRRVNjNVdWbDcxRUFIYkFxLXhsWdIBqgFBVV95cUxObjRGTk5ZR09aV2tyenkzRFEtVmdIVnNaREkydXpPOUxqaFdMU2RPUF9ibFY2QXh0ZE9tbGlCaHdGWGNfYkFWRG92R1BOYTRnMk1kYml0RnFuc1dFUF9WX09VQUNKWGItdmlvTzFlSWE5Rmc2X01mYWoxdjRtaUFrYi1LamU3VnNpeld1MWVpZ2lJWEJZMkJRMFZYa1JTWTlIbWRfZGswTlVjZw?oc=5",
         "pubDate": "Wed, 08 Jul 2026 16:45:11 GMT",
         "source": "Al Jazeera"
+      },
+      {
+        "title": "India news: US charges suspects in Sikh separatist murder",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5",
+        "pubDate": "Wed, 08 Jul 2026 13:29:11 GMT",
+        "source": "dw.com"
       },
       {
         "title": "\"Truly Unforgettable\": PM Modi Welcomed By Indian Community In Australia",
@@ -22,22 +28,16 @@
         "source": "ICC"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1Z0X0labVJqaWJ4MHNUeUxPc0ZGUFROakhIQkQwenQ0UEZpQlNWclFTcGN2YXhYNXRhWXc3MTNzOWI0eFJXX2NmWllOcDF6dnotdDk4c1U1ZGxXSV9iZ0RZejlQQ1liT1VFTmUxeVV1dV8xV0RPeEhGdTF0WEpXT1RLdGEtdWRnaVNLMkQ2UFI2UmpIUEE?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 16:37:48 GMT",
-        "source": "News On AIR"
-      },
-      {
         "title": "India and Japan to Co-develop Naval Radio Antenna Based on UNICORN",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDhEMHFraVM1YUQ3c3lrVUcydlAxNFB5VHBmMnA2aGptZi0xWnNNTlN5LS1QUlhqclFDdVdmVTZrZVdIaXFycVN5Z3F3NTZlMk91TkRYdVdidW1KSHdVaFcteGMyV25IMld3eXRtMTZzWEpHTTNOTElEaWktWkdfRUNwdkpUXzdsT0JoYklyQU9kZkdEY0w3OUJRY0tvR3VrWFRsYmNGVkxHbHA4U0d1b3h3?oc=5",
         "pubDate": "Wed, 08 Jul 2026 19:03:19 GMT",
         "source": "navalnews.com"
       },
       {
-        "title": "India news: US charges suspects in Sikh separatist murder",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 08:37:26 GMT",
-        "source": "DW.com"
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1Z0X0labVJqaWJ4MHNUeUxPc0ZGUFROakhIQkQwenQ0UEZpQlNWclFTcGN2YXhYNXRhWXc3MTNzOWI0eFJXX2NmWllOcDF6dnotdDk4c1U1ZGxXSV9iZ0RZejlQQ1liT1VFTmUxeVV1dV8xV0RPeEhGdTF0WEpXT1RLdGEtdWRnaVNLMkQ2UFI2UmpIUEE?oc=5",
+        "pubDate": "Wed, 08 Jul 2026 16:37:48 GMT",
+        "source": "News On AIR"
       },
       {
         "title": "US prosecutors charge Indian crime boss with murder of Sikh activist in Canada",
@@ -60,9 +60,15 @@
         "source": "Clemson News"
       },
       {
+        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxfOGQ0djFhVXRtcVoxUENRUnJhZlMyWmctdE9ETl9WZ29lT3o0YlpDVk5uWC1TR3k2WVVGekhTbDhPZWJmU2tGTURONWxMRi1YZHQtVU1xTEt5Q0xFZVlJOHZUQmwtNHowRDlMYjFFbE1hWnJxcFAxUjNyZS1PUExPLUhSWFl0eGE0VGhsNTRjYndtc283ZGhQbWlqcGFWMWxZaS0tUlo?oc=5",
+        "pubDate": "Wed, 08 Jul 2026 19:30:16 GMT",
+        "source": "TechCrunch"
+      },
+      {
         "title": "While Claude, ChatGPT, Gemini & Grok Make $80B Annually, Stargate LLM Is Building an AI That Rewards Its Community",
         "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcnVpZEtXU2FpNUJENTFDN3YwUkNVc1p0bnZnVS1NWWhtRUFwSlpvcmlTQVRSTnJHdUgwMVlYZ2pST0FwX2QxVGZBR1k1MjRqSXZtODZrWU1WY01KdE5BNllYdGE1d2cyVFlqd0VuMkhFdGhsLTRYYWppMFNyaXdpMTYzT1Q0dWtmMEgtdXJ5Zm5NMUZVMHUyTVhjaFJhQU9ObGc5M0RSZ3Q4VkM3MExLdGhpZV95QzhaYzQ1Y2lrenBzU3RmZGNpemZ6ZXpmZWVIc1FxaHFwNWZweXQ2RHZTZ25wNDlrajJ6VV9HLUR6V2JHNkM0ZzZMdWxzdENOeS1qeDVXOVNCaXV0VGxpNl81T3R3?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 16:41:35 GMT",
+        "pubDate": "Wed, 08 Jul 2026 16:41:17 GMT",
         "source": "StreetInsider"
       },
       {
@@ -70,6 +76,12 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPenphc2xjVHE3VnMwNW8tT245M1FrTGg1cUJBcnpYdERfbllSSENIcmsxRFoyZVZaOUcydUdKNWg0YUhnWUx4aHJSQzlKOUJHdjhXaFlYY0dzS2JXNVFSeW9TQUNacGZrNkUzaTQ5eUFlWUNiTGJ4blI4WkVaaEVHdl9tbEdEWXRXSGc?oc=5",
         "pubDate": "Wed, 08 Jul 2026 05:37:34 GMT",
         "source": "Nagaland Post"
+      },
+      {
+        "title": "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2JubmJrWGdYSDM5WkFITVdwem40ekRSWG83RU5ONHlrQnF3cXdfaTZBa0FsM0E2QzB1alBPS3NRUTBVbVJtekRaZndEamxlWHNFcFZSRGMwVFdPZExLUlVpZHNTUm5pR3hseDdCQlhDR2w2S1NaVkpLZTE4UEkwQUdMYm44U3FaNkVHdWpBcDE0NktLeGVwMktFQzNqTWlnNmY2WTFFcGlSaVljQlZvRTM4cWdyUF9yZWI4NWZ5eXNSdjlrN3FMNkdEUk92bGYwRFIxLXItekJiSHFPMldaVQ?oc=5",
+        "pubDate": "Wed, 08 Jul 2026 19:26:07 GMT",
+        "source": "The Register"
       },
       {
         "title": "86% of U.S. GenAI Chatbot Users Regularly Use One App, New Apptopia Data Shows",
@@ -88,18 +100,6 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOQ2J0LUNpVnJsakgzYldpLVMwUEFFNWxCb0VpeGp0QjRmWG50LWpoRjJ2aU5SYUF1TlQ5V09OcFl4eW5sZUhVOUh2MlZwQmNLZ2g2UA?oc=5",
         "pubDate": "Wed, 08 Jul 2026 03:00:00 GMT",
         "source": "동아사이언스"
-      },
-      {
-        "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 13:46:27 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxfOGQ0djFhVXRtcVoxUENRUnJhZlMyWmctdE9ETl9WZ29lT3o0YlpDVk5uWC1TR3k2WVVGekhTbDhPZWJmU2tGTURONWxMRi1YZHQtVU1xTEt5Q0xFZVlJOHZUQmwtNHowRDlMYjFFbE1hWnJxcFAxUjNyZS1PUExPLUhSWFl0eGE0VGhsNTRjYndtc283ZGhQbWlqcGFWMWxZaS0tUlo?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 19:30:16 GMT",
-        "source": "TechCrunch"
       }
     ],
     "markets": [
@@ -146,10 +146,10 @@
         "source": "Business Standard"
       },
       {
-        "title": "Sensex Crashes 1700 Points: Why the Indian Stock Market Plunged Today After Trump's Iran Bombshell",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXo1VVdSamU3RDQ1aW9qTWdKMGhhUFpZNC1IVEFRb2V2NzE0Qkt4a2V6LVdFWURhdWdSZnUwUmRwY2xMamxXV0RBNDEwMVhreF9zazZ1NklnSTAzWEEyX3VmRjhaamZkU3VNdlZMa0RPLXhIN25sdFk1Z1QyN1Z3VXNxMl9UUEVoQnFmbEVGYk96ci1TX19MeGxONm5qVkF4dl9wX1dOckdhcUVZTTJ4UGRwMzNJYzJmTXR4WmlB?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 12:34:32 GMT",
-        "source": "Pragativadi"
+        "title": "BT Opening Bell | Sensex, Nifty open lower as crude price rises on renewed US-Iran attacks",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdmdITUFxNjV3Zkh2bkF1bU13NTNwSjJnUkxRRXVzSjFCVndkTkoxSHNRMFR2Y3lIT01MQVBmblR1S0lSYjR3d1l5dk4xd2ZNZ1NRRWZkSjNQNWtNMTVQM2VLeW03Nl9iZFJGOFdrRTMwMG1lTnZoWTZDdnlkcWs1aVF2Z3Y4RjFVX1d1c0JHTHNZSWkxRjdGNlVmaHdkLWtYNUMxUWJYM0JiOG5WU2hSYmkxYnZwenA5ZkxHQmNqeHNuREdaa2kwM3BxdERUclhwWDY1emR4bENsS3Mzbkt6STVCY9IB6AFBVV95cUxPLVNIbjNYZzJKZ3RXMlRudzRHWTZCalkzNVFUejhfZWttTjBQM0xCQUNUelI4dVgtWFdFNThsUWFLYTJfU1pUR2lIN2J3QlFqNThhXzZWd2EzTk1laUduMTNEYlFFcG1NXzJ1OGpvdTg5a1JWTzlhUG9QNG1lMnMwdzVtMjRqUXJQb0ZHb0J1WlhjSHdYTUljdHNacjRTMUVOaFlDUTR4VlV3c01JdFZ5LW5SUTU0YWhYUWFXbFhKcHFYdGdpV2xKeGtfMmlhdzM3MHVWSUZuTkxJd1hoUzZiN3FDZVRVTGwt?oc=5",
+        "pubDate": "Wed, 08 Jul 2026 04:13:32 GMT",
+        "source": "Business Today"
       }
     ]
   }
