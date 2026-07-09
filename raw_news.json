@@ -1,14 +1,8 @@
 {
   "date": "July 10, 2026",
-  "timestamp": "12:59 AM IST",
+  "timestamp": "02:47 AM IST",
   "sections": {
     "world": [
-      {
-        "title": "India news: Modi clinches uranium supply deal with Australia",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTA5Y1hiZ3d0ODFoVkl0NzN2SFRNcDlpNHF2WWRQZXN3SDZ3S09nbUlfZHppM2IxbnYydnV0bm9sdTFkVGdGci1jVTlmUU11cUdiQmIxVTRodGQtWlh0a1N6SEFwX0NTellMejU1SFltRUZVRWtRdlFFTTdwazhuZGs2SWo5SjdLVlMxRUx5NWtmMXFoMDByZ3lRTQ?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 13:25:10 GMT",
-        "source": "DW.com"
-      },
       {
         "title": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5",
@@ -22,16 +16,28 @@
         "source": "Vision IAS"
       },
       {
-        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9%",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 10:32:34 GMT",
-        "source": "News On AIR"
+        "title": "India news: Modi clinches uranium supply deal with Australia",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTA5Y1hiZ3d0ODFoVkl0NzN2SFRNcDlpNHF2WWRQZXN3SDZ3S09nbUlfZHppM2IxbnYydnV0bm9sdTFkVGdGci1jVTlmUU11cUdiQmIxVTRodGQtWlh0a1N6SEFwX0NTellMejU1SFltRUZVRWtRdlFFTTdwazhuZGs2SWo5SjdLVlMxRUx5NWtmMXFoMDByZ3lRTQ?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 07:55:20 GMT",
+        "source": "DW.com"
       },
       {
         "title": "West Bengal: Indian state on the boil after 11-year-old raped and drowned in Baruipur",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYThVS3FTTVBDblpLZjI1YVMtOVRKQmFzQ0kyS0REWU1lek9xUmxaNy1JcFJEcVMyY2pEcjNfczRZVmZNLVJUWGhRR3QwZ01rTG42ZElLSllYUQ?oc=5",
         "pubDate": "Thu, 09 Jul 2026 11:09:17 GMT",
         "source": "BBC"
+      },
+      {
+        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9%",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 10:32:34 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "India forced into changes for Bristol decider",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFc4UWpRbUI2V0dkaUhpX0RBOHljTFc3OThSaFE4NVZocmZsRm9Mb3dDd1F2cFBjUXV4OUFaYi1rWml5QjZ5SFhBYkkyOFI3MWNyTkRVVVdaV2dma1BkYUtqOWllcDJFTjk4Sk5CY0pjYkFUdzRJOWVJaldHaW9WLV9HTUI?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 16:49:14 GMT",
+        "source": "ICC"
       },
       {
         "title": "Today News Headlines for School Assembly, July 10, 2026: India-Australia uranium deal, Nitin Gadkari defends E20",
@@ -44,12 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjVBNU1aTzluNkVwUXhuX3g5bWVTSGthVUFHWVE4SWlKVlVaMm9yejg1eXpqV3o2VnhPcHBfUC13QW5obVhWaEtoYzR2UXVNRWlBRHpMbUstR08wNnhJZzRNb2hrRm5nbTFqQUhyUWRuUnF0RjRyWjVmYjVsWDZKcUdNbXJYaEFHd214YkhNLWJZUlBHd0FFXzhUOGRYU2FXTzlEMklQMjRqSXJxMjdyekN4MXNTcGhnaE5xU1ZxanlyTU1vdHA1TtIBzgFBVV95cUxQTklkNGhpTE5vTkM0TFk5OE1rRkRhVWtSdjh0TUNfQVEyb1JERE1YQmNxR2xYaktQUnY4M2JXNzNvZGxick9JUmJXR1o5Q2xTeU1ZRFB4N1haVnRHLVdRSGxDTnA1elBjM3lDcmE0M0ZGbEFIS0JLV2pIck94UFgtWTIzSFlaLVV6azI0ZElJWlFsLWtsS244UXJjcjRMNWFyaTZSR0Nkc1dDbnkxUU5qLWxVRENkLVllOXFwazJSYXBhai1vRl9HcWFuSWk5dw?oc=5",
         "pubDate": "Thu, 09 Jul 2026 17:36:00 GMT",
         "source": "The Times of India"
-      },
-      {
-        "title": "India forced into changes for Bristol decider",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFc4UWpRbUI2V0dkaUhpX0RBOHljTFc3OThSaFE4NVZocmZsRm9Mb3dDd1F2cFBjUXV4OUFaYi1rWml5QjZ5SFhBYkkyOFI3MWNyTkRVVVdaV2dma1BkYUtqOWllcDJFTjk4Sk5CY0pjYkFUdzRJOWVJaldHaW9WLV9HTUI?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 16:48:53 GMT",
-        "source": "ICC"
       }
     ],
     "ai": [
@@ -60,10 +60,28 @@
         "source": "Frontiers"
       },
       {
+        "title": "How to Find the Optimal Coding Agent Interface",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWJUQ0ZxM2tTM3lxOHh0NXZ1ZVpFUFd5WUtpZW9NZnhoRmhYdGpaN25LejRjaUs1cW1zd0E5OHhLLVFEdG0xWTFIRVZmeUZEYUVKcjAyOURYMWFsLXhEWThNc3VvX3lSdk9vdDdadVE4MUo5cWIxQXVFcFdGV0gxeWlMMkM?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 15:00:00 GMT",
+        "source": "Towards Data Science"
+      },
+      {
         "title": "Google leads AI discovery as ChatGPT dominates LLM referrals",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQU00bHBPNVNSbGhaMTZlenpJUlVFYloxREJLSzg4REtfMmtJOG9XZjV5UHBFUERlZ3ZWRThQMldJa2hkODE5RkYyMlh5MVlxVW5RTjlCY2VPdjR3a1JEelhna0lJNkZra2VtdFBhMTMzWmFyMjlENVZVX2d5eTRJbTRTRmNUc0Z3?oc=5",
         "pubDate": "Thu, 09 Jul 2026 09:03:50 GMT",
         "source": "Marketing Tech News"
+      },
+      {
+        "title": "AI’s Journey: From Imitation Games to Super-Intelligent Tools",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNExENzdWWmd1V3lVeThoQ2RmT1NHTFdTWU9Fc0lyQlBmY3JkcFlfWTdwZVNDX09uRkFLUWtpTkhVVEN6VndYTTNNcUUxUkdTT25FVVFaZTd4OUJkUHVMenFXWHJ6dGJ2ejVNTWhqWDZ1VjJFTjZiUnRCSFRTVmtTYm9pZnRhRURmRWl5eVN3?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 18:47:57 GMT",
+        "source": "DD News"
+      },
+      {
+        "title": "The latest AI-powered martech news and releases",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 19:58:55 GMT",
+        "source": "MarTech"
       },
       {
         "title": "What do LLMs say about development in the Global South?",
@@ -72,34 +90,16 @@
         "source": "University World News"
       },
       {
-        "title": "The latest AI-powered martech news and releases",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 13:58:55 GMT",
-        "source": "MarTech"
+        "title": "Performance of leading large language models in adhering to clinical guidelines for anaplastic thyroid cancer: a comparative study",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PYV9ncVJwRVU2U3BUMkkwOXF0U0dJaXhUWDlDZmpqeUpZMzh3TjY1ZmR6dEZMUVZRb0hhekVXRFdkMGNJZElLa0EtTkVybUY4VW42N0c0dkkwTHA1eTE4?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 10:30:27 GMT",
+        "source": "Nature"
       },
       {
         "title": "Stop Renting AI: How Stargate LLM Turns Monthly Fees Into Crypto Assets",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fMXd3VXFMTTk4bHRsNEZQTkQyM0NvOHNQdHI4dHczclBUQVRRS2dJd0FhMXRUbHQ0Y2xYVlc4TUI0MDNCX21tZWpzWkZJaXpCRXFST3pkaE9NSHZLRk0wbkF4VdIBY0FVX3lxTE5fMXd3VXFMTTk4bHRsNEZQTkQyM0NvOHNQdHI4dHczclBUQVRRS2dJd0FhMXRUbHQ0Y2xYVlc4TUI0MDNCX21tZWpzWkZJaXpCRXFST3pkaE9NSHZLRk0wbkF4VQ?oc=5",
         "pubDate": "Wed, 08 Jul 2026 23:35:43 GMT",
         "source": "Bitget"
-      },
-      {
-        "title": "Does AI drive the gender wage gap further?",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzhYbkhtNHRka3lUR0ZWUU1XVVh0Mm1DcllLWmZGNjFMVDl1TVB5MGxNamx6eVI1cmg1WldZTjNqSVkzNzl2ZnBQNWQ1cEpLR3NmeU1TTFVUR1FIZHdZSFJIVUlmakhqLTI0MGVDLW9ZZzFqMUdrSzU0dF9fMUxfaVhaLUZ6bmpha1lCaVZrb29DNTNaUkhwNEhCTVZvS3liYklOTWNMczRCLVFXZXc?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 15:17:37 GMT",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Privacy-focused European alternative to ChatGPT, GDPRchat, is launched",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUWwwOGNDd09nY19SQWNSMnowbzIzcjdoakVCTUwzUHdCSEpNX09kQ3ZCV2pDU0ltWE41MmtHdnk3Mkpndjc0Z2Q4WVp4YkgxLWtINXlwcUhyYU95alFiU00tS0tNUDZiTC1V?oc=5",
-        "pubDate": "Thu, 09 Jul 2026 08:46:13 GMT",
-        "source": "Cybernews"
-      },
-      {
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxfOGQ0djFhVXRtcVoxUENRUnJhZlMyWmctdE9ETl9WZ29lT3o0YlpDVk5uWC1TR3k2WVVGekhTbDhPZWJmU2tGTURONWxMRi1YZHQtVU1xTEt5Q0xFZVlJOHZUQmwtNHowRDlMYjFFbE1hWnJxcFAxUjNyZS1PUExPLUhSWFl0eGE0VGhsNTRjYndtc283ZGhQbWlqcGFWMWxZaS0tUlo?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 19:30:16 GMT",
-        "source": "TechCrunch"
       }
     ],
     "markets": [
@@ -108,12 +108,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2paRUNWTkc5VG9XdUxGYkl2NlZmakpIWmt5QWNtaUh0T2dwVVdhcmluUDB0eWJLRE0wVjR3Q1V0VW8zeDdYY1I0WVZ5WXVhTXN6TkRwNXAtcElJUEF2U3BrODF3ZDRVTXRmbWt3MktzbmYyVUUyUXpwbWtQTmhGQ2ROV3RSa2ZFNkpCZW9DbkNrZnRhTkx1d05fRnhJNkJnRnNaVDBWYkpfSlliaDBlWVJnYnk3a0ZWSHhxZ0dLWQ?oc=5",
         "pubDate": "Thu, 09 Jul 2026 11:35:10 GMT",
         "source": "Liquide Blog"
-      },
-      {
-        "title": "Indian stock markets slump 2% amid fresh jitters as US-Iran talks fail",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ21uMUJDdUtiZDMydXJ1NkliaFZEZnNiQmpEWk1wbGdFRjhWaU5RUEhjMUl3ajE0cFRkU2hlYmxjbVk0LWFYblRKMURYa0dnV3hoTUtNMHo4TVROcGxSREl4SjFremloeHU0ejY5eFpCc1F5T3Zjdl9MRmxMbkJ4a2Ntd0gyZ1ozXzVoNVhhbWFhM1kx?oc=5",
-        "pubDate": "Wed, 08 Jul 2026 23:47:33 GMT",
-        "source": "DD News"
       },
       {
         "title": "Sensex jumps 238 points, Nifty closes near 24,000. 5 key factors behind today's D-Street rebound",
@@ -126,6 +120,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRl9meE5CVHR0Vlc2bG55bmhuZ0F3YmlsVEZJUnFwRkk4RnZ5OHcyYjJzMGNUUHdsaWFRVy1GZFE5aWdKa0xmV0RBZGg5M0JzbERISDFMbHgweW56VC1HQnpzWTcxcDV6WXA3U1FaeVFfZkRpRmdWaW82THozLXZRZzktRlIxdUFrNWkyUnBzQUNLZ283c3F2NkVxQ1JFb3R5TDZjTF9PeG0tUEhSTjhkcml0dnBGSHFWV09EN3ZmeU81czljc3RvY3QxbVAwejhxbnd0VWdLVW8xbW9HdGlrdUh2MNIB6AFBVV95cUxPZV9ibVJKVEVVNEF2SU5LZnNVLVFLOHlCcmRCM2lHNEcwd2JNRDd1NUQzRFVtOEtLWEoyUDA3Y0lwbVhieW1lbzQtR25tOE1HczNPRmF4NkJHSWllQTNKRl9BY2tuM2tGOExvaEpXelhRM3BFdEZ1QzJ0QTJEa01KUkRSSWF2T2VjVjExbjF3WnZOaVN4Z2J1eENpN2VUUHFXU1VZNUFaY1dWc2s2R192TmsxeWRvdU1XZktXSldadVRncjZDcldSaDI5WVNjTUZXZjBYc3FxZVpqR3dXR3RKd3o2WkJaa1RL?oc=5",
         "pubDate": "Thu, 09 Jul 2026 02:35:02 GMT",
         "source": "Business Today"
+      },
+      {
+        "title": "Stock Market Today: Sensex jumps Over 370 points, Nifty Nears 24,000 As Banks Shine; TCS Q1 Earning Today",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY2VnWXMzTUZyWDZDWUJlZzZxUzNPYmdKREhTTVhiUXo2ay15cFA3YW1HcWtJbXhubWZfTjY4QjNaaVhMNWdUc2J6Q05VMEVmaGM1emJjSkhZQ0tNRDNiakM1OUdHTFRfLU8xQWQzTHBtdS0xQkpISHJneXJKenFaMWkydUd0bXU2TGx5a29FVU40OVFnT3U5VGs0UzNvVExoQVhzWXVVclZBX1VXdl80eTRoS2s3YlRpMjROM3ZkX2RRMDJjVTRCUzVqb0RabTNWNGJWd1RhNEtEblp4ZFpMRFlEbS1pQTVjalBsYmFlSG1QQdIB9wFBVV95cUxNTGxmSzBVNnQzMVhpR3BYRkFpM1F4OUdoeFU5MUhub0FBYzByamp5UmpReW1aOTQyMGlnLWF0dW1Fci1NRnB6VXlHV2J4Nm1QMnQtNENIOG1nbS1tVG9yQ0x6aDh0Y042X1ZIX2hQaGlWUWFhZ05PVnRRRDk1OC1qUVV4T1EyOXdsa2pjT2I3TFFRQ2UtcW1KR3ZRZm80NWJiVVh1TnpzakNKQUhnMXlGRFkzaEpZZTE5YlRacnZZVnV2T09qUURHVVlkajdYcmxIWUJsVGQxeld2bFBwN3BNRWw1M2tOanhOcVl6WVVWN3F1V0NIXzFn?oc=5",
+        "pubDate": "Thu, 09 Jul 2026 03:59:11 GMT",
+        "source": "News18"
       },
       {
         "title": "SHRIRAM FINANCE LIMITED Share Price Today - Live SHRIRAMFIN Stock Price for NSE/BSE",
