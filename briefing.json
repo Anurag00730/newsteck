@@ -1,9 +1,156 @@
 {
   "date": "July 11, 2026",
-  "timestamp": "01:48 AM IST",
+  "timestamp": "03:26 AM IST",
   "sections": {
-    "world": [],
-    "ai": [],
-    "markets": []
+    "world": [
+      {
+        "title": "India news: PM Modi makes maiden trip to New Zealand",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 14:04:58 GMT",
+        "source": "dw.com"
+      },
+      {
+        "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 13:31:00 GMT",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Israel's Rafael Turns To India For Iron Dome Missiles: Sources",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 09:33:44 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "India hosts AITIGA Joint Committee meeting to advance the review of the ASEAN-India trade pact",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVNlWEpzNTlQemxHRlpnQmhZOVRTY2tESTJCVWItVmlHMW1Da1dEbUo3T1ozeGU5WUlOVjRHekhMelVqMlJEZ0RGcXk5a3BtblBDRTNqdTluRURubDZnNFNWejhtMncybEIxMW41WGRnTkVvT2plSmRFQUdtWlR1aXBwRDBORzlHa29sZEtxUnZLTU42ZldBWXhibnZPTU03NVpOTWxYQWhHSDFpRDFfNk9qTGVfcE03R1hCVQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 19:16:41 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "Latest Hockey News and Updates",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVZVNmd2VmttZ2pWSmx0c1FQb2JnNU94ekZHaWdrR1QwYWs0R083eEhiMXRjZXFIYlhhQ2dnX2tlV1dsRGNtQUg4ZGVLcFRQMXE3eTY1bXV1ZTJfSmFYS0lmMWQyYjlJTi0yVW4wT1BqSEJ0ck9kb0V5VW81WkZFRWhHLUR2d1R4bkJoOFYwcWtDMlpfZGltZ2sxNHJzSzJMTUdsUms3U2RKdUhlRzlyS0p0TzNUdEJIYWc?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 06:26:05 GMT",
+        "source": "Hockey India"
+      },
+      {
+        "title": "Indian police arrest dozens after violent protests over rape, murder of 11-year-old girl",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYU56WVJ0bjRkb29OclctaUVadzJ0NzZYVTRnWUtMNUh6bXJoME1oMDlja1p0TzNoMDE2T24zLW85WUZFWEhWNGc2Qm0tUjVTZzdodnRPd1ZLdzRLQTFVVU5uX0lNYl9UOVZvaUsxX2ZYdHNmYXRPWWMxR1E5LTZHcUNON3VwN3JNalhOX2ZmX3dWSXpUTjJsZkxOa3BRUHdCQkJqN2R2cjkxeEd5UF85elctQWUydmlk?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 12:49:08 GMT",
+        "source": "NBC News"
+      },
+      {
+        "title": "BCCI to review India's 'bad phase' in T20Is after England tour",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm1GS1E2TmpVOGtkZGdJOHl6dmtYVTEtMm5DZlphYXpqeWEyczdVSDJxSXZtVVVhbGowb2FMT1h4d3I4emUyZVZ6N2Qtb082UkNTbkljMkVQMWEtcHFQc29ZY2gzLVlSdl9vNjAya1ZDcnROck50ZUZsM19wcC12QkxqT2NWYmh0dEpKLU5JZDlKN2FJUUVpWklDMS10LTBS0gGyAUFVX3lxTE9FUXkzZ2hGeV9oWXRET2QxaEJRcjFueHRNWjBpRWZMRXJtb1R4SWdjVUpGYnFhM003U1FEQzNfb2VKblBvM1ZaWU9jT25meUMxVERCdWg0UllGUTR1SGd5UDRLUGkwZjlQdjJodzl0RUNSX3NEOGZ2dllCN2o0bGRVM042MG9WUW9fc0JNM2NmaGRCNzVYc2N6VzFGaWJmNjBhdU8zRDh4NV9GWDgyYnB4WGc?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 17:51:00 GMT",
+        "source": "Cricinfo"
+      },
+      {
+        "title": "Vaibhav Sooryavanshi surpasses Sachin Tendulkar to make India history",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52eTlIam1oVUNwMnh6S19yNTRFdTFGWGFXTnNxQWIxVi1GSjdHWF9VUnlKZkxUNmpHR3lNUEpPenZ4MjFrcko4VFR3V05URHY0?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 20:53:50 GMT",
+        "source": "BBC"
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI's new models can help Indian students, benefit local-language users",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZE40SWxiY2Z4VGpPWFdiNGxUdWlsUmd6MFRKTVFaM0FWbGd1RWNScU1fSXBfQmlhVU9wUVVpSzJNcGVxQ01BMkk0NE0wZmNOM2VqUE1uT0s4anlCbndrSnB0ZUxnQkJRZElBNENBZkd0Skp1T2t6T2xZTTFkRFlLX3Y3XzFKN1BIaUFiQjVfYmF3SGItRGJwUUtFUm1rSGJiR1hmQmRwWnRKNlhvRmE2cGdzT0tLcks4S2NnaW9fVEpUV0VPTmtTcTd3N05tdFEwaHlGbjNjbTA0S28xUVUwMVhUb3JUZ0REdzFvZkRTeHFVcXQt0gH6AUFVX3lxTFBDQmVudmJiSVV4eWpoOHZFcWJ6aHk0eUFKeXJrbnFPVTQyRmFFajNzd1BDbFVNdWNERDNqOUEta2VpNHFIdHQwY3ZrQkhrc0lrNUlZNGZEUkJQcXRsbVNWYWRvVnZ0UWlyQ0tZaC0xZHozczRjT1hjTFpod0ZuRFo3dVo4QlJJNlQxM0ZXYWFpZXgxV0p5TWt3ZTVOZXJwTlM1ODJ6LUd3YzBfVndkaThsQXpQTTVxSzVzQXJ3RklPZUNJcHNVZFlLYU9PTkVNdEtBdkIydXJEdy0tZkVTT3pUZWFtOEhyT0ZfTVB5RmdYOEphUk5fMTBKN1E?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 15:41:19 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Comparison of Large Language Model Performance on the United Kingdom Neurology Specialty Certificate Examination",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUdtSWVNandxcEVPZ3lOLXBNZjhhTlJEUGlsRk9lbzFxa1R2ckZEbDR3OHk4cE1DUEVsRUZNU24xNmZINHMwaW4wckE4R1BDc0o1RDkwUVlCdGs4d04yekdEeUpPdGhrTE5iUXZYTDAtaWhsN19rREFwUkRlM3JNbVlNOXdSMlh5VGduY1UzajhwdGhsdTlHMFJCN3FteDdEMnZ5YmwzbXVyWXdoYUl3eEF4NE5MS2hsblRpcElrR3k0dm1GMFJ6dFRTSEtNenRRZHd1ZU5WLWpBc3ZBeGo4cGdVRlRjZw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 18:41:47 GMT",
+        "source": "Cureus"
+      },
+      {
+        "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFE3LURQNGFZU2pUZ2ozdWR1VGtuNmx1d2NKQjNzWHdDUi1qMDUwRkdLUU9mMVIwcTlOM2dDT2dFU3FLd2dLMGoyLVJ5aDhqMjQ1cWkwOWhMZHZzMHp2WHBaSFowdmNiZU1mMXV5Q2o3V0xTSW1yelljZEgwbl9ORlFjQkRlWXNOVTNjblg4YWM0TEVZeGJiall2ZWh5ZUxjVVJLQlZRREFHQQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 09:18:09 GMT",
+        "source": "InfoWorld"
+      },
+      {
+        "title": "Thematic review and gap analysis on AI security",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMXBLUXNTSnZfX3c0bnF0cHFxTGlUYTF2TmVVU09fU04zX2ZITlpPQXctM25IeUhFekxfV2h3dkdPYTFicnFLenl6VF9vdFRWNWRNa19WQ2VXVVU2SWRDSjBaVDNlWDBwaGE1T2x3Z3c3VEhXSXozRldIR2NoUWlocWFPamtPRWRrckJfY2diVGlmcjRZczljeGZocHhiSURvX3ljQndXSGNzUy13SmNYUnpiMkUxNTJLMkdDYXZyOFBRMldwMEphZnZ2S0lOS2lYYW9aUQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 15:19:42 GMT",
+        "source": "GOV.UK"
+      },
+      {
+        "title": "AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnBjbGVpekx5T2RZMmRBeG9GdnJHalF4YTZtQ0FoMGc5eUpGSHVSRFlxMTIteTBQODdjT0NZWTNjY0Fwak1mSFNBbWpqa085RzVDRVRUVEtYQlFEcWY4QVpOOVMyQjZFaHdSZnlrYU9OMmFQM1VDUF9iNEI5WnlQMVV4eHFyMDVCNUwwTVVhMUJDWXlGY0ltRXViSQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 18:32:37 GMT",
+        "source": "404 Media"
+      },
+      {
+        "title": "Why frontloading your ad spend usually backfires",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MRnhzSUtTVndRWUhpeHNyUDNhQzg4QWo0X053T1NIQmF2a3Z6dGJaMGlOeVdSSUVMUVJvZ2ZrckQtb0FHNi1zRTVSendieTBCNkJ3RkNQVDFqQjRiX3NEYm5LM1k2aHV4OEswWnVRbFI1WDBKSUQ0VXhkTQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 14:00:00 GMT",
+        "source": "Search Engine Land"
+      },
+      {
+        "title": "Smart glasses get Claude AI next week, with hands-free use targeted for late 2026",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeklnX2FjU3A0WDlHbmNlLUVDS1BpOUN1U2RRZ1Z2bHJNY285U1U2QlpQSjlFMlNZWXMzaHlEUmxSNlBWcWV1R1BJaXY0MElmdEFVaFNIc3JPV3pjV3VfMlpGZVhUd3FaZlg4dnFMS0tLZGFpQnlBNGljZXYyMVNRdFdPU2ZNT2tkN3ZRZ1BReXBIcVYtbEZrWC1lSVFlbkZZVkFBY3U4eUtjV0c0ekRMRTZzQlRxQUZFWmJHbldR?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 12:00:00 GMT",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Stor analyse fra Goldman: Her er de bedste AI-modeller, Kina lige efter USA med billigere modeller",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JHWFZJWkhNcVlCalEtUzBiaUI0cmR3WUw2NDVCd2tlXzB4c2doQndiNnlnbGRBb1VGblpxYXZkOFpFc0VIdUJwQmxOVlZ5V2xGZk4wcDVXSFYxdU14OENLTjROMnhiUXhTSTdPTktlRzVpbkZEbDdSM0ZQVVFQUUZBbTZPLXhYNFFiVDBrdUZPc0xpT3BIY2NDV1l2UGotd01xTVg5QzBJOGZGVlhvNl9tSzg0U2o3UTRqX2NjZ01xdw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 06:04:42 GMT",
+        "source": "Økonomisk Ugebrev"
+      }
+    ],
+    "markets": [
+      {
+        "title": "SK Hynix shares jump 14% in debut on US stock market riding on AI wave",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 01:35:02 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Share Market Today: Nifty 50, Bank Nifty | July 10, 2026",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2tmRFNvWFdfR2o5dFotZUx5MFNmeGRvcnhHQ3RwVV9rNU44RzhDaE9MdjVGdjl3SDl2X1k4aUxuQkRGOXlWcjF2UmkyY3k0YXF5Z1hVbkxMN09MS1NEMHozUldtNm12OVAtaGlwX0IzYUhGVEV4Q0FJdzNjYmxNeGVfdy1rc1Y1d2dtY3R6RTJ1SVNzbHgzejItRC15dnBrM1paVnljc0swMDkzLWc0LW1naENiZw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 11:20:10 GMT",
+        "source": "Liquide Blog"
+      },
+      {
+        "title": "Stock Market Mid-Day report, July 10, 2026: Sensex, Nifty Extend Gains, Trade on Positive Asian, US Cues",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFBfSnNmQWRqU1F3aWpNNEVJYU1OVTh2N0NRZnVlTGlsUE9uMklwd3NhcUp1MnRDd2xoU3FMb1RVLWpqN19WeXVmTFpKTDRzeFNUTldETTZ6dzRjTHpueUhzRHA5dTYtWWl1cW4wSmx1TGlIZkR0THNENDQ0QXRBTUk5WUczOTR3R0ZvX3dGR05yYjczTnUwR1VIa1lqQXBsNnluTU56TURsSnNOMUl4Q1FySXA?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:21:58 GMT",
+        "source": "HDFC Sky"
+      },
+      {
+        "title": "Closing Bell: Sensex Surges Over 825 Points, Nifty Reclaims 24,200 as TCS-Led IT Rally, Lower Crude Prices and Positive Global Cues Lift Markets",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORHJiemZnaXFCaldkdGRpd3A1VGFUZmFlWXdzWm40WUIwOWlQell1NnlIcVp2SC12ZDlrWGJZRk82Q0Fkc2lhTWxrY29qVWFkWkFvSFlycGY3UHhSOW1jSGtFbTBodDVlaUJCNkJPVkZ3NnZsUVZJQjBnMkl2ODZDVmFoOFNDZ2RGWHRQZENqR1d4c3NMSGVOZEJGeEN4b0ZzYXVRX2ZwS2VVUVYtZk1pWFFVNXRPUWx0Wm1pQ0FYR29vWEFSM2kyWXJ2dktYMlo3NXhTckxhODludURGTlNZQmItSWFaMm95bVVZWVNSVVFteld4MFhxZ1ZTRzF1QXctX19MQ1BDcVo0RzJxUDFkNg?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 13:17:53 GMT",
+        "source": "India Infoline"
+      },
+      {
+        "title": "Sensex, Nifty Close 1% Higher as IT, Financial Stocks Rally",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1kwN2U0dXFFYlVhZ2p6MDhEOXd2UHpRVHZXYzRqX09IQjgxQkJ6WHl5eWl0a2tCRjBZZERmel9fakRWdzNMbUlSQjVDVE5nbEpLNXZTcHpUcmZNVDd5Y1JCckFyT3ppTUVQRjBBTnAxVk5sX2huemlGbGRWZ2Z4bGM2V09OMXlMZWIzSzdR?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 15:29:00 GMT",
+        "source": "INDIA New England News"
+      },
+      {
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTW1TQzU3UkJjckRiNERjYXdNRUxERWZUMlJ2UEhCR1lTbWtjVGM0eXBoYmRnTm9sbEhyUVFSZ05uNEdXTjJuMDdvQmJuSXcyR3RMV3I4cklwanpDSUdDOHpvay1La0JH?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 13:14:23 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Benchmarks snap 4-week winning streak as volatility marks week's trade",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmQ2bUhqYmJ4YWFoMTRvakw1OGNNb0pLWnZMVHFrTHNYUU5ueFZlOXZQbWxNRUU0S000Mm50ZXYxaVBzSFoxYXdsMHNHNEMyZWNRLWJyZ2pwb0JPcllhSU40amZWM1F6QXZJQk8tOGNDYW42UXg3cVNESlZ0aWxqd3Q1b2gtajdVc2kzR2FyWHhsSXNTRmhDZEc1c24yQmNQT0tDU1VCbkRVRlRSdzdSTEFfcV9TRTFLNExwZVp4X0xjOUNCWldibEZjUFZhWTM5dUZvY1l5UXXSAdgBQVVfeXFMTXZkNm1IamJieGFhaDE0b2pMNThjTW9KS1p2TFRxa0xzWFFObnhWZTl2UG1sTUVFNEtNNDJudGV2MWlQc0haMWF3bDBzRzRDMmVjUS1icmdqcG9CT3JZYUlONGpmVjNRekF2SUJPLThjQ2FuNlF4N3FTREpWdGlsand0NW9oLWo3VXNpM0dhclh4bElzU0ZoQ2RHNXNuMkJjUE9LQ1NVQm5EVUZUUnc3UkxBX3FfU0UxSzRMcGVaeF9MYzlDQlpXYmxGY1BWYVkzOXVGb2NZeVF1?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 15:31:10 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "SENSEX surges over 700 points, NIFTY50 above 24,150 led by gains in IT shares",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlBSdmRwMDczaXVOUzlhV01JbFlhdm9ielVWOG5xZWVlNENvclg5b2U5elFxckl3a2FSOElISzdQNjY0WlMwTFJmZUQwdWw4NHVUN0w1TGtOWjU0bk9XenF1c1pLY1hnZ3RQQzd2QUZlYjZZZ1F4d0FGMWlzaGhGOHp6djZ1OEo0b0xMaEhObUdjUkdxOFlVRXZhdkJMTUVoOUJVMnBuUU94d2RiWmNlZUFvS0gtM010TmlwSW91MzFQQXM3bFllWFBORmQ1X1l5TVE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 04:06:53 GMT",
+        "source": "Upstox"
+      }
+    ]
   }
 }
