@@ -1,13 +1,13 @@
 {
   "date": "July 11, 2026",
-  "timestamp": "04:27 AM IST",
+  "timestamp": "05:27 AM IST",
   "sections": {
     "world": [
       {
         "title": "India news: PM Modi makes maiden trip to New Zealand",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5",
         "pubDate": "Fri, 10 Jul 2026 14:04:58 GMT",
-        "source": "dw.com"
+        "source": "DW.com"
       },
       {
         "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
@@ -46,10 +46,10 @@
         "source": "The Times of India"
       },
       {
-        "title": "BCCI to review India's 'bad phase' in T20Is after England tour",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm1GS1E2TmpVOGtkZGdJOHl6dmtYVTEtMm5DZlphYXpqeWEyczdVSDJxSXZtVVVhbGowb2FMT1h4d3I4emUyZVZ6N2Qtb082UkNTbkljMkVQMWEtcHFQc29ZY2gzLVlSdl9vNjAya1ZDcnROck50ZUZsM19wcC12QkxqT2NWYmh0dEpKLU5JZDlKN2FJUUVpWklDMS10LTBS0gGyAUFVX3lxTE9FUXkzZ2hGeV9oWXRET2QxaEJRcjFueHRNWjBpRWZMRXJtb1R4SWdjVUpGYnFhM003U1FEQzNfb2VKblBvM1ZaWU9jT25meUMxVERCdWg0UllGUTR1SGd5UDRLUGkwZjlQdjJodzl0RUNSX3NEOGZ2dllCN2o0bGRVM042MG9WUW9fc0JNM2NmaGRCNzVYc2N6VzFGaWJmNjBhdU8zRDh4NV9GWDgyYnB4WGc?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 17:51:00 GMT",
-        "source": "Cricinfo"
+        "title": "Vaibhav Sooryavanshi surpasses Sachin Tendulkar to make India history",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52eTlIam1oVUNwMnh6S19yNTRFdTFGWGFXTnNxQWIxVi1GSjdHWF9VUnlKZkxUNmpHR3lNUEpPenZ4MjFrcko4VFR3V05URHY0?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 23:53:35 GMT",
+        "source": "BBC"
       }
     ],
     "ai": [
@@ -64,12 +64,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUdtSWVNandxcEVPZ3lOLXBNZjhhTlJEUGlsRk9lbzFxa1R2ckZEbDR3OHk4cE1DUEVsRUZNU24xNmZINHMwaW4wckE4R1BDc0o1RDkwUVlCdGs4d04yekdEeUpPdGhrTE5iUXZYTDAtaWhsN19rREFwUkRlM3JNbVlNOXdSMlh5VGduY1UzajhwdGhsdTlHMFJCN3FteDdEMnZ5YmwzbXVyWXdoYUl3eEF4NE5MS2hsblRpcElrR3k0dm1GMFJ6dFRTSEtNenRRZHd1ZU5WLWpBc3ZBeGo4cGdVRlRjZw?oc=5",
         "pubDate": "Fri, 10 Jul 2026 18:41:47 GMT",
         "source": "Cureus"
-      },
-      {
-        "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFE3LURQNGFZU2pUZ2ozdWR1VGtuNmx1d2NKQjNzWHdDUi1qMDUwRkdLUU9mMVIwcTlOM2dDT2dFU3FLd2dLMGoyLVJ5aDhqMjQ1cWkwOWhMZHZzMHp2WHBaSFowdmNiZU1mMXV5Q2o3V0xTSW1yelljZEgwbl9ORlFjQkRlWXNOVTNjblg4YWM0TEVZeGJiall2ZWh5ZUxjVVJLQlZRREFHQQ?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 09:18:09 GMT",
-        "source": "InfoWorld"
       },
       {
         "title": "Thematic review and gap analysis on AI security",
@@ -90,16 +84,22 @@
         "source": "Search Engine Land"
       },
       {
-        "title": "Smart glasses get Claude AI next week, with hands-free use targeted for late 2026",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeklnX2FjU3A0WDlHbmNlLUVDS1BpOUN1U2RRZ1Z2bHJNY285U1U2QlpQSjlFMlNZWXMzaHlEUmxSNlBWcWV1R1BJaXY0MElmdEFVaFNIc3JPV3pjV3VfMlpGZVhUd3FaZlg4dnFMS0tLZGFpQnlBNGljZXYyMVNRdFdPU2ZNT2tkN3ZRZ1BReXBIcVYtbEZrWC1lSVFlbkZZVkFBY3U4eUtjV0c0ekRMRTZzQlRxQUZFWmJHbldR?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 12:00:00 GMT",
-        "source": "Stock Titan"
-      },
-      {
         "title": "Stor analyse fra Goldman: Her er de bedste AI-modeller, Kina lige efter USA med billigere modeller",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JHWFZJWkhNcVlCalEtUzBiaUI0cmR3WUw2NDVCd2tlXzB4c2doQndiNnlnbGRBb1VGblpxYXZkOFpFc0VIdUJwQmxOVlZ5V2xGZk4wcDVXSFYxdU14OENLTjROMnhiUXhTSTdPTktlRzVpbkZEbDdSM0ZQVVFQUUZBbTZPLXhYNFFiVDBrdUZPc0xpT3BIY2NDV1l2UGotd01xTVg5QzBJOGZGVlhvNl9tSzg0U2o3UTRqX2NjZ01xdw?oc=5",
         "pubDate": "Fri, 10 Jul 2026 06:04:42 GMT",
         "source": "Økonomisk Ugebrev"
+      },
+      {
+        "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFE3LURQNGFZU2pUZ2ozdWR1VGtuNmx1d2NKQjNzWHdDUi1qMDUwRkdLUU9mMVIwcTlOM2dDT2dFU3FLd2dLMGoyLVJ5aDhqMjQ1cWkwOWhMZHZzMHp2WHBaSFowdmNiZU1mMXV5Q2o3V0xTSW1yelljZEgwbl9ORlFjQkRlWXNOVTNjblg4YWM0TEVZeGJiall2ZWh5ZUxjVVJLQlZRREFHQQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 09:18:09 GMT",
+        "source": "InfoWorld"
+      },
+      {
+        "title": "Build Your Brand’s Voice Without AI",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOVdfMndRd3YySVliNHY1a3JYYXZLbWw5eWR0bkNEbXM3bWdoU2k2Q3JYSlE3MVBNckN3b1haYTctSEdzOUtHd01QY0t0WW5ndnZhQjVKMTltZw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 14:34:36 GMT",
+        "source": "Built In"
       }
     ],
     "markets": [
@@ -128,6 +128,12 @@
         "source": "INDIA New England News"
       },
       {
+        "title": "Sensex surges 800 pts, Nifty tops 24,200 as TCS sparks IT rally; fear gauge cools 8%",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3JlOURpV01xeF9lcVBFRzg0eEM5Yy1aRnVsM2g1aTNrQ21sSHMtMjFUajBfanRzQW00VVFMS2RWeGppSEprUGd2NHUwNFVCajhRMEExYzJGeWp0NkRRX0dBWVk5a1U2dXl0ampnT2hqbkg1dVJpNDZCT2tsclk4R0lSZXpORU1qWGFvNmRJMTRiVVFTLVlsa0EtU3lLOUN2VjhTRjZaaDVCZEFKSkdJd1FpT2I5dmJ5Uk5wd2xOM1FyRVVaZEJ5cGNrRFN4OFnSAc8BQVVfeXFMTVdyZTlEaVdNcXhfZXFQRUc4NHhDOWMtWkZ1bDNoNWkza0NtbEhzLTIxVGowX2p0c0FtNFVRTEtkVnhqaUhKa1BndjR1MDRVQmo4UTBBMWMyRnlqdDZEUV9HQVlZOWtVNnV5dGpqZ09oam5INXVSaTQ2Qk9rbHJZOEdJUmV6TkVNalhhbzZkSTE0YlVRUy1ZbGtBLVN5SzlDdlY4U0Y2Wmg1QmRBSkpHSXdRaU9iOXZieVJOcHdsTjNRckVVWmRCeXBja0RTeDhZ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 10:30:11 GMT",
+        "source": "Fortune India"
+      },
+      {
         "title": "Market Data",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTW1TQzU3UkJjckRiNERjYXdNRUxERWZUMlJ2UEhCR1lTbWtjVGM0eXBoYmRnTm9sbEhyUVFSZ05uNEdXTjJuMDdvQmJuSXcyR3RMV3I4cklwanpDSUdDOHpvay1La0JH?oc=5",
         "pubDate": "Fri, 10 Jul 2026 13:14:23 GMT",
@@ -138,12 +144,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmQ2bUhqYmJ4YWFoMTRvakw1OGNNb0pLWnZMVHFrTHNYUU5ueFZlOXZQbWxNRUU0S000Mm50ZXYxaVBzSFoxYXdsMHNHNEMyZWNRLWJyZ2pwb0JPcllhSU40amZWM1F6QXZJQk8tOGNDYW42UXg3cVNESlZ0aWxqd3Q1b2gtajdVc2kzR2FyWHhsSXNTRmhDZEc1c24yQmNQT0tDU1VCbkRVRlRSdzdSTEFfcV9TRTFLNExwZVp4X0xjOUNCWldibEZjUFZhWTM5dUZvY1l5UXXSAdgBQVVfeXFMTXZkNm1IamJieGFhaDE0b2pMNThjTW9KS1p2TFRxa0xzWFFObnhWZTl2UG1sTUVFNEtNNDJudGV2MWlQc0haMWF3bDBzRzRDMmVjUS1icmdqcG9CT3JZYUlONGpmVjNRekF2SUJPLThjQ2FuNlF4N3FTREpWdGlsand0NW9oLWo3VXNpM0dhclh4bElzU0ZoQ2RHNXNuMkJjUE9LQ1NVQm5EVUZUUnc3UkxBX3FfU0UxSzRMcGVaeF9MYzlDQlpXYmxGY1BWYVkzOXVGb2NZeVF1?oc=5",
         "pubDate": "Fri, 10 Jul 2026 15:31:10 GMT",
         "source": "Business Standard"
-      },
-      {
-        "title": "SENSEX surges over 700 points, NIFTY50 above 24,150 led by gains in IT shares",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlBSdmRwMDczaXVOUzlhV01JbFlhdm9ielVWOG5xZWVlNENvclg5b2U5elFxckl3a2FSOElISzdQNjY0WlMwTFJmZUQwdWw4NHVUN0w1TGtOWjU0bk9XenF1c1pLY1hnZ3RQQzd2QUZlYjZZZ1F4d0FGMWlzaGhGOHp6djZ1OEo0b0xMaEhObUdjUkdxOFlVRXZhdkJMTUVoOUJVMnBuUU94d2RiWmNlZUFvS0gtM010TmlwSW91MzFQQXM3bFllWFBORmQ1X1l5TVE?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 04:06:53 GMT",
-        "source": "Upstox"
       },
       {
         "title": "Nifty PSU bank index up nearly 4%: Indian Bank rises 10% to lead gains post-Q1 results",
