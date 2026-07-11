@@ -1,14 +1,8 @@
 {
   "date": "July 11, 2026",
-  "timestamp": "05:27 AM IST",
+  "timestamp": "08:10 AM IST",
   "sections": {
     "world": [
-      {
-        "title": "India news: PM Modi makes maiden trip to New Zealand",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 14:04:58 GMT",
-        "source": "DW.com"
-      },
       {
         "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5",
@@ -28,6 +22,12 @@
         "source": "News On AIR"
       },
       {
+        "title": "India news: PM Modi makes maiden trip to New Zealand",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 07:18:10 GMT",
+        "source": "DW.com"
+      },
+      {
         "title": "Latest Hockey News and Updates",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVZVNmd2VmttZ2pWSmx0c1FQb2JnNU94ekZHaWdrR1QwYWs0R083eEhiMXRjZXFIYlhhQ2dnX2tlV1dsRGNtQUg4ZGVLcFRQMXE3eTY1bXV1ZTJfSmFYS0lmMWQyYjlJTi0yVW4wT1BqSEJ0ck9kb0V5VW81WkZFRWhHLUR2d1R4bkJoOFYwcWtDMlpfZGltZ2sxNHJzSzJMTUdsUms3U2RKdUhlRzlyS0p0TzNUdEJIYWc?oc=5",
         "pubDate": "Fri, 10 Jul 2026 06:26:05 GMT",
@@ -40,23 +40,23 @@
         "source": "NBC News"
       },
       {
-        "title": "Future conflicts may take new forms: Rajnath",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGFnZXRHNXY2VU1ZbGxZVmtQRlJqaTdtWmIzWGFVckRVRnRvSG1DdlRpbXpVQ2FzNmdPd3JheG9Zb28yMFlUak9xTW5YTTRLLWsyTUsxRUpZUHhoUUNFMVBFcUdyTUtjbzUwLXBXVGZFQlVFT3Q0MzJ4YXQ5ZG5CSWJEVkRVSkxQMWx6a2pzcTZ2ZC1lMXdyZHFzYmh1NkYyNFlDZHdyNzQzUnpkejNSdNIBtgFBVV95cUxOTWpKa29hdXBEaHM0OG9zdkJvZkpEX1NZTjBETVNra3RoU0JhdVRPZjdMWG1YWFpiMWJ4dzdxaUdJNU8zZkM0eFVJSXNHaldZZXdjUTRrM1BVSzBaUVhEOU0zVTRoVnE1RUZWXzNFT0VhTDF4YjQweXdUQkoxQ0lwZ1hiLWxUZUF6djk4aGdHdmdWTENGSExXZFlXemFuNzdzVHFZZjdsX3hFS2NIeWtTU0NzUFBkdw?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 22:49:00 GMT",
+        "title": "30% deletions in Daman & Diu SIR draft roll",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2lxM3lnWG1hZHg3WHdabWUzOVk4SjBjNnh2NEZtUHppR0tYUS02djNFRjI0b3ptZ1dlRTVrN3dwRHBXdGlhY1hjYTVkZnJKaHZta0dJUXhuWW9SVDJNOS1mWFRqcW9lY2RLV0JJRTBodXluZUx6eFVNZDhyR214Ni1ud3hXR3NscVhlRkUyVUhuTnNHYktONGVveXI5dTZrX2RJbmZLRFpaNDRX0gGyAUFVX3lxTE1XcGkzRHhOdnEwR1AtQnZPZm81YmZxS2RKMlRtaDhDNWgxVDJPVFpXYTJDQm9qOGRmVkVmelRObjY1Ymg2UXNRLVNhMW9EYVVZUnUtUHVaV3ZLTzR2ZmRMTXFobkVkckJyOFd3OW9kREc2NVpzem5qQnZIR3NMX0NKMUhEYjR1UHpaV0lfZ0pDU2dicHRYQnlWa3hVYmVPcUp4Y1I2VmZFalFzcDlTWjVnUUE?oc=5",
+        "pubDate": "Sat, 11 Jul 2026 01:55:00 GMT",
         "source": "The Times of India"
       },
       {
-        "title": "Vaibhav Sooryavanshi surpasses Sachin Tendulkar to make India history",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52eTlIam1oVUNwMnh6S19yNTRFdTFGWGFXTnNxQWIxVi1GSjdHWF9VUnlKZkxUNmpHR3lNUEpPenZ4MjFrcko4VFR3V05URHY0?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 23:53:35 GMT",
-        "source": "BBC"
+        "title": "E20 Fuel Can't Be Cheaper Than Pure Petrol. Centre Explains Why",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjRHTHpmTF9UaW1JRjYxbDJRb1dVbkRQMWI4UGpIQkt3S0FwTmtCekNucVJxYnhPdmJOcngwekdwRjZzcU8yeWZ0RDlrcnFwNWJQYWtMaWdvdE1jMFlFczVKZl9mOHU2U0s5clFXNlJiajZKMmVvblVuUlRuZGJqazExM25ESzZBT3pNN294OUxwd2k5ZHd6N0xTWEdUUzh2enUtVNIBrAFBVV95cUxQNG5QM2gzbkVkY3RZT0RVcUVJZWdCdEQxakw1V1hNX21JSHF1ejhBd2VfZExndEFYbWdheGtaa1UxczkyemN2ZlpWV3RfakdZNHVGUVFGMUZjeHBjeTBQYmxmb1VxaFQybWdhemlTMzFxclVGMERuV0MwUnNsUW1zYW5CaVhVNTZaWHFLSUtFOU5WZXlGdFJqVWlsVmxOc1hvQTBEQWY5a2pLZV91?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 11:37:30 GMT",
+        "source": "NDTV"
       }
     ],
     "ai": [
       {
         "title": "OpenAI's new models can help Indian students, benefit local-language users",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZE40SWxiY2Z4VGpPWFdiNGxUdWlsUmd6MFRKTVFaM0FWbGd1RWNScU1fSXBfQmlhVU9wUVVpSzJNcGVxQ01BMkk0NE0wZmNOM2VqUE1uT0s4anlCbndrSnB0ZUxnQkJRZElBNENBZkd0Skp1T2t6T2xZTTFkRFlLX3Y3XzFKN1BIaUFiQjVfYmF3SGItRGJwUUtFUm1rSGJiR1hmQmRwWnRKNlhvRmE2cGdzT0tLcks4S2NnaW9fVEpUV0VPTmtTcTd3N05tdFEwaHlGbjNjbTA0S28xUVUwMVhUb3JUZ0REdzFvZkRTeHFVcXQt0gH6AUFVX3lxTFBDQmVudmJiSVV4eWpoOHZFcWJ6aHk0eUFKeXJrbnFPVTQyRmFFajNzd1BDbFVNdWNERDNqOUEta2VpNHFIdHQwY3ZrQkhrc0lrNUlZNGZEUkJQcXRsbVNWYWRvVnZ0UWlyQ0tZaC0xZHozczRjT1hjTFpod0ZuRFo3dVo4QlJJNlQxM0ZXYWFpZXgxV0p5TWt3ZTVOZXJwTlM1ODJ6LUd3YzBfVndkaThsQXpQTTVxSzVzQXJ3RklPZUNJcHNVZFlLYU9PTkVNdEtBdkIydXJEdy0tZkVTT3pUZWFtOEhyT0ZfTVB5RmdYOEphUk5fMTBKN1E?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 15:41:19 GMT",
+        "pubDate": "Fri, 10 Jul 2026 17:39:25 GMT",
         "source": "Business Standard"
       },
       {
@@ -64,6 +64,12 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUdtSWVNandxcEVPZ3lOLXBNZjhhTlJEUGlsRk9lbzFxa1R2ckZEbDR3OHk4cE1DUEVsRUZNU24xNmZINHMwaW4wckE4R1BDc0o1RDkwUVlCdGs4d04yekdEeUpPdGhrTE5iUXZYTDAtaWhsN19rREFwUkRlM3JNbVlNOXdSMlh5VGduY1UzajhwdGhsdTlHMFJCN3FteDdEMnZ5YmwzbXVyWXdoYUl3eEF4NE5MS2hsblRpcElrR3k0dm1GMFJ6dFRTSEtNenRRZHd1ZU5WLWpBc3ZBeGo4cGdVRlRjZw?oc=5",
         "pubDate": "Fri, 10 Jul 2026 18:41:47 GMT",
         "source": "Cureus"
+      },
+      {
+        "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFE3LURQNGFZU2pUZ2ozdWR1VGtuNmx1d2NKQjNzWHdDUi1qMDUwRkdLUU9mMVIwcTlOM2dDT2dFU3FLd2dLMGoyLVJ5aDhqMjQ1cWkwOWhMZHZzMHp2WHBaSFowdmNiZU1mMXV5Q2o3V0xTSW1yelljZEgwbl9ORlFjQkRlWXNOVTNjblg4YWM0TEVZeGJiall2ZWh5ZUxjVVJLQlZRREFHQQ?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 09:18:09 GMT",
+        "source": "InfoWorld"
       },
       {
         "title": "Thematic review and gap analysis on AI security",
@@ -84,22 +90,16 @@
         "source": "Search Engine Land"
       },
       {
+        "title": "Smart glasses get Claude AI next week, with hands-free use targeted for late 2026",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeklnX2FjU3A0WDlHbmNlLUVDS1BpOUN1U2RRZ1Z2bHJNY285U1U2QlpQSjlFMlNZWXMzaHlEUmxSNlBWcWV1R1BJaXY0MElmdEFVaFNIc3JPV3pjV3VfMlpGZVhUd3FaZlg4dnFMS0tLZGFpQnlBNGljZXYyMVNRdFdPU2ZNT2tkN3ZRZ1BReXBIcVYtbEZrWC1lSVFlbkZZVkFBY3U4eUtjV0c0ekRMRTZzQlRxQUZFWmJHbldR?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 12:00:00 GMT",
+        "source": "Stock Titan"
+      },
+      {
         "title": "Stor analyse fra Goldman: Her er de bedste AI-modeller, Kina lige efter USA med billigere modeller",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1JHWFZJWkhNcVlCalEtUzBiaUI0cmR3WUw2NDVCd2tlXzB4c2doQndiNnlnbGRBb1VGblpxYXZkOFpFc0VIdUJwQmxOVlZ5V2xGZk4wcDVXSFYxdU14OENLTjROMnhiUXhTSTdPTktlRzVpbkZEbDdSM0ZQVVFQUUZBbTZPLXhYNFFiVDBrdUZPc0xpT3BIY2NDV1l2UGotd01xTVg5QzBJOGZGVlhvNl9tSzg0U2o3UTRqX2NjZ01xdw?oc=5",
         "pubDate": "Fri, 10 Jul 2026 06:04:42 GMT",
         "source": "Økonomisk Ugebrev"
-      },
-      {
-        "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFE3LURQNGFZU2pUZ2ozdWR1VGtuNmx1d2NKQjNzWHdDUi1qMDUwRkdLUU9mMVIwcTlOM2dDT2dFU3FLd2dLMGoyLVJ5aDhqMjQ1cWkwOWhMZHZzMHp2WHBaSFowdmNiZU1mMXV5Q2o3V0xTSW1yelljZEgwbl9ORlFjQkRlWXNOVTNjblg4YWM0TEVZeGJiall2ZWh5ZUxjVVJLQlZRREFHQQ?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 09:18:09 GMT",
-        "source": "InfoWorld"
-      },
-      {
-        "title": "Build Your Brand’s Voice Without AI",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOVdfMndRd3YySVliNHY1a3JYYXZLbWw5eWR0bkNEbXM3bWdoU2k2Q3JYSlE3MVBNckN3b1haYTctSEdzOUtHd01QY0t0WW5ndnZhQjVKMTltZw?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 14:34:36 GMT",
-        "source": "Built In"
       }
     ],
     "markets": [
@@ -128,12 +128,6 @@
         "source": "INDIA New England News"
       },
       {
-        "title": "Sensex surges 800 pts, Nifty tops 24,200 as TCS sparks IT rally; fear gauge cools 8%",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3JlOURpV01xeF9lcVBFRzg0eEM5Yy1aRnVsM2g1aTNrQ21sSHMtMjFUajBfanRzQW00VVFMS2RWeGppSEprUGd2NHUwNFVCajhRMEExYzJGeWp0NkRRX0dBWVk5a1U2dXl0ampnT2hqbkg1dVJpNDZCT2tsclk4R0lSZXpORU1qWGFvNmRJMTRiVVFTLVlsa0EtU3lLOUN2VjhTRjZaaDVCZEFKSkdJd1FpT2I5dmJ5Uk5wd2xOM1FyRVVaZEJ5cGNrRFN4OFnSAc8BQVVfeXFMTVdyZTlEaVdNcXhfZXFQRUc4NHhDOWMtWkZ1bDNoNWkza0NtbEhzLTIxVGowX2p0c0FtNFVRTEtkVnhqaUhKa1BndjR1MDRVQmo4UTBBMWMyRnlqdDZEUV9HQVlZOWtVNnV5dGpqZ09oam5INXVSaTQ2Qk9rbHJZOEdJUmV6TkVNalhhbzZkSTE0YlVRUy1ZbGtBLVN5SzlDdlY4U0Y2Wmg1QmRBSkpHSXdRaU9iOXZieVJOcHdsTjNRckVVWmRCeXBja0RTeDhZ?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 10:30:11 GMT",
-        "source": "Fortune India"
-      },
-      {
         "title": "Market Data",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTW1TQzU3UkJjckRiNERjYXdNRUxERWZUMlJ2UEhCR1lTbWtjVGM0eXBoYmRnTm9sbEhyUVFSZ05uNEdXTjJuMDdvQmJuSXcyR3RMV3I4cklwanpDSUdDOHpvay1La0JH?oc=5",
         "pubDate": "Fri, 10 Jul 2026 13:14:23 GMT",
@@ -150,6 +144,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNlBtQTVfRUI1SFRucmFyWjRyV0ItdHFiVFJMYzJicDFuNmhINVZTTE1ZdWMxQV90N29zZExrQl9tZ2xsRlg3VV9ER2hmakJrNEQ4Y21SVHdObkhqNUFlc0VvcWpfT0NxUEdTMlZENEdodEkyak1xOXJacHFGc2J1OFVubE9sY2hKWExHTW5aa2lDQkxjd19aYVVVVDNPRTFOeXBVRmRJODR0VV95UTNvYjVQM1lDZy1QcXpaLXlyaXdvaDk4VEowM2xrTGpqX2tOM1Jid3kwd3JTQ09GYWk2ZlRwZ9IB6AFBVV95cUxOTEcwdUtmMW9DRk5xQWdINUtsNldrVEhrMi16a2dJRnZremR4MVJ1VXZsYVdVeUtiRTZrYVl5SWRKQ2J4RG1fVENuR2wycVlqbkMwUm8zeWJLMEVVTTBrQkJtQmFyYnFrTW5wVGVzci04eEwtaHQ5OEpBal9VN09NZW5hWE5CYlRieEJfWHZjWVU2ZmRYRGd5TnM5aHYzWWtnUF94V3hZTW9qUDZwR1RYSXhFNkZEZ0ZIZTNfNFlhY3hxZmRBOWJreDQ2NlE2MW5ITWljdkt0czVobUtxRF95R1BLelFsUjFR?oc=5",
         "pubDate": "Fri, 10 Jul 2026 07:59:19 GMT",
         "source": "Moneycontrol.com"
+      },
+      {
+        "title": "L&T Finance Q1 results: Net profit rises 31% on strong retail book growth",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNDlvOGVtS3VmaTBtLTZRcUlaeUVRb0ZldFFaaTQyUnZTRERhR1Y2UnhrYWZkNlBmZ2F0enpreG1YNG00RWpFUm1YN3QtMkNqRnoyMnlGUlI1aV94Z2NTWU4yUTlIX0pMQUdGWmxTZEtHQzRoY1NuLXRIMFp0Si1pU3hqeXpWXzR1ZXFrNFp0eTRIOExFRDJYQmtZR2JQbnlUSXpBb2ViYzhla01kNlpyam9nQWlKbnpPNlFPTUJwa251RG9GXzIzQVpyNzhxRDV1c3lDSFVMQXg3eUxQdWdMemp6blpGVWNo0gHuAUFVX3lxTE1Gd092aHUyOUMyNUFPbU9renlsVTd5d3JLVWZvY0tTZjFXSjZPRGlIZjZObktLWkxTSmJpQUpzSVhPR01QcWNnLTBrSjRZYXJMQ0tEM2lxOVFWbVRFLTlGNzFrODk3T1lmVmZsc1h6QWpUeUNJU3BRMnByTG5RN0FfX0RONTJ0LWxVLXlRaE8zZERZSHZBY0QybmJsbGRERTZlbjZxMXZpbm9iSUNWZnJXUUNQTjMxem9kemZiTXdmZ005aF9jdE9OMk4xLWttQml4RnFwNWtRUUlyejZuTGNTLVB2SHM4Mnp2a19LblE?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 14:50:00 GMT",
+        "source": "Business Standard"
       }
     ]
   }
