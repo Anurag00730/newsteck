@@ -1,6 +1,6 @@
 {
-  "date": "July 15, 2026",
-  "timestamp": "10:40 PM IST",
+  "date": "July 16, 2026",
+  "timestamp": "12:31 AM IST",
   "sections": {
     "world": [
       {
@@ -16,16 +16,28 @@
         "source": "Al Jazeera"
       },
       {
+        "title": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5",
+        "pubDate": "Wed, 15 Jul 2026 17:47:00 GMT",
+        "source": "Reuters"
+      },
+      {
         "title": "India news: Landmark trade deal with UK takes effect",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmJOX2NKMGdxTXItbUhfQlNzR0U3ZUR4ZWdEZ2t5a21tTWpMSDJIbUk1RC1UVHhaUmVEOXpNSUptRDJhTXlNenB6cXRwNU1GOUZmV3J0amN5eG55U2l1R1dmWXpFelBEa0IxUTM5eWJNajV0ZnhFaUY5X0ZyN3R6ZFNscjk3LVQwdGxvWGNxTEg?oc=5",
         "pubDate": "Wed, 15 Jul 2026 14:05:13 GMT",
-        "source": "DW.com"
+        "source": "dw.com"
       },
       {
-        "title": "EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5",
-        "pubDate": "Wed, 15 Jul 2026 13:16:27 GMT",
-        "source": "Reuters"
+        "title": "JP Morgan moving closer to a milestone no bank has ever reached: A $1 trillion market value",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+        "pubDate": "Wed, 15 Jul 2026 13:42:02 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Nuclear Body Underplays Concerns Over Data Breach At India's Largest Reactor",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUJwdmFlUmZWSVhRbDVlOGNFcURvcGlUMVhHVk1MYVJRSWZCR1Z3ZUNCbXNaaFZtQWRlZmhiZTNhT2hSZ1cwZmxNR0c1LVdWMGl0NjI3d3pIeWhfcUZJLVlZcVZlbTVpLXVmZkx3TVBmU2l2aVhfSHpqdDdwV3JoaE5CNloyV0d3SWRPVWRQOTZ1YUJWTV8xcElUenJJMEnSAacBQVVfeXFMTU5YN1hmNXpoSkdWWXRFUmNJTWlMc3o0MHVtdkxkNnRBZW9hWVo0bUhVamlQcnlWSGJmSjU3STJiT082THhlcVZ5d1FUdE9NQXNZbVhSSG1UNXdueXNiblhLQ0ZRU2NSeU56Mm9mUUVXbUhBVGd5bmlLS0Y1V09jZjRpODl3WkhvSXM1c3VFcXJ3SkN5YzJSSzgxaUkxWkI4NWhzZmhYRmc?oc=5",
+        "pubDate": "Wed, 15 Jul 2026 14:31:22 GMT",
+        "source": "NDTV"
       },
       {
         "title": "Heavy rain triggers flash flooding in India",
@@ -38,21 +50,15 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE54aDJFaUdnVG9nWHV4NWhyUXFfMWo3TE5nU3ZVTDFkY25DWENyX1YxQjIyREw4YVhvc3hDVFQwMlJtRFlfdTVUR0VXblNvZlNNNE9uSUEtZ2c5eHA0RVJ4SVk1bkpLU240TFJpbGx6d01sSmtlTVlzZERhQkFBN0d6OC03ckVtN2M1eWhySkI2X3ZObU5CdHFHcmhiVDJTcUFCWXNLSUp5WWxLdEtHTXo5ZUI1Nkp4MnRfUmZWN1BiLUhzOHhTajlnVjhNV25oU3dzNnlhUmd3RThPUjRkcNIB5wFBVV95cUxNa3VFNmVkOXU3MTBiOFFZT0R6bmlnZDVyb2lUdXpwRnViNHRhN2h0cnE0ZVlRak00VXlmcjY0ZFh5M3gzVnA2bU9OVVF6M3ZSOUhRZlBpZEVZc01EQ2w4ZlBCNTNtaVJweUdYUmxFaTdrYktaQ0cxZ3J3a0pjbm1aWUdLNFZ4NWZEX0Q0YjdSdlMxWGFXbXpUWnB3Y2pLdHk0UkZpZ2o2SFhtM3c5WFZmMDhSS2dnNXZzMndOUXJDckpvak9UOVE3cEg4Nm1EaDJyeEhyVTRfMzd3cVVKM2VYZm5CcE9TbTg?oc=5",
         "pubDate": "Wed, 15 Jul 2026 04:59:18 GMT",
         "source": "The Hindu"
-      },
-      {
-        "title": "'Serious risk' to India's largest nuclear plant after sensitive files leaked on dark web: Report",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFBRTEZEd3ljU2s1NmR2TjFSYTJVNk5YbEdjOHNIN0dCOU1qRjlzYkNKOGFrNk1hdHlHNm9kS0ZIczNCUzJKQ1dTZGRZbXowc09ucWk3dVZadlkwcW9kWTdNOHVWaVVaZFlzV0thRjZlZ3NYZklRMi1VeWJMaWVrcjlQcS13Y1JVNUlZTTFKalFudDNudlk1SFc5SHp5OGdUVDVWX3hZZUR6N21PS2w5cEdZN0VINFpkX0xJTlBJMFR0T1JpSDNOQWUzbzFlaWYxSG1DRVZXZ3dCMU5kOXd1U3VkdWVjWkdId3Q5MEtYM0hJd9IB9wFBVV95cUxOTllXVVp2YmdMWjhKZWoyQ2NfRUxsNndsNFh1N3lSTHJ4OWQwbUcybXFoQ1N1TzhMQ0NwWmRBdXpTdlhROWpWNHE4MHhLX3B2VDBNckxSdmVUZVZtNWJCYTlPa0xzSzFVZGFCZGJSbVlPS3NmV2gyWnJENUxZWE5EeWFXakJYWXE5blFIUFhZS1llUklPU1M5bjJTVzRUdlRINF9zTlJ3cjZtNm03eVBfZ0l1ckhwY24wY1NzT3lycnJzN09XVUd2V1lvbFZBMHRiYlVLekdRanE3b29CYUNsNHdtS2J4b1dLUzNCaVBPUEw3a3djNlZz?oc=5",
-        "pubDate": "Wed, 15 Jul 2026 10:41:00 GMT",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Latest Hockey News and Updates",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2pMTmxIZjlhSmQ4eWxpejFERFFJNXZGc3VKanc4VXBoem13RGN1UENtLVYtSDNYX1dXMldsVzVnVFdSWmZiWW9mWm1PekN4UVBXdG51VVFfc1JTQUVFZ2phamdlVG5USm5oZTZXZjlJdlNzOV9mcFh3RFRtY3RuNkFfLW5QemphNHpVQkxtdE5Nd0t2bzZhNzJwVmZzb0VOcEFMcXhGRDJRQUFpcXQtbFV2U0FmNHI1OXV2VVZKbDdjUzZ1X2VwQXFfZnZjRW1oaWl6TFQtaHhNMDlXblNjZDhTOTNVaHFoRXdmWEgtdVR0OTZ6?oc=5",
-        "pubDate": "Wed, 15 Jul 2026 09:06:47 GMT",
-        "source": "Hockey India"
       }
     ],
     "ai": [
+      {
+        "title": "I use a local LLM to scrub my bank statements before they ever reach ChatGPT",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOE03TkJrbHhPUHhTRXVlXzdLUkFiSWJQbHgxZUNjOHJVN2hNS0k3UnFWbG5GTFNyZV93VWh5YmhROGJYUVo0YUR4elU3aGR6OGtnSUxadUZpZ1hCNF9GYUhGQjB1ZjAtVkROcGZSdw?oc=5",
+        "pubDate": "Wed, 15 Jul 2026 18:00:15 GMT",
+        "source": "How-To Geek"
+      },
       {
         "title": "OpenAI, public interest and the problem of tech governance",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bkN3REJYMXFJS3R1Mm5UbENpREdUYXBPbG9qY0xwQ0MwZlZzWndvWEFqcGZVdEljU0RSLTBKUkdMVmgyaDZYazlmSmpLS2RTelVwaUM5SjVwTjFrN2lZdjdiWGdYMGs?oc=5",
@@ -94,12 +100,6 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVpoRkFwaUd2dG5mU096andEYWJEQzlKbUt0OHpRTmtZSEZqTk5kRlBkZDBTRmVnZVhaLUhsaFZmTWQxcUVxYlNtb1dUWHVPVjFFaVMyazdrS0l0alNVWVU3Q0wwX0kxT0J3bGtCd3d2Sm9sZ3N2VllmNUl2OGpFUFpTRGlCVzlNYUVLQU9pOVBTY2xxdVo3cXFBY2VzZERIcU0zRGJyQmxBbGFzZTJRaVBzT3pmQTBnQnJKNFVWcXg5OXVxVEZXaGFMYXnSAdQBQVVfeXFMUHRyN29heE9wX2hacUZNWVVQRWpUdDFBSFQwZG5FR2x6NmZSaFV2N29mNWZRS0NMdGNTMHk5VnRWZjRDbFdnU194UnpGNzdwdnR0alhUX1JQUlBRR3JVdlNPRlRZNDZIc1ZXRU5TeTl4aG93dUxnVFA1bTlrT0VZV0duVU1kVlB4UnZ5cFpDRWFlNzRlbXFQYTYwaDFEYlQ3dkFHU1FmdEpCaEpkQl84MlctODR4cWJZT0FjOGhlUW9kUW9GSWthLXVndWo4QnNNT1hHYVA?oc=5",
         "pubDate": "Wed, 15 Jul 2026 08:09:53 GMT",
         "source": "NDTV"
-      },
-      {
-        "title": "Forget the model. When it comes to cybersecurity, it’s all about the harness",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CN1F0WXpLWFdpclhGM2gwQlZELVJ3cVRjQVJSS0QxWGpsbm1zZElkOWlQc1dIMUVYN2FfTGlSQmV5YmhCM3ZFa2xhUlkzSE5xN3Uwa2FKdnRhVVRfREVDSnZOZmR0b0JISjZzTkFJZndWVjQwRWc?oc=5",
-        "pubDate": "Wed, 15 Jul 2026 15:38:21 GMT",
-        "source": "CyberScoop"
       }
     ],
     "markets": [
