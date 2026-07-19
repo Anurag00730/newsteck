@@ -1,42 +1,12 @@
 {
   "date": "July 19, 2026",
-  "timestamp": "11:16 AM IST",
+  "timestamp": "01:36 PM IST",
   "sections": {
     "world": [
       {
-        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9%",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 23:23:27 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "India news: CJP to call for Modi's resignation, says Dipke",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjVHT2x0VFdNN3ZqZnNuUlNQSFlrTWRmczRxWE1RVUVPNDlBY25GRmVwbmcwamJkdjB4YUxFdTVISFZzZmpFMVhLSDlTeHY5STAzbHJWTG1IMmVlTTdmaWowWngtZDRjY3hQWlc0Tm1TMUVhZEM0SHVaYTJaUElubld3Y2ZKaWw1ZDlvVzl5ZzYwTmVrbXpfNVB3UnVJWm43X0FNeHpNZFYyV0w2MkR5N28tVklmUGtXYmcxMzZuOVdjV0hUaGtJS1VyOFM?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 10:23:04 GMT",
-        "source": "dw.com"
-      },
-      {
-        "title": "Maharashtra: India's Ganesh idol makers count cost of devastating floods",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 00:37:33 GMT",
-        "source": "BBC"
-      },
-      {
-        "title": "India achieves milestone with launch of first private-sector orbital rocket",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 12:06:52 GMT",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "\"Illegal Detention\": Sonam Wangchuk's Wife Seeks Urgent High Court Hearing",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUR5RzhLci1SMUNlYzZqb29GUmpTbUdESFZBRXpINGtfQndJVGxSQ1ppY1BpdTZyeU84R2xoQXJzTmRhcDZ5QVJmN2tqQ3c5MkxRVmNMNjlwdHo3TTBtLWVlMFNWelNnR3d3cXVlVVRwNURQNlZDN3dIVU82Y0gwZ1kxQkIwb2d4SFE2Q0NsMEZrTzY2NXlNZjhGeWMtWU52c2lqci1rX21mUDJFY1JkeFRRaUwyalg5Q1BKT0drdUZxNGx4dWg5RnRLMnBrWjhERTB2UA?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 04:36:35 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "Just Like That: The Republic of the Unconcerned | India News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVBYR0wwQVFlcTNaTXhqSWM3TWhiT193SVVheFI0MGJlZ0lTdDhyQ0Jkdl9oak9SaENVeVNZSExWTGd1LXJUWUZ2SHJWMjJxcG9ZSURlb0tuaDBBRXA0eERHcnk4aF9yYUZ0NkNxcEdwcXFidnBCWHd2NzB5TXhrUUhnWkxmNkJpb1U5SHlJREJzdk50SEdFckZWY1Nid1NrUU9zNEV4VEowZUl1cVHSAbMBQVVfeXFMUHNSd3N5UlJkZ1B5eWQtdENUTGlxTWhjR3BXazFoYnZKUUMwUzIyaTBOZWdaM3ZqMVY3c1pJLUN0QTlOX3d2d3JaM19XMWFZdUVEVDNib1JVTnB5elhyREZiY1FOaE02bzBoT0hCQ1lFVHUyMl9MMS1WeDFNaThXZS1wdEpjNnF2NDBYT3Q5Uzd5empfeFRTcEFpQVZXajA2V2dYbEx1OUF4cWhYZWNVMDNwRFE?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 03:58:03 GMT",
+        "title": "'India's 2nd freedom movement': Sonam Wangchuk's message from 'illegal detention' at Safdarjung | India News",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQm5XTjlFX2tDZWs5d0daaEl5ZUZqZE54Z1lzZDIxTXdneEQza0g5VVMybVgwdzRvRjNHaWFwdDJmMVNIcUtidXB1ekl5eTVSaUxacVNIaGQtLTFMdXJhRWFUOUU1SzdPN3VURC02QzJLdkRPXy03T3VmNnVGRm1pdWhWazloTWc3TUJYUUp4WmVPd2hNREVucHBkTklrMFM2dTVFdDVrVVlxMzJVOVRwUUk1R0FEMjhMOTdGbUF6ZEpJVjdkM2ctbVRXUVpuV0wzOHZkN1FGTXQ4a0l3NWlLcTFBTndwLThiWW9YQS1ZaXF1eGFiZndteU1uWFRhZXZ10gGGAkFVX3lxTFBBYjFUUWZXVVhYbnhKeDBNMmhYSkxDQUl4VDVnbHRsdGJXRGxheWNhbTVYQk1lU1FxMEFkbU40N2RWdDFOZVZCRFR1SGllMGVUcF9aS0hPQVAzSmU1LURFbDVqZklGLXZFQkVtMkRIdkpNc1RTMk9aYlZhN2g4ZlJEaFpva3FMUnZhRHVxV0ZkOTlVUk5WMjFlVEFFRHA1cWVrOEtoV1NMYVBlRnNIRXdLbktlMUowOXJUbTZnM3Q0WXhtM0RRcDFmS1dZdWkxQWl5U0pJSjhTYTZnU3dOenI3YjFvLTFMVWNUUmFNRHNqRHAwWldvdjZCQ0Rkb3p0Q0p0czFOblE?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 04:00:06 GMT",
         "source": "Hindustan Times"
       },
       {
@@ -46,9 +16,39 @@
         "source": "News On AIR"
       },
       {
-        "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3RmT1RsRXBmcHVJdlZQdUxnSEJPT05lVXRtcGdRc3BqeXdYSWt2VloyaXZNM2JTdkJJcXZqT3d6dzhwd01DV0w3YWI0S0lKVVJvRElBdUVRTm1zZzYzRjI1ZU4tbFltMF9wMGVIOF9idklhM0ZER3BNSHBnRlNQa1Zra1g4S2Vhb29CSWtRVlA3d1VzbGpfTzlma0V3V2ZYbW51N01rWHN6RDF1b1pzX9IBtgFBVV95cUxNWTFVUVhaWnI2bnRxOUJ4WDMtR2FiM2Vfam1CXzgxOEVxdE9JeUhwRHV2b0VQSDZsRTVxWUlxZFlTYnBqb25lSHNEOFM1MlRvaTRaa3c1SFBVT0J2YXoxb1dHZEpKSnRIT2ZYdTNPbkJIVnRLZ3NPc25jRnJMNXVzY1lXalhUZUtXbXZTRllOYlhFSHlkMHFMRzgzSGxyNkNMby1heE04WFR0bHNnTVRfTHRIUUZ4QQ?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 10:54:31 GMT",
+        "title": "Sonam Wangchuk calls July 20 Parliament march India's 'second freedom movement'",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmFZdXRQdU9KdG1xU3dYWVVNS1VKel9uRmphYUV4LWpsSUJOUkZjX2luYzVocWZyRnN0VVJYZWZLOGxmTTdjcy04UHBuQnI5S0gzNmEyZWxYVjR6RkdRNXU0SGlXVk5hNEYwMkNMbmx4eTk3eW4zS0xLcm52RmdCMnQ1Z0EwNXdKNzF0SkF3RFc2UVU0WmJ6VnBSVnlSLUVET2VIbXV3WFZZcTV0RnRvejRWNXBqWnhhay1XeVkxN29YUG9KSDVkUXUzWEF4MlJ30gHXAUFVX3lxTFB0SlpGU3ZkamF3YTJ2QlIyM3dDQ2ctRHo4TWlqd2FFdG1zc2NYXy1fUVV1ek1SSk5BVzhXRnVEeUIzMjhqbnhFSFI0S3FsbThNc1owclU0dlRyMkZydXJlM3FXa3JzYWNGdU5kQzdHVHJRVk9kSVpVZ293RG94SmpEXy1jbUxzRE1hM3gtcng4VTZ1WERaWEpfZTl6SGExRExOLVdLWVEwc2hBTXZEM0tFei0wdTd6RVBKMHdNS1VoX1h1a1pLV01HNmxJMWRkOWd3RmgyYkVF?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 05:22:02 GMT",
+        "source": "The Hindu"
+      },
+      {
+        "title": "\"Lost Faith In Safdarjung\": Sonam Wangchuk's Wife Goes To Delhi High Court",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUR5RzhLci1SMUNlYzZqb29GUmpTbUdESFZBRXpINGtfQndJVGxSQ1ppY1BpdTZyeU84R2xoQXJzTmRhcDZ5QVJmN2tqQ3c5MkxRVmNMNjlwdHo3TTBtLWVlMFNWelNnR3d3cXVlVVRwNURQNlZDN3dIVU82Y0gwZ1kxQkIwb2d4SFE2Q0NsMEZrTzY2NXlNZjhGeWMtWU52c2lqci1rX21mUDJFY1JkeFRRaUwyalg5Q1BKT0drdUZxNGx4dWg5RnRLMnBrWjhERTB2UNIB3AFBVV95cUxNdlVCdVFleTRTQmt3ajRXTmRKZm9lR3FqbEJTdC1DZFNQVWJxMzM5ZmYtUFVpNEJmNk52eDNYZk9aU29KTGlMMFJpZ2p5dnloUnZETEZQZnJQLUtWWUc5MU8zcVlod3d4VVRNNlJCN1JCUzRRLVpzbzZqRXZTOGRrX2lYMDRXZlEydkR6UWFYekM0NFlaU3FWX1luQ3dtOGNRSXJIelFXNk51WmpBcVlPTEhUb25YM0JQRFhIUW5zdDB0Q2RzZHpDNGlRYXlHTkVWbjZyanJnZ0QwZTF0?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 07:35:00 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "India news: CJP to call for Modi's resignation, says Dipke",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjVHT2x0VFdNN3ZqZnNuUlNQSFlrTWRmczRxWE1RVUVPNDlBY25GRmVwbmcwamJkdjB4YUxFdTVISFZzZmpFMVhLSDlTeHY5STAzbHJWTG1IMmVlTTdmaWowWngtZDRjY3hQWlc0Tm1TMUVhZEM0SHVaYTJaUElubld3Y2ZKaWw1ZDlvVzl5ZzYwTmVrbXpfNVB3UnVJWm43X0FNeHpNZFYyV0w2MkR5N28tVklmUGtXYmcxMzZuOVdjV0hUaGtJS1VyOFM?oc=5",
+        "pubDate": "Sat, 18 Jul 2026 10:23:04 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "Maharashtra: India's Ganesh idol makers count cost of devastating floods",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 00:37:33 GMT",
+        "source": "BBC"
+      },
+      {
+        "title": "India win five gold, three silver medals at the International Chemistry and Biology Olympiads",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1RhQUstZUNNWGZQcXV4OWFCVENVZ2VPc2toZkkxd2lDS0k0d2Y0UlFKVExreVNRdHdnc1pGNVY4aHI4RnhJSXEtRDdiUHZPQkp1WkNhV1o0el9JbGpwNEpqaWJVbTlFbFpOak5rbHFIc19PSm9TQnFiaHdXcFQ4MnJPcm0yYjhoWTJYS1JnUVZfeGFvVFhMSFU1VVBMdVdxVWpVckRuMXRGQVFNbHpZZWJFMDNVM0XSAb4BQVVfeXFMTllHVm1hNmZqUGpWNl9QMVRaRVB6TUl4UUtxUmRkREI5NnExcTBrbThtc2pxNVBJS25KakZjZEZyNUtVOTJhN2FVaUE0ek5zWG8zZmFfY2JZN0NqUlQyencxV2Q0QVpPRE5wWEN1YkxTRi02NG5CMWJMVUVCSzZCbVBNVFJ6MFJIMEkzRG5VVDRKZ3ZMWmNGNDRSaTAtMU9oTks2b29aR2VXejYyQjh6a2dBNF9lZHhobHBtSkp1dw?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 04:04:01 GMT",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "India achieves milestone with launch of first private-sector orbital rocket",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5",
+        "pubDate": "Sat, 18 Jul 2026 12:06:52 GMT",
         "source": "Al Jazeera"
       }
     ],
@@ -58,12 +58,6 @@
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYYmo2VG56aFZWUUk4MHNaMlVzMjZXb0VPN285SEh2ak5yX09Ca21EWTZnaDlEVUpkdUI3aXNPb0lub1J1ZDJmOFNXeTJNRXJJ?oc=5",
         "pubDate": "Sat, 18 Jul 2026 14:06:06 GMT",
         "source": "Desde Linux"
-      },
-      {
-        "title": "China's Moonshot AI Model Challenges US Dominance",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcW5Eb2dmWmFmR3BKSlpobEFDS1U3Qm85YkZrT1ZEakdTWW1kSnEzQktBTFcwMUxUbUNDSzFHUThxWmJIQ2lOS2VVWjh5cXVQbkdUa0VWTVllRGJNUWlGakpOQW0xby1IR3NDOXdhN3JJUWVRVXB3eXJ1T3RyUFFpNTEzZnlFeXhnclE1LWxUdjRBWUg0cjlacnIweE9mak0wUkJHUjUxdU00UlFYTWlxYnVn?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 13:02:31 GMT",
-        "source": "StartupHub.ai"
       },
       {
         "title": "Best AI Translation Tools in 2026: Ranked by Use Case and Accuracy",
@@ -84,22 +78,28 @@
         "source": "BBC Science Focus Magazine"
       },
       {
+        "title": "China's Moonshot AI Model Challenges US Dominance",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcW5Eb2dmWmFmR3BKSlpobEFDS1U3Qm85YkZrT1ZEakdTWW1kSnEzQktBTFcwMUxUbUNDSzFHUThxWmJIQ2lOS2VVWjh5cXVQbkdUa0VWTVllRGJNUWlGakpOQW0xby1IR3NDOXdhN3JJUWVRVXB3eXJ1T3RyUFFpNTEzZnlFeXhnclE1LWxUdjRBWUg0cjlacnIweE9mak0wUkJHUjUxdU00UlFYTWlxYnVn?oc=5",
+        "pubDate": "Sat, 18 Jul 2026 13:02:31 GMT",
+        "source": "StartupHub.ai"
+      },
+      {
         "title": "OpenAI vs Anthropic in Enterprise AI",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekRFNFNUczY2RlpnZU9KekFLVURPb19ka19wcDRGOEZYOEZCZnZLY1dYU3hUN0NZVHBnX2FSU3VpV0FrcjRrTlpjS2lWRlBxTTZDRGRSVkxsV1lpWnRzQ3czZzd0X1VXQ2Eyd3FMVnZ0TEFaTFM3WGRRRWZQd1B0WmF1TGt2aE5PNVY0a0FPUGlLVVNiRkdfbVk0M2ROVzhS?oc=5",
         "pubDate": "Sat, 18 Jul 2026 08:49:12 GMT",
         "source": "Blockchain Council"
       },
       {
+        "title": "Agentic AI Examples and Use Cases in 2026 (By Industry)",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91UG1yTzU4dmpvV1pKdjF6dXFJems3b25iVlQyUVlKaDE3aW5CX2ZvaXZRc3JIb1g2UWo0TjFzcy1HZW9QM1FkS3lBQm5CTXpIdHB6VDAwaVJSdFE1MHdBdzZFY1lTMVh2bmp2VjhXblgyczBfZUxj?oc=5",
+        "pubDate": "Sat, 18 Jul 2026 09:53:14 GMT",
+        "source": "Jaro Education"
+      },
+      {
         "title": "Should AI be in K-12? Both sides of the debate weigh in.",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvYVBWbzlfNVYtUExhdV9HRGdpekJ5VWw2RVJtUkF0MC1pS29JamxfcTZEd0RFLVhjbTRnNVVITEhNaE9vaFFmcVA3REFDMEc0akVWRWJoWEVYYS15V1F1TThoSmRmRlh1MVE?oc=5",
         "pubDate": "Sat, 18 Jul 2026 09:00:00 GMT",
         "source": "Mashable"
-      },
-      {
-        "title": "Kimi K3 Shock Triggers AI Semiconductor Plunge",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnJCNUc4c3o3Ym00QXNMdVJ5U2VFeU56ajNPdVVvcmRNQXJxaDV1bmtweS0ySW85ZkNkRUxDUFlJSEVsOTlzLVlVRk9OV3dVbUlmclhDa1lZaHlBeTVfbWhySXptdjdtSTFwLXpFbm0zVktvSWx0eDdWUG5vTEFTY0F4d3FMNFotdGExbWJR?oc=5",
-        "pubDate": "Sun, 19 Jul 2026 02:47:28 GMT",
-        "source": "조선일보"
       }
     ],
     "markets": [
@@ -114,6 +114,24 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEljTGd2TGJLbi1oa1FKMmxHUDRJbmNMd3FfeVozQTZlbGxKRWg5bVQzLW9zR01XeVpkbU1vc2dCcXdkaDJtSnBIX3ZxQmw2M29LckpSMHQ2RjJZcTdycXBPS3ZvWGZjQm83LVpYdzRROVpDRUJwZEs0dEZEYU0zYy1FdVU0T3RzejZaa3JwUzlOV1U?oc=5",
         "pubDate": "Sat, 18 Jul 2026 18:07:29 GMT",
         "source": "DD India"
+      },
+      {
+        "title": "Mcap of 5 of top-10 most valued firms jumps ₹1.54 trn; TCS biggest winner",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlRVSklzOHVBa19QX3BsSkRjMlFjRUVIZy1MZFJtY1lUOUJvZVEtaWlReFVIaFZMZHoyUVo4V0JRVE42Z05IVm5xX3kyTGsxZzVackpiZ0p5Ulg3cm1TR1VUSlFVaW0teFgtM3FWZ1dMTE85SnA2QXg4UDluYnU0WlVSODdieG1OZ2lFbnlsTE5oQ3ZRUWhvSThzTjh4SXFqYnBmR2JfNUx1SnQ2SnJUcEl3bWtBcGE5Wm5PRXBxeUVXZjE2NHhSU0IyZVktWjZsS3lVZjRjQVpjZ9IB2gFBVV95cUxOdlRVSklzOHVBa19QX3BsSkRjMlFjRUVIZy1MZFJtY1lUOUJvZVEtaWlReFVIaFZMZHoyUVo4V0JRVE42Z05IVm5xX3kyTGsxZzVackpiZ0p5Ulg3cm1TR1VUSlFVaW0teFgtM3FWZ1dMTE85SnA2QXg4UDluYnU0WlVSODdieG1OZ2lFbnlsTE5oQ3ZRUWhvSThzTjh4SXFqYnBmR2JfNUx1SnQ2SnJUcEl3bWtBcGE5Wm5PRXBxeUVXZjE2NHhSU0IyZVktWjZsS3lVZjRjQVpjZw?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 05:37:34 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "TCS Leads Rs 1.54 Lakh Cr Mcap Jump for Top Indian Firms",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNZelBuck5oNjVrYnJ4aGJmUUhrWVRNV213d3JsTUZLc0JFaXNNYUVzR2IzYmh2aElJdWVYcnEzV3VfUXNtT2lxcUxuS3FpQU9Ud0NoOG0wQWNiUzd6bkZlWDlXSXM1a2NTTFRZSDNwbTN1YzFLMlh1c1FqaS1uSmdJUUEtRzFxTVJSQXYxV1VFbWVuQ3B5WXU1Q3Y0VV9Db2lqQ1JEU2ZwTTBKODhXeUV30gGyAUFVX3lxTE1UY1l6UG5yTmg2NWticnhoYmZRSGtZVE1XbXd3cmxNRktzQkVpc01hRXNHYjNiaHZoSUl1ZVhycTNXdV9Rc21PaXFxTG5LcWlBT1R3Q2g4bTBBY2JTN3puRmVYOVdJczVrY1NMVFlIM3BtM3VjMUsyWHVzUWppLW5KZ0lRQS1HMXFNUlJBdjFXVUVtZW5DcHlZdTVDdjRVX0NvaWpDUkRTZnBNMEo4OFd5RXc?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 05:35:27 GMT",
+        "source": "Rediff MoneyWiz"
+      },
+      {
+        "title": "Heavy rains in parts of Himachal, IMD issues five-day orange alert; Drone visuals from Mandi town",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQlRteEtLRUE1dGZnc2tjVDlHYnFZTExDRjVRMlZwMm1jZENXY1JaMk5mUy05YnlTWDVlWkZyai1pRkc4NTVySTlyUkJyN1p0LVlzR1N5bXQ2bC1xNDJVRmp4T2gxRFNHQTRiMmRxdEt2NW1ac1lKNkI5Rk53a3VBbF9XelM3RDE4WWZ2UUV5Um41V0dsS01vZkpIdDY0dDJJZGdKV2xZaUlVWlBEUEhXTV9JWjdJTE13Ni1hQ21sRjJqdmRzM3hlZUdDSUpqbW42LXJ2NWNzQktybmVjdG14anZHbmx3Yk5sa2c4X3lLUdIB9AFBVV95cUxPeVFJZHRGZEhRMkRQNnlLY09XZGsyTHpwci1pUVA2QWRqckRjNG1seGRsckRaMFZVdzcwUmRCcVJmVEdpVlZ1SGtsREpqSUV3ZGxhT0NLRDBKS0NKUmFNb1cwMTVkV2lnWFB1cm9HU29VTnh6Y3h1d2hoeEpoMHFjeHF5YS1CUkdYeldKcjUzMlVkXzNjTk1qY0NMSUJxZXhySzBLR3JsQk1xTGFvMm9wRHBQaFZaMlo1V0FWQWY0VllMd1lLZmRsMHlwWmJBZzlKV19xVFRqQ0IxaTItOF9OaDczeUVsc19tel91Ums2QS1lWXd3?oc=5",
+        "pubDate": "Sun, 19 Jul 2026 06:34:42 GMT",
+        "source": "The Economic Times"
       },
       {
         "title": "Stock Market Opens Strong: Nifty Up 1.5%, Sensex Rallies 1,516 Pts; Rupee Recovers as Trump Delays Iran Strike",
@@ -131,24 +149,6 @@
         "title": "Rajnath Singh pitches India as global healing and wellness capital",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck13STBqaTNiNHRyemFFSFYyQkMxX0RRUVBfRFBKNnQ2d1I1cTJQVHAtNFp5NU42U0JrbEpheFlHclZaeW5UdGIzUDZ0VVlFWko3TE90NW4tUDJMa2xwVU1nNUFmaGkyRWJKQzhSR0ZwN2FqTC0xeS1Ib3A2dTNzaHJKTWtaU2piQml5YkVTd0JJQmI1MVk0UFFOa0hVcHpScHVkeFdzWWEteWdsc3NTS3VhMVZseHR3eVlMRkszSmc2MGZsQ1hna0FxY2xZWExoQ0QwYXdQQVZjOXMxM1Zz0gHkAUFVX3lxTE52cXpkemp0eDQ2TWVWeDA1UUJHdDZ2YVZPaElJcXNVVmpPdExpaFZJTFlDSzJGOXhiVFVXMkM4bTRjRUdna20yVmJGODZ5cXVHYVZTT2tiQjQxZWVxdWRCSlJnQ2l3ZlBoZTQ2anJQMnlCLWtxSWxCUUUzeXJLbTRXVXF6V0VjVHY1dXNjdUZvTlZJUmRSaDAtQThxRUFzeGNGb0hxSkRIQmJRVVJaWFpoU1EwVlktRU5VY05reEluSWRfV3AxZXprNTdUZU1GanduZFhXeC1MR016M3o0bG5YSXBDcg?oc=5",
         "pubDate": "Sun, 19 Jul 2026 02:28:22 GMT",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "POWERGRID Share Price Today - Power Grid Corporation of India on NSE/BSE",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcWp0UEdxVlVkMkpDakR0THkzUnR1TWpleEF0cGZRQ3N6bVo5cFl1VWllQ2RtbXFWM25pZF95S1o5Tlg5U3RUaW85cjNteWlOajZ2TmpkcG9UYnNOUUktbS1sZlVYcE80R19xYnpIa2I?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 07:34:03 GMT",
-        "source": "scanx.trade"
-      },
-      {
-        "title": "From Daman’s first flight to ₹28,840-cr UDAN push: India’s regional air connectivity takes off",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVk5FOXF4S1JzZERLT1hBdnZBQkFHWGxLWi14ZGdqdWJucHpGbjNvXzVVSENNUkFMVjFwZ3k5alVRQ0NMT2pXX0lYV1BURWJ6TU8ya1hnN0EtdVR4cDNaSmtDamgwZ3ZGY0pwaXdiZ3RySHBpYzFFcUdGSkgwejNHTWozb3JWSWtZVzkzOTFINGJzelgzeDB0TURRSEotcTdTSU5aZDV0T095YTBtaThSOHFONGptNXVaYUFVQ1NiNWJHUXctb1hnbWMwM3hKOG9qTlVibTE3NFNvSnp1UmM0ZTFEbkR5ajBDOE01WmNlWXF2MHZ3QWRVRHRLYnBlZ9IBgwJBVV95cUxPQVFmRW13OXpDQm0yOEVPMUhVa0gzQkxEVGE1dHFQM2xCa0ZOSmktVUE5VktyanhQeVFBV0t2MkZJdWRwUTVUMHRrdzZuQXE4TWV6NTVMY0YwR2l5Y0dSUmtHNC1WdXh1aWhTVnl3eWdNTEdsdUpXM09hMlptNE51XzhOS2FHVUNsZ040ZGd5cnpZQkZSRGxmOGphUHhIRENvYmxrbFczMjIyZGc3X3p6Vzc5bjVicHQ0SUdLSFA4WnRYMkJVNjREc1l1cjF1SzN1RThkNVRTVld5UXpubU9iblhvRmxZVFVoSXpwVWNZc1M5R1dISG9TdzZIVVhJd0VxSnFj?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 16:41:04 GMT",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Kumaon-Garhwal rail link strengthened as Ramnagar-Dehradun Express begins bi-weekly service",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM2lrNEFRcklhbGQycFZfLXVXWGpRNjhySmplNmVJbUZaRHVZRFc4d09FTUVqMUtIWXlzWEgtdWF5QkE2c1pJNm03TlI2TE9qUnVVV2VNbkg4NVNQOGxZWDRWQVJFM1VJcUQzbXJLWE5iUWNlZXBUVFltMDVpUDBxM2dlNVZOajJ6ZzJBY2FCMXhseTF5cDVXekc2QzlUY2ZpTUcya3JXQUtocV9vOFJSaENDa3ZjanJPVmVQT2poczFyTHdjYkxERnFOTnc3QWRVeE1Rd0paTkcwNnhpMTltRmZIN3VXanR3cjdkM3lKU1NQbUxQSHgzV1BlT2lWMjhJ0gGGAkFVX3lxTFBaNWZhbVF2ZHU5V1lkSHFuRHVRQWhZRmNKRDdoZm9NblRSN3RqUEhPZEdOclBpdEU2UzFUNzFaaXpnVWt5SEVxY0c1dzhnTjVxSlB5UmNGVXhvbDZPZ0hNcWMzV2dPSmh0ZTdDY2NBRlY5Q3hYX00tNEdPa1ZQRkhCWXFkYXRYbHh5R1FrMGJFc0NWVW9nZ1czTXAzNGJpdGpJdlV3cVdpc3R3c0JuZy1CZ21oTlhKSTAtNk9HYWtSRGRfV3h6TUY0T2h5dmFIalNxazY0ekJDY3BJdjBEQlpsV19YUExxWlh6QzZOajNBSlFDaWNKbGNFY2I3aVNSdUFuZ1QzeXc?oc=5",
-        "pubDate": "Sat, 18 Jul 2026 13:29:11 GMT",
         "source": "The Economic Times"
       }
     ]
