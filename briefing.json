@@ -1,14 +1,8 @@
 {
   "date": "July 21, 2026",
-  "timestamp": "07:35 AM IST",
+  "timestamp": "11:14 AM IST",
   "sections": {
     "world": [
-      {
-        "title": "India news: Police fire tear gas at 'Cockroaches' protest",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUtDY25RNWMxeVBVdnBwX25MMUhzUnNIUWFLLW5Zd0lMT1ZNVS1ucloyOXpPdG5jckRQem5WXzRJLVBTcWdaOEg5UHNqTkxGbXFUSWVlSFlERWtqbTZ3TkdqQUVSdjl6X0RBNWs2X3dvN3VtOV90bUZPLWhvREZlVVdxSVk0bWRyTW1GMUZzMnhnZFdMTjYtQzdjZ21SZ05v?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 20:10:32 GMT",
-        "source": "DW.com"
-      },
       {
         "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1dyMDgyRWU0ZzBpQmEyTGg1dkxTN1VEcWJodk5DQXAxaVRKb2VaQVdrT1EtNi1KWTRDQnliYVpTa0VUbkxtREdodWYxNEJfQUpxa3h4aWszRW1PNllnaEFnT05MSU9MRGJ3VW9tOHFqaXFOcV84QmsyYWRTeEhFZmJZdFBjZlZNOElIUTNTNU5uZEtmQldaUDNmUzZTbW13TUVBekZmQUg0ei1Ea1VZUjRn0gG3AUFVX3lxTE16bXVDNDVmOHR5SmdkZGZSQlZRRzJULWNhRndNRXBVVkRzajJxTTk2SVlka001UFIzZEFjWGRRRVlXOUw4eGY1X1VLZzdaVDUtMmtIcjVCOGppRnZxWnN4QjJrYjdHb0hUTlMzYjJTWGxMNkdDRlVSNWVzRjJ3ZE1xYks1dnc4M09iWVVzRm50Q25vUHlNV1l2SUFGeWVJYlNScUZqSDlvMTNCdko3WmRXMWk2UlVEQQ?oc=5",
@@ -16,10 +10,28 @@
         "source": "Al Jazeera"
       },
       {
+        "title": "India news: Police fire tear gas at 'Cockroaches' protest",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUtDY25RNWMxeVBVdnBwX25MMUhzUnNIUWFLLW5Zd0lMT1ZNVS1ucloyOXpPdG5jckRQem5WXzRJLVBTcWdaOEg5UHNqTkxGbXFUSWVlSFlERWtqbTZ3TkdqQUVSdjl6X0RBNWs2X3dvN3VtOV90bUZPLWhvREZlVVdxSVk0bWRyTW1GMUZzMnhnZFdMTjYtQzdjZ21SZ05v?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 20:10:32 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "India youth group says will not march again because police will 'hurt youth'",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFp4WTA4Y1dOQ1dpekQyNmtWaEZhLXh0RTA0OGxnbUdtbm1UcEdKOWJJU0h3UmdQekMtU0FhcWRjUkV1YlpkNzFLWVF3ZE4yeG5uWUxBTjlJSW11WFpPMzVkd3dSY3h6TUZVWXozXzJyTEtzX0pxVncwbTdTQzRLWkQ0bUdGWURjV1AyU2JfM0poT3U3WlFCQVU4MHVXR1VPZk44MWlJaFQxUkxYSDNBcGxvZ3d6WDZzdHc?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 04:30:00 GMT",
+        "source": "Reuters"
+      },
+      {
         "title": "The Hindu Morning Digest: July 21, 2026",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUIzdk52RlAwQzJRWWZOY0dQbExlR0kwUVQyckQzTGVXOFFjNWhIaERaQVFpRTl3dGYyVTZreDRfaXlqUHpkekdKcDR1eE05YXFOb1FJNDhNc0Y1SUhNSGJoWUlLRTJoc1d2SXlPX2pZcDlfanhweXJZUHcyWFd3bHNMVdIBigFBVV95cUxPN09zZkwxUGtPN3RMRlVDQWpEZW1oRG9QaGkxTHVYY2o5b1l4UElNMEVfdGJHaktvRVdZa0QwaEJxMTZhX0l1Zk1QcHpPUzh3S0cxZWRWNWxWbXRmNHNSbVRWNHlQNFRBdVRabXZqUEtrS3pUWU5NR2pKb2tub2MyVzU1RzV3X0ZjNlE?oc=5",
         "pubDate": "Tue, 21 Jul 2026 00:52:47 GMT",
         "source": "The Hindu"
+      },
+      {
+        "title": "Punjab Farmers To Take Part In Rally Against India-US Trade Deal Today",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWlBU1RmNEh5MGFfVmo1aEU3THlMby00VGxuQkNHdWF2NllXM094QzQ5ajVhM0U5VDRLbFNuSnJMS19MaGhRWG9zNkt1NkItVlRmVFpSQXZPdFlLbW0wb1Q1MlJid0cxdUVnN3BYS0JqWlp5bFdwTTVMa21Icnl3RmRnalBlS3h1QXZVVzgxQUxhNXJHRFhnME9OXzZMTHRWSTloQ2JxZFMteTY0emNaRC01RUhHd2PSAb8BQVVfeXFMTXRNYmxObzVMMHBWSW5uaHlPVlYtTV9TR04xc2licXNhQlROUzByUEVjeFpldkZnZ05IYmMya1V4ajBKYk5JNUZ1MFUweDQ4Y096bHFqMGRiTkVVZG5DRHR5X3dkNHh0VTlfc3QwaHNvSUZaR0t3QnJ5SHlaZkV4LThXR3N3U1Bwc3NmTTFzTFlEWmV3NXV4UTlRQ2ZOelZZTWZ5aDhtNDcwZldDQU16MXpWbnhveGYtdUtyYWRIMUE?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 02:01:35 GMT",
+        "source": "NDTV"
       },
       {
         "title": "India: Crackdown on peaceful protesters in New Delhi raises serious human rights concerns",
@@ -34,36 +46,24 @@
         "source": "BBC"
       },
       {
-        "title": "Who are India’s Cockroach Janta party and why are they staging protests?",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbF80RzJDRktjWDlzdF9PQU9QYzcyV3h3WjM2Y01FUXcyS1NYaVZrM2pXRng2dTRMVTNScHZ6LW5xempYbkJPa0o0TEoxYjdMc1lVaVRHYnlDVDh2Q0VMRm5tcHRhSmZIdU9VazhqZk5GQ0dWdDE2R3RXN3Q1SF9ZRENkRHF2aVlOZTE2TkdKMDlMSVluR1ZPbU16S0hvV2NyUVFOR0MtTW5rdXZKZEplMmdQWXY3aS1m?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 15:00:00 GMT",
-        "source": "The Guardian"
-      },
-      {
-        "title": "India reportedly holding back on trade deal with US",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0hIOGpmazhWRHBQOXhqZTZrRmNHMEhjZU1ZRzg1bnhFeGJRczdNclBhVXlyMENfbnh1QVhnVHVVN0pGdG51Rk5IYkp4aXo2dTIwUzRtaGtmVE1qbExZaWxqWjl6Vzg2Y3VYYkoxOGF5dmI2dXNkbUZlQUFBNHh5TUdQTFBOMWxqdUdfNnVDdw?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 18:43:54 GMT",
-        "source": "SeafoodSource"
-      },
-      {
-        "title": "India's Test captaincy dilemma",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFFM1NXZ2JkelM3Y2JMZmpkWkVFeHdMMzZycGh4NnZvUExRSnktbVBqaW1MMk5jejBFYmRmU3ZYd3RTcG9PWHNlN2tPM1IxenZDU0JrWDIxTUNJOTdBZXBlZVFyWGdvbi1sUEUzd3JXcGdWSXlFQk9KUXZxYnNFcTNrdHNFanhB0gGIAUFVX3lxTE54cUUzU1dnYmR6UzdjYkxmamRaRUV4d0wzNnJwaHg2dm9QTFFKeS1tUGppbUwyTmN6MEViZGZTdlh3dFNwb09Yc2U3a08zUjF6dkNTQmtYMjFNQ0k5N0FlcGVlUXJYZ29uLWxQRTN3cldwZ1ZJeUVCT0pRdnFic0VxM2t0c0VqeEE?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 20:58:52 GMT",
-        "source": "Cricinfo"
+        "title": "India condemns attack on vessel MV GOLDEN LEO",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zMkFXQk4yQXp0N1BqN2dNY2FJWm96MklTeTdEekc2cmU5cVNYUXotTWVfX3h2SmVPN2pFcS1UY0RBNWl0VGlPUnBBOTNpcnR5STd6eVVZNkpYMnVUSUN3QnUxeTBuSU1GcWU0Y25MeXlsMS1iQXhuaU9Gaw?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 01:39:17 GMT",
+        "source": "News On AIR"
       }
     ],
     "ai": [
-      {
-        "title": "How much energy do data centers and artificial intelligence use?",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 07:16:14 GMT",
-        "source": "Our World in Data"
-      },
       {
         "title": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbi1hVkIxNzVJQWFxcHBMNlBLZTU3Q0kxUWVuMnpvLWtCUG1HUjBHOWJOYVBCdXVaZWNFRHNKdHF1VGFCVzNoLWUwNGNzblN6SWVWdmhfeXdRQ2JLaWhSR2x5M2RWX2FRYXFiNl9KMUl3aE1jT2hkdUNGNGotaEw0b2RfUEp6TU5tY2prNEJJOF9kckxMeGFJ?oc=5",
         "pubDate": "Mon, 20 Jul 2026 13:39:00 GMT",
         "source": "ZDNET"
+      },
+      {
+        "title": "How much energy do data centers and artificial intelligence use?",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 07:16:14 GMT",
+        "source": "Our World in Data"
       },
       {
         "title": "AI accountability reporting guide",
@@ -84,10 +84,10 @@
         "source": "IT Brew"
       },
       {
-        "title": "After Agentic AI: Is Physical AI the Next Groundbreaking Paradigm Shaping the Future of Intelligent Technology?",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aZE9PdTJFeHZuTmtJbEhzQUNOUjRrNDM5bVlOYlB0QnhicnRuQmZOSmpZbmxoYnQ2VzNsQXptdmtUZ3ZJUGNNSDd3Ukkybm0yZ2Vn?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 02:33:07 GMT",
-        "source": "36 Kr"
+        "title": "Tokens, vectors, contexts and costs",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFp5dzhUOFg3bC1NcXBUd0hMemFKTXllOENWSjRFZmVFSmNTR1ItZHRVc0xrTHMySFVaOTRTTmp3TkpSejRodlRuemJxZkFTTGh3cXNZWmV0SS1rU3dKRm16SlRZMUIwM01OUUlEZzZqb24xU2EzT3VNY1pBZVZ4VWdmeGRrRUZWNzVzN0Rld2g5cGM?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 16:40:27 GMT",
+        "source": "Blocks & Files"
       },
       {
         "title": "It's true that it's too hard to keep up with the best-performing U.S. frontier artificial intellige..",
@@ -110,22 +110,22 @@
         "source": "Liquide Blog"
       },
       {
+        "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 21 July 2026",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY0FoVWZjSnFld2ZUbWl2U09IaDJpSGtFUFlMQ0NwRi1uZTZhSmtmemZ4V2FJRFJFQnMtcTFvQU5JZXIwSzNNX2VXSG5fTW94RUlZOHpEUmcteWcyWmRHY2FSdDZlS0pLRkxzZ3lzcWlVTFBSVU9qMUtidm0tOFpoU1hza040Qk51TldfbE4zdXg3QWtZbkhQTFNfWF9JdjEyNFd2ZURNLUZQUnFIR0g1ZGVleThVY3FqcUtpU2pPakNnZWRJMkxCelBrUm9ldk1rcEEzaEZyU1hzSUlMNjFBLVEwaTJvZ3NzT0tHNHlNWjNralRqUWdXTDhENGJ6SnJfS0NoVdIBigJBVV95cUxQNG1aY0Nxa3RkQjVneEVfekQ3TktDLXlmR3N3MHRRNlBJYjZ3QXdHUk9JdFA4RE5mTkNsNTVhekpyV09MWHJsTmgyaVlyR1B0V3VQT1VjUjlydF8wbExSWnpvRmpxNlc4MVlDU2lRaUNXNG0yRVJIQUs1TC1FT2sxRHpBc0ZCeDliR21qSXhwc09CbmFhUTgxZzJrTlFnSDFxWGZXVUVsWDFUVTExZmhyazEwTVF6QW9BMVNYV0Y1REZFbXNGMGh3YTYzc0RZOC00azNHaXpybWppVzJXTTctTlI5NTNFVUcycnl1NFNGZlc2cEZFaURkeVIyazRKR0VQM2tJYmNZQVA5dw?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 02:43:51 GMT",
+        "source": "livemint.com"
+      },
+      {
         "title": "Sensex, Nifty Close Lower as Financial Stocks Weigh",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2E4TEs1aV9qZHpvQkRnN2FockNSQ3RZNU9mekxCU1MtcWowbGxJakM2MUxIOEtvaGZ4TlVXaFoxT2NDNHJrU2dMbmFiZ083SUp4Rk01TTFXMVdFSlZacHBINkMzZFpnRFBGc0VyLWQzZGl5WG0yV2xfWFhlejFSTG02Y3hnQQ?oc=5",
         "pubDate": "Mon, 20 Jul 2026 15:52:13 GMT",
         "source": "INDIA New England News"
       },
       {
-        "title": "Taking Stock: Sensex down 443 pts, Nifty below 24,250 on private bank sell-off; broader markets outperform",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbmd3WlJaNUt2Y3JmSDRpOFBybXdZT0NwamlEajVGRW1oX2VxbVJOS1lBbEtNdk1mRWVnSXJMVlBQb1NmNF9jclNLcUF5WWxzSDk5R2dWWWFiYUZyYUxqUFc3cDFkVkhadHZsVXJnTlFnZFZLTnNvUkpjNFphZzU4aC1wM256YmhwaFJJLUpoRVlCREVaMDJMbGVQeldoa1JPUVN5N3ZpdTJPLXFkeHRhVmNjYXhOWUhOSzUyZllEdW1hODBnam0tRFYwRHhuTkZ3MDFoRWFUU2pmZ2FWRGJJdV9XQlhUamx5cTJvc1RMUUdGLUx3OVlkd1hFQUEwREtnTmfSAYICQVVfeXFMTW5nd1pSWjVLdmNyZkg0aThQcm13WU9DcGppRGo1RkVtaF9lcW1STktZQWxLTXZNZkVlZ0lyTFZQUG9TZjRfY3JTS3FBeVlsc0g5OUdnVllhYmFGcmFMalBXN3AxZFZIWnR2bFVyZ05RZ2RWS05zb1JKYzRaYWc1OGgtcDNuemJocGhSSS1KaEVZQkRFWjAyTGxlUHpXaGtST1FTeTd2aXUyTy1xZHh0YVZjY2F4TllITks1MmZZRHVtYTgwZ2ptLURWMER4bk5GdzAxaEVhVFNqZmdhVkRiSXVfV0JYVGpseXEyb3NUTFFHRi1MdzlZZHdYRUFBMERLZ05n?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 10:13:34 GMT",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Sensex drops 443 points, Nifty 50 ends at 24,238. What drove the stock market down? Explained",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNUlEV2V6dFRZR05hVEMwZXpkSkhtekxVOERxVG9ZbDJjT2JoMHZkWUY3NHpkUUZzcnNNTTB5ZmJVeldFOXZXbm9lM3ROMF94R0ZjbTZnZE05elY1cUJGUkZ5MGlmM0pCbTdlcW5jZWFTWm1QaGlUS2JWRnduSndrTEllR0dISFA4a3d2UmpMYjU5dkNjdnN0c19fdk1ISVFOdUVJSElIMVJFYWVkWFhZNnF3eUdrWENQbVp6TVlxU0JHdmNSaV9JTzFud3NZa0JmaEI3YXlxNWNWQXNVblQ2clpRaTlrYXZQT2puQ2ZrQmtmenlUWEFRRDN1YUlfaVJLZ2UxdNIBigJBVV95cUxOd1FLVVJzdDZPOERlSUdqQjh6OHNzdDZ2aGNLZXlaQTdxemdJLXZiZzctWGVEaFJIbnZadVV1Y1FzMjhzVnhpTlVxejRiRlVERHJCMFI3bDF0Nk91b2lOMVFlaE1kRi1aeF9qWThSLVd4bEl5bXNtYjJOTzFPUFVxb3NDckRiZDVqZWw0Q2pkMmduZk5sNTM1NURjc2V6WVpJdTdOeXRTRmFQREF6MTFtd2pkM3k5dl9OZmVWU1dVX25XQmJuQVY4ZzhTS2FBVFpIdFExRHE1dVhqQTBVM1BES1d1RldORmdxeW1oZzRMbENhRWtFT3A1aG9ISjdzNlpqc1RFdnhCczRYdw?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 04:29:30 GMT",
-        "source": "livemint.com"
+        "title": "Stock Market Today: Nifty Closes Near 23,000, Sensex Up 1.8%: IndiGo, L&T, Eternal, Asian Paints Top Gainers",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVNuZk95U3dsWEJfcEZxeDBLZXhGMzBFSmFDekdIX0pwQ19pWnhMS0RpTXZGYi1LYlJPSU1BY0JySmF4YlBYQ3Zib3RKWjdsalhEb3RlVkdja3hYVXpEeGNyYWp3UHAzYXY4enhQOHJDMENBTmlXQnc2clFSSW9xY2hDa0pHaUF0MXV3angzLVc3dEpHLWY0ei1ObDJwTXdzbzIydkFZNFgzZ3l0cGd0UDhYaDV0MEJ1d2w4aXZuWGtkOEJ3TlB2ZEFJZThQUG9Ha0V0U2R1bUg?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 16:55:53 GMT",
+        "source": "Goodreturns"
       },
       {
         "title": "Sensex, Nifty end lower amid selling in financial stocks",
@@ -134,10 +134,10 @@
         "source": "thehawk.in"
       },
       {
-        "title": "Sensex cracks 700 pts intraday, Nifty at 24,150: What's dragging markets?",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUpaemtZaDJfWC0tdTljdk9UX1Z4cElPYjdzX2thVXQ1aHlUT0k4bE43a3dRM1paMl9ZLXdndkg0UlJOa285YWUzZnpvWklWNWxyTm1mZTN4cUllMXpWWmZfdnZZUXZxbXhyV3JkdHFWTG5TdC1ZM2VOUGNDeXVSaU1kQVVKaDFWSGhwUHd0X0hyVUdVZ3NuWWRSNmlnbmVXMUozdmYzNjg0dWlYOHVuMU01ZThEcmtiZmRmTFNmeE5WdlExcHUyTVRjbkhQbENQTTB6aGxTcnjSAdgBQVVfeXFMT1FKWnprWWgyX1gtLXU5Y3ZPVF9WeHBJT2I3c19rYVV0NWh5VE9JOGxON2t3UTNaWjJfWS13Z3ZINFJSTmtvOWFlM2Z6b1pJVjVsck5tZmUzeHFJZTF6VlpmX3Z2WVF2cW14cldyZHRxVkxuU3QtWTNlTlBjQ3l1UmlNZEFVSmgxVkhocFB3dF9IclVHVWdzbllkUjZpZ25lVzFKM3ZmMzY4NHVpWDh1bjFNNWU4RHJrYmZkZkxTZnhOVnZRMXB1Mk1UY25IUGxDUE0wemhsU3J4?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 05:04:46 GMT",
-        "source": "Business Standard"
+        "title": "Stock markets tumble in early trade dragged by HDFC Bank, spike in crude oil prices",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmU3VVRSYnZEUWpwdzBDU1I5V194STh2TmJ6SlBRNldvaDFmNWpLNjFZT1FsZFFlVWY0QjdwN2xDMWttRzEzQkFKRkdRRUQ2Rm9IekgwS0RMZHdNU0xjZ0ROZXdITXJUdXhIWXlkYlNMSE8zQkdfZ1RIMTk4enlFOWVsRV8wT0FUZ2g0QnhSenhZT0xCVThNaFZaa1lpQ1NJbGsyaVJvMUI1LUVVaFREXy1IWU1KZmJfMVRyRXBFTk10a2Jpa25lS2MzdUZsRWpiRjBVSUNUc0NzdC00U0xoWmRnUdIB4wFBVV95cUxPQmU3VVRSYnZEUWpwdzBDU1I5V194STh2TmJ6SlBRNldvaDFmNWpLNjFZT1FsZFFlVWY0QjdwN2xDMWttRzEzQkFKRkdRRUQ2Rm9IekgwS0RMZHdNU0xjZ0ROZXdITXJUdXhIWXlkYlNMSE8zQkdfZ1RIMTk4enlFOWVsRV8wT0FUZ2g0QnhSenhZT0xCVThNaFZaa1lpQ1NJbGsyaVJvMUI1LUVVaFREXy1IWU1KZmJfMVRyRXBFTk10a2Jpa25lS2MzdUZsRWpiRjBVSUNUc0NzdC00U0xoWmRnUQ?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 06:00:33 GMT",
+        "source": "The Hindu"
       },
       {
         "title": "Market Data",
@@ -146,10 +146,10 @@
         "source": "The Economic Times"
       },
       {
-        "title": "Sensex, Nifty hit by Iran missiles: 5 reasons why stock market is falling today",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV3V2OFJjOFdpYnBSckZXdGwzSHFGS2gyY1VlTmtTTEFVeWN2OUZUTUhPLWhhSVF6THRGdjNTelhReEJJazB6b3dwSm1lanRiT1pjbmU0SFRNeUlkQ0NSdE16OUZvZklUTkdkU0xWdVlMaUVVLXdIeTQ3T0EtVHh5VE5nTVpMalgxSC1Vb0hOaUg0Z01ESUZkdVBYbTVSalk0WjZtY2Jpc2Q2ejBQVzNhTUUzT25wamU5dmZJd0dSWjZpZ0hQWFNHQUUxVWVobGYyWndKdlJMbElWdktoR2JSX2hDUDBDeVJUYnlScUVzZw?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 04:11:30 GMT",
-        "source": "MSN"
+        "title": "Taking Stock: Sensex down 443 pts, Nifty below 24,250 on private bank sell-off; broader markets outperform",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbmd3WlJaNUt2Y3JmSDRpOFBybXdZT0NwamlEajVGRW1oX2VxbVJOS1lBbEtNdk1mRWVnSXJMVlBQb1NmNF9jclNLcUF5WWxzSDk5R2dWWWFiYUZyYUxqUFc3cDFkVkhadHZsVXJnTlFnZFZLTnNvUkpjNFphZzU4aC1wM256YmhwaFJJLUpoRVlCREVaMDJMbGVQeldoa1JPUVN5N3ZpdTJPLXFkeHRhVmNjYXhOWUhOSzUyZllEdW1hODBnam0tRFYwRHhuTkZ3MDFoRWFUU2pmZ2FWRGJJdV9XQlhUamx5cTJvc1RMUUdGLUx3OVlkd1hFQUEwREtnTmfSAYICQVVfeXFMTW5nd1pSWjVLdmNyZkg0aThQcm13WU9DcGppRGo1RkVtaF9lcW1STktZQWxLTXZNZkVlZ0lyTFZQUG9TZjRfY3JTS3FBeVlsc0g5OUdnVllhYmFGcmFMalBXN3AxZFZIWnR2bFVyZ05RZ2RWS05zb1JKYzRaYWc1OGgtcDNuemJocGhSSS1KaEVZQkRFWjAyTGxlUHpXaGtST1FTeTd2aXUyTy1xZHh0YVZjY2F4TllITks1MmZZRHVtYTgwZ2ptLURWMER4bk5GdzAxaEVhVFNqZmdhVkRiSXVfV0JYVGpseXEyb3NUTFFHRi1MdzlZZHdYRUFBMERLZ05n?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 10:13:34 GMT",
+        "source": "Moneycontrol.com"
       }
     ]
   }
