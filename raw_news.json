@@ -1,6 +1,6 @@
 {
   "date": "July 23, 2026",
-  "timestamp": "02:28 AM IST",
+  "timestamp": "03:37 AM IST",
   "sections": {
     "world": [
       {
@@ -28,6 +28,12 @@
         "source": "News On AIR"
       },
       {
+        "title": "'Will Return To India By Early Next Year': Lalit Modi After Tribunal Verdict",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFZ5SlkzNVBvbWFtRHJFcU4xa2JpQUxXWlpHOFEyNVh4V0l5aURvZ0loRzhydkY2dFItaWM5bGRPMURtYXVJVlhma3IwR0toRHFLdU11NGhnUTJMaFNrV3NKdGc1N09fZFU1T2hWQjZ6Zzh2OTNqVENCUlY2VExHYUZrOWEwTE10aU12WGpEZ1JDUTJUUGVYVWxKa2I5a3lXeWJGc21OU3ZCRUNWUmJDSWIwOFPSAbwBQVVfeXFMT1dvZzlzOVNPSUxkYUZULW02eWkwVE1nY0ZfckxIcnlQQ2J5RnRvVXg4aG51NzVrblB2SmVleTJKZ29OZ0QzTjQtVzhvdjZ5Z3pYcjhKd1dBT1FwYTFPaVlnTWU1a2tHb0FfNUhYekF2MlZvQ3FfVXNpY3hfc09HWnN5eUN5UlUtS05Qa3lPdVY0a3B1ZlJIQXlYV0QwYUhqRWZVZnZPSnJCWnA1d2hJMjdtNnpsUXNQTHNKc0o?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 11:53:48 GMT",
+        "source": "NDTV"
+      },
+      {
         "title": "Jantar Mantar: What is the Gen Z CJP protest in Delhi about?",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QzlFdTZJaVhkaHJMSXkwR3J5NjJENENQVzNSMnE3aV9Cb0ZfOVB6NXRXTkJvNzJGNjJmU0o2c2JtSWo2ZUZMZEFXNGFEUlUtVkNYcC0xR2dLZw?oc=5",
         "pubDate": "Wed, 22 Jul 2026 11:30:59 GMT",
@@ -44,12 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5",
         "pubDate": "Wed, 22 Jul 2026 01:06:00 GMT",
         "source": "The Guardian"
-      },
-      {
-        "title": "India opposition leader released after protest detention",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFc3UWV4NGRBUmM1UFF4dVNVbHVGRU5XWW1xZ3ZDMFNnOVF5SFZwRmxLWVRLdTJ2MTdVelJlM3lwUFo3Ykk4WWJpdEZsNjRBRE9uVjd1WGhBd1I0SFh6dmtWMGVQYWFTNkpQSURYcUItQnlvbkRJUWR5emtKaHA4ZURFTk1samtkeG9JNDZfSFVldFl6ZUNndmxMLW9DRTBDNTkybkF3X2ttQQ?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 04:56:10 GMT",
-        "source": "RFI"
       }
     ],
     "ai": [
@@ -84,31 +84,25 @@
         "source": "CyberScoop"
       },
       {
-        "title": "Adobe unveils AI search tool boosting brand visibility and revenue impact - CHOSUNBIZ",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9heThHclR3NW5ZVkFNdnM1M1ZvU2IwZHVfYWd3d0N2eFE5bG54czZMN0I3VEhydkhnN3Zfa1AzbzBiWm51eWxrbzNLc2x1WURWblJDLVMyTWZjV1c3cGJqZjZscjRmam1qZXZhdnNNU29iUXZXdEdKMFlR0gGOAUFVX3lxTE9aUWtYbWNvdHJ3WWgyeTZVVjV4LWx0ZTk2SVhNWjFmYU5pNjVyMTBYZm1MS19WVnpsX01OeGhvNXBDOXNhWHhhWmJvYmo2UTYtcjFJWjluZm1PRTMtb3IzU3FHRGlqazhUT2VKbnFHUEp4SGMwVEhKOXNvWDI2d1FHQjRWcVRBLUY1eVREMWc?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 01:40:00 GMT",
-        "source": "Chosunbiz"
-      },
-      {
-        "title": "How To Build Your Own LLM Runtime From Scratch",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXVMMktWYldrV2pRUG1FR3NhUzdsMUE1UXc2cGFOVEpFaTNZYWRLc2lrTkszU2VHR3E2SHI3enB5YkMyWHZnMDF0b3BLQ3lUQlVHVUVLZkJPUWhhSWFpVkg3WUV0YzZXZlkybTYwUHplcWdZRE1zcXVXT3ZUQXFpN0NDWWs?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 15:00:00 GMT",
-        "source": "Towards Data Science"
-      },
-      {
         "title": "Has AI become the shortcut to creative writing?",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWM2MG9OQVF1SlpCaE5FYmxjeTd0dHgwbV9hNHdRQkpBVnlaYk9aRTN3OWR4Z091OER2VTA1c3F3bXNsUGdGSmxBS083VVVXM09TaUhjQm1VRnZfREJMRDNselpCQnJFbzJLb0FpcUJDTGFGRm56ajNBUEdFN24tWkQ3REhJUEJqZWVkYWxYbEpwWXJPc1HSAZsBQVVfeXFMTzBWbWZYQ3hHdHBjTXlQNFZWVlE2cC0xWEtDSGViX3VkLUpURGtDbHJPeUhmUTBJSnJUSlllZFFlcXNjdUJKQVFydnNZUGFVellfQ0dNQkJWQjQ3cTdMSS1CSzdKSVF3bG5xaFJrWmc5eWxuQmdfelpmc2ZuTWFmXzVlQUJGVjFDOWNrS3oxQzlicXNkdWlMVVVSNzA?oc=5",
         "pubDate": "Wed, 22 Jul 2026 17:58:56 GMT",
         "source": "MillenniumPost"
+      },
+      {
+        "title": "I turned ChatGPT, Claude, and Gemini into project management apps, and one clear winner emerged",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3VpclpqUWZObEg4amNBbVZKeEVoQVZ6dWlZdEZVU25qeEFKUENZUnNqOTNrSFdQUVZ0SjBQSklHcnNVM3pka1ZJdEFyMzNyRnJhSFBrMVFQZXp1OXJ1R2dsRlZmSEtsY3RSc3BkeTNqUjBfeURHNzBQUGlLWEJWSnlIaXJlSWRDYnVEUHMxX2x2ejRhSWdDTklvSk1qajQ?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 14:30:13 GMT",
+        "source": "How-To Geek"
+      },
+      {
+        "title": "Can AI chatbots make mental health worse? Study identifies five risky patterns",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeE4xOFdkTTNJQ0x4X093S3FvRVFpMFNuUWdxX1JheTlQQjRxRkxqOHF0N3NEbWRnOHdlY3lFNXhra3htczYwaGFNZE5vTVJWeDlxVE84dTJXbzhSelFjX2hwZTUyZS1oQWM1YUUtQmwycDVKR2tsRmRiUVpwa2ltRQ?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 12:20:04 GMT",
+        "source": "Medical Xpress"
       }
     ],
     "markets": [
-      {
-        "title": "Market Data",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40enpwOFVCQjBJT0FZUHpZSnBBSU83T2ZCVE81T3FhNWZWczJEdnpxZ19oakdfbDl1ZThJTDQyWkZvMUhUb0hGRjlCMzhVc29LZjRCZG4wbG5xZUt3ZWh1VndwV0FwZWRs?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 18:21:11 GMT",
-        "source": "The Economic Times"
-      },
       {
         "title": "Share Market Today: Nifty 50, Bank Nifty | July 22, 2026",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazRLZGJvbjl5MVBXNkFyOEt2WnExZGZBMEVvUjdxY1YyRlVnblJJRjJuLXRFd1dUUzF0dC1FdWFiVVV1SG8wdU93Qzh6Q2dVbGRoS2dCMXF6UUZPT0NjOEc2TTlYRFBBMnR5ZlR3MHYwZzQxX0hzREtoaC1aSDNYWjFyZ19hM1pqa3dDei1vNlZmMldUYnFCYW5qRjVKNGZYRVh0REdadTlQLVZSck5nZ3AwTUZ2LTVPS2tVMTVfcjAzcE8zZkE?oc=5",
@@ -116,16 +110,22 @@
         "source": "Liquide Blog"
       },
       {
-        "title": "Sensex falls 238 points, Nifty slips amid geopolitical concerns, profit booking",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUs4TF95eDBDenNPSlNlTS1pSHlzbGZKM1dSM0Y3UWRaTC03MElkSG02LTIwY1JTOHQ3NEZ4UXVGeUZCNzVySE50dlBFOF92eEhKRzNhWEFmOTFyUkw4VmpuM2N5ZW9QNEJsc18xRG01WFRmYnBqNzhJclZQcmhzT1NEVDhteFVBZU1BZHBseVRHbktmRkNLbEFQSVlmRGlfOWV0MmpZei1ZeE5YN0hZM0t3VDUzZGhMWm55RVNUVUdlbUpDR084ZDZvaEtYQdIB0wFBVV95cUxNQXFRZ0o4VlJEdWFaYjF5bDhfUDVZTU80NTRvdzBqcy1JTDA3YkhiSERsSWE2WmpTZDNXSmtyclVBbmdFWWRpTDlUZEZkTGoyLThXOUYzQXZzRlNhQzZPSkNYbW5kZjh4NWZkWGJPM0NiZUl4OWZabzVmYUpIdzN1UXR6R2xJTWg5aE42UkhyYTAyYkhYajhOUllpSElURVE1cEp5b3VLSmU0RTI3VmVmYVVveTFnZndNV2EwZDd5d2JlMk5nXzNzb0Fiak1IT0x2dG53?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 09:42:18 GMT",
-        "source": "ET CFO"
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0RTdHNlJtOVhfc01KTXlBZTJEenB1M2lhME5HRmZ5YlkwLWJBMXNPOHEyUTFzYy0tUGhwLVhrc0xOODFmNVFLaENoZzZ5WTRPUDdOX3lsQjNKMXlLS2xrRU5GQlQydmc5?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 16:06:55 GMT",
+        "source": "The Economic Times"
       },
       {
         "title": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1htanU5VmNRTEhnM0FDSVMtd1QzSHJsNmF5N08zWDFyUkN1cG5DUjFMTEd3WjlBS1JCbGpEWlRMRVNhQWF2YVZRRnN6a2NEcXRtOXVkck05WVk0Q0pxbWxsSXhFTVM1cHlvV0pSM21XZTZWa2FKYTlMRE01UTlfdjdiaTU5VnlWVlFEdmR1UXI5WUVWLUFBR2ZSMGlnUU50VVBDNHFWdG1hdXhJOHEyb2dSTmpxNlEwWHU0ZWRocVNyNUxSZlF3WU90SjMxc09EM2FhdFQtZFQ?oc=5",
         "pubDate": "Wed, 22 Jul 2026 13:27:55 GMT",
         "source": "Goodreturns"
+      },
+      {
+        "title": "Mkts decline for 3rd day in a row on higher crude prices",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0V1SUlKSE1IeXVDaXlveldrZGx0dTZjdmRXenZ0bHhudkdMWHR4WmlMX0ZuR2Y3SFBxQjRBSXZSWDVfUHZHM2hUUGtZemJqV2FzVFVSS2pDWnJIV2dmSjItWVJOUDVPc1dRMmRWV0FFeXc3QWpLeWlnWGNYandFVmd2RWFlUm9fY0E2VTByTW1ZMlhGUmxwM1VtUUktb25lLTZPM3E0bElTbU8wb0Z5NlFUWEFTZGlNYUtodGcyNVhlUWNHTWVZcTczVnpLVG05MkHSAdIBQVVfeXFMTWtFdUlJSkhNSHl1Q2l5b3pXa2RsdHU2Y3ZkV3p2dGx4bnZHTFh0eFppTF9GbkdmN0hQcUI0QUl2Ulg1X1B2RzNoVFBrWXpialdhc1RVUktqQ1pySFdnZkoyLVlSTlA1T3NXUTJkVldBRXl3N0FqS3lpZ1hjWGp3RVZndkVhZVJvX2NBNlUwck1tWTJYRlJscDNVbVFJLW9uZS02TzNxNGxJU21PMG9GeTZRVFhBU2RpTWFLaHRnMjVYZVFjR01lWXE3M1Z6S1RtOTJB?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 17:08:14 GMT",
+        "source": "BFSI News"
       },
       {
         "title": "Indian stock market crash: Sensex slides 715 points",
@@ -141,15 +141,15 @@
       },
       {
         "title": "Market Data",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0RTdHNlJtOVhfc01KTXlBZTJEenB1M2lhME5HRmZ5YlkwLWJBMXNPOHEyUTFzYy0tUGhwLVhrc0xOODFmNVFLaENoZzZ5WTRPUDdOX3lsQjNKMXlLS2xrRU5GQlQydmc5?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 16:06:55 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZHBuMzlhRy1mb3I5OEZYRy11Y0x3Q21ZWXR3RlQ3Rl81bHdpaG9fV2FHUXlLa053YzB3V1dia0pnVGFKZ1ROMXFEMWVXeFhLNzVHSEIzaDhfSGx4RHQxMXg2TXRyWE9iNWc?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 16:02:09 GMT",
         "source": "The Economic Times"
       },
       {
-        "title": "Mkts decline for 3rd day in a row on higher crude prices",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0V1SUlKSE1IeXVDaXlveldrZGx0dTZjdmRXenZ0bHhudkdMWHR4WmlMX0ZuR2Y3SFBxQjRBSXZSWDVfUHZHM2hUUGtZemJqV2FzVFVSS2pDWnJIV2dmSjItWVJOUDVPc1dRMmRWV0FFeXc3QWpLeWlnWGNYandFVmd2RWFlUm9fY0E2VTByTW1ZMlhGUmxwM1VtUUktb25lLTZPM3E0bElTbU8wb0Z5NlFUWEFTZGlNYUtodGcyNVhlUWNHTWVZcTczVnpLVG05MkHSAdIBQVVfeXFMTWtFdUlJSkhNSHl1Q2l5b3pXa2RsdHU2Y3ZkV3p2dGx4bnZHTFh0eFppTF9GbkdmN0hQcUI0QUl2Ulg1X1B2RzNoVFBrWXpialdhc1RVUktqQ1pySFdnZkoyLVlSTlA1T3NXUTJkVldBRXl3N0FqS3lpZ1hjWGp3RVZndkVhZVJvX2NBNlUwck1tWTJYRlJscDNVbVFJLW9uZS02TzNxNGxJU21PMG9GeTZRVFhBU2RpTWFLaHRnMjVYZVFjR01lWXE3M1Z6S1RtOTJB?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 17:08:14 GMT",
-        "source": "BFSI News"
+        "title": "Sensex falls 238 points, Nifty slips amid geopolitical concerns, profit booking",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXFRZ0o4VlJEdWFaYjF5bDhfUDVZTU80NTRvdzBqcy1JTDA3YkhiSERsSWE2WmpTZDNXSmtyclVBbmdFWWRpTDlUZEZkTGoyLThXOUYzQXZzRlNhQzZPSkNYbW5kZjh4NWZkWGJPM0NiZUl4OWZabzVmYUpIdzN1UXR6R2xJTWg5aE42UkhyYTAyYkhYajhOUllpSElURVE1cEp5b3VLSmU0RTI3VmVmYVVveTFnZndNV2EwZDd5d2JlMk5nXzNzb0Fiak1IT0x2dG530gHTAUFVX3lxTE1BcVFnSjhWUkR1YVpiMXlsOF9QNVlNTzQ1NG93MGpzLUlMMDdiSGJIRGxJYTZaalNkM1dKa3JyVUFuZ0VZZGlMOVRkRmRMajItOFc5RjNBdnNGU2FDNk9KQ1htbmRmOHg1ZmRYYk8zQ2JlSXg5ZlpvNWZhSkh3M3VRdHpHbElNaDloTjZSSHJhMDJiSFhqOE5SWWlISVRFUTVwSnlvdUtKZTRFMjdWZWZhVW95MWdmd01XYTBkN3l3YmUyTmdfM3NvQWJqTUhPTHZ0bnc?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 09:42:18 GMT",
+        "source": "ETCFO.com"
       }
     ]
   }
