@@ -1,19 +1,19 @@
 {
-  "date": "July 23, 2026",
-  "timestamp": "10:43 PM IST",
+  "date": "July 24, 2026",
+  "timestamp": "12:35 AM IST",
   "sections": {
     "world": [
-      {
-        "title": "India news: Modi orders fast-track courts for paper leaks",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzFfLXh0WEt3TEtqUnZYZC1jRXZlUVJXX0NPQklmdmJNQk9mamJqM2JpaGFjY3EyV3JrWEtETzhJT3BVblBRR2hDR08zaUZWZnFWY2VvdTVhYkJlbEZ5bHBRRUt5a01FdWtDdFlNSkQ3c3VPVDJIWlNyN05fTW45MmUtb003V0VkVmQxVzYyYTlrVjdwQW5CZUozekdKUFhwQUk0?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 10:21:54 GMT",
-        "source": "DW.com"
-      },
       {
         "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aODJlSWd3dXV6bnRsTlFPYk1xeTZTbTE3MWJCMjdxUXVpZ2VsUlFLMEltei1tSnBRbkdIR3VZbnZ6Tldvbml3ckY3MUNDRXBuakdWaGk0SmlmQQ?oc=5",
         "pubDate": "Thu, 23 Jul 2026 15:22:06 GMT",
         "source": "BBC"
+      },
+      {
+        "title": "India news: Modi orders fast-track courts for paper leaks",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzFfLXh0WEt3TEtqUnZYZC1jRXZlUVJXX0NPQklmdmJNQk9mamJqM2JpaGFjY3EyV3JrWEtETzhJT3BVblBRR2hDR08zaUZWZnFWY2VvdTVhYkJlbEZ5bHBRRUt5a01FdWtDdFlNSkQ3c3VPVDJIWlNyN05fTW45MmUtb003V0VkVmQxVzYyYTlrVjdwQW5CZUozekdKUFhwQUk0?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 10:21:54 GMT",
+        "source": "dw.com"
       },
       {
         "title": "India’s Modi promises fast-track courts for exam fraud fuelling protests",
@@ -22,34 +22,34 @@
         "source": "Al Jazeera"
       },
       {
-        "title": "India protest movement holds capital sit-in as police crack down on demonstrators",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUFLTkNnV0U3YkE5eUo3X190anpLTlg0QTBKWGNwbExRVXU5cWlmMWpiejNJZG5PbWp3U0FDM0xyWGhZcHVGMVh2LXJoUFlaTnE0ME43dnhmTkkxdlNPUHJJeTh5REFDNm11bVFtOVh0ZTZpY21ONWgtel9uUHhkZUtHVS15VEtNREE2WFpfSGt2MFc5a1hlR0RiNjI2WjhYZ1dMUGZHbE5pM1NiR3c?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 12:14:00 GMT",
-        "source": "AP News"
-      },
-      {
         "title": "Day 3 of India-Bangladesh Kanpur Test called off due to wet outfield",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZk5ad0lYdUxleG1hZmFjLXZMZ2ZPZERtZUdsX2gteGd2TWRoOWg1SFNqMFZJU2UzZzZvVXRpcFB0SF9VVThvTDlsbFgySGNYdHp3RlNBY21yX1ZhVU1lSUdzd2M2VnRpUVZIM082anRXR0lBQ0VjYW9HN0Nia1p0Yk5JRTA4MXIyb0pEM3VvZjRBQ29zMUg3ZFJB?oc=5",
         "pubDate": "Thu, 23 Jul 2026 07:26:26 GMT",
         "source": "News On AIR"
       },
       {
-        "title": "India blocks mobile internet in central Delhi, sources say",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ3B0aUpkUzRqUTlHemt4Vy16blNKQzlOc3NLYTNBeWlXcUs4b2prVUp1WGN5amo1SU40MHY0akttclEyaDlJSHkzRm5sQnh3RXNFZXViVFp2TlEzcjNrRFlRWVp1SzVHSXhQakhkOTFRUzZxS2ZjVWxzaEwyQVZVUm1MREoyVFRnOHM5OFlZa3Nyei1ONF94dlJGVjROMGNsaWJEM3prSjF2WHZXaENkdE9RbHRQMGxHTUs3a2ZYdzViSV9a?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 12:59:11 GMT",
-        "source": "Reuters"
+        "title": "India protest movement holds capital sit-in as police crack down on demonstrators",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUFLTkNnV0U3YkE5eUo3X190anpLTlg0QTBKWGNwbExRVXU5cWlmMWpiejNJZG5PbWp3U0FDM0xyWGhZcHVGMVh2LXJoUFlaTnE0ME43dnhmTkkxdlNPUHJJeTh5REFDNm11bVFtOVh0ZTZpY21ONWgtel9uUHhkZUtHVS15VEtNREE2WFpfSGt2MFc5a1hlR0RiNjI2WjhYZ1dMUGZHbE5pM1NiR3c?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 12:14:00 GMT",
+        "source": "AP News"
       },
       {
-        "title": "Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 08:46:38 GMT",
+        "title": "On the ground at India's 'Cockroach' protest",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlE1UWNWdFp5OGRVMVRTb0lIVDFQbWdxU2k2Q2dsRERGWTF5UFlWQmFTZXVtUTFCZENlbS12YVBsdUEtZzNyQ1FkSXVsYy1reTRNZnYzTEFGZ25fUDFOMWczRlczUDBXZTJPQnFaMl9MNEJzV1YzaTZuSDBpS05JOTVZaXlpUTMtWXhZcDRUdS1zV3ZQLXppXw?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 16:27:00 GMT",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Education Secretary Vineet Joshi Replaced Amid CJP Protest Over Paper Leaks",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRDJhZzQ3UW1MUk94SE5COGxVM1dZOUZadDF0VHhockU5WEtHQXBkTTZOYkx2U3RFNXYzejBsWUlFMElYczBUSG1oUDZtbVgyRmpwZ0ZTYnBpcWFpcXRWT3YyaktmZGo0bkNCQmItamw2WGRQb2J4VXJOb0d4bjZremNVYWpaX0U2QmVSdWU1WE1QQUJGR2E0TnFCVTRHOWcxX2NJT0JjbUp5UWNDUzFYaDB5Sm9OWmlBa1JOenZPYmY5cmtobkthOFFXSzVBZWJueG1tYVZRYVFkb0pHR0HSAeYBQVVfeXFMTWo4NlNqMmNXZXNYOVF6WVYzemZ1SEEyNW9iVTdyejRyUU5MeGJfMnNfRHZORDZsdDZaTjAtUWtXbXlFc2R3a2x2N1dHT0ZHcTJZcVpTNjM5ckVXZUJXT2hqMl8yU2d0TGZ1YW1FbTZCWTZtZHdkc25oNWtrdmxlV3d3UUEyTGRyMlFtYllUb2U5UGtodUFyaUNyUVN2MXR6VVJhM3BjQ29lREZ3azV5QWNVaHVoZWoyOGtzYU9vOUNiaVp6b28zOFQxa05EeHRsQmVKd0tvVzhuWFZhLWdHaVpDbkhZWGc?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 17:39:13 GMT",
         "source": "NDTV"
       },
       {
-        "title": "Protesters in India reject Modi’s promise of fast-track courts for exam leaks",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlEzVl9lRGV3T295OTQ5VnBvWk9nRXNCdmJCVWx5OXJaZ084VmFLOG5SVy1CQ3Itc05GVGJkVVQ2bUxObER4U0d5MGNVX3ZScjRPWDRLLXMyUFkxc0VqaDQ3VnNhdWZZZWF5dW02OEhlN2NxbExBY0JSWjhFbzV1RmpieXNNak5lenVXLW9BajNkemI2RXl1cVlObUFfRkJVT3FNSVlCRnFrZm4wOURQOE1n?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 10:18:32 GMT",
-        "source": "NBC News"
+        "title": "Latest Hockey News and Updates",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPajR5TFhJelcwWENWNndMRWxyWGRQZk1YUkFObDdBY2pzcmxraXYyUmlOaklGYjNfS1oxUG9DVVBFVjBsLUdDOEpmRmhnWENXSE01R2V5ZlhaeVBwTVpYeXlvTS1PY2Rwd1RrMFEyalN0c3VZZ250cE5ZMVQtNFlwY2lzVkdVblVWVlJQUjdmaUszZm9KZGhrd211YXdWV3E5ZTkwQ3ROaHNxcjBLbXhWeHgwS3Vhem1VME1SUjNJMGJZS2ZaQWN2N0ROUlh3clRhejdtMmFEZm5uZw?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 17:35:25 GMT",
+        "source": "Hockey India"
       }
     ],
     "ai": [
@@ -64,6 +64,12 @@
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXNBYVR3cm0xZkU5ZVFfMHFFSDRiYnFJZ28wczFJVEw4SjJZS05wemhZQ2NDTTZjbnhzcEJUeXVJRElrZU02cU5ncnMzQUR2a1hnUnZWVll4SE0zUjFYOGNuOFBPbUlqWDRXZGVWZ1BvNXBxVUpub0ltSGZJOXdqMDlyOVlOdw?oc=5",
         "pubDate": "Wed, 22 Jul 2026 23:00:01 GMT",
         "source": "Tech Xplore"
+      },
+      {
+        "title": "Workshop on Digital Urdu Tools, Calligraphy, and Modern Orthography Begins at Government Women’s Degree College, Karimnagar – Hindudayashankar",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNl9CRUFXeTZ5SDhFVkhxdm1GekZKaVZCQlZqWXl1dHFFRXZIRTRaNjBuUFZXY29hVmN2TEF4Z2VXcjZsMWt1dUFPSjhSdlkyYUtCS2FLQW1Wc2hRa1dpOUFvTndXVzJTYVIwMC1FOC1BbUIxZGRCNWdrbXZjbWlYcWFiMm9LY2t3N0hlWUZmTXpXM3Ria0Z4Z1VHZFR3Zk93WXRMRjVaNVZuUm83WVNxd3lMTjRMZDVVQk1kTGNNYlYwbC1fMzQwaGRjMi1JWnVKUzVMMGk0a0FRMm9DQXNEWVFMNGxIcUVDSG9zNU85V3k?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 11:45:38 GMT",
+        "source": "Hindudayashankar"
       },
       {
         "title": "Complete AI Course Tutorial In Telugu | ChatGPT, Gemini, AI Images, Videos, Audio | 12 Hours Video Arnold Schwarzenegger (UWdRsgZDTO)",
@@ -84,22 +90,16 @@
         "source": "fanews.co.za"
       },
       {
-        "title": "The \"Marichka\" AI System for the Ukrainian Armed Forces—What Is It For? | Ukrainian News",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdVRpX19NVGhDMXdkS1pKRXpydDNDbmdQd0pCRkdyZkg5eHd1NE1GaUMyenNnU0d3UFhyc2MydGUyeXh4WDFSTHpoU0t5TlBTVjg3WC1BNlVNZU5OaTNpNHRJUWgydDIwZmsxdlpJRVBEQTNOb1ZfVmdBbzFndWUtcW56SU1YT1BnYjNMaGY5ejlvbElrdE5yZXl3LWxQNHdqemxrSHJ2SnZqU1dsdEJndFNLSm9TdkRfMkMyeEN2SkZmcTZPSkFHbjNFM0hITmtCd185TG5SQ1Z3RVBUbWJKUG9uTkJwRWJYalNLaG1R?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 18:57:15 GMT",
-        "source": "LIGA.net"
+        "title": "Google Gemini 3 DeepThink Is Now The Smartest AI In The World Concerto (F23Xq4QDhQ)",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UEhVSk1vZXRUMG84TmxMaHhKV2FQdFlseE42cjR5Y0pyN0lGWmlrR2lNcGdkVmEtMWV5NDYweHJWQV9IQlhwcXM0XzlCc3c2SXpYaXdYSWN6LXBWWGRwcA?oc=5",
+        "pubDate": "Wed, 22 Jul 2026 21:41:18 GMT",
+        "source": "Mshale"
       },
       {
-        "title": "Has AI become the shortcut to creative writing?",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWM2MG9OQVF1SlpCaE5FYmxjeTd0dHgwbV9hNHdRQkpBVnlaYk9aRTN3OWR4Z091OER2VTA1c3F3bXNsUGdGSmxBS083VVVXM09TaUhjQm1VRnZfREJMRDNselpCQnJFbzJLb0FpcUJDTGFGRm56ajNBUEdFN24tWkQ3REhJUEJqZWVkYWxYbEpwWXJPc1HSAZsBQVVfeXFMTzBWbWZYQ3hHdHBjTXlQNFZWVlE2cC0xWEtDSGViX3VkLUpURGtDbHJPeUhmUTBJSnJUSlllZFFlcXNjdUJKQVFydnNZUGFVellfQ0dNQkJWQjQ3cTdMSS1CSzdKSVF3bG5xaFJrWmc5eWxuQmdfelpmc2ZuTWFmXzVlQUJGVjFDOWNrS3oxQzlicXNkdWlMVVVSNzA?oc=5",
-        "pubDate": "Wed, 22 Jul 2026 17:58:56 GMT",
-        "source": "MillenniumPost"
-      },
-      {
-        "title": "Workshop on Digital Urdu Tools, Calligraphy, and Modern Orthography Begins at Government Women’s Degree College, Karimnagar – Hindudayashankar",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNl9CRUFXeTZ5SDhFVkhxdm1GekZKaVZCQlZqWXl1dHFFRXZIRTRaNjBuUFZXY29hVmN2TEF4Z2VXcjZsMWt1dUFPSjhSdlkyYUtCS2FLQW1Wc2hRa1dpOUFvTndXVzJTYVIwMC1FOC1BbUIxZGRCNWdrbXZjbWlYcWFiMm9LY2t3N0hlWUZmTXpXM3Ria0Z4Z1VHZFR3Zk93WXRMRjVaNVZuUm83WVNxd3lMTjRMZDVVQk1kTGNNYlYwbC1fMzQwaGRjMi1JWnVKUzVMMGk0a0FRMm9DQXNEWVFMNGxIcUVDSG9zNU85V3k?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 11:45:38 GMT",
-        "source": "Hindudayashankar"
+        "title": "South Korean researchers have an answer for ‘AI forgetfulness’",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUl2dTF5Zm5idzl0X19xdlVwTmluTENvMTFkQUlXYndWeXJ5ZVJEdUZFRUxHcTBGTTI1RmVpd3NkZGVJb1NObHNYTXZKQzlPRTBZM19aZTlDNjhXSmNwZ1k1TWxDQzNrVWl1ck9FWnBaZE4wemhGR2N1YnNCdVkxQ2hfdVJnNkoxdE45TE530gGTAUFVX3lxTE5fM2ZuVXNwTGtFNXA4bUtiSVJPRGdiZG13TU5uZ1hvb0FmX05MdGJZal9oQ2liTzVHUjNxdHp0M25FYnVuWlVyNWxKa2pQRjJOS1B0d1ZqS19OajVLUTRZM3Y2S2kyb3RXWGRzN1R2MThRX3ExMmNHYzVtSm1FNE1GMDkxSW5NU3pNSHd0bmpnbGxOUQ?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 11:00:47 GMT",
+        "source": "ThePrint"
       }
     ],
     "markets": [
@@ -122,21 +122,9 @@
         "source": "CNBC TV18"
       },
       {
-        "title": "Stock Markets Today: Sensex, Nifty Down on US-Iran Crisis, Surging Crude Prices",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWU9nRHFLeG5ZX1MwWlhxQXVMNUNidjlNdHFkWnUtLTA2RVZfQzdURmluNzJSNDVEUWQ3Q00wMUZGQ19CSE56TzctWFNxZTlfRjVNbTRQZTIwZWJudk4wZ0Q4Q2VjZ05QRGRfZlpKOFNxY01RdDZybWc5aUNZalNNS01fSEE5bm9oOVVyVHBrdnFzdFl2UXFyVllCZDEwdnRkN0xxdkR4MUlod25wbzNFS1R1aGZZWlZnRWhFeHA1UjNIcXVYRTAweDlHU2J2c0R5bjBueGNKNENVOGfSAdsBQVVfeXFMUFlPZ0RxS3huWV9TMFpYcUF1TDVDYnY5TXRxZFp1LS0wNkVWX0M3VEZpbjcyUjQ1RFFkN0NNMDFGRkNfQkhOek83LVhTcWU5X0Y1TW00UGUyMGVibnZOMGdEOENlY2dOUERkX2ZaSjhTcWNNUXQ2cm1nOWlDWWpTTUtNX0hBOW5vaDlVclRwa3Zxc3RZdlFxclZZQmQxMHZ0ZDdMcXZEeDFJaHducG8zRUtUdWhmWVpWZ0VoRXhwNVIzSHF1WEUwMHg5R1NidnNEeW4wbnhjSjRDVThn?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 05:00:50 GMT",
-        "source": "Rediff"
-      },
-      {
-        "title": "Stocks to watch: Infosys, IndiGo, BPCL among shares in focus today; check list here",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXVXWDRfYVFwQy1TaXFwUGU1MW9fQ3ZZMjBLeHRiX2Ffd1ZkLWQ5UFZqaFVPQjU3NHFKNjdMalRaczNPVm5PWUNneWp5cExrMjhqOVdUR3V6VGl5T3IxODhPN3pUZUNZTUxLck4yZkFJVWhQOFJyS3pxMVlDdEpWSGlPZVhjTmc3aFpyU0x2VjhKQTVTblY0YTdORE1USWtEc0k2SkJLUUppVXMzSzJjU0s0aE1VVTIxbHBnc2E0ODFCdHcyQ2JsU3RsMEdod0pnTW1yNnhqZ25kNnlZTEx6Y08ta9IB6AFBVV95cUxNbWZ2Y1BMTHN4TkxiRUVtZ0tMYUhFMk1KNmF2Sl9CMUVpdHFHQld4MFlvQW9OZ1V3cjU4ZFJZeWlLbDVPZVNNdFBKaFNpamFlS1FwT3p6bnZTcDVXWGVNUm5meDJZZTl6QjRSYW1NUnlzelFya0hBMjNsb0RCREtoTWFGbDl2VFVPc1U5dmNtblhJdm5aTlUtMFhvVXYwZGZFLVFSSVBlbTRMMEJOQ1hQbkF0My0xUHlUeVpRcUgyblU0ZWNzekhpZUdMUjRxVEJsM09TVHFvcGJoczFKS05fblRDZWNUX0NU?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 02:19:17 GMT",
-        "source": "livemint.com"
-      },
-      {
         "title": "Market Data",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04WDdxdEZ0aDRaMW9pb3duYjBfc3NWRUZnLVRpZ1RsaWtYMWRmWE4zWlVRbmZzUzV3NmduUHpta0pFUDNJWURFeXU5UmdLSjFUYXBsZ2w1a1dkQU9DT2lPRWZqblFwLWF2?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 15:04:03 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fcnVNeGZpa09HWWsxTzNwVzJaQnZDcHowNDJhZ0ZPdXVvaS1xcWw3endaYnlHQVlGLWpmaU9saVl3QzJ6aVI3TXl0TkdqWVBfZEh3SW5sWkJ3cHlVLXNaQTM0MUY3bFEw?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 16:21:35 GMT",
         "source": "The Economic Times"
       },
       {
@@ -147,8 +135,20 @@
       },
       {
         "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04WDdxdEZ0aDRaMW9pb3duYjBfc3NWRUZnLVRpZ1RsaWtYMWRmWE4zWlVRbmZzUzV3NmduUHpta0pFUDNJWURFeXU5UmdLSjFUYXBsZ2w1a1dkQU9DT2lPRWZqblFwLWF2?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 15:04:03 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDS3l0a2F5Q19nVngyNDRuVDZUTlptam1DeVVMdnZCaXlWcVItdkxYcEt5cWxiVmFOci1GcW9ybjFjM1VzS2pEQ01uRkttVDllb25LS0JMMDNESXJsY0pYM1U2SGNCMU42?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 16:35:24 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Market Data",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JZFZIUlRob2RnbmlKZkdpQmFuRXNzMEZCcTAwdzhYbkx3M2wyNEJpMk1VcTd5UzFjR1ZDWFh4bmZwRUJXSXpJS2NjRWVPazBVeTQtei1GQmVxNWVFZmhQdFhPSGkzU19v?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 15:19:01 GMT",
+        "pubDate": "Thu, 23 Jul 2026 16:17:30 GMT",
         "source": "The Economic Times"
       }
     ]
