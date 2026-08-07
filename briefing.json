@@ -1,25 +1,19 @@
 {
   "date": "August 07, 2026",
-  "timestamp": "09:20 PM IST",
+  "timestamp": "10:16 PM IST",
   "sections": {
     "world": [
+      {
+        "title": "India & Sri Lanka discuss bilateral cooperation in cross-border electricity trade",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGRMYnhyWWgxY2JIS3EzMzJIVWZSeHpEZXNjRFFCVXdVX2pKc25ReUlDVzEtcHY0ZGJwNUlmSkpnQl9YM1FfUzdqaDhfSGY1Tm1OdXozYUZnbWxReS1xaUhZdElqZkFOWVlGeUNPeEN0SlNzR05laHI3ZUUyVmR2QkxWbVFNSkZTTHlEVF82eXFuSXZqTXo2S1pjZWdRYTRBdFhTT1gtWWg?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 14:19:32 GMT",
+        "source": "newsonair.gov.in"
+      },
       {
         "title": "India news: Student protests in Jharkhand enter 13th day",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG5yUmF3LW1MQm1FSTQxamJzcjFpUkpwd0twd0lmcV9YdllZTnh0a3ZSb2JsVVJZdGU4bmtSRTlrbG9iMXRKMXlIZ1NsNENidERYY0RCRy04QlF0ZlVKZlNGU2RXaW5FbGw0UHM1OEU5SXUyalU2Y0VwRFRpWm1HYWd4SXNuRHpFVXplUzhvTGRrYXhmamc?oc=5",
         "pubDate": "Thu, 06 Aug 2026 23:25:20 GMT",
         "source": "dw.com"
-      },
-      {
-        "title": "Meeting of NSO of BRICS begins under India’s chairmanship",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaldocjd4bWQ4MGYxS296M0JkNUNjZGFmT0xOTlFfNVBsTy1MVVBMelhmSDV3ZGUyVmpfRDB4V0FXZFQ5WXI5Y0phS21KUVRjd0pMQXl6cTRXQXFzazdBQTlUZjN1azV0cjhYZ2NBejlJcGFSbXhJQTVmQktPZkFUTUt5OVZtRzBFT2c?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 13:45:44 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3JnSTJWSVBmUUtJOXJXdXV4YldfRXB5QUg5YXZmNjJYWmVhUHFweDM0alZyODd0SmYwTWJ3dEczNGlqZFpIMHhVYVJFeDJYQmkwQTMxTnZlVTF4QkMyUFhzQzRTT0Q4MzB5UmNYN1czTERhQUZxS2RfbmFfUHhyV05oMkVkUdIBiwFBVV95cUxQMURaV0o2UHdkWjQxUHNQN2M0c0l5WnM4NFQzdW80d2dNWUtOZWpYSy1PV0lkTzJBRXRfbmFLRW9tbkNUV29yUFVCMkhINUVVd3g2NjhWcHVnTzd3d3hiVnA1c2NrUW9MT05CRmR6dFpMcWUwY2FDV184Vmp0VTRRN1paYmh0RUtyM01z?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 03:50:00 GMT",
-        "source": "CNBC"
       },
       {
         "title": "\"US Regulates Flow Of Foreign Funds Too\": India On US Lawmaker's Criticism",
@@ -28,28 +22,34 @@
         "source": "NDTV"
       },
       {
+        "title": "NEWS RECEIVED FROM DPR UT CHANDIGARH",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDFmcTBybjBTM1hFUUFNNWY4MlZabVpIMi0tc2w3MFdiLUpDbmNxcXVOLTdhSGdQYlhqZnpBUXZwQ3hidGRNdDRZT0ZRWk5XOGZhZDVOc3g0bFZtQ2VrT2hFejA1TlZnb2tzeHBiNUJINE9BTG1sTHd3enlkSXgzSThDNEc3UW54enVnTGNrMA?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 15:36:56 GMT",
+        "source": ":: India News Calling ::"
+      },
+      {
+        "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3JnSTJWSVBmUUtJOXJXdXV4YldfRXB5QUg5YXZmNjJYWmVhUHFweDM0alZyODd0SmYwTWJ3dEczNGlqZFpIMHhVYVJFeDJYQmkwQTMxTnZlVTF4QkMyUFhzQzRTT0Q4MzB5UmNYN1czTERhQUZxS2RfbmFfUHhyV05oMkVkUdIBiwFBVV95cUxQMURaV0o2UHdkWjQxUHNQN2M0c0l5WnM4NFQzdW80d2dNWUtOZWpYSy1PV0lkTzJBRXRfbmFLRW9tbkNUV29yUFVCMkhINUVVd3g2NjhWcHVnTzd3d3hiVnA1c2NrUW9MT05CRmR6dFpMcWUwY2FDV184Vmp0VTRRN1paYmh0RUtyM01z?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 03:50:00 GMT",
+        "source": "CNBC"
+      },
+      {
         "title": "Christian leaders meet India's home minister over foreign funding bill",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVgtUTdjU2ljaWZkN243OEZ2U0dFbDYwQzZFcjZPU1FyMVZMcWoyWkc2UE9hTVNqRmVRX2xwZXZPSVpWeEREN2FGOGRMVktIUHJHYUx3bzdNb1F2dkcyRm1fYV9vR3RXalZkb0V0MThpMlBpcTBiQnZORjJnZ241Uzc1T3NYeGxZZnk0Z3owMEZzYVN0UGt1cTNzdFVTZUNQNHV0bHIyMNIBpwFBVV95cUxQOVgtUTdjU2ljaWZkN243OEZ2U0dFbDYwQzZFcjZPU1FyMVZMcWoyWkc2UE9hTVNqRmVRX2xwZXZPSVpWeEREN2FGOGRMVktIUHJHYUx3bzdNb1F2dkcyRm1fYV9vR3RXalZkb0V0MThpMlBpcTBiQnZORjJnZ241Uzc1T3NYeGxZZnk0Z3owMEZzYVN0UGt1cTNzdFVTZUNQNHV0bHIyMA?oc=5",
         "pubDate": "Fri, 07 Aug 2026 12:43:00 GMT",
         "source": "ucanews.com"
       },
       {
-        "title": "India news: CJP announces plan for nationwide campaign",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUFyeHpOcEo4R2NWUlE3WDVLX2dxVWNrSWtvbXBqTTFudTJ3eTVoUlVRQVFaYXFRU1U4MWFOUXVaNkc0ODEtUXExRThua2ZmakQ1MEkyaEhDcDMxMHp6VlJpVXo4Zm5wcEVCU09YbkJrRDJNMWhJbGFSdW9PME52dTlzOGltWjZtMkF5Vm1yeHQ2SDA?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 11:40:10 GMT",
-        "source": "dw.com"
+        "title": "The Daily Catch-Up: Exclusive investigation, NEET probe and politics",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXMzWWc2QnlxUEVVRDlDS1lKUG9Hd3BFMnR6UzNyRXd2b3dYVG8yc29uQTBZbUE0S0cwR0dNTjFSaEpNaXNvVjFKdzRNSHhzTkpJOWpnRU9sMHZ3M2ZvNWp3bVBCWVF6a2xJYkpGcFYyaTJPcHdpcG5FUnJNeGZqeGRHMmVBcUpGT3IxajllNHhHaE95SWcyTlhycXFhdnhUMXdwVUkwREthQVlrUTRGd1dn?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 16:31:54 GMT",
+        "source": "The Indian Express"
       },
       {
-        "title": "India & Sri Lanka discuss bilateral cooperation in cross-border electricity trade",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGRMYnhyWWgxY2JIS3EzMzJIVWZSeHpEZXNjRFFCVXdVX2pKc25ReUlDVzEtcHY0ZGJwNUlmSkpnQl9YM1FfUzdqaDhfSGY1Tm1OdXozYUZnbWxReS1xaUhZdElqZkFOWVlGeUNPeEN0SlNzR05laHI3ZUUyVmR2QkxWbVFNSkZTTHlEVF82eXFuSXZqTXo2S1pjZWdRYTRBdFhTT1gtWWg?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 14:19:32 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "Greater Human Intervention Needed In Content Removal: Centre To Meta",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUpqN2QtVGdHYWt6N0tIeVVxdlBjRTR4UmNmWEMwT3I5bHplbWIwWk1aekJpRUZkQ1dZQWVieVltMTFOaG0zcjVvMHlmbDhtX2dSSGVraXIxd3d1RGlfczVqa0daNHpHT25QZy1xVG14bHhNZGZuTUJsaXdocE9GU1UzS0pwejQ5TUgybXBFZ19HSndHUXFMcUdtMENiN1c4VzBwZWFtbl9Ua0s10gG0AUFVX3lxTE1WUmpfejMzRGY4TXBwdlRFWEFMdUVQNDdoQ3NEdFdScTFhVF9WN1lIWXFXdWJsbFVWZXh3SWZMZC1jUnZSUy1FV25lTHdaM0t1U2kzWXU5SzhpVk1mQ09WQVdDNnpveUozSm1UV0pPdmQzb1JCOGFWNllLa3RsR3NUSFJwS29MOE10YTVKcV9Md1BNaXV4OHVXM196dUZVTnhtajJYTkdCdUYxSURURW15ekVhUg?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 13:46:47 GMT",
-        "source": "NDTV"
+        "title": "India to host first Global South Film Festival next year",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGZHSFV4N1dGNzNVeEtuODMycnRlbTMwMXhTMlhRWGtzbGFoaGxXWDh5T19Ta3o2WF9fTGg0V3JmVDNXdDFaR3pYdDBCeDRHNmZ1alVid2lnck5JTy1BdFlvRk9XcUl2SnBzbmZRUGtCbUFOdjNkU1ZndFdDNEtXSTNHcjQyZFJha3c?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 14:37:13 GMT",
+        "source": "newsonair.gov.in"
       }
     ],
     "ai": [
@@ -70,12 +70,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXFOTDVTbFNDenlZbzhaR0lDVXl2eHlKUE9yTElibDRhT2ZyeTFrdDhTSTJIU01wREFZdGN1blZLblR1NHRtclNXYXkxVEFWTERMdWU2bkZucDg0U2JxUklUcTExZ202aDViZnd2MzJVSW5sMnhxSDltd2V5eGd1amJaNXlmV0Q3?oc=5",
         "pubDate": "Fri, 07 Aug 2026 03:00:00 GMT",
         "source": "The Motley Fool"
-      },
-      {
-        "title": "ChatGPT can generate personality tests and predict people’s responses before they take them",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83R05TTnZINktaOVd6QWYxQXdDWTA5VjBaZEhLQUZCS0F3WTh5TnFBV3ZwTU5oaUNvTWRac1BDVUF2UW1WU0Nud042S2V2U2lvbUJoaGVLVEgxYkh1?oc=5",
-        "pubDate": "Thu, 06 Aug 2026 16:05:40 GMT",
-        "source": "EurekAlert!"
       },
       {
         "title": "You Can Rank #1 on Google and Still Not Exist to ChatGPT",
@@ -100,6 +94,12 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41dzZGcmk2MlpaX0x0amJrcm9SQjZXVUJiLXJjTW1sTVFNY0l6cHN0cUxMLTNUTldHdXVwNjZuM1JtbS1DMWVRQllTZEdIZzhQYjNtZVNFYnFtUQ?oc=5",
         "pubDate": "Fri, 07 Aug 2026 01:43:49 GMT",
         "source": "SQ Magazine"
+      },
+      {
+        "title": "“AI Agents Will Outnumber the World’s Population”... Memory Price Standards Are Also Changing",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kbmZRSnJkSlpYbG1INVdEVWJPa1d6LWdWMVVLMmg2NlF6VURiczJQNEVLcU5SZ0xRTDUzMmE1TFdnM0RVejNNc011cU50dlltWlpz?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 01:19:58 GMT",
+        "source": "매일경제"
       }
     ],
     "markets": [
@@ -116,12 +116,6 @@
         "source": "Rediff"
       },
       {
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US market futures climb after July jobs report; chip stocks rally",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 00:33:02 GMT",
-        "source": "The Economic Times"
-      },
-      {
         "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 07, 2026",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2dEVmdWcmxTR0xoWlVqZXMxaWVRY2dZcDJCTnh1MEYwTEQ5ZnRHcS1Ia1J6Q09TV2dZS0lSZ09icWZFOVFmb2RiR0p6TE45N0h3MlpycXlIbUlnRmJvY1hIcjBrU0o2b2RqVUQ3RURDV0FtV0RabzdxdTFlUTd0LXA1eklJZThwT3NTeTFLQU85ZWRHeHlOVmVTdnBNaHdheWk4WDBPVWNxa2VQU2g3T3EyVVVxSlhjbXkzOTRpc0lFcVBxN2hjOWNHcWM?oc=5",
         "pubDate": "Fri, 07 Aug 2026 11:06:02 GMT",
@@ -134,12 +128,6 @@
         "source": "APAC Media"
       },
       {
-        "title": "SENSEX, NIFTY50 snap two-day winning streak dragged down by financial services shares",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkdXdDJRMzlySXZOQ0JMN3dzME1LZVZlQlRIMlZCb002SUZjTmtCbElFSWFnTWFvYWVKRW1RNC1CUzFEUUFkaXZfTDUxdE9sQUFLdDN4TzdXbHRjZ1Jja0RURy1fTk9ISngta2xLY216RDFsTUhvVEhBWXJmWFRGWGRTVmFDV2tkNDFaRFBJdHFWckhzMWVNOU11eE1CcWdTNEhQajkzZi1Pd3pnaWpWYURTcUhGZ0VMYzk2amlCRndxUU44Z1RqcDFkNlg1aTQyQjhSQy1mYlg4YWRn?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 10:36:16 GMT",
-        "source": "Upstox"
-      },
-      {
         "title": "Sensex Falls 456 Points, Nifty Closes Below 24,600 as Global Tensions Weigh on Markets",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDR6OUpzSHFjQ3o2SVQ3YmdVWVZ4RjN2SE1GZ0RhMXFDc3ZIeDlBbkxCVUh1V3ZaNkJ4ckszZFI0YzlzVjJpN3JZN29uZUNkUjJoWnhDTnk0b3pKQ0M4MURqdlBaQ2JPajJpbW9ZWm5YMl9RZGJyekdJT1JEbXlUMm4zbUdvVFUxY0NkM1AycHl3R242OFdUYk1FV0syS3E1RjVXTk1fdWUxdGtLR0w0UnRKNA?oc=5",
         "pubDate": "Fri, 07 Aug 2026 15:38:59 GMT",
@@ -150,6 +138,18 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXZZclZJMDFlUjhwcVVFU2tqVks0QVh6Z042OGRUOXc1TU5MQW8wTlJrNjY4eDBXRm50STdINjVEWEFSZFdkZ3dLN2xDR2ZEVl9fUks5RFluYmNVNWhtU184TTlnalBnS1pza0hDZkVXcy1UQ2hhcEpaOTV2Rk94LXBlaEZOaENmREk3a25Ydm9MYmpwaG1rbG16eEpBX1FrSkVhTGNBNTBESE14aU9SaVlBY1RTdlJvRVJhcy0zWmJ0aUZ3d1RQc0ZDclg3U3E0V1E?oc=5",
         "pubDate": "Fri, 07 Aug 2026 10:35:06 GMT",
         "source": "Equitymaster"
+      },
+      {
+        "title": "SENSEX, NIFTY50 snap two-day winning streak dragged down by financial services shares",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkdXdDJRMzlySXZOQ0JMN3dzME1LZVZlQlRIMlZCb002SUZjTmtCbElFSWFnTWFvYWVKRW1RNC1CUzFEUUFkaXZfTDUxdE9sQUFLdDN4TzdXbHRjZ1Jja0RURy1fTk9ISngta2xLY216RDFsTUhvVEhBWXJmWFRGWGRTVmFDV2tkNDFaRFBJdHFWckhzMWVNOU11eE1CcWdTNEhQajkzZi1Pd3pnaWpWYURTcUhGZ0VMYzk2amlCRndxUU44Z1RqcDFkNlg1aTQyQjhSQy1mYlg4YWRn?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 10:36:16 GMT",
+        "source": "Upstox"
+      },
+      {
+        "title": "What happened to Sensex, Nifty today? Key reasons behind Friday’s market fall",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjU5c3BudmJ3SzVWYTB1RWhFTWcyelpfMzB6SWViV1k1M0h6cDdCZXV0c1Fic2pEakRzS2RZQm5RNXN3UWh3dHpNckdtOHhkNFBOdktXRmRFa2VWemd3WXEyQlN5MGtkOHhnR3hiWFBWWjJDRUtPd1gtcE1ZS2kwWjZmakhuQVM5OEMzUl9Dc1YxOE4xWWxSTVRDcFRUdEhoQlkwNlBIdno1YlFlTEcyVnNLR2hQdDVtbEE40gHAAUFVX3lxTFA3bV9oWjFBVmhKc3k4UTNUVW1sd3ptWkwybDJIS2pZT0ExNXpkcE5MbjJ4anFPTXhnbXRuOWgwdjBMOWctZEFWZUZzTHIxQXdrel9ITjdSRDhxenJIeXFXSWl4b2Fac0lNaXNvYVZEdHR4bXdRUHduV180Szh0ZHF5Skp0T1lwSkMyZjdaNXJoRDZLaEJUZUwteDFRb0FIalUzM1lnYmFxcmRjdVdHOWlxcFZMU2hBcXQ1STRLUGg0eQ?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 10:19:12 GMT",
+        "source": "CNBC TV18"
       }
     ]
   }
