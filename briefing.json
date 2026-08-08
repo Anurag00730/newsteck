@@ -1,8 +1,14 @@
 {
   "date": "August 08, 2026",
-  "timestamp": "02:03 PM IST",
+  "timestamp": "03:01 PM IST",
   "sections": {
     "world": [
+      {
+        "title": "India news: CJP announces plan for nationwide campaign",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUFyeHpOcEo4R2NWUlE3WDVLX2dxVWNrSWtvbXBqTTFudTJ3eTVoUlVRQVFaYXFRU1U4MWFOUXVaNkc0ODEtUXExRThua2ZmakQ1MEkyaEhDcDMxMHp6VlJpVXo4Zm5wcEVCU09YbkJrRDJNMWhJbGFSdW9PME52dTlzOGltWjZtMkF5Vm1yeHQ2SDA?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 14:53:43 GMT",
+        "source": "dw.com"
+      },
       {
         "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5",
@@ -13,31 +19,19 @@
         "title": "PM Modi & Israel PM review progress in India-Israel special strategic partnership",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGV5bXE1RHhMU01TSVVWT0V2V2JFX3lVODh2U3RhaElnVzhIMnRfM0dfanY2dGFDYmtXUTRGejZhbzNtQnVLWEV0U1E4ZXFFN29MdEtEWGxlNnFfSHBBU0RaSG1aWndNRnV5d0wzQXRuY2FEYkNQM0QyYjQyWERlRXNYcXlKNUtYUVgxbWhJNlMta002UzNyNnJRaWUyQnl3NkpPME04clA?oc=5",
         "pubDate": "Sat, 08 Aug 2026 06:31:00 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "India news: CJP announces plan for nationwide campaign",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUFyeHpOcEo4R2NWUlE3WDVLX2dxVWNrSWtvbXBqTTFudTJ3eTVoUlVRQVFaYXFRU1U4MWFOUXVaNkc0ODEtUXExRThua2ZmakQ1MEkyaEhDcDMxMHp6VlJpVXo4Zm5wcEVCU09YbkJrRDJNMWhJbGFSdW9PME52dTlzOGltWjZtMkF5Vm1yeHQ2SDA?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 14:53:43 GMT",
-        "source": "dw.com"
-      },
-      {
-        "title": "India Has Initiated Efforts To Join 6th-Generation Fighter Jet Programme: Centre",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcm9LZ0VJUmZ1SUZRM3pheU1xVFIxR2hXcFdCdXh1WktWeEZBdHh1Unhva3Bsa1RJTzYwdlBqVUQ5VzRrTWNwU01nb0NWRGhRN2l2MGp3RElHVm5sM09MU0tIWUhzbEtWNUlQZ1R0SWR0cmZ4RVB1YjdyaDFYMnBjT2NnZUNqLTJXS2RtaFF3M1JGdDlqcldQQjBDUGtfMU5MdjczSHlST0h5aFp3QnBVdHR0UnhENjMzUEVZMU11SFRGMUpxbmxlZGJR0gHSAUFVX3lxTE96LW8xY3FpZFJGcDBDVVF4NEZNT2R3WC1wa1RDZ0x0T29TbEFCUXhBbnZSSElSQ3o2M01ER2QtTW5SeUsya1lqUDNxOWtrTTVYbGU4NU1KZG1QTEpYSmREbmZpeUtIa1B1TXFxVWEwRjhESmJhY1hyUUJyWHVwS080QnNFNnBld0U4THZ3QXpQeVgzTkVjTmt3WlhhNGJIZDVPUG5XTm5OZGdTcW1CQklWU3RNSHNMbEYyWEl1dUF3Y2pyOVVMblYyX08yd1hsU09wdw?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 18:53:06 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "100% tariffs on India soon? US Senate clears bill for sanctions over Russian oil | India News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJhT2F5Q2ZZaHpJT2M3ZnAyWUl5eDRaR1pGRzM0cHFzZi15bW5NWS1CWDk0LVA5RmROVkZGOVNBTGQ3aGQ1RG5HaEItSGRLN2ZEZjdrVGlEcGF1U2paQWRhWUdEeHFlS0VkTkhvZzBTeFBEQWNhY1MzXzkweERmN2czbHhOTll1TEVRNGRSOGs2RnAtRUU4dkRTMW5aSDBSc2pOR1htTXA2dkJwZEZuREdQWdIBuAFBVV95cUxOT2xhU0ZUcGh2cXJnWkt4QklpUWl3YXFrajZPZDVKU05FMTVwczFZRHNsWENzSmg4V2tQcGFHRGhqUk1oRmhReUF2RXI0LVNDVURITmR1MXFKN1J3M0xmYzYtRlFKWnBLcHBGaDdueWNjdXR6VHpHR3MxR3hNZF9oUkx4anVFNUxQSG91OFVoUUdJcW9TeUpxaVQ5Y3BEZG9Vc01SQzFFQVo1NVR2RFNEZXR0ZkVmd1JK?oc=5",
-        "pubDate": "Sat, 08 Aug 2026 01:43:35 GMT",
-        "source": "Hindustan Times"
+        "source": "newsonair.gov.in"
       },
       {
         "title": "India news Live Updates, 8 August 2026: Amarnath Yatra suspended from Jammu as inclement weather and declining pilgrim numbers force halt",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYUFsSEpQdlVJSU1fU3Y2ZXVFOHYyUWhIM2ZodFlxblpfVWZEZnFqc1YtdGd5eXFXWDYxbWZCVDZfY2E4WGFuZ0pMaWNFc08wZlpadnhhZEtEVkRzUm83QzhpUXBLV2Fyck9uRU9ZMXZULUR2QmZpZk1XOWRDSzBmWklwd3FlWGdtNERxaWs1UlJCdjFMaThnckNMVi0wZFNjT0g0R2JsekZSblhrUWo1aXVuX2FSTmVOcF9NNno2RlZhcTRPQXJMZEVjQ0owSDcyb2tRMERjRVQyRDJmTHc3S0F3bHMzd1F3YXNnSzZ2NUtYR3fSAfoBQVVfeXFMTno2bi1oZG5YR2pQcDNxZ1pibzdKMDZ1eER6SHdhUTR2U01uTmlsRW94MXlsWHFfUnpldlJibTBkRlJyZl9mZDhqRjFOUXppZzhlVkV1RjZmYmZMZEJPeVh5UWFXdUhQcUFKbXQ0UC14RVh1Y29OVTRnVklOX3RDQkhDbzV5dTc1R3hfQm5oYm13TllsM1lzWGdvLXZNSWhTRERyUmtVNnJMc2FSS3NRdVgzbnVqYzZsMjV6emJERnVXalQwZTlPQTc5T2x1aUVVUFBZSDVQRnNwd1dTZkU4MmNQZGE3eDZ4cTlabWpVdDVUM1E4cGwzUVZsQQ?oc=5",
         "pubDate": "Sat, 08 Aug 2026 06:07:14 GMT",
         "source": "The Indian Express"
+      },
+      {
+        "title": "India Has Initiated Efforts To Join 6th-Generation Fighter Jet Programme: Centre",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcm9LZ0VJUmZ1SUZRM3pheU1xVFIxR2hXcFdCdXh1WktWeEZBdHh1Unhva3Bsa1RJTzYwdlBqVUQ5VzRrTWNwU01nb0NWRGhRN2l2MGp3RElHVm5sM09MU0tIWUhzbEtWNUlQZ1R0SWR0cmZ4RVB1YjdyaDFYMnBjT2NnZUNqLTJXS2RtaFF3M1JGdDlqcldQQjBDUGtfMU5MdjczSHlST0h5aFp3QnBVdHR0UnhENjMzUEVZMU11SFRGMUpxbmxlZGJR0gHSAUFVX3lxTE96LW8xY3FpZFJGcDBDVVF4NEZNT2R3WC1wa1RDZ0x0T29TbEFCUXhBbnZSSElSQ3o2M01ER2QtTW5SeUsya1lqUDNxOWtrTTVYbGU4NU1KZG1QTEpYSmREbmZpeUtIa1B1TXFxVWEwRjhESmJhY1hyUUJyWHVwS080QnNFNnBld0U4THZ3QXpQeVgzTkVjTmt3WlhhNGJIZDVPUG5XTm5OZGdTcW1CQklWU3RNSHNMbEYyWEl1dUF3Y2pyOVVMblYyX08yd1hsU09wdw?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 18:53:06 GMT",
+        "source": "ndtv.com"
       },
       {
         "title": "Hafta 601: Meta, Modi and the battle for India’s internet",
@@ -49,7 +43,13 @@
         "title": "When ‘healthy’ is just a label",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2xJZkdwT2V2MnR5VGxZelk2Tmg5STRSMFUtTkhBZEdxQ2RVamg5QVdTRGl0cDNCT0dDQUdlOWZpOTZnZzJPZ3IwelN3QTJmekdEcmNOekxabDJxLV9UMXFVUDNZby1RcWdyanhJdnRIbE0wUWowVDFHSHpPMEdxWW5hUHl5alR4MDZ5RjBBMTBvcnp6d0RkZlB5ZlDSAaIBQVVfeXFMUDFnUng0SnAzUmZ6Wm9JTFFhc1pzYzhNNWRtVnFhNXJtak9VYW1pVXBDdTNXbnltMjF4a1RHX1VxcDlQR2xBUElYaHRHTUFvLUtwQTBkZWZiZ1hiQmptZXhyVFd0VmM1WWVRUkY3VTV6N29YYlBqdl9MVWZvMkxvQlk1VDdOZXJRZ3ZxWEx3MlA0TGxjdi14aXVUN2VheWcwRTBR?oc=5",
         "pubDate": "Sat, 08 Aug 2026 05:43:00 GMT",
-        "source": "The Times of India"
+        "source": "timesofindia.indiatimes.com"
+      },
+      {
+        "title": "Seafarers Are at Heart of India’s Maritime Growth: Sarbananda Sonowal",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3U2NHA5djNQZjU1M3lRaHpGRjMwQUtod0F2dDgwSW5EQzVKWTAtQUZsRDNCSWgwbTJMckU4X1pHNXZRbDd5RkJvS0NhQUFuMHY4VzlZVHpaa05mek14MDhYMERBeG1aRnZMV19qNXdTa21SYUMybm04M2hzVllyeENTckVibmNOYVlhYkFRanRJbV9uamUxTA?oc=5",
+        "pubDate": "Sat, 08 Aug 2026 09:29:49 GMT",
+        "source": "newsonair.gov.in"
       }
     ],
     "ai": [
@@ -87,7 +87,7 @@
         "title": "Agentic AI vs. generative AI: What's the difference?",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ha1gyOWZUOW5kZ0tUSFAwbGNhdU1JVXVpWTFFWUN4c2lBTXltckRrS0ZxVXpYWjN5TXB4eDI2SXpvR2hDTjJWWHh3SjhCUV9nZ3U4eDhPZ09lbkxRcEJmQTFiSWgwX05aODN4b3g4VFlIa094WFE?oc=5",
         "pubDate": "Fri, 07 Aug 2026 10:08:51 GMT",
-        "source": "Hostinger"
+        "source": "hostinger.com"
       },
       {
         "title": "GEO Services in India Helping Brands Improve llm Visibility Across AI Search Platforms",
@@ -122,28 +122,28 @@
         "source": "IndiaIPO"
       },
       {
-        "title": "Stock Market Today: Sensex Falls 456 Points, Nifty Slips Below 24,600, Financial Stocks Drag",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSE1BUnRRcmRNLVk5Uk04c0drQ0l6UDl2X2tmbmNSQ1lTUTR2M05jY1lDVl9ydEhnVWM0UWlia0xnT0lSUVdUdzBoUmhJZW5RZmg0bVUzY0FhWEZ5dkJ6SUtxeVpmWWlJdUpLbTEyY2xJNTFiNThtSkVPRXlmLXhvbw?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 11:05:13 GMT",
-        "source": "APAC Media"
-      },
-      {
-        "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 07, 2026",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2dEVmdWcmxTR0xoWlVqZXMxaWVRY2dZcDJCTnh1MEYwTEQ5ZnRHcS1Ia1J6Q09TV2dZS0lSZ09icWZFOVFmb2RiR0p6TE45N0h3MlpycXlIbUlnRmJvY1hIcjBrU0o2b2RqVUQ3RURDV0FtV0RabzdxdTFlUTd0LXA1eklJZThwT3NTeTFLQU85ZWRHeHlOVmVTdnBNaHdheWk4WDBPVWNxa2VQU2g3T3EyVVVxSlhjbXkzOTRpc0lFcVBxN2hjOWNHcWM?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 11:06:02 GMT",
-        "source": "blog.liquide.life"
-      },
-      {
         "title": "Stock markets decline dragged by banks, elevated crude oil prices",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDlLblpFNWRMVHlqb3NnSzRGRldveXd3QUwxM3U1aDlQTXl0NUpaT0tqU0s1aG9QUVMyU19tNk0yXzhkWjg2UnhzTjQ3Wkw4d2d6RlEzekVNZ3U1bWFmVFFvdHhwY0JwVE93XzQ4WEZYbjNxV2dFN05oMklRZVJHS1lVQll2V0ZLZnV5YkF0YzRoZW40SllzM2lYbElUTkRQ0gGgAUFVX3lxTE9UOUtuWkU1ZExUeWpvc2dLNEZGV295d3dBTDEzdTVoOVBNeXQ1SlpPS2pTSzVob1BRUzJTX202TTJfOGRaODZSeHNONDdaTDh3Z3pGUTN6RU1ndTVtYWZUUW90eHBjQnBUT3dfNDhYRlhuM3FXZ0U3TmgySVFlUkdLWVVCWXZXRktmdXliQXRjNGhlbjRKWXMzaVhsSVRORFA?oc=5",
         "pubDate": "Fri, 07 Aug 2026 22:30:44 GMT",
         "source": "Daily Excelsior"
       },
       {
-        "title": "Sensex Falls 456 Points, Nifty Closes Below 24,600 as Global Tensions Weigh on Markets",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDR6OUpzSHFjQ3o2SVQ3YmdVWVZ4RjN2SE1GZ0RhMXFDc3ZIeDlBbkxCVUh1V3ZaNkJ4ckszZFI0YzlzVjJpN3JZN29uZUNkUjJoWnhDTnk0b3pKQ0M4MURqdlBaQ2JPajJpbW9ZWm5YMl9RZGJyekdJT1JEbXlUMm4zbUdvVFUxY0NkM1AycHl3R242OFdUYk1FV0syS3E1RjVXTk1fdWUxdGtLR0w0UnRKNA?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 15:39:46 GMT",
-        "source": "INDIA New England News"
+        "title": "Stock Market Today: Sensex Falls 456 Points, Nifty Slips Below 24,600, Financial Stocks Drag",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSE1BUnRRcmRNLVk5Uk04c0drQ0l6UDl2X2tmbmNSQ1lTUTR2M05jY1lDVl9ydEhnVWM0UWlia0xnT0lSUVdUdzBoUmhJZW5RZmg0bVUzY0FhWEZ5dkJ6SUtxeVpmWWlJdUpLbTEyY2xJNTFiNThtSkVPRXlmLXhvbw?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 11:05:13 GMT",
+        "source": "apacnewsnetwork.com"
+      },
+      {
+        "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 07, 2026",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2dEVmdWcmxTR0xoWlVqZXMxaWVRY2dZcDJCTnh1MEYwTEQ5ZnRHcS1Ia1J6Q09TV2dZS0lSZ09icWZFOVFmb2RiR0p6TE45N0h3MlpycXlIbUlnRmJvY1hIcjBrU0o2b2RqVUQ3RURDV0FtV0RabzdxdTFlUTd0LXA1eklJZThwT3NTeTFLQU85ZWRHeHlOVmVTdnBNaHdheWk4WDBPVWNxa2VQU2g3T3EyVVVxSlhjbXkzOTRpc0lFcVBxN2hjOWNHcWM?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 11:06:02 GMT",
+        "source": "Liquide Blog"
+      },
+      {
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByOTNPS1A2M1RQb0EzVHg3ZlQ2aXBoZGRSX3pHcnRJRmM0aVpxLXlaTFBwN1RRU3dhYmlvcG1oQzRWeEpqd0cyZ293eWVrSDhLRHpBUEJFcnhMRjJoM29NTVpNaWNXdHNZ?oc=5",
+        "pubDate": "Sat, 08 Aug 2026 08:11:16 GMT",
+        "source": "The Economic Times"
       }
     ]
   }
