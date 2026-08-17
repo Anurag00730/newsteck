@@ -1,8 +1,14 @@
 {
   "date": "August 18, 2026",
-  "timestamp": "01:48 AM IST",
+  "timestamp": "02:49 AM IST",
   "sections": {
     "world": [
+      {
+        "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 19:15:48 GMT",
+        "source": "Newsonair"
+      },
       {
         "title": "At least seven dead in ‘stampede-like’ incident at India temple",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjVleXVlSmVPZWRoVVJqRFRvN0ZIQnY2YmhJR0hTZ0J5eHh2U2xyVjJId0pSdThkOUl3clFpQW1EM2ZZSll2cUg2bjhRemprZjRmNllxRTlVVGFIaVRya0pEZWIwVWN4VE1SVFk3c19IX0FMWk1HNFhPYzdjd29hWjFwam8yX292TWFuZ2V6VXNzV2ZOZURrTnE3QkNzbFY4VnfSAacBQVVfeXFMT1VkcERwNjNHTENFUWZsS2V4LWFWeFllUjVzVVEyWEFTUTZTMktUdi1QbGN0ejRGTXFMeEpmQ1NmLUtacGtiM1BhSGJxc1J4dzlIczlGbUViX2Y0UloyQjFnb3czLWZXOGQza1BLVGw1R0VzYTV5ZmtUUDBCYUVKWmhPWXVUa01UdGpvOVdzSTF2bVExeUpkSXNlTjA0SmxNcHowVzF2Qkk?oc=5",
@@ -10,27 +16,15 @@
         "source": "Al Jazeera"
       },
       {
-        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 17:17:43 GMT",
-        "source": "Newsonair"
-      },
-      {
-        "title": "\"Fix, Else I'll Have To Protest Again\": Ramdev Warns Centre Over 'Scams'",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalRSMkQya0E1OEE3VTNzcncxSWE2QkpxUDlPLXVFb09xeWd1bmJKRHZHeXM1bkl6eU5pdERReHloN0tXMTkzYjJOc1VRNk1VNk5kTDBnZkVDdjBBQm5iNUFVVnl0cEVHNWJTWVpzMl82Nmx2Z1FDTjdJWkhmb3NaQTdUQTBwTnZzTnk3Q25OMFJRSWxQSnlfSlZtVVhpdlBvdmh0QzV0eWFuakZLOFHSAbYBQVVfeXFMTTRjRlhqSWk4NmdmMUVSRFR0U0xtTzIwdVEyQ0VNelVzZkU5cUhjMVRsLUhlWVl0dVpXUF9rdFZqQzljajI4R2lsRVpxTlFRRGNTOXZqTDBkbmM2aktkRUZmeWo4TG42a2wwbmZndGhrWVNqcHlyN2NPa012Nl9mZXNEd1N3YkRNV1ZQME5kWVZQbHRWSnNMRW9HVFMwdVdvVWtRWGk1UE9qMlFSS1hTT2JKTmp6LXc?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 04:46:23 GMT",
+        "title": "Who Is Shahzad Bhatti? Pak-Backed Handler's Network Busted, Many Arrested",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnFrY1hTcy1GTnNrcVpQdmtHbkkxMzZ4cHNCenZPbER3ZWpJU2ttTC1GeEpELVR1RERJb3o0YnFWcnZtQk9lWWxTTGlYZ2RaR0EtUzJ2SFUzQVJLNmZEUDFJLWpXNkxzbmI1LVNLSzlVRkhRdHBtQko3SUJBcHpoNEV4NzN3UktKcTBQbFJiVGhyUnlSWjNKOThkeVpBX2l3RmxEQW1Rek5NLXpKazdZaNIBuAFBVV95cUxOeEd3cXNNZnNvWnFQMkpnZklJN2NhN0ZsdXpQZExxWVZyeEc3R0dpMlliTVVhTzE3YmFrWFEtaEliSkl1Y21ZR0hZa2swbFNRVGZNT3BxOXBLOW9KSXpUaTF1VEt2cDVRV25ZVF9JLVlfaWxYbjRQQ0FfZDBRSmhIaWM4YnJxVXVjYWRwR2NIMFU5cUs2NHhyTFVCNl9xU1NGN1E0M2xnRzJuZER5SlNLY3JHamtiTXlT?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 15:54:47 GMT",
         "source": "NDTV"
       },
       {
-        "title": "India begins public consultation on SHANTI Bill rules",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTh5Vjk0blNzSjUzcG9OTXlMbUx4OGEzOXExRDlNY0N4X2VxZ2djanlBQzRDWWxjTi1NWUh6ZDY3U1BsQkZMVy1QcC1FT1pWdE1CZWZ3TnppdEhoQ2pBalZvaE5MSWNLYlNqbUtWMWtrelM5TDVmVENwUWpwVkxkajZ5SmxBU0FQRlRFcWM5OUZZUTlPTGFDWA?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 16:27:53 GMT",
-        "source": "World Nuclear News"
-      },
-      {
-        "title": "India should bring back fuel with lower blend of ethanol, chief economic adviser says",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnFTenctaXdDekZ0NFZtVkpCdzdaa2RzODhSWUlBU093b1U2b2UwdFpvU0Zpa0lPaGI4SzNzc0V0eEhCb3FZT0RuSkl3c2ZTWGdBTkNWOG55YkhVLXdtTG5FNm5ETzNGYk9vMGFpLW5NRVpxTDJaVE04Vm9CcHFFZ1lZdmYwX0pZQ0JrNy01eUwxbmRXVHdhU0pSUVE1Q0dkdFM1dmZfaVdKU0RKaGJIRTF3NDNhb0ZQN1pXZmRIZEowdw?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 06:34:00 GMT",
+        "title": "India PM Modi's BJP replaces social media head weeks after youth protests",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTl6U2d0YkVmTi04eDJaRXV5ODA4Q3ZLQVFnaTl2THE5WFo3ZDNjWmtXOHkya002T1E2VmtKZG1HZGk2TXVtM0RScW9TeXdVUEtOZTRDTEo0aGRuMklxbFBKVlRKTklwRlpPVlpqVFpOV3NCV0trbWRjel9RVzFaRS1KQVBCdmdJZWJPZFJQWEUwdHJURTVqZ3NIYXRBaFFvRm44NnpnVWN1OGI3TzRkV0EtTE5pR1V1aEczcA?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 14:23:43 GMT",
         "source": "Reuters"
       },
       {
@@ -40,16 +34,22 @@
         "source": "Sandesh"
       },
       {
-        "title": "UPI: India built a digital payments miracle. Now comes the bill.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
-        "pubDate": "Sun, 16 Aug 2026 23:26:30 GMT",
-        "source": "BBC"
+        "title": "India begins public consultation on SHANTI Bill rules",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTh5Vjk0blNzSjUzcG9OTXlMbUx4OGEzOXExRDlNY0N4X2VxZ2djanlBQzRDWWxjTi1NWUh6ZDY3U1BsQkZMVy1QcC1FT1pWdE1CZWZ3TnppdEhoQ2pBalZvaE5MSWNLYlNqbUtWMWtrelM5TDVmVENwUWpwVkxkajZ5SmxBU0FQRlRFcWM5OUZZUTlPTGFDWA?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 16:27:53 GMT",
+        "source": "World Nuclear News"
       },
       {
         "title": "How China-India border tensions are rising again over encroachment claims",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5",
         "pubDate": "Mon, 17 Aug 2026 10:58:19 GMT",
         "source": "Al Jazeera"
+      },
+      {
+        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 19:51:31 GMT",
+        "source": "Newsonair"
       }
     ],
     "ai": [
@@ -58,24 +58,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1BYNmpTRV9JVEk2N25nMzhCRFozcDdrUFhSc1JvOHFLV0hyNHkySmVpZW9GNXgzSmxjcFZaOUVDcDRrNmtLby10WC1nSzJkREp4S0FZX2dJUW1XME45M3RRc2ZVR05yaHgwd2Uyd1BfM3E3ZmtUdGd5U1B4WTlGTTlCY3VYejl2VDBQaXFZdm9IdWtDYWZIRTgxQmh3Ulk5RHVZOHJrbUdSSFpreFVjWEo1dHkzRGc2bFk5VUU3SDBQMmlaM1o0b3FIMTlrMEJmWGxpMUVGaTdXSERFd0x4U2ttNWI?oc=5",
         "pubDate": "Mon, 17 Aug 2026 06:25:13 GMT",
         "source": "ACCESS Newswire"
-      },
-      {
-        "title": "WormGPT on Trial: The 23-Year-Old Who Sold Uncensored ChatGPT on the Dark Web",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWwxdzc2YzVMZW5aYzJIdk5MSGRya21EdVdRZVN2LVFUX2YtQ0FvQTJrWXVqcjJQeGZWX25wUnF2V1l0MzQ0MEpibWdzUE43SmdXR0FIQjRKWWNYNTA3Y0NYelI4QS04YXZydG9CejA0OW1fdFNxZDZaZkNpT203Nll4OHQyTHRhTVotU3ItTWtidldydHlBOHF0eDByV00?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 10:48:58 GMT",
-        "source": "pasqualepillitteri.it"
-      },
-      {
-        "title": "Apple Develops Own AI Model for China Market with Alibaba's Support",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEhfLVEtMjZyUGtvM1B5WDl2bGM0czZYOHo2RHk0X19uOXp4bU9ua0VnOWFnY0ZQSS1oTWJnb1lIN3VOU2R2VEJNVVhQUDVLdFJLUFNLU0VtbXN1TFI4N2tvc3NDMjlJeTU4V0FWcWU4b3ZPZzg3eUV2SHhfUjFsQWZDdGo2SFZJNmZpYnNIYy1rZ0M0R2hGUUZoVE9ZSHc5S2VDSE9jb3NtWjZmNWhWejRfLTFmcUxlVHg3X0hQNkZ2U3cxTXNDSA?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 15:19:34 GMT",
-        "source": "english.ratopati.com"
-      },
-      {
-        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY1lkc0g1RkFsdmNlTXdTQ1ZvNmlEMnRZNjdJSUVPUGpubUNURTN3NEdtQ2dETVhQekFvWUFPUnVCLXEwN0FqeTdpUk9vM3NjN0NNTUJnZlRjdnB1VWZHOWtLaFZFY2Z3T3g0?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 14:01:29 GMT",
-        "source": "Responsible Statecraft"
       },
       {
         "title": "AI Hospitality Alliance Launches Free 8-Part Practical AI Workshop Series for Hospitality Professionals",
@@ -88,6 +70,24 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3pyTm1MMTZTMTc5akJoTnRtOVhYX19haEx0OEdmWDlBb24tdzNEcks4TTN2clJYeUx2N3VWMEIyM05ZbFItSV9VZlVwTlZVdnRQQkx5ZVZudTBxZE95T1ZUNXc3eTBVU1lkQ0dXa1ZEeFRwWS1fbzlDcWpXZVZlTk1NbEtUMHZWNXkxMmstRDVmZXhqZVNpeVIzUDlDa18xekJmemxUaFpuSWFSRU5RSU9ldzZMLWPSAbcBQVVfeXFMTVN6ck5tTDE2UzE3OWpCaE50bTlYWF9fYWhMdDhHZlg5QW9uLXczRHJLOE0zdnJSWHlMdjd1VjBCMjNOWWxSLUlfVWZVcE5WVXZ0UEJMeWVWbnUwcWRPeU9WVDV3N3kwVVNZZENHV2tWRHhUcFktX285Q3FqV2VWZU5NTWxLVDB2VjV5MTJrLUQ1ZmV4amVTaXlSM1A5Q2tfMXpCZnpsVGhabklhUkVOUUlPZXc2TC1j?oc=5",
         "pubDate": "Mon, 17 Aug 2026 11:25:00 GMT",
         "source": "The Business Standard"
+      },
+      {
+        "title": "WormGPT on Trial: The 23-Year-Old Who Sold Uncensored ChatGPT on the Dark Web",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWwxdzc2YzVMZW5aYzJIdk5MSGRya21EdVdRZVN2LVFUX2YtQ0FvQTJrWXVqcjJQeGZWX25wUnF2V1l0MzQ0MEpibWdzUE43SmdXR0FIQjRKWWNYNTA3Y0NYelI4QS04YXZydG9CejA0OW1fdFNxZDZaZkNpT203Nll4OHQyTHRhTVotU3ItTWtidldydHlBOHF0eDByV00?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 10:48:58 GMT",
+        "source": "pasqualepillitteri.it"
+      },
+      {
+        "title": "Apple Develops Own AI Model for China Market with Alibaba's Support",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEhfLVEtMjZyUGtvM1B5WDl2bGM0czZYOHo2RHk0X19uOXp4bU9ua0VnOWFnY0ZQSS1oTWJnb1lIN3VOU2R2VEJNVVhQUDVLdFJLUFNLU0VtbXN1TFI4N2tvc3NDMjlJeTU4V0FWcWU4b3ZPZzg3eUV2SHhfUjFsQWZDdGo2SFZJNmZpYnNIYy1rZ0M0R2hGUUZoVE9ZSHc5S2VDSE9jb3NtWjZmNWhWejRfLTFmcUxlVHg3X0hQNkZ2U3cxTXNDSA?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 15:19:34 GMT",
+        "source": "Ratopati"
+      },
+      {
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY1lkc0g1RkFsdmNlTXdTQ1ZvNmlEMnRZNjdJSUVPUGpubUNURTN3NEdtQ2dETVhQekFvWUFPUnVCLXEwN0FqeTdpUk9vM3NjN0NNTUJnZlRjdnB1VWZHOWtLaFZFY2Z3T3g0?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 14:01:29 GMT",
+        "source": "Responsible Statecraft"
       },
       {
         "title": "The 84% myth: Why the PR industry’s AI numbers are wrong",
@@ -107,7 +107,7 @@
         "title": "NIFTY 50 (^NSEI) charts, data and news",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMDFPYmQwMHZmVkNqVkJEMWtweEQ5TmRPaVFhaDVOWV9jd0dkbGZ4TUFZLTVkY2U2ZElNUWx1czJqVEhPT09Vd19taTRJd0FPbXo2RGdn?oc=5",
         "pubDate": "Mon, 17 Aug 2026 10:35:57 GMT",
-        "source": "Yahoo Finance Singapore"
+        "source": "sg.finance.yahoo.com"
       },
       {
         "title": "Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, ele..",
