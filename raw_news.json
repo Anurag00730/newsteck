@@ -1,6 +1,6 @@
 {
   "date": "August 17, 2026",
-  "timestamp": "04:49 PM IST",
+  "timestamp": "06:01 PM IST",
   "sections": {
     "world": [
       {
@@ -40,16 +40,16 @@
         "source": "Hindustan Times"
       },
       {
+        "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1k2cERiUTRxOFFzRzNmdTdVX2kzcVh3RlFSN3BuRm5UOVJDRDROWlZ0bWNzYW1RVmp1TklTQnJma1BGOXAwVE5odWxNMms0VXMzRVoyZ3MwQ19PZFl1MFhRc003ZlI0Zy1YZXpaYlh4M09Dd2Z6c1NtbWlLVTFJMEJ6cFJYamJfT0JULWVDdXZkc1BGWjRTLW9LVzlQVi1JaVRJazdkaTNWWlVMcmfSAbMBQVVfeXFMUHEtN2htWmRtNGNiTFhvcGRwRkM2UHFabG9IT080bjh6cEJjbDJqNEJLSGxrR19PRERZUmdwWlM2Q0tWeWxaZURzQjVVV2ZEbXRTLVNQSGhfX25uV0ZzSWVpekdqdEJTanBiRzMwUDg3UERHUi1zR2NpdkhUczRoVG1XLVRqR3phdTZUbGlTTV9TRW8zdDN2c04weUIycGlpcUtrUW4wTkdBblZab1c0el90MDA?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 09:05:33 GMT",
+        "source": "Al Jazeera"
+      },
+      {
         "title": "CM of Maharashtra meets the PM",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZNTnNwQy1qQmZyVGZ3c0xBdm9sZVM3Y1kwWWxzTEx5MGp3SFMxbndrSS1ObDBWQnlaWHJ3YzJMd3hiN1pQMm9FMGVYeUNMcFBpTWREdk1Qc3RaS0JtQkdIVGlQUFprX2RESDZSX1lhMUkyV2tMZ2o4djNmM0FQU2JUWmZwMXh4TkswNjVrTlQzV25u?oc=5",
         "pubDate": "Mon, 17 Aug 2026 09:05:15 GMT",
-        "source": "pmindia.gov.in"
-      },
-      {
-        "title": "7 killed, several injured in stampede-like incident at Bihar's Lakhisarai temple",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcVAyMW9QcWpyWTMzT0xUU0dRMTVjaE05eFl6cERtdkJfb2x0QTdJd3VpV0pfdzZOaXFzMERhazI5TEFLUjZyWWF3RHZWekhjZlp2TEx3QTFiUm1tY2VyYjFsLVBwVDVMUTlJRURRY1pRYWs1bWNsdzRXbkY4c05ha3V2ODhpZnpybF9wLWdPVEpmUmxQVloxdEdZaXhHZkY5a0tEcmVIUXMzbXB2amhNU0NqUGlWLVhGOHN2TzZKN0c2WmxPWFIyM0RtZHRZVTlVVGp5ems3Nl9ibTdaRVHSAeMBQVVfeXFMTkhRcHRDSkFhYXZocGo2c0pNRlFGcjVmVmpPZ0xtMWVTZ3hDLTFCQVV1ZDFBNklzSEVpZzlZcGI2SE9ma05LbXdNY2s1MjhzSENlVk55bXpDQTRkd0VMaENhMzQxYmE4Z3lhWXJBZ3BHNmFMdnR3QjFFNEg4dUN5bFhpRlVleUp0RC1hc0lMaVBTNG51aVF0VUpBX05CTWVHcTlqVENzeFdNd3JoM0hiQ1JXTXA1T1FDS3llVjFsTi02Nmo2MUptYi1HdlBxNWdMd3RvYTVscV82TTkzZlR0OTF3b0E?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 06:55:00 GMT",
-        "source": "The Times of India"
+        "source": "PM India"
       }
     ],
     "ai": [
@@ -96,13 +96,19 @@
         "source": "RUSSH"
       },
       {
-        "title": "Where Will Sandisk Stock Be in 5 Years?",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoNTZGYzBzMEgxNnkxSUJ5STMwVEQ5MUtXZk55MG9WVTREdVcyU1cxdkZIR3lGdnhRaTlUUDlBRHV4MVZlc1hTWDh5VTYyNkVrSDV4bk9hdl9rRFJCY0lDOU5pcms0VURyNlROenVHQlZMSUU1V3ctQmhUaw?oc=5",
-        "pubDate": "Sun, 16 Aug 2026 21:01:20 GMT",
-        "source": "AOL.com"
+        "title": "LiteLLM Supply Chain Attack: What Happened and How to Avoid It",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGlLeGVUVnlYTTFEQTVmT0RsVURhaXNEcXljUEhxWWp6Z0U5TFBZNFQ2bkNUbkRFWGo4T29SVFRWTk5VSFV0V1dXdHpXTURab0lVUUhUbHBjVzkybDI5clFkdDhJakZHSTBNRksyT21WeUVIa0I5SFk4SWpMRVUzTFp3?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 14:27:58 GMT",
+        "source": "Pasquale Pillitteri"
       }
     ],
     "markets": [
+      {
+        "title": "Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, ele..",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQLVNpbHpNTlNLR1pDbzJEckJpdkx1VXBEcnp0OE9uVzVmZlNGaVFwWXhhek5xckMtOWNqR0NlYUhtRVpaLS1XcE92ZTEtZ3Byd2VJS0NBalltV19jblV1MlBRRXFnTDRqb3BUS2h2OERUTlo0YU9XV3hBNHd3NWNXWktXWFgxMW1XQThaTlpEU0NFTjVEcElVOWdfbkoxcDBzLTl5UG9rclpVLU9ZQXNlS0NHU2NHNFVfbW9xT3NzbHgzMXZpWHBVM2ZkVFctQlVRV1lhcFNwLVlRU05qVmRHWk1jZFhzSm5JV2J5TUNtdHpMM09KZloyMUhLMEZhcURQR1o0Q2RTWGt5OExZbzl5RG5nczcyb05zRklIS0lRYUxMWC0tT2xIQTJn0gGqAkFVX3lxTFAtU2lsek1OU0tHWkNvMkRyQml2THVVcERyenQ4T25XNWZmU0ZpUXBZeGF6TnFyQy05Y2pHQ2VhSG1FWlotLVdwT3ZlMS1ncHJ3ZUlLQ0FqWW1XX2NuVXUyUFFFcWdMNGpvcFRLaHY4RFROWjRhT1dXeEE0d3c1Y1daS1dYWDExbVdBOFpOWkRTQ0VONURwSVU5Z19uSjFwMHMtOXlQb2tyWlUtT1lBc2VLQ0dTY0c0VV9tb3FPc3NseDMxdmlYcFUzZmRUVy1CVVFXWWFwU3AtWVFTTmpWZEdaTWNkWHNKbklXYnlNQ210ekwzT0pmWjIxSEswRmFxRFBHWjRDZFNYa3k4TFlvOXlEbmdzNzJvTnNGSUhLSVFhTExYLS1PbEhBMmc?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 10:03:58 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
+      },
       {
         "title": "LAXMI INDIA FINANCE LTD Share Price News and Price Action",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlJ3QVlzZUxGampsdUlKVWI0RkRfZTFNRWRrcUF6cUVFLW5Lak85aUxvNFJ0M3lDZGRZVEFhVng5d2ZsWmxKb2tUckotZnVuMzRFbkQ1MFJYMmhMWjZqbVpKVDJVQktpRUx3VGVOQ1ZsQXJhdzQyU0tkTDVXUHUtcFYzT2dCZjg?oc=5",
@@ -110,10 +116,10 @@
         "source": "Univest"
       },
       {
-        "title": "PTC Industries, IPCA Labs, Physicswallah shares surge amid spike in volumes; check full list",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRkJ2ejRkN1hGd0lXVHBGcFJDcVA5YUVmMWlwdXNvaGgxZkNfTlloTjUzZzlwNGo3S3huUVpORXU2UmJESFY3bHczTTNUUWtrZUE4emxlV1oyTzYzSGQ5cmxQRFc5elk3NXpabFhsNVJRTG9zS1ZxZTg2V0xpay05WUJEZjdGOEtDZm1vaVpwLWRVblpvbTkxYlZLanlSYS1aZk5RSTRCa2t3NVZhUkI4cl9CZGtKbkVVaFhOS2pqTUE2eGd4Mm8zaWk0Sjlrakg3Njh4Zk1XSGVTVmhMbTc4VWF3?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 08:52:44 GMT",
-        "source": "Upstox"
+        "title": "Stock market fall explained: Why Sensex, Nifty ended lower despite Midcaps outperforming",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMG9sVkNucFo5S2NvRWFmRlpfdVM1MU8tYlNFZnB4bTRoSUNDQ3VqMzFWTHl6Q3djT01hOFpaMXE2akZsOFdwUlVQeElNbWpRRF9YQXZULUV5ekhRRW95cExkNVNHdk8tRUFmNURvVjBkLWVVVlQtcWRSOUtHcWd5VFQycEZ4MklrTWd6RC1IMlkxWlZBemRtek5pRXp0bUxlYVp3clVDOWpKQUJ4VmUwanBGWUtMeHdvRVQ4NzNEQjhRZEpiNUdRTTU5MTVMdXdt0gHQAUFVX3lxTE0wb2xWQ25wWjlLY29FYWZGWl91UzUxTy1iU0VmcHhtNGhJQ0NDdWozMVZMeXpDd2NPTWE4WloxcTZqRmw4V3BSVVB4SU1talFEX1hBdlQtRXl6SFFFb3lwTGQ1U0d2Ty1FQWY1RG9WMGQtZVVWVC1xZFI5S0dxZ3lUVDJwRngySWtNZ3pELUgyWTFaVkF6ZG16TmlFenRtTGVhWndyVUM5akpBQnhWZTBqcEZZS0x4d29FVDg3M0RCOFFkSmI1R1FNNTkxNUx1d20?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 10:11:48 GMT",
+        "source": "CNBC TV18"
       },
       {
         "title": "Sensex, Nifty open lower as US-Iran war uncertainty keeps crude prices elevated",
@@ -128,6 +134,12 @@
         "source": "Business Standard"
       },
       {
+        "title": "Oneindig Tech. Balance Sheets, Financial Statements",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWHl3NUJKbHMzRGVUR1RqLXhIeXVBa0VFaWFtb2MzVWUxcU1oTWFWdGNBWFUzUG9oZUFJLURQdWtTRGtJOVdXdUxIMVc1SE5fQTIyN3Fia2lUa1ZQOW5Da1cxcVZhWmdqLUlxaFN5eWUwWU0xYnJsUWUwcVJJeUJHUzJKcDdhWGo3QXhNaXptdXhDQQ?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 10:34:57 GMT",
+        "source": "The Economic Times"
+      },
+      {
         "title": "Top 10 Companies Market Cap Falls ₹1 Lakh Crore: TCS Leads Losses While LIC Gains Value",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnRTFQYm1xcTBiT1plcDQ5ODJTRFBsclFDZndQMFdpdWtMUWFfemgyOGVrMTVxQjRsX05TcjU0M1NreE9RYVVOVWthLVlFVmhxQk9hZkdxQmpXeTI2NVBtcUJQeTFSTzJ4ZWlQNEVmNW9RaXc?oc=5",
         "pubDate": "Mon, 17 Aug 2026 07:00:47 GMT",
@@ -138,18 +150,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQngtdnA1OFRtS0R5a3hkXzRsUDAzRkF2eUVybFVseVR1TXFGVnYxSkNFRzM0RDh6bEdSVDNRTmhQVDhqUUt2ZzZRTHVzR09mMzJQeHg3Tm8xVDJqbU92bzlMV3lmd0xsaGlhdFRKQVdLUUhaeXF4OVZ3cGZzSXgxclZRV2dMRXNnNmUyV2lpcDQ4SEJ2WVdtX1VlZXlQTTRSck9QTWY3T0FkT0lyYU1EckNBR3pKaVUwN3N3NVFpRHUxQVB0aXJPbGVScDN0Qm14d1Q0WlNpVjVZbTNhaUNCSzNubHJEck1FZnAzctIB7AFBVV95cUxQQngtdnA1OFRtS0R5a3hkXzRsUDAzRkF2eUVybFVseVR1TXFGVnYxSkNFRzM0RDh6bEdSVDNRTmhQVDhqUUt2ZzZRTHVzR09mMzJQeHg3Tm8xVDJqbU92bzlMV3lmd0xsaGlhdFRKQVdLUUhaeXF4OVZ3cGZzSXgxclZRV2dMRXNnNmUyV2lpcDQ4SEJ2WVdtX1VlZXlQTTRSck9QTWY3T0FkT0lyYU1EckNBR3pKaVUwN3N3NVFpRHUxQVB0aXJPbGVScDN0Qm14d1Q0WlNpVjVZbTNhaUNCSzNubHJEck1FZnAzcg?oc=5",
         "pubDate": "Mon, 17 Aug 2026 09:11:10 GMT",
         "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Six listed Indian Reits distribute ₹3,136 crore to unitholders in Q1",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUd4dXVUXzVrT0xSVWRLWjJSZ1hONTdrUVJ4ODQxaHMxbTJhanR3S0k5QkhOUU0tX0F0emxvWXNLbHY1LVlnUko2em9oc1l1QXFtTUIxX2hPMEtzYW9lQ0pDX0ZRWF9XQVlEU29qVnlTaURKMlRBS2xIUE9HRDFGQW5xNFgwNmJ1dVJtOENzNU1BTnZkUzl5cnE2Y3lSNFU1RjhnSVFvWXM3SGdjUFJrQmJfLUw0UlFGVEtkZko2QWhWdGlyNGtZRWhVa19mNFNj0gHWAUFVX3lxTE02aGhnREw5UERzeWNBSkVPQThJMzc1SmRCYVhTOWlSa241RE5nLUpXUzV6VXZoTDVxcmdZU0txeVgxZDZGaVliYldTaTJfSXFKMW92TFg4ZUtHRGI5dFhTVVM2ckV2NjRvQndpNWdHVlJqR0hmZzZJYlpJenBxYWstR0ZXRzdramx1cUtUa25kaU9sc1lEN1BZM0hiNDdBc1NaWkZkWnpjenl1Zi0zNFpoN28wUFdydDVjaUZTaVRFUmRfWVBNckpJRFhpUzFVUDV6RmNyY1E?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 10:59:48 GMT",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Stock Market Today: Gift Nifty, Asian Markets To US-Iran War — Five Key Factors That May Drive Sensex, Nifty 50 on August 17",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUm9MR3lHdnpmWUNmdnJ2d0JpRmdfWGJ5d21zSzdqaEF3UFRfdWZteGU2MU5jUzFCdHVPLW8ybjcyX3BHSHgxTXpVajdTd3p4WGREY1BxZTY2cHctZHRId2lveGdlUG54WlhtRm9vQ3FRRWtmc3lhVDVTcWw3THVBS2FMWTVad294NmNLWlRCWHJxejN4R08tQnBCUmt4bEYwd0FqU1dCd2FCUnhNbjdSLUh2QXE4c0dEaW5kWmV6akdaekxIU3U3TW91M3hMUWloWFlyM1NZSTlRN3RsX0VNRk4zUmowZ3l1M2UtWWdVWDJwaHRTRXBqZm9HNXJyd9IB_gFBVV95cUxNUm9MR3lHdnpmWUNmdnJ2d0JpRmdfWGJ5d21zSzdqaEF3UFRfdWZteGU2MU5jUzFCdHVPLW8ybjcyX3BHSHgxTXpVajdTd3p4WGREY1BxZTY2cHctZHRId2lveGdlUG54WlhtRm9vQ3FRRWtmc3lhVDVTcWw3THVBS2FMWTVad294NmNLWlRCWHJxejN4R08tQnBCUmt4bEYwd0FqU1dCd2FCUnhNbjdSLUh2QXE4c0dEaW5kWmV6akdaekxIU3U3TW91M3hMUWloWFlyM1NZSTlRN3RsX0VNRk4zUmowZ3l1M2UtWWdVWDJwaHRTRXBqZm9HNXJydw?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 01:34:14 GMT",
-        "source": "NDTV Profit"
       }
     ]
   }
