@@ -1,9 +1,150 @@
 {
   "date": "August 17, 2026",
-  "timestamp": "07:47 AM IST",
+  "timestamp": "09:13 AM IST",
   "sections": {
-    "world": [],
-    "ai": [],
-    "markets": []
+    "world": [
+      {
+        "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 23:26:30 GMT",
+        "source": "BBC"
+      },
+      {
+        "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 18:15:04 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "Top news of the day: August 16, 2026",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdVdkYUFkM1luRjIyQTZ5cnpXSXV4aE54WkdQYWZ6czVwQ1ZQS3hocjdRYUF1aTJVdU82aElOQkFMaGgzUHRiSzlVSEc1UG56TFlvSS16bUQyVHkwUG9yVl9sUDBnakV3S2VCVTVwbGVrZDV0ZnRka1hDaHozQWlRVDFfa2xvZWgtUGdxNlQtRExRaXFYYTZmOWJSS3R2RlkwZVV3TVFGU1hjZFNNanZKeWRZMzJsVHFEY0xWRjBuM3hNc3J5ZDhkNG5FNW93SXNhS1hLVjF2U0x2amZ6R2pHQWg2MHI5LXk5OW84S2xmOVRCbXdjRlpnbUZNT3FmWFJ3Yi1qNTU1UVI2TXBMZm56RlJtQVk2b1Q1QXNlTTd5cGxEa0hG0gGrAkFVX3lxTE1TZXM3RTNTMl9lY1RZUWd0UGR5bUk3bDZiSFl2NjlQbF9xTWZnV0w5LUxaNWRFckxSWm11Q0ZmQktFcWY2cFJ5VWozeHFheGU5TUxWdFFHWGs5aDkyWDRZaHBZQTNtdGZMSXJtWlBoekI1UkRfOWI1MW1xcnc0MnQzU19UODRDY0pWc2Z3aHJsemYyVDlHa1h3SEVwRXhfQTJyVzl3V3JqWHMwNi1oeHRNOGg0US0zUzJmbDlfbHhPMERabS1DRm5RUDltckM2cm5TSWs3YThERzNMWE5wVFI3dUE2OVpvQS15ZTlKTDdKbzhlSTNhU2VtQ0lFUzBDZkRVTWc5bVF2LXZGNjBlWm1RNjNJRXVUc1JkWmYtdlNwTUZVemM1b3FicWpz?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 12:35:37 GMT",
+        "source": "The Hindu"
+      },
+      {
+        "title": "Indian Men’s Team set for high-intensity England clash in second pool game of FIH Hockey World Cup 2026",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVY0WW94ZFNSbDVMQzBfb3lld1BydmdnYU9MN3ZzaXY5TmdDTkgyTmdCb3lVQ3ppSDJHb2ZIVEhyVkU0WEdDWm8wVElhTFNKaVNlYWlKcTRsU0RDelpnU1VZQ2hXZmJ4eHdEaVNVcDBCT3RwRmE1ZnEwX0sySTBpUmNELTEtbzJrTkNGQkEwaUtwMEtUczRpN256SHdnMXM5eHllNzNLQzktMGVta2dxenFNMzc2b3RtMnpHRi1UczdtYmFTaFdlNTdLcnR4d3B5?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 11:27:21 GMT",
+        "source": "Hockey India"
+      },
+      {
+        "title": "CJP Worker's Father Dies After Assault. Suvendu Adhikari Assures Action",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW5XVTVkbXByTll0VkQ4YWVvV3ZjY3pBWDFpQjh1Q2tpWFlDZFROVXN4Q3IzX1JsYzBwb1l5R045Z1hGM1dCb3lmMHJKbUNIVVFHY2NuMTNQdjJYRklwRURNVmxvMTZOQkdGQnB4WUx6ZnhGWHNEWU5sOXVTTkR4S1FxeHRwTk9pc1Y1WEk4dlNXZnlJemh1NnJ5WFJFdmh4eE9IbnZPZ2hPRW9pUGxz0gG3AUFVX3lxTE9qZVFHNm1GY3N4X3p2RFlqeGRRWk5xMU5oVFhUU1dfLWE0dk1KaFNRQnBUai1POUVnVUhMQzBhcGlLVkYzRV9OdWd1TF9CQnI2SV93MXJxNG5ER0ZOcjZYZlVOaDBWanhZTnNLVkVlVFppLUw2djlYaG0xcG9JX0R2djBSV1J4QW9sNGY5bUxaRkZzZ2EzWnhqRmFleWVXQmoxWmdLZFFEcS13RjJJNE0tUjd2ZENGSQ?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 14:17:28 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "Rajasthan govt restricts entry of outsiders, photography and interviews as CJP plans school visits",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd2ptM2dQZTNiVGdESjNuaFFuUGxGclkyZXg4aHItcmdoSmhQazhNT2hfQ2t1azd5UDRyeXp3d2ljSDRlYlgxV1JZbmtYZmlxWUEyTWt3RV9wblRJTnZabXd5dzNpdkVXZE5aNG1XY3FQcTRPMVdUZTFxcmt4TDVQWHduZC1relptbThjd0JTOU54Z1R3YVJ6eUhfd1hQdWNlWE5CY2hwbHpRN0VCaFlLQVpndUdWZ3JkdWlsb1NSdWtsTXptSlBscmhPM0RHWjFKT3lncV8wUHFIQlktMW8tYnNUR3gtRVdvMFI1LS1tTm5RZw?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 02:14:59 GMT",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Afreen Zeb shaped India's content creator market",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0pXdF9XcmJpcWxFc25DS2FwNDJOY3VrZUNkdHRpYnVIOGFIWE91R3ZnZkx4V01WbFltOFZ3azVkUWJ0ek9kUzJZbk1WeXpOcFNoaTFIT0Fpajcxby0yc0piUHVHQW1ERVBFRlRPQS1aZVhWdWdUWC03WXA1MDlHdE81WWc3aFVKSzA2Zkg0eHJNMnZJb1RxYVpnRnFJMWdMUU9OVU11TW43cXNhTE9hVVpB?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 03:26:17 GMT",
+        "source": "Awaz The Voice"
+      },
+      {
+        "title": "Registrar General of India notifies Household Questionnaire for Census 2027",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmhNUWFCZEl1RHJNaHVBUi1ZS0hvM0h0aFpNOUkxeTA1a2tFSVNaQ0NOcjVmX1M5aVJYSERXQnRRa3lnTHExS2lVUDM3eXhhOXdLbERCc3Z3QkZtckNDTjBFemltR0ZHUFNCVTdxZl9OODdRZlNjcDFwOW5XdUhZRlk3eE9kb1lBbFVoUXJvbmwtdHlMMVdOY3I2M3ZjVkZYOHZJ?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 21:01:56 GMT",
+        "source": "News On AIR"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Semantic XEO Launches AI Visibility Engineering for ChatGPT, Claude, and AI Agents",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1BYNmpTRV9JVEk2N25nMzhCRFozcDdrUFhSc1JvOHFLV0hyNHkySmVpZW9GNXgzSmxjcFZaOUVDcDRrNmtLby10WC1nSzJkREp4S0FZX2dJUW1XME45M3RRc2ZVR05yaHgwd2Uyd1BfM3E3ZmtUdGd5U1B4WTlGTTlCY3VYejl2VDBQaXFZdm9IdWtDYWZIRTgxQmh3Ulk5RHVZOHJrbUdSSFpreFVjWEo1dHkzRGc2bFk5VUU3SDBQMmlaM1o0b3FIMTlrMEJmWGxpMUVGaTdXSERFd0x4U2ttNWI?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 18:16:24 GMT",
+        "source": "ACCESS Newswire"
+      },
+      {
+        "title": "AI tools to master this summer to instantly boost your resume",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlZ1WWdYdFRwaEl2TUZickl3YXVpM2pkWU5sWFlhWG9QeGQ2NjhuTmJZeUQwd0N6NXRmVk5VWjV5YnR1Vk1raEhTeUZ4allaMEVwN2NfbXVfOUNpNlZ3SGxrQUI5SEV1WW5aekU4dUZOMERsYUFKSmFyT0lzLXNJeUk0eGV2MW1qaGMyTEtXRl9EQlJjQmVfdFFrQXlQU0xDMURtdXRCelJYSjdpVzRF?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 07:15:24 GMT",
+        "source": "College Recruiter"
+      },
+      {
+        "title": "Tecno Camon 50 Ultra 5G Review: A $420 AI Phone With Built-in Gemini, ChatGPT, DeepSeek, and Grok",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWgtRzFZLXdTc1ZtaEdpOURER1U1SUtydnpMZjJBVnZlY2xNOG5MbWJxcF9sTVMwZllhemh3TDhGeDJxdGpDX0N2TklaZEwwZFNPUXZYak5SeHV3clExTGg2RVpXMUgyN3NLS01vQUFDT1F4VkRoVVNpZU51VWxlMnJMSlV2NzliUGN3dlVVUmNfQ3JCdDdxRnNjbFgtYnYzbmxUQ0FvQ1dDWWc3S1FGb2N2VklzZ25fV1JrU0RuOGg1c0FBZ01GR19VZXRZaVNWcGfSAdIBQVVfeXFMT1VoLUcxWS13U3NWbWhHaTlEREdVNUlLcnZ6TGYyQVZ2ZWNsTThuTG1icXBfbE1TMGZZYXpod0w4RngycXRqQ19Ddk5JWmRMMGRTT1F2WGpOUnh1d3JRMUxoNkVaVzFIMjdzS0tNb0FBQ09ReFZEaFVTaWVOdVVsZTJyTEpVdjc5YlBjd3ZVVVJjX0NyQnQ3cUZzY2xYLWJ2M25sVENBb0NXQ1lnN0tRRm9jdlZJc2duX1dSa1NEbjhoNXNBQWdNRkdfVWV0WWlTVnBn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 01:46:59 GMT",
+        "source": "Yanko Design"
+      },
+      {
+        "title": "Why is Claude watermarking the content you generate?",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xOGZFejE0bGlONU1nZUZxZnpwU0FGdWpHOVR0WU81Q0FBNk9IR21vRlA1WmZWNGhHTmh6eVI2WnhreTViYjVxT0VvbEl6NlFqaXhCQUV6M2VaWU9mZ3RVWGZn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 00:33:06 GMT",
+        "source": "RUSSH"
+      },
+      {
+        "title": "The Sequence Radar- Issue 915: Last Week in AI: The Cursor Acquisition, New Grok and GLM Models, Anthropic’s Latest Deal, and River AI",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rV0xjZ01NZ2JqelNhYWNtaDVpQnYweGN3SUJST3luLUdFTHdlM1QyZ3F5WmNuZTFLU0xuaUVaTXVEX0pWR1pidE00Sjhnbm9UX2g1SVExVDVhOEtVTTVHYWRWTGpqS2g0MW9JQUliSFlvTW1lamd3?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 11:04:10 GMT",
+        "source": "TheSequence | Jesus Rodriguez"
+      },
+      {
+        "title": "Teens are turning to AI chatbots for emotional support — here's how to keep kids safe",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc09Dc0RObGppdmFrZU9UWU9DZV9kbS1taG9RM2cyakRIb0p1c1FMVDg5RjJsNkpNaXJRd0U4WGdjNE1KMjJnY1JTeDlmQWFyT2xJVU5wSWlkalY4X2tPUEpRTk16cl9rVVp1aHVyaHhYcWFoR3h4TlBDX0NQdWx4b0VOOVJhWDhZdjVBbHJR?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 09:01:00 GMT",
+        "source": "PhillyVoice"
+      },
+      {
+        "title": "LiteLLM Supply Chain Attack: What Happened and How to Avoid It",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGlLeGVUVnlYTTFEQTVmT0RsVURhaXNEcXljUEhxWWp6Z0U5TFBZNFQ2bkNUbkRFWGo4T29SVFRWTk5VSFV0V1dXdHpXTURab0lVUUhUbHBjVzkybDI5clFkdDhJakZHSTBNRksyT21WeUVIa0I5SFk4SWpMRVUzTFp3?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 14:27:58 GMT",
+        "source": "Pasquale Pillitteri"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Stock Market Today: Gift Nifty, Asian Markets To US-Iran War — Five Key Factors That May Drive Sensex, Nifty 50 on August 17",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUm9MR3lHdnpmWUNmdnJ2d0JpRmdfWGJ5d21zSzdqaEF3UFRfdWZteGU2MU5jUzFCdHVPLW8ybjcyX3BHSHgxTXpVajdTd3p4WGREY1BxZTY2cHctZHRId2lveGdlUG54WlhtRm9vQ3FRRWtmc3lhVDVTcWw3THVBS2FMWTVad294NmNLWlRCWHJxejN4R08tQnBCUmt4bEYwd0FqU1dCd2FCUnhNbjdSLUh2QXE4c0dEaW5kWmV6akdaekxIU3U3TW91M3hMUWloWFlyM1NZSTlRN3RsX0VNRk4zUmowZ3l1M2UtWWdVWDJwaHRTRXBqZm9HNXJyd9IB_gFBVV95cUxNUm9MR3lHdnpmWUNmdnJ2d0JpRmdfWGJ5d21zSzdqaEF3UFRfdWZteGU2MU5jUzFCdHVPLW8ybjcyX3BHSHgxTXpVajdTd3p4WGREY1BxZTY2cHctZHRId2lveGdlUG54WlhtRm9vQ3FRRWtmc3lhVDVTcWw3THVBS2FMWTVad294NmNLWlRCWHJxejN4R08tQnBCUmt4bEYwd0FqU1dCd2FCUnhNbjdSLUh2QXE4c0dEaW5kWmV6akdaekxIU3U3TW91M3hMUWloWFlyM1NZSTlRN3RsX0VNRk4zUmowZ3l1M2UtWWdVWDJwaHRTRXBqZm9HNXJydw?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 01:34:14 GMT",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "Stocks in news: Cochin Shipyard, Voltas, Patanjali Foods, and PhysicsWallah",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQa2lHXzVwXzdPWFpTMkN1OUEySTh5eDVFRGlnWUIzN3hiS1JUNUZuM1htVllXZ3RQZ2g0N000WW9YNjhPbTloWGtWckhqMjRxanFSNmFZOHlDWUxIeHQzcWsxQXFYbF9XR1pFVUU5a1RqZFhNdTMzOHVmMWhUYzF0MDhNdksyUUItbENHelNVNGh3T3BwU0Z5eUN1ZDBkeHZaTXNqaWhEdjA1WnNpLWFYQWZ1Z3E0UGFvN1E1OEg2VlRmLWt1NFN3azQtZS14TzZuNE9ESEk0WUxHdHppVHNZUXhqTTRWZ2dRYV96enJ6LXQ4TzRDWmtmb19uY0p3RlN4MVNZWU1QTVFmR00wZHJkajEyZjkyOXE0c0NZQXFPZC1PYWJ6bENiSUJfckl2cUNtbnVQY3lRN09rTERiNDdaQUk2M0t6cmfSAeMBQVVfeXFMT2c4ZTFtcGc0dHJMVVdNN0k3TFRZdmhMYWVBbEdKWEdydXpNX1V3dDF2RnI1OENHbzd4ZTkyVGQyM0hnaTZnMGxHRUd2NHBSajl3SkF5NFZ4cHA5YjNFZjBwem50ejlXeHUyWEw0WmUzYmNkTEhYRnVqaUpocTc5bWM3SFQ5WTJ3WHl6QlduaEl3bWVGOUFpMEJwSEN4LVZSSDlQVlBMX2VIRHBvWDFxa3BQV2gwblpJamFaSFJXblF0dXVLWnAtRkU5Z1ZMYjJWNEpYbUZsR0hxZ2hIbElWdG9KM1U?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 00:30:00 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Portfolio rejig: Here's what top 3 mutual fund houses bought & sold in July",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUVBFa2VtOHZNbUJTTzJFSU5Ka1NxdUV5dWloR3R2M2daWlppUlBxbk8zMldoTEkzYnpMc1lwaFloVjhXMXBVYkRQbjNOSHJ3dXg3Q2x3RXlVTHQtSmFXVUFhUnlnLVZ3LW4zTnVaUWtYMk9PSnJBZHBqRjRjZTVsVkZjRFhQVkFzZk1fTWZSZ0t0MWVONDAzWjY5M0ZTcmZSWFNybXdPZndJRnY4TzhLVzVzWXBCS01raTJMTjZPS3ZlZmg1TEJuN0FOcUN0b3oxRklaaFlYQVVJVUhzS1VrRlBHcGVFZDNWbURUYTFHVnNEUlBzUmZhV2ZqRVRiOW400gGGAkFVX3lxTE1NZXQyRGxuVlZqaWdkU21lblNNanZrUDhwNVVsOG1mZFRBSHFkcDh4R3pQUmtqOEwtWkNvdDdLM2d5SjZrNC1aYlBZUUpSNVZkQVk4ZkUxaFExR3Z2QTI3bjBnRlNPMkljRzZvaWk3MWRNMF9SZjdRN1VqZExaTTlNODlJRE5Mc295VjNKWHBlR3VFb1JsOVRPRVI0WjVSVUlZaEp4MXhpQUYzX2FDWDRFZEY5OEs3MU56QVdMTXpvVnN5QU0zak1uMzcyN0tqQzQyY1cwdUYwR3h3WE1hOHFCam1ZYWV3UDZUUk1MQWMweU5DdkVlQ3dOdTBHd1MxTUgwNTZTbnc?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 01:56:52 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "BSE SENSEX Today: Indian Benchmark Edges Up to 78,542.44 as Tech Stocks Offset Financial Weakness",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTkwS0hhMWl2eGY2S0t0eEthb2VmWFN2bllYRnVrbzVfQkJWTGtvbXV0NHk2SHhhUk9UWXp3UEdkN1p0dG1ZNVhFT2diNGMwcTZiVXJwOHVQS0ZwN3NoQnhxclBkenVGc0lDdlRoaHlEM3d2NEhrU0NuOVdfN3FhbWFsZG1nUWRvUmpxSW9rUk11MzFsUUp1NExSVEg1dmNsVXlPSENwU1BTcWhfc2dHNjh6NUNhRzFROXV1ZDNVTTU4MW1maTJrVGtPWQ?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 16:08:03 GMT",
+        "source": "BBN Times"
+      },
+      {
+        "title": "Stocks To Buy Today: Top Stock Picks By Motilal Oswal's Chandan Taparia",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQmNkWERIaWlyak1rcGo1RGQyeGIxdDF5d1EtM0M3aFVSdXd2UGpFR1R0Q3ZpaXpJclNwWll6NlNZVTY3eER0amxrR09UQXRNTE1uZ1A2eVVyemhJLVpNNEZCTnNpTG1NUWs4T2xadmJTdE54ck11Y1E1M0UyMmYtZ19YOHgwQ1pFLXFXYVFBU3RmNjhOclB6QWFHNlNkMGFnYUwzZzdtYnd2R3dFZEtSTGpVX1V1eEJpM0NUZmhCOWU2M1plOWt4Sl8yUmFEVzBtSmNTVldUMWpWOGtTS0owQ0l2bnBmZ3c0b3fSAeoBQVVfeXFMTkJjZFhESGlpcmpNa3BqNURkMnhiMXQxeXdRLTNDN2hVUnV3dlBqRUdUdEN2aWl6SXJTcFpZejZTWVU2N3hEdGpsa0dPVEF0TUxNbmdQNnlVcnpoSS1aTTRGQk5zaUxtTVFrOE9sWnZiU3ROeHJNdWNRNTNFMjJmLWdfWDh4MENaRS1xV2FRQVN0ZjY4TnJQekFhRzZTZDBhZ2FMM2c3bWJ3dkd3RWRLUkxqVV9VdXhCaTNDVGZoQjllNjNaZTlreEpfMlJhRFcwbUpjU1ZXVDFqVjhrU0tKMENJdm5wZmd3NG93?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 02:09:38 GMT",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPbUozREZMRlZZamFNM1FWMTFtNXFQNE5sTmhzc2hON2V6R1k3QWZCbjhLV1l5ZEgteG5OLUxYdFM3WjFoWmFhX2Fremt6ZU9zQ19ELWdjOE9yUGNXbVVxdE1zQW1QVWt3RjRmbWJxV3ljT3FzaGE3RGpycjZaVTNJTFpveWFfT1JpdDR0SUZmblF2ZXZkTGZiVi1RM0FlSnRkX0pwT2dpdlMwOXk4SjFuSlRGUWRhbmYyRHZJOVBrWEFMSmY5cHRlZ2swNEszNDQwQWI5SzBUS2l5UFpQMXBRMzJ6Mklid1B6Wk45WG5FaVdHOC1zbThmdTFnbWJoeS12eEw5dXpJamRSaWJQaGRMVk95eEtmdjZXaDI2SlFyamVaZDJnNndlbGc3bmw1NXJmcm04S3JzRHZSYkN4cG9IRDcxTk9pMTYx0gHkAUFVX3lxTE1aRGtITmxFLVJsR0stLWFoYjVfU04tTWg5TFp2U0JxNDY5cWcwYU9NZUlwMmxsQnJxS080UFZTbHRlWUlJX29ScTlMN19ZQ0FsdzhuRFpwYkE1empxamNyRE5Wc0o0WDNvSTlpVWJYR05qbE50X013ejBoM1lpdnRtcm9iWGxGVzhWSmZBMFBFb3VjNE9tRkJxV2FPa0VkeC1iQkhWNllRVDNocUYzUF9zRS1MUXBZYmJhNjFmNGJ2azVRVG1YRlI2aHlFa3NnN0RuUFJaelVsYm92QlpLYjc2U201OA?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 10:35:27 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 08:24:29 GMT",
+        "source": "Goodreturns"
+      },
+      {
+        "title": "Sensex, Nifty in focus: Hormuz tensions, crude oil, Fed minutes among key triggers",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekwxTlJTM2hSbjZ1XzljdEZHMWxZbGRseXJXd0FwcVlnS0xqZmM3LXR0cVBpazFLc1ByakhlaDNuX2hhZjBzcUY3WmhNSkk0OXUxYnZEUnJQMnpZU0pxNDB5NklQZmN3MU9McWpJQTBDN1lmZnhmaHNSWVRJRVhrcHowdV90ZUR4SnlvdV8xdm5RZzg3cWFQU051LXNZSFRHcElneUlqeFpCM0ZGeVNZSnpDV1JNNDRwQ0FGb1NmMHUxY3JaRkdmTmkxa0dvRm9Ea1pHX1FHd0s0Y2hLVVNYc9IB4AFBVV95cUxNekwxTlJTM2hSbjZ1XzljdEZHMWxZbGRseXJXd0FwcVlnS0xqZmM3LXR0cVBpazFLc1ByakhlaDNuX2hhZjBzcUY3WmhNSkk0OXUxYnZEUnJQMnpZU0pxNDB5NklQZmN3MU9McWpJQTBDN1lmZnhmaHNSWVRJRVhrcHowdV90ZUR4SnlvdV8xdm5RZzg3cWFQU051LXNZSFRHcElneUlqeFpCM0ZGeVNZSnpDV1JNNDRwQ0FGb1NmMHUxY3JaRkdmTmkxa0dvRm9Ea1pHX1FHd0s0Y2hLVVNYcw?oc=5",
+        "pubDate": "Sun, 16 Aug 2026 08:05:18 GMT",
+        "source": "Moneycontrol.com"
+      }
+    ]
   }
 }
