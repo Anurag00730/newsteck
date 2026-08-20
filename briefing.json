@@ -1,14 +1,8 @@
 {
   "date": "August 20, 2026",
-  "timestamp": "06:23 AM IST",
+  "timestamp": "07:43 AM IST",
   "sections": {
     "world": [
-      {
-        "title": "India news: Several killed in Kolkata hotel fire",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NjMU5LUnFQUFpLMGdHcmJNQzFOYm94YlRWVmllN1BrSG1Pd200X2Vlbi1WMndmc2x3YTI1TVNJRlNvTDFJYnZZemdxZTM1UUkzdEFTUm5BNE5kd2x2a1lIR25XT3A5T0lWaWRkejhadDZodjBqZl9CZUtuczdTUw?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 12:35:38 GMT",
-        "source": "DW.com"
-      },
       {
         "title": "Latest Hockey News and Updates",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTdHZVpoMVlxVm1TeC1YcGZOMWhtUlVGMWo0dF9xMzRlOVdRck5EaWN1T1AxWFkxcExWR1VqLTFqMlpoQ0tsaTFjR2EyUzIzVHV0T3psb1pKNVFKdEdja3NHSjV5ZUVIM3o5SnpGVmFPUlFTYkl5SUo0YlZ1MS05cDAxdzlMZXptYUsxejNLRG9ncFZ1VEpsZjhpOTFnbzNhZ0xiNV9JRnYxRDBnRWJtYnVLdlZvUQ?oc=5",
@@ -20,6 +14,12 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
         "pubDate": "Wed, 19 Aug 2026 11:58:26 GMT",
         "source": "News On AIR"
+      },
+      {
+        "title": "India news: Several killed in Kolkata hotel fire",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2NjMU5LUnFQUFpLMGdHcmJNQzFOYm94YlRWVmllN1BrSG1Pd200X2Vlbi1WMndmc2x3YTI1TVNJRlNvTDFJYnZZemdxZTM1UUkzdEFTUm5BNE5kd2x2a1lIR25XT3A5T0lWaWRkejhadDZodjBqZl9CZUtuczdTUw?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 08:45:36 GMT",
+        "source": "DW.com"
       },
       {
         "title": "L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market",
@@ -37,7 +37,7 @@
         "title": "India Replaces Indonesia As Asia's Least-Preferred Stock Market In Survey",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2pzcVlNZGN5Z3I3d0k0ZG15cVBTOG81QS1adjlPelZvd2VMSjdzTXVraUNoUHRWNmtwcEZNd25ETkJKR1c3REJvYVhfS0I5T1l1SHpoNDdyRVkzMEd3NVRQMXFQTTRrZmZKd0pPLXJ6UUtpcXJ1RTZhd1dsa2lWcU9leVhkSUU0RFlMV1FoUW1jYTBmV1J6Unk4dDZhLWwwRF9lNV94aERLSEJWb0dpdmdtWdIBuwFBVV95cUxNdUhXZHh5QzdadXBFbWJDazVkNWZNc3FBTklDMndfVUkzT0N2UmRzWGNrY3VJSHVfY2k3anMyaWZrdkxOX1ZvQ3ZmT3c1ZlRjcHJGUlp6UUlVTmtDSk9lSFZUZzdhTjRMU0FOVmREVHRxSHNaMkxtZzItTU15U29YbVJRMklKajlFWWRVam1jUENMMnpObnlESThlbmlvU0lhNlBLRmdleWd2aWN1VFhqd1ZxQ3Y4d1NqUmpR?oc=5",
         "pubDate": "Wed, 19 Aug 2026 13:03:09 GMT",
-        "source": "NDTV"
+        "source": "ndtv.com"
       },
       {
         "title": "Hockey World Cup 2026: India beat Pakistan 5-3 to reach second round",
@@ -53,6 +53,12 @@
       }
     ],
     "ai": [
+      {
+        "title": "AI Infrastructure Stocks For Indian Investors Watching Netweb KPIT And Tata Elxsi",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaElrZHU4SllfUkFSYW84cXBRNHNHeUdWbUV1bVZ0RllyYkJrY1h3cWdYZVl1d2tsTWl1d0N4VlNybjE3ejAtblVxdDd1eVNCeVppSjNoRnFmZTExdVRkM2l4TlZ4Sld4bWpQdk84LTNrUU5kZWRyN2pUWC1pQ0h0WWlwc0VEbGFxMkVJcmsyeFBTV05sYkJNSUxPa2w2d3dLRFVsVEo2SkNuMzRPZ050Uy1ROThCOE9Nc1otNGdtNl9haG43V0FITFpZdkRTT1cwSkl3R2dCdnFQdVI4SlFvRmpqV2nSAeQBQVVfeXFMT2hJa2R1OEpZX1JBUmFvOHFwUTRzR3lHVm1FdW1WdEZZcmJCa2NYd3FnWGVZdXdrbE1pdXdDeFZTcm4xN3owLW5VcXQ3dXlTQnlaaUozaEZxZmUxMXVUZDNpeE5WeEpXeG1qUHZPOC0za1FOZGVkcjdqVFgtaUNIdFlpcHNFRGxhcTJFSXJrMnhQU1dObGJCTUlMT2tsNnd3S0RVbFRKNkpDbjM0T2dOdFMtUTk4QjhPTXNaLTRnbTZfYWhuN1dBSExaWXZEU09XMEpJd0dnQnZxUHVSOEpRb0Zqaldp?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 15:37:07 GMT",
+        "source": "simplywall.st"
+      },
       {
         "title": "How to Answer AI System Design Interview Questions",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
@@ -94,12 +100,6 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTmJMeFNjdmRqTFFBd1FtSWRDUzV2aXVfM0FQVmNjMUNxaVpWdHgxWXpsM05VTnNTMzlhRnBpRlJnakhCNmRBLThVTS1oNWJzWjU1dVpkUVVnVU0tSHhkYUZHOGZ4am91cGFVSWs0VzQ4Z0cwV0JwUFV5ZWdVdw?oc=5",
         "pubDate": "Wed, 19 Aug 2026 21:24:00 GMT",
         "source": "The Business Journals"
-      },
-      {
-        "title": "ChatGPT Ads are expanding to 31 European countries",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOckNCZl9rSXZrSlRqUlB5NWxNUTFNUjRMNlpTYzE5UWxZcUhUbmZQZlhUb2VObEZyRDRORXlwcldicTY0REU4VHRJU2N2a3Rra294ckgybzhob2pNTEFRT3lYSGtjbENjMHFVZ2ZRMjRLa25fOW5UYkx2c2hseENTRG5Yc3FxT19INERjRUpNMA?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 14:22:00 GMT",
-        "source": "Search Engine Land"
       }
     ],
     "markets": [
@@ -107,7 +107,7 @@
         "title": "Market wrap: HCL Tech, Sun Pharma, Power Grid, Bajaj Finance top gainers and losers on Nifty and Sensex o",
         "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNlR6bVN6S2ppZ3pNak9idkpQSjVvZE1mWVJ2QTJqYUxic2w4NW5NcFF2Wkl1MWRqMVZaLTIwdEZRN1JCazVLd3RWUDdXczRoUVlWYjZEbzRUYkJGY0VmVi1nSWx3dmE3Vks0anpHVUU1b3dhVWlpZWN3bzNrOGpfQ2hFTTNsUEVHMW1CemRvQmZEdWpnN0ctVTJGeUxDaGludkVMTktjVWs0Ukc0cUVtLVRSZkRPUjFsZndDa0U4SE5SdlhENkNZQ0tYMzNrQURvX29xVkdYTWF3NDBucldldGZjOWRhRFlJZ1FJdWFWaU5VMXpYbVBmang0Mm5sQTVITWY5UUt2V2toS0p2LXhwUHc5Y2xFUzlsalRXZXdoX3DSAZoCQVVfeXFMTVh2UmJQbFR4X1ZDd3Yxcy1XVm9tZW1rWnlJTkJiRUhRUmwwYzlFT0hsbFo0NWNVaW5WSGZCeEhBbzdVUzhqV3NHa3FmeENsc2oxd3oya1RfSzNxbVdjbXNaVVhhVzRPeGpNcmREM1A1eWpHY1lrUm9ieGZ2NUZiUGVFdmxVRlQ4XzFjQzBZU3h6eFdIYk5MMGRfd3kwbVNEcGRId1hjZFItdE9qNU55ZGtqVGoxaFhiYkFIaEI2bGdpaEVhbU8zRFR2YWR4d0hfMmNQZHdKQjN5eEhsZmVHQVROU1JsQlFtNEsxa3luNGZMX3Z2Z2YyeGZoOVlCSkh6NXpHZVVJRGNCSlFVcEw1RWludHRPS2xvdGlR?oc=5",
         "pubDate": "Wed, 19 Aug 2026 12:12:19 GMT",
-        "source": "The Economic Times"
+        "source": "economictimes.indiatimes.com"
       },
       {
         "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 19, 2026",
