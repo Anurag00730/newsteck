@@ -1,6 +1,6 @@
 {
   "date": "August 21, 2026",
-  "timestamp": "01:51 AM IST",
+  "timestamp": "02:51 AM IST",
   "sections": {
     "world": [
       {
@@ -22,12 +22,6 @@
         "source": "Al Jazeera"
       },
       {
-        "title": "India allows duty-free imports of 1 million metric tons of raw sugar",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 16:03:20 GMT",
-        "source": "Reuters"
-      },
-      {
         "title": "PM Chairs Third High-Level Meeting with Secretaries to Government of India",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2ptM29ZdVJRM0lBRWgzRTV0akgwYUhhRG9BajJiZ3ZTZEl0YlBQR3RHNEdmc3FxUWxudG1ORk9kTFpYcFA4SzcwQnNyem1mYnBkUDdyZ0dVMjM2MWYzajU5UlVxVHlEMy1QcjFKVUFWZHpIT0J1cWJKZk9YQzZ4VEZzWl9RRHMzMFFwemU1aUFpcWE1TlItdjVERHhrZDV4dlNjdmRoREFVZzlTOVlEZXhycVBzMHFobkxOaG9lUmpZcVQ0MXc0SE9fUTFEME0?oc=5",
         "pubDate": "Thu, 20 Aug 2026 16:19:51 GMT",
@@ -35,9 +29,15 @@
       },
       {
         "title": "\"I Apologise To Indian Army\": Woman In Viral 'We Are Gen Z' Video",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ0gGrAUFVX3lxTFBnWm1jVDE2d1M4T0RJSlRFcFJhVjRRblFGdE5ndlNNWUlLeElUeVlJVUVCNnh6ZmlYaDljZlJUQ1REa1VIcmlNck1obVBMZmp4V1cxLXg2NzJSRDdwN3pQQ25CeUZGZEpQME1pbHFGODRTeGxvWjR6MmJKb1RPX1VUcUFXMy1kbWRlbElNOW9ER3haM0t1R01hN1lhV0RQZmFLS2wxVTlDd2lQMA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ?oc=5",
         "pubDate": "Thu, 20 Aug 2026 11:38:38 GMT",
         "source": "NDTV"
+      },
+      {
+        "title": "India allows duty-free imports of 1 million metric tons of raw sugar",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 16:03:20 GMT",
+        "source": "Reuters"
       },
       {
         "title": "Hockey Haryana defeat Hockey Chandigarh 3-1",
@@ -60,6 +60,12 @@
         "source": "World Trademark Review"
       },
       {
+        "title": "No, LLMs don’t just mimic human text",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSGNreWpaZ0tWM0VpS3EyakxZUGxxMEpBcFl6ZTdCelRZOXZ0dllzN1RuWFRXYlE1akNNMGUwS0lQTTZSQ2FxOU5seHZhb1poOWNNcF82WDN5M05nNWN4MWZpdlUzTXN0bVlDT1V1NXc?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 19:52:30 GMT",
+        "source": "Pangram"
+      },
+      {
         "title": "OpenAI slows AI training over safety. Sales growth also slows",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmVpd1dvR0hNWDFaYUdfYmcyN2p3Z2N5QVpYQUpwQU1mSFVxdlJqM1Mycm5yLXlYQ2h3X3pJb05qck5IcW9ZZUhocUVfOGN4QlpwZjNab3FDcElOZnhXNXZiSWZ4SlJYalVvWmlMR1VabjZtSTV1TDVrVC1TMWg0NXN6cTdWVjliZ1dhcV90djRLZ0RjSmgwN21NOVBOMWZWWWtr?oc=5",
         "pubDate": "Thu, 20 Aug 2026 08:00:51 GMT",
@@ -76,12 +82,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEhfLVEtMjZyUGtvM1B5WDl2bGM0czZYOHo2RHk0X19uOXp4bU9ua0VnOWFnY0ZQSS1oTWJnb1lIN3VOU2R2VEJNVVhQUDVLdFJLUFNLU0VtbXN1TFI4N2tvc3NDMjlJeTU4V0FWcWU4b3ZPZzg3eUV2SHhfUjFsQWZDdGo2SFZJNmZpYnNIYy1rZ0M0R2hGUUZoVE9ZSHc5S2VDSE9jb3NtWjZmNWhWejRfLTFmcUxlVHg3X0hQNkZ2U3cxTXNDSA?oc=5",
         "pubDate": "Thu, 20 Aug 2026 11:10:37 GMT",
         "source": "Ratopati"
-      },
-      {
-        "title": "Army's Pittsburgh AI center partners with Washington firm for new LLM",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTmJMeFNjdmRqTFFBd1FtSWRDUzV2aXVfM0FQVmNjMUNxaVpWdHgxWXpsM05VTnNTMzlhRnBpRlJnakhCNmRBLThVTS1oNWJzWjU1dVpkUVVnVU0tSHhkYUZHOGZ4am91cGFVSWs0VzQ4Z0cwV0JwUFV5ZWdVdw?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 21:24:00 GMT",
-        "source": "The Business Journals"
       },
       {
         "title": "Innovative Eyewear's smart glasses will read custom AI news aloud next week",
