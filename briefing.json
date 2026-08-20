@@ -1,13 +1,13 @@
 {
   "date": "August 20, 2026",
-  "timestamp": "08:57 PM IST",
+  "timestamp": "09:57 PM IST",
   "sections": {
     "world": [
       {
         "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3RiaThQbkVEZkxKSnBGWUdORV9NZ1NFMTJlbUVZaDJYZGpGeWZqdm9FN0JHT0pkTExkYlRlZDNEUmZtTlMtRVgtbExuYWxUOERPWGFZdkpRMEJKOTlIenFrdXlMSWp3WHlGYVd5RVdTa1ZhcDJEaFBvX2poRV9HczVxZ2lFVFhKWG1VbVZ2YVJ1OHlJMUVNMU53?oc=5",
         "pubDate": "Thu, 20 Aug 2026 11:42:38 GMT",
-        "source": "dw.com"
+        "source": "DW"
       },
       {
         "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
@@ -28,31 +28,43 @@
         "source": "NDTV"
       },
       {
+        "title": "PM Chairs Third High-Level Meeting with Secretaries to Government of India",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2ptM29ZdVJRM0lBRWgzRTV0akgwYUhhRG9BajJiZ3ZTZEl0YlBQR3RHNEdmc3FxUWxudG1ORk9kTFpYcFA4SzcwQnNyem1mYnBkUDdyZ0dVMjM2MWYzajU5UlVxVHlEMy1QcjFKVUFWZHpIT0J1cWJKZk9YQzZ4VEZzWl9RRHMzMFFwemU1aUFpcWE1TlItdjVERHhrZDV4dlNjdmRoREFVZzlTOVlEZXhycVBzMHFobkxOaG9lUmpZcVQ0MXc0SE9fUTFEME0?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 16:19:51 GMT",
+        "source": "PM India"
+      },
+      {
+        "title": "India allows duty-free imports of 1 million metric tons of raw sugar",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 14:07:55 GMT",
+        "source": "Reuters"
+      },
+      {
         "title": "India’s govt turns to Reels as young voters turn away",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2d4VVFtQ09lTEpmSGZRVlJhQTIxR2xpMENucUFISXVhZnhjamQ4SDJBN3hJY1AxNzFEaVd6TEMxT2JzSkJFbllFYnlBX09tN3VHQzJ1b0lWQ1dhaU1yeDdFcndzd2pOdTlDQ1hkRmowVk9leTNLY0NQcmthYWszOHdaUU0xWmIyREc4dUFrREjSAZABQVVfeXFMTV9neFVRbUNPZUxKZkhmUVZSYUEyMUdsaTBDbnFBSEl1YWZ4Y2pkOEgyQTd4SWNQMTcxRGlXekxDMU9ic0pCRW5ZRWJ5QV9PbTd1R0MydW9JVkNXYWlNcng3RXJ3c3dqTnU5Q0NYZEZqMFZPZXkzS2NDUHJrYWFrMzh3WlFNMVpiMkRHOHVBa0RI?oc=5",
         "pubDate": "Thu, 20 Aug 2026 12:16:00 GMT",
         "source": "ucanews.com"
       },
       {
-        "title": "India removes safety barricades, bollards outside Pakistan High Commission in Delhi | India News",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMlIyRUQyTVFBeGZITFlWSktvaEpheTFjVmI2T2doT2RGYW9QeHkzTTZEMWk4Sy1ocUV0cDNoVmh2amNBUnJYbHQ4ZnhheXgyLWpnMHF6THV5aW5XWUdyeUUxeTIxWmNSVGJXY0x2eUVscjFlaWJFeVFQSkZSZ2tPUnZZeDVkWWEyUWhFOUdqXzZIUWV4MHZOdXRYYjBCS0hldldJUWNZSi15MDVKR2NsenZaVTctS2h6X3BjTXc5bEVQWFctVXhmY1BNS01zcWdlclZXWDh2Rlp0dlNMUm83UWNkbUtvTEpnT3l5c2tJTHF6VzJqTEHSAfsBQVVfeXFMUFZOVzI0aXRQdXViWEpKVlZKbmNTZWF2WmZUaGJCcHhiQ2pkelk0TEVyVk53S0F2eGhJVlBoTE0xTWs4ZXUxeDJPRVNDXzM5U21xMzE5WXNya2xWcFVjZFU3M2NXNk9pcG1Lay1FQzVTUEc4OHppaXFwempMc0hSRFprZ1J5cXdrQmcyYVZmSUc1OXRCVWlqTWVuQ05HTnZmMzc5SjBrYkNXektYaGVVbVFicko3UkRSZEtHVXBMcktxZGVmYnVJdVFjT1pJNklobTZzNWZqX1hiMnBCaWhWaEtNT2lfcnBNS2E3OWhlV2hzc1UxcVpxZXdpLTg?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 02:44:44 GMT",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 12:42:24 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "In A Tit-For-Tat Move, New Delhi Removes Encroachments Outside Pak High Commission",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFJTVdva0d2Unp2eXp6RGxHYzhyb1BvSHNuRy1NdUs3VkFaUHlUWlpvZVJrZUlGMzZzSTh4ZlhPZDZ5SnA1WGM1SnlVTEl3X251THBJMzJJR3c0TGQ3aGVHaTh6TEszd2N0Q3JUYmp5cEdzaGNSTkJQUkZHU1lXY2pZUEstbUp5YXNVc3dmRVhpNGh6VGdmTVU1Q2pCS1QyWW5qNnFhV2NJbzM1Z2FmajBxb9IBuwFBVV95cUxNNFhFSllHQnVDQ3BlWUhGVlMySHh4RF9iYTlBX2MwcFJlRmJHazVxT1N4d1p4Sk9ERWhvNXgyVXFWNW5BbDNCNTc3ejVUb1ZnaEEwMUdkTmN1TDQ3cXBoeFluRTBRQ0tUTjc0N3NKRks1QkdyZ0ZoQVhJb1hEWG5iekxzek14Rm1HVWJhRHN5WVEzTVpIVVVYdU9mSVNOQ1NWbjJpSnNwbWhoZUN0VFA4bmVVc0lvc3N6WmZR?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 04:02:00 GMT",
-        "source": "NDTV"
+        "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1adXJZYXBuaHozM1NsczRJR1llbDExZzFwOFVlejZlNUJUZkVUbUFPaFZVbi1JV3dFTElrVjEtM0piNjJqRXIxbHlnUUJac3IxcklsbFlRbmllQQ?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 08:02:13 GMT",
+        "source": "BBC"
       }
     ],
     "ai": [
+      {
+        "title": "We Need Ongoing Monitoring of AI and Political Information",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3c1OVA3VHFkYXJaMXg1eVlXVDJWWmt5b0VOcy0td0tpWGF0Q3JrR1VGOTBLTDFkTm5WMTRuMkwxT0FseXUyM2ZVN0ZhMWNUTEFFdF9JZ05TVVI1RXAxejBQcmZKaHhBdVpfd2VhTlVRVW5EWl9Qc3RwSHV3OWRVank5RWo0STVnQ3h3M2ducGxKSGFKODJKNm1ScVhCVkJVT18xNGhPeEFrVDY0cTIxUDd0MXVhWWpwSHJ4aWhvQy0?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 20:06:33 GMT",
+        "source": "Carnegie Endowment for International Peace"
+      },
+      {
+        "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmc1ItY3JWdUNza08xWTlFSUxpMHNtZ0k3blBDNnh2Wi1vc2h4b2RWOER3S0dJQmpTZzFCYmVUc2dHZ3JtZG9fcC1Kb3V1Q3ZLN3I3NGFFelEwYWpBSWtNUU5iR2ItN2h0M3pVWF8tTngwN3VhbHloc0NEY2c?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 12:00:00 GMT",
+        "source": "ZDNET"
+      },
       {
         "title": "OpenAI slows AI training over safety. Sales growth also slows",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmVpd1dvR0hNWDFaYUdfYmcyN2p3Z2N5QVpYQUpwQU1mSFVxdlJqM1Mycm5yLXlYQ2h3X3pJb05qck5IcW9ZZUhocUVfOGN4QlpwZjNab3FDcElOZnhXNXZiSWZ4SlJYalVvWmlMR1VabjZtSTV1TDVrVC1TMWg0NXN6cTdWVjliZ1dhcV90djRLZ0RjSmgwN21NOVBOMWZWWWtr?oc=5",
@@ -66,16 +78,10 @@
         "source": "Ratopati"
       },
       {
-        "title": "AI Infrastructure Stocks For Indian Investors Watching Netweb KPIT And Tata Elxsi",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaElrZHU4SllfUkFSYW84cXBRNHNHeUdWbUV1bVZ0RllyYkJrY1h3cWdYZVl1d2tsTWl1d0N4VlNybjE3ejAtblVxdDd1eVNCeVppSjNoRnFmZTExdVRkM2l4TlZ4Sld4bWpQdk84LTNrUU5kZWRyN2pUWC1pQ0h0WWlwc0VEbGFxMkVJcmsyeFBTV05sYkJNSUxPa2w2d3dLRFVsVEo2SkNuMzRPZ050Uy1ROThCOE9Nc1otNGdtNl9haG43V0FITFpZdkRTT1cwSkl3R2dCdnFQdVI4SlFvRmpqV2nSAeQBQVVfeXFMT2hJa2R1OEpZX1JBUmFvOHFwUTRzR3lHVm1FdW1WdEZZcmJCa2NYd3FnWGVZdXdrbE1pdXdDeFZTcm4xN3owLW5VcXQ3dXlTQnlaaUozaEZxZmUxMXVUZDNpeE5WeEpXeG1qUHZPOC0za1FOZGVkcjdqVFgtaUNIdFlpcHNFRGxhcTJFSXJrMnhQU1dObGJCTUlMT2tsNnd3S0RVbFRKNkpDbjM0T2dOdFMtUTk4QjhPTXNaLTRnbTZfYWhuN1dBSExaWXZEU09XMEpJd0dnQnZxUHVSOEpRb0Zqaldp?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 15:37:07 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "6 Best AI Chatbot Stocks in 2026 and How to Invest",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2NpYU5iTXF3S0lwUVA3bmo2R2JlMEtJTkFtUmxNM0tlcU16Z0c4dnR0TXFUR1BObmtualB0TE1ZMW5fdHhPQTlqSXFJQ0R5ZEk0Nnk4Q1lLOHdKdDBubXp2dG5ULWZNQWJwMFBFV0pTV0k3QkJVVFRzYVVSSW1WMHB5enptOVhCcTRtVDlFcHlfdW4tMkhjR2JyOElONklyakNjaUoxbw?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 16:25:00 GMT",
-        "source": "The Motley Fool"
+        "title": "No, LLMs don’t just mimic human text",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSGNreWpaZ0tWM0VpS3EyakxZUGxxMEpBcFl6ZTdCelRZOXZ0dllzN1RuWFRXYlE1akNNMGUwS0lQTTZSQ2FxOU5seHZhb1poOWNNcF82WDN5M05nNWN4MWZpdlUzTXN0bVlDT1V1NXc?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 18:12:26 GMT",
+        "source": "Pangram"
       },
       {
         "title": "American billionaire Mark Cuban on how he will use Claude, ChatGPT and Gemini if he was a doctor",
@@ -94,12 +100,6 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTmJMeFNjdmRqTFFBd1FtSWRDUzV2aXVfM0FQVmNjMUNxaVpWdHgxWXpsM05VTnNTMzlhRnBpRlJnakhCNmRBLThVTS1oNWJzWjU1dVpkUVVnVU0tSHhkYUZHOGZ4am91cGFVSWs0VzQ4Z0cwV0JwUFV5ZWdVdw?oc=5",
         "pubDate": "Wed, 19 Aug 2026 21:24:00 GMT",
         "source": "The Business Journals"
-      },
-      {
-        "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmc1ItY3JWdUNza08xWTlFSUxpMHNtZ0k3blBDNnh2Wi1vc2h4b2RWOER3S0dJQmpTZzFCYmVUc2dHZ3JtZG9fcC1Kb3V1Q3ZLN3I3NGFFelEwYWpBSWtNUU5iR2ItN2h0M3pVWF8tTngwN3VhbHloc0NEY2c?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 12:00:00 GMT",
-        "source": "ZDNET"
       }
     ],
     "markets": [
