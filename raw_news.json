@@ -1,6 +1,6 @@
 {
   "date": "August 20, 2026",
-  "timestamp": "10:52 PM IST",
+  "timestamp": "11:59 PM IST",
   "sections": {
     "world": [
       {
@@ -22,6 +22,12 @@
         "source": "Al Jazeera"
       },
       {
+        "title": "India allows duty-free imports of 1 million metric tons of raw sugar",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 16:03:20 GMT",
+        "source": "Reuters"
+      },
+      {
         "title": "PM Chairs Third High-Level Meeting with Secretaries to Government of India",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2ptM29ZdVJRM0lBRWgzRTV0akgwYUhhRG9BajJiZ3ZTZEl0YlBQR3RHNEdmc3FxUWxudG1ORk9kTFpYcFA4SzcwQnNyem1mYnBkUDdyZ0dVMjM2MWYzajU5UlVxVHlEMy1QcjFKVUFWZHpIT0J1cWJKZk9YQzZ4VEZzWl9RRHMzMFFwemU1aUFpcWE1TlItdjVERHhrZDV4dlNjdmRoREFVZzlTOVlEZXhycVBzMHFobkxOaG9lUmpZcVQ0MXc0SE9fUTFEME0?oc=5",
         "pubDate": "Thu, 20 Aug 2026 16:19:51 GMT",
@@ -40,12 +46,6 @@
         "source": "Hockey India"
       },
       {
-        "title": "India allows duty-free imports of sugar",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 13:25:19 GMT",
-        "source": "Reuters"
-      },
-      {
         "title": "Protesters call off 26-day agitation over exam irregularities in Indian state",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1adXJZYXBuaHozM1NsczRJR1llbDExZzFwOFVlejZlNUJUZkVUbUFPaFZVbi1JV3dFTElrVjEtM0piNjJqRXIxbHlnUUJac3IxcklsbFlRbmllQQ?oc=5",
         "pubDate": "Thu, 20 Aug 2026 08:02:13 GMT",
@@ -54,16 +54,22 @@
     ],
     "ai": [
       {
-        "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmc1ItY3JWdUNza08xWTlFSUxpMHNtZ0k3blBDNnh2Wi1vc2h4b2RWOER3S0dJQmpTZzFCYmVUc2dHZ3JtZG9fcC1Kb3V1Q3ZLN3I3NGFFelEwYWpBSWtNUU5iR2ItN2h0M3pVWF8tTngwN3VhbHloc0NEY2c?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 12:00:00 GMT",
-        "source": "ZDNET"
+        "title": "Delhi High Court addresses copyright and LLM training in ANI v OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONkc3RkpUenlGRndVQ0Ztd2ZpcHRDTHlhZ1BKRU9fLUprb0FTVzdDVWRoQ3hKeW9wRmZIMHQzbkxOTmlZa1dxSG5MbEZ4Q2w4ekpwV3hkWjNjTzJJTXZ0V1g5SGstUENVTG53Rm5QQTZ4aW9rcWt2eFZvRHFUUkhXRjhobUd4TE82REFDcGZKS193SVpTc25SMURCcnRFRkhQVFRQdExZUjV4aF9LUmdrWjNOdXM?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 15:11:15 GMT",
+        "source": "World Trademark Review"
       },
       {
         "title": "OpenAI slows AI training over safety. Sales growth also slows",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmVpd1dvR0hNWDFaYUdfYmcyN2p3Z2N5QVpYQUpwQU1mSFVxdlJqM1Mycm5yLXlYQ2h3X3pJb05qck5IcW9ZZUhocUVfOGN4QlpwZjNab3FDcElOZnhXNXZiSWZ4SlJYalVvWmlMR1VabjZtSTV1TDVrVC1TMWg0NXN6cTdWVjliZ1dhcV90djRLZ0RjSmgwN21NOVBOMWZWWWtr?oc=5",
         "pubDate": "Thu, 20 Aug 2026 08:00:51 GMT",
         "source": "Computing UK"
+      },
+      {
+        "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmc1ItY3JWdUNza08xWTlFSUxpMHNtZ0k3blBDNnh2Wi1vc2h4b2RWOER3S0dJQmpTZzFCYmVUc2dHZ3JtZG9fcC1Kb3V1Q3ZLN3I3NGFFelEwYWpBSWtNUU5iR2ItN2h0M3pVWF8tTngwN3VhbHloc0NEY2c?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 12:00:00 GMT",
+        "source": "ZDNET"
       },
       {
         "title": "Apple Develops Own AI Model for China Market with Alibaba's Support",
@@ -78,28 +84,22 @@
         "source": "Stock Titan"
       },
       {
-        "title": "No, LLMs don’t just mimic human text",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSGNreWpaZ0tWM0VpS3EyakxZUGxxMEpBcFl6ZTdCelRZOXZ0dllzN1RuWFRXYlE1akNNMGUwS0lQTTZSQ2FxOU5seHZhb1poOWNNcF82WDN5M05nNWN4MWZpdlUzTXN0bVlDT1V1NXc?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 18:12:26 GMT",
-        "source": "Pangram"
-      },
-      {
         "title": "American billionaire Mark Cuban on how he will use Claude, ChatGPT and Gemini if he was a doctor",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQUpHdlQyT1FreXhQQnhMWjdSdFBhTWhDbjVTQXR1MUp6dlJRVTNVWFJpcEUyMW9JZkdJcDQyMDdPTjl4ZVRyMXJuSVdJU3VuVHVvUFh4OGIwSEROWlFrQjZ1UHhkSmtQcUlKZTk4WnNNNXdUdV9mTzRHcnFYeVdsQ1JPR2E2dkJkNS1iYWtWZmFycXlRbXh6NFhLZ3hyWVB3WnR4Tzk0X19zd2NBRTYxTC1VS1lyMVNCZ001bDdvZGc2SlZiSHRhbkdUTjBPU1lTS3QwWlBxaDNESU44SE1PZmphY0dWejktekFVLVFjZXdwNi05ek9UY2hneE9KWDF3R2pLMVhEZFctQdIBjwJBVV95cUxOaW41S2RadzRFeW4tWWtzMlBtd24tWkRhaDVGQ3dubzhRMUtmUUZpRkprMElJY0thN05SS0cxd2FqS1F3clc3d1FnRVh0Y3dXd29OWnNnVmlDbTdNMHQzak1yRmhkVWRkWlZTa0tiSV8yRDRycU1iNDF4YUV3S1hBazd5TUZtS19sNVlnOFRLMUI5RG5PNUgzY2p0WFQyM0F2Yy1FR2hYdGRhUDJENEdiRklpUU83NW9WMkxiRUF1QXdkYk9ZX1NxeUVrVjlUemVseEI4aXQ3V1pHVDFENm42YUlubl92alYwR0dCbVRNVDdfelYtbUxaU2J1UlFVb1hyMEd2VHpBRjFHYlhGLUdB?oc=5",
         "pubDate": "Thu, 20 Aug 2026 14:21:00 GMT",
         "source": "The Times of India"
       },
       {
+        "title": "Your AI Prompts Aren't Private: The Most (and Least) Invasive Chatbots, Ranked",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanVIN21NNGYyc3VDb05yeVh1RG9YcV9LMFBKaFdzMlN1ZDJWS2xDbHZsSVB0VjBwVzJuWS12Q3QtOTJtQkpudXozMjhERms4d3dlZEpVMFZRV0FhUFhUSXZkYmx6Q3VxdzhCT2kzZ042X1dnb25LbkMwWDNMaDJUUFF0LVhndEpvX1NaX2Y3NkRLVVFJTWxlakJRejhVSmh2VlZwb1h3?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 16:07:30 GMT",
+        "source": "PCMag"
+      },
+      {
         "title": "😺 Can AI actually predict the future? LLMs struggle here",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGpTRTkxX0p1SU9uRTNSQmlaVWpHazJiTmtxbGtfRTlyLWxvSlhYVnJQMVlCWTlibk53Vkg4R0FCdzRBdi0yTjhwdS00V2swb1VFTzFKRXBqU242RHR4Ulh3NW85bTBtb2F2eXRQUUdkdXpIY2ZYSTg4Uml2RzczTDE3aWlSMlRVNS14S29LVHY2Ni1YM0JF?oc=5",
         "pubDate": "Wed, 19 Aug 2026 19:50:38 GMT",
         "source": "The Neuron"
-      },
-      {
-        "title": "Army's Pittsburgh AI center partners with Washington firm for new LLM",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTmJMeFNjdmRqTFFBd1FtSWRDUzV2aXVfM0FQVmNjMUNxaVpWdHgxWXpsM05VTnNTMzlhRnBpRlJnakhCNmRBLThVTS1oNWJzWjU1dVpkUVVnVU0tSHhkYUZHOGZ4am91cGFVSWs0VzQ4Z0cwV0JwUFV5ZWdVdw?oc=5",
-        "pubDate": "Wed, 19 Aug 2026 21:24:00 GMT",
-        "source": "The Business Journals"
       }
     ],
     "markets": [
@@ -140,16 +140,16 @@
         "source": "Univest"
       },
       {
-        "title": "Stock markets rebound in early trade: Sensex jumps over 500 points, Nifty trades at 24,198 level",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGlEbHo0TlNFQ2J4QjB1OFlNWnJYWWxwSXNHaW93bWxycGt6X3UxNV96NC03MVkyb21lbkZjNG5Bd0d6Q0I5dWVWMi1aNTFjQnVPajFpczdqaXZ2b2w4cTZwZ0l2S2lVUHJqZnVoby1rTUF2bWtVNDRDU1FZRk03MGVUaUZxcW4yUkxMLWk4THFZUVppRURFc1VPenhQbnVDNGxXcXJEQlh3RV82RkRZdzdSLXJaVmVvWnc?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 05:04:33 GMT",
-        "source": "The Sen Times"
+        "title": "Stock Markets Today: Sensex Jumps Over 500 Points, Nifty at 24K",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSGVnR0Z5Ymgxb1dycXhtazNXcW1uRXZJemxIVUFXb19LazFadDAwVlFxa0o1NUVNMEp2cGlfM2w1d0FCNlctOFR0dkxEQlNBWUtTcFV0dU1oLXlZWGZsQU1RdUwwSDlVZ2E1bE5mSlk2OERPMk1UOVJFM2JRSm1lZTNLa3NfTWRPZHRBaWFTdXh6VHJlVDBBSXFWamIwNnVHanhxTVM5TXhyT1VOVktlUXlibjZMRFhmNmZCNm4yNk8wR29uT25rQXNSOVM2dlBKUHQxbTlFT05yUdIB3AFBVV95cUxPQTdLVGd4ZjEzdFMyYTV1dkdoeExJbzJ0Um9nLUU2S1pvYl90aXprMmlTdXpPTGQ4ek0zSnZCTjJDdExqMlUwYUZveUZXaERGSzR2eUphZGZ3V1l6Y0FlbHZlbHpKY2QtTkpqOU0yY0xzT19pVUxTLU1JZ1dyZ3FYaXI4aDdfclNJTm9HVUJSdmNtX3lCZHcwTmxpbFJadE9ZWWwxT0xrdXdQUlVwMUp6MVhOQmdHMVY5djJwbXdRZGJ5dkpKNjB2cXlPcVBTY3MzOE1PVzZaOXotaXFL?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 05:19:22 GMT",
+        "source": "Rediff"
       },
       {
         "title": "Sensex jumps 628 points, Nifty snaps 7-day losing streak",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnhPWDJWZnNhaTh2aW52bk5IUF9rMkg3VWUzRUFyQjhtSDh3eEs3MnF0bmtiby1vaWNwSjZUa2I3S1FDaDZZZ3RNS3RlelAxMkMzSkM2aUZmcE1Va29TQlFIUHppaERYeF9ZSGViSWlNUjFYVnAwSndLLXYtZldhQkd2a1pTOEJQWTFXNXZDTW8xVWN6WTlkS0kyMDdpRFFEek5FVElLVTBKZERaUi0wbHNtZFJGb0dSZzBKM0wtTVE3STAyR1pfYnRzdUhnS2pT0gHQAUFVX3lxTE5CeE9YMlZmc2FpOHZpbnZuTkhQX2sySDdVZTNFQXJCOG1IOHd4SzcycXRua2JvLW9pY3BKNlRrYjdLUUNoNllndE1LdGV6UDEyQzNKQzZpRmZwTVVrb1NCUUhQemloRFh4X1lIZWJJaU1SMVhWcDBKd0stdi1mV2FCR3ZrWlM4QlBZMVc1dkNNbzFVY3pZOWRLSTIwN2lEUUR6TkVUSUtVMEpkRFpSLTBsc21kUkZvR1JnMEozTC1NUTdJMDJHWl9idHN1SGdLalM?oc=5",
         "pubDate": "Thu, 20 Aug 2026 10:57:12 GMT",
-        "source": "Economic Times BFSI"
+        "source": "bfsi.economictimes.indiatimes.com"
       }
     ]
   }
