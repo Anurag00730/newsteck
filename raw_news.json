@@ -1,6 +1,6 @@
 {
   "date": "August 22, 2026",
-  "timestamp": "01:48 AM IST",
+  "timestamp": "02:47 AM IST",
   "sections": {
     "world": [
       {
@@ -22,12 +22,6 @@
         "source": "News On AIR"
       },
       {
-        "title": "India news: CJP team attacked during school inspection",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzFLclhoa0hGUWFBSzRNOVFTcmNkdTRheDdzRTg1Qm9PYmx1S2ZkVlU4bW5Ldmx1TEdld0pQSFFUbjlNcXpSXzNRMnd6QnRCMWhxU1RWUkloaXpHenN5ZmViYl95Rk1ubVEzMWZqV2lNdUpqLXdkS2xpZFRQVFRhQTlSSjhmVDFzaEZPYUtDMzFHeW9heC1R?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 12:43:10 GMT",
-        "source": "dw.com"
-      },
-      {
         "title": "Top news of the day: August 21, 2026",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0w0RXlKUnZid1c1bmg4RFp1WVY0SEsyTUtZWThRU1d0aHZRRWZhUjlmN3BEU3QtYlpGamhFdGIxQTN6TjhBMFZWWmd3eE5oWm9HVk1ZOURtU2F1WXlvQ0dtYWtZUXBLcnpOb1F2VEJ0S0Ewa09lMmlNT003UFFLMEczNXFBSklWdVc5LdIBkwFBVV95cUxQUkJxMEJhRHJKV2Uya1JobUxlbEpKUVZrWkVzZmYxeHJlNGxnWjZWVEY0NDZnTFVod0ZpUXF1a2h6dkJlZy1Ud0xOR29UUjUzVF96blA5RmdGdUh2MVNIWHlxc0Fyak9nazBOVS1VWUd4UjROd0FiZ0FMeWpLSUV2MHVqVEV1dnVCTXh3OW1yV0JJUUE?oc=5",
         "pubDate": "Fri, 21 Aug 2026 12:33:00 GMT",
@@ -38,6 +32,12 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZTBtYVIzQWdNM09CQTZnVy00T0x5TXZHNHZhSkJlbU02YmcyQjluNndiX0M2cmhocGtzUUlLX1NsQkYxQjltQ2dzR1dRSTExSFJVelZNUVl4dFVTZm5GSHlSdTJFMlhjWUNhREd6RTFsRVpIUnF1Q0VPSXRkd3Npd2s5UWNsX3plSkdWb1dBdDFnSmVKb3BxYUxnTjBidnl0bXJxbzBRNkI1Q1FPWldqdHRfQUhjTGRlT2JjOVF0cHExdkNycFc2c1JkdER4YWpYbEwwc2x0cjZZSlVETXc?oc=5",
         "pubDate": "Fri, 21 Aug 2026 05:42:25 GMT",
         "source": "Hockey India"
+      },
+      {
+        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3RiaThQbkVEZkxKSnBGWUdORV9NZ1NFMTJlbUVZaDJYZGpGeWZqdm9FN0JHT0pkTExkYlRlZDNEUmZtTlMtRVgtbExuYWxUOERPWGFZdkpRMEJKOTlIenFrdXlMSWp3WHlGYVd5RVdTa1ZhcDJEaFBvX2poRV9HczVxZ2lFVFhKWG1VbVZ2YVJ1OHlJMUVNMU53?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 02:05:50 GMT",
+        "source": "DW.com"
       },
       {
         "title": "After Denying Revanth Reddy's US Visit Request, Centre's \"Appropriate\" Remark",
@@ -54,6 +54,12 @@
     ],
     "ai": [
       {
+        "title": "3 India AI Stocks Tied To Data Centers And Autonomous Driving",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3A5S05HWEVfTVA1cjk4TURDMHBuemMxUEJHOXhiUkdpeHpIRUZyRko0YmgtYnFZbWphUThXSEU0a1pIM082SUgyUTJhSmN2RmRybXJMRDB6aElKcmp4aGIyZ3lSRl9MS0JZTWhYX0xXQ0RGOVpEbWFYcTg4bkJXNVdwdktZazJMME1tdk1GX2pYNXdnODlWN0xDSXlGZk1xM0RKekpVY1dfR0JYNHdtaVJsVFlnVTlvd1VIRzVxTTJwenRiZEtZZmEwZ1BFQURCUXc3a1BCYVg1TFB6aWFB0gHkAUFVX3lxTE5zcFhadk1PbXRxODRxcHRXbW1YeU9YallCaVpJcC1ueFdTV085cjZoSHdzVk9RVHAzdl9jRWFfNzRtcWlwOXQ4VnFSV2NIZXBFTmYwTVhtdVYtemt3STJSNHNic1NWNjRrRzFxbkxsNW5oZDJVejJWLTBQWVU3THN3VTlxeVZsUktwajBXZExYZy1BcFNneW53cUE0akxBUFZyY2VVWXdaNUEyTnJiOElSd3prcWRmRUhsZUpnZkZIelJyNkRCVWFfQlFKRk1JTEhRWDJPeGdjbE5fMEp5bTBVWDk4aQ?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 20:29:35 GMT",
+        "source": "simplywall.st"
+      },
+      {
         "title": "We Need Ongoing Monitoring of AI and Political Information",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3c1OVA3VHFkYXJaMXg1eVlXVDJWWmt5b0VOcy0td0tpWGF0Q3JrR1VGOTBLTDFkTm5WMTRuMkwxT0FseXUyM2ZVN0ZhMWNUTEFFdF9JZ05TVVI1RXAxejBQcmZKaHhBdVpfd2VhTlVRVW5EWl9Qc3RwSHV3OWRVank5RWo0STVnQ3h3M2ducGxKSGFKODJKNm1ScVhCVkJVT18xNGhPeEFrVDY0cTIxUDd0MXVhWWpwSHJ4aWhvQy0?oc=5",
         "pubDate": "Fri, 21 Aug 2026 01:07:30 GMT",
@@ -66,40 +72,34 @@
         "source": "The Globe and Mail"
       },
       {
-        "title": "AI Stocks With Real Enterprise Revenue Retail Investors Should Watch",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPem1UdVhBNV9wRXRhTTNBTWt6WUpmNEFlSkRudFd0Mlo2dEVrQjF4NEtWcDRRZ0JPbXFqYlhiaVh5VEQyWUtjRl82U0RVOTBjSS10TFRfSTIxMTZidDZnYlhLN0hFMkdoQVZUZ0NUT3NIbjJJVEJCdWhYNjdETmY5NDRDeWxsd2h4a0lmdU9zb2xEU0JxYm9qLWx3Z3hoT2cyZ2pzQXpzeDI5dC1ySU9GczluR0tINjlmNXJYZjNNZ1BSaUFyOVNjcmFBd9IBywFBVV95cUxPem1UdVhBNV9wRXRhTTNBTWt6WUpmNEFlSkRudFd0Mlo2dEVrQjF4NEtWcDRRZ0JPbXFqYlhiaVh5VEQyWUtjRl82U0RVOTBjSS10TFRfSTIxMTZidDZnYlhLN0hFMkdoQVZUZ0NUT3NIbjJJVEJCdWhYNjdETmY5NDRDeWxsd2h4a0lmdU9zb2xEU0JxYm9qLWx3Z3hoT2cyZ2pzQXpzeDI5dC1ySU9GczluR0tINjlmNXJYZjNNZ1BSaUFyOVNjcmFBdw?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 12:31:04 GMT",
-        "source": "simplywall.st"
-      },
-      {
         "title": "Large language models for small language communities are essential",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDJmQ0UzUnVZNzlhdzRudk5uWjVUc09za1h3Z21hc1U3cldmYjFTOVY0a29nMG43cHhBbUdQLWlzUjhGWlZZOG1NcFU0N3dCS2tQcktnYndHWGhxemltX0NtYzlDWkczeTRuRGpGVEEwc0FmVFJmWGFSUlc0NlBCLWZ1TEhyeDF6czItUjlnUnFNV09KT3JtUEYzbVFRZHJvTktSd0lkeVFwTnNXdWhVb0hB?oc=5",
         "pubDate": "Fri, 21 Aug 2026 02:59:00 GMT",
         "source": "The Business Times"
       },
       {
-        "title": "Your AI Prompts Aren't Private: The Most (and Least) Invasive Chatbots, Ranked",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanVIN21NNGYyc3VDb05yeVh1RG9YcV9LMFBKaFdzMlN1ZDJWS2xDbHZsSVB0VjBwVzJuWS12Q3QtOTJtQkpudXozMjhERms4d3dlZEpVMFZRV0FhUFhUSXZkYmx6Q3VxdzhCT2kzZ042X1dnb25LbkMwWDNMaDJUUFF0LVhndEpvX1NaX2Y3NkRLVVFJTWxlakJRejhVSmh2VlZwb1h3?oc=5",
-        "pubDate": "Thu, 20 Aug 2026 21:29:41 GMT",
-        "source": "PCMag"
+        "title": "AI Stocks With Real Enterprise Revenue Retail Investors Should Watch",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPem1UdVhBNV9wRXRhTTNBTWt6WUpmNEFlSkRudFd0Mlo2dEVrQjF4NEtWcDRRZ0JPbXFqYlhiaVh5VEQyWUtjRl82U0RVOTBjSS10TFRfSTIxMTZidDZnYlhLN0hFMkdoQVZUZ0NUT3NIbjJJVEJCdWhYNjdETmY5NDRDeWxsd2h4a0lmdU9zb2xEU0JxYm9qLWx3Z3hoT2cyZ2pzQXpzeDI5dC1ySU9GczluR0tINjlmNXJYZjNNZ1BSaUFyOVNjcmFBd9IBywFBVV95cUxPem1UdVhBNV9wRXRhTTNBTWt6WUpmNEFlSkRudFd0Mlo2dEVrQjF4NEtWcDRRZ0JPbXFqYlhiaVh5VEQyWUtjRl82U0RVOTBjSS10TFRfSTIxMTZidDZnYlhLN0hFMkdoQVZUZ0NUT3NIbjJJVEJCdWhYNjdETmY5NDRDeWxsd2h4a0lmdU9zb2xEU0JxYm9qLWx3Z3hoT2cyZ2pzQXpzeDI5dC1ySU9GczluR0tINjlmNXJYZjNNZ1BSaUFyOVNjcmFBdw?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 12:31:04 GMT",
+        "source": "simplywall.st"
       },
       {
-        "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 02:40:21 GMT",
-        "source": "Forbes"
-      },
-      {
-        "title": "USC Computer Scientist Answers Five Common Questions About AI",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzJSYnVPSUgzbnFHSnVldGo5SUdZVkJQMWU4eTlHVHNFMFRxWHlJaENvcEY4eDdqQVRIQWFPM0VMaXp0VERQWjR5YWJzYWZpSWtjbUJMOElTR0VaQkEyX0Z4SHAtVWxBdU9oTkdsam96ZzBxOHFSRzRRUWhLNmpDU3NtbWdwTFhyLTVoVzh2b1BjRHNaQkFxdTdhaHlPYjc1TFlQYUtWRm0?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 17:24:58 GMT",
-        "source": "USC Viterbi School of Engineering"
+        "title": "Teens are turning to AI chatbots for emotional support – here’s how to keep kids safe",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSnFkR0kwRlJEdTQ1a2RpLXpLbUp3T1p0SDNlZHNsWnNrTkJBWVlHZzZkdEg0VW40MFBKaW9pUmxvTmRRNmhBSzEyVm1XZ3pKMTljMGhPbGc2RWdoOE92Mlg3Q05wanppS245OW9zTklvVTRRVVdWVVlaVzRaNk5iLTc0b3UyLXZyel94Tzh6Y25ybUhGaEExMjR4ck5OQWdCb0JiMTQwYjNiSml4NDRBWFZhaHFhaG44Ty1ELXFzclR6dGNBZVp3WF9FUl96MS1HVno5d3BkdkJ5UVJQcnNNcmhWQQ?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 20:10:00 GMT",
+        "source": "Japan Today"
       },
       {
         "title": "Gravitate Publishes Research Series on AI Search Visibility as Answer Engine Optimization Becomes a Board-Level Priority",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQkxCX3ZxNDUtMkVpOFQ2QkIwcFZNc09rR3huWFBUYWtKSnpPaXczRjRla0Jna3hQd1FWaVh4dm9jLVNsZUpRemhfLVhUWElFem4zZjdVekxQczk0aGtLazRVcE5UMy1fN1BUMWtqUG1FSmJhUWJmeFJlNU1xbTJWdkZKajlNR1c5c05jcWxPWWpxQkJjTlNlMUNRcXBPWHNWWmVyM2tNUGN5TUhJTUxTS2dxbWZNMmlEUW9mS3ZGM0NFWlNzdi05dUMzcGVpa3JEdVl4STJiclNoRndJNERMYU5FNnRoQ2p1dnIyampDNmYzcFQ4b3AtMjNTSDljckhkVTdFc2dCNA?oc=5",
         "pubDate": "Fri, 21 Aug 2026 17:50:00 GMT",
         "source": "PR Newswire"
+      },
+      {
+        "title": "Your AI Prompts Aren't Private: The Most (and Least) Invasive Chatbots, Ranked",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanVIN21NNGYyc3VDb05yeVh1RG9YcV9LMFBKaFdzMlN1ZDJWS2xDbHZsSVB0VjBwVzJuWS12Q3QtOTJtQkpudXozMjhERms4d3dlZEpVMFZRV0FhUFhUSXZkYmx6Q3VxdzhCT2kzZ042X1dnb25LbkMwWDNMaDJUUFF0LVhndEpvX1NaX2Y3NkRLVVFJTWxlakJRejhVSmh2VlZwb1h3?oc=5",
+        "pubDate": "Thu, 20 Aug 2026 21:29:41 GMT",
+        "source": "PCMag"
       }
     ],
     "markets": [
@@ -122,16 +122,16 @@
         "source": "Liquide Blog"
       },
       {
-        "title": "Sensex Today | Stock Market Live: Sensex flat, Nifty at 24,250; ICICI Bank approves up to $5 billion",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2lwemJiS1U1QTg1a1pfTklPaFJUenBabGFzVUxabUlYZmpWR3ppaF9aWHZQZTctSTRWdmNCdnZ1bGdGRTJiZWlvcFdyVXcyWUE5X2xnS2RHTXpYc2dEaXhqNXJNTUNOVUhPVVpHR3gzMkRlMTNpdmZUY0IzR3BlaS1GbV8xbDF3X0ptVnU3b2hwYzNiNXZsWWhlRFhqZHN5Z0d3c0ZoZll1Y1pjZ0xRQVNmODgtN3ktdEg3NWJDU2d0NWdYWHEzUQ?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 07:13:03 GMT",
-        "source": "IndiaIPO"
-      },
-      {
         "title": "IIFL Finance soars 8%, hits new high on huge volume; what's driving stock?",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUm1WbWcxdEZyYktFb3A4WVJkZlZPXzhZcTMxVWI4cUFWZnFjaEVuejNiX3BGWloyYzlVWlNSZ1otNE51TkZvOEpiZ1NVSnpCNmJGR05KZFJOMElfZ2YzZ2ljZ0hOVDA5NXIwdm5XMkRRS3VLN0lkOGhjak9aYW9TbmxnWWhqUUxXbFVnU3RpbmhpcGtmTVY3Z04wSmxEUURTQmg0aEFaZHJybTJxN1diNnkxRHdMQkFFTlV5VmZhYmZrUTR2TW5kUkhtSWhzLU50ckVzQ1pfNEd3UVd6QVBGSnh4WdIB6AFBVV95cUxQZm96ZVpZNDF2ZFNBTi1wajEtOHQweGtFN3NSclNrSTJxZW1NNzNrWHdXeXR4XzlIdnZjZC1QSDI2cVZ1clVNVWhXdDhPeGJ4bFd2eWpSN1pWU2s1dHdFNVIyN2hzZkViOHpFa0ZCemVYaW11QUhOUnpVVmNRZjFUT1NGUTBoQVNaNzNzZDlLcUVINUpOZ1JFMUoteklHXzRTMXI2ZXVhQVp3c2daSXF5UEEwZjVmd2dPZDh1NHVmNGZfRHV1QWJ3cDN2bUJtNFd0alF5OVEyV3pERTJYSzJydkZELTRVOXox?oc=5",
         "pubDate": "Fri, 21 Aug 2026 07:19:39 GMT",
         "source": "Business Standard"
+      },
+      {
+        "title": "Sensex Today | Stock Market Live: Sensex flat, Nifty at 24,250; ICICI Bank approves up to $5 billion",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2lwemJiS1U1QTg1a1pfTklPaFJUenBabGFzVUxabUlYZmpWR3ppaF9aWHZQZTctSTRWdmNCdnZ1bGdGRTJiZWlvcFdyVXcyWUE5X2xnS2RHTXpYc2dEaXhqNXJNTUNOVUhPVVpHR3gzMkRlMTNpdmZUY0IzR3BlaS1GbV8xbDF3X0ptVnU3b2hwYzNiNXZsWWhlRFhqZHN5Z0d3c0ZoZll1Y1pjZ0xRQVNmODgtN3ktdEg3NWJDU2d0NWdYWHEzUQ?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 07:13:03 GMT",
+        "source": "IndiaIPO"
       },
       {
         "title": "Green Energy Stocks Show Mixed Performance As Indian Markets Trade Flat (21 August 2026)",
@@ -146,10 +146,10 @@
         "source": "The Economic Times"
       },
       {
-        "title": "Sensex jumps 628 points, Nifty snaps seven-day losing streak",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaldlek9PWWJ2dHQ4X0l0aUxjYXRvbTlvSnhYS0dMMVhSQ2c1TlVnaF9MWVNxRGhjOEFPdXNkTTRia25FZ0NIeGNubklmc1B0R2V4NWJmSGc1Z05WRzh6MFJuMUlNMWRBZkMwLTRlOWM3eWJHSGRMYmlJNDBPTFVFRUh6M1c4TVFXNklFdThB?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 05:49:00 GMT",
-        "source": "Nagaland Post"
+        "title": "Sensex, Nifty End Flat After Volatile Session; Metal, Financial Stocks Support Markets",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONlV3dzBfaGFYYjRCTTR1SUs1M0RjYkt4YkxLRDlueFhNbUhsNjBjenBPRGlIYmNuUWRQclQ5dTRFdlM0NG9iX21GaDhXZXhfMEdldDdWUVVZTmxNMktwWUt3MjNlSDRuSmxrdHpIYldjeG5iZmtXX0pXYVg4aHZQX21HYmJFQjFhX2JTd3Vrcm5NS2ZETi1aek1RdWJQMmxnbmwzWDdEdTB5YVhPclNMWUV4YkN4dGlLdEZ0bzR2OGhqdUFkXzBWY3dWVGMtYmVRa2RnTDdkMDVFUQ?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 10:23:47 GMT",
+        "source": "News18"
       }
     ]
   }
