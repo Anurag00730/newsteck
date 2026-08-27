@@ -1,93 +1,63 @@
 {
-  "date": "August 27, 2026",
-  "timestamp": "07:05 PM IST",
+  "date": "August 28, 2026",
+  "timestamp": "04:57 AM IST",
   "sections": {
     "world": [
       {
-        "title": "India news: Modi, Putin to hold talks in SCO summit",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVJtMXE0V0RLQV9oT0VEaTB2RVplcTRabk5wUTRVWEZDbHphLThNWWFxZTg3SS14MnlPZDEtNERvWDdWS0kzV1duUzI3WGRZSUg1WFFzdXBfT0lIUlBvTzNFbkR3UG9pRGZlc3pPek5OU3NmanpuRm5qTmJpSk9aT29ZSTJGS0E2RnNIa1Q3ZnRZTFVkbW1hVVMyZw?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 12:31:40 GMT",
-        "source": "DW.com"
+        "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 15:49:41 GMT",
+        "source": "News On AIR"
       },
       {
-        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 12:12:09 GMT",
-        "source": "News On AIR"
+        "title": "Indian men’s team looks to finish FIH Hockey World Cup 2026 on a winning note in 7th-8th place match against Belgium",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXJNdjVWdnVWTy05d1o2QWt2MnIzR1h5MnpNNjNic0tSczNTZFdaaHViU1A5OG9tWVM3QncydGpxLTk5ZWkzYnVyekZLcXlHcTlOYklTUjlYT3lpUWRtdTloQTZQRWFYZ0p6dEJxUkI1NHVqaWdlQVoyTXJRRWtfZjBUalNna0hhOUotNUlVdHZadm5LVVRoOWdLSjZOOGJycTNIanlRSERSdVBfWE1oQWt5eWRhSlNlM1JBT2hCRmpVWVNjZjdoS1pZck93MTd3dUo4U2VUOXRjMU1FT0ZmMHV3?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 18:03:18 GMT",
+        "source": "Hockey India"
       },
       {
         "title": "Indian Family Wipeout Over iPhone: The Dangerous Lure Of Consumer Tech Debt",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUVlYWZibGJ2OW1WaTJHZEpvOURmcktDdUp0UDBMdVUyTGRXU3p4Z1FvQnNnd0hzeW5ydUhJbWpJbnlFazNFYXBQYXMyOEV0bEdOU0dtUm5LS0VQemRTZ2ZtNGFXT2Mta1BORFFDYVBFcFg1czdVXzhQUU9GdFkwMTlsUUJSOHZvTWRYNFB1OWJ3M0VhSFl6Z3FGN0RJWWhIdXlMZG85cFFXVUUwYWpFVk5FMkRLZw?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 06:34:51 GMT",
+        "pubDate": "Thu, 27 Aug 2026 14:22:16 GMT",
         "source": "NDTV"
       },
       {
-        "title": "CHANDIGARH POLICE BRIEF OF CASES DATED-27.08.2026",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlZNTWZzRmQ0cWRmbWJ4aGk4M1BRb04zM1ROTVFnZWJtTV9tZGl5b0o0NW9NR1phVG40dkItemxzRXczaFhYclRfUUZjU3psT3U4NXZRMnY0OFk5U0dnRi1VZXRpakNUM0hGZjVwVHlsUTExV3ZUMFlkdURjNUtWRkYzd3RZTF9XbjhhMGhsLVJ0ODJpYmZ0YWJ2VmVWZw?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 11:51:24 GMT",
-        "source": ":: India News Calling ::"
+        "title": "India’s petroleum products’ exports surge 8% in July",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmJNOGNrdFR5V1B1WFVRZmJWUEI2clBGZzc2MmNVMnM3VE5mTENXdklXaE9faEdQTEJFTkY0eHNNTk5BMlhtbG5iR0x5QTR2UUdSNUVOQS1TSEZZUEFzTHEzU2l6dXhLWV9OQjF1LWFOQmxEM3BiV0lBbUVudDZ5Rm9DbTIycmpIVTU1OGctLWdsVnVYRmlTcWpsU01JXzhQRlVjVVpGZ2QtVzV3Rl91Q2JjdWxiTEQ20gG-AUFVX3lxTE9BTjR4bzZOV2VjM3RHMlVIOE04TkdHTTFUa1V2ZlQtVlktN2d6cGZDUDAtLVZNTHUyWEx2aDFWLUR1ZTR6eWlFdVQ0VE1SRTRPS2tReXdLdndadXRhYlpLa3AzeTg3ZE5jcHhvLW1wWGoxYjRJTlhhVVNCTFpFT1Z0QThHZ2VCeWtSMFNLU0tyb2JiNmhrWXFTdHBrMTlUSExlWFFiSGh0M1FYRG9nQUxIUTVnZlBnM3A4WTdRZHc?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 21:03:00 GMT",
+        "source": "The Times of India"
       },
       {
-        "title": "India A squads announced for Australia A Women’s tour of India",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkctcjFrMGtuN2pPLWhCZzZ0NnNFdEdSbTItNy1DQ1diT0JkdF8yZWViWnBUbzB3QlBKc0tIb2YzUkg1VmNwSlVwNTVSeGRxR2JnVTloWG91ZV9RVVQ5YUU2RnJIc2FhYlZLMzh1bm9vNm8yWTFwNVJ5LV9kenRWSWhhQzNZc1VvSlM3NDMzdlZxNG9VVHpHWUZ3?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 10:42:47 GMT",
-        "source": "BCCI"
+        "title": "India news: Modi, Putin to hold talks in SCO summit",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVJtMXE0V0RLQV9oT0VEaTB2RVplcTRabk5wUTRVWEZDbHphLThNWWFxZTg3SS14MnlPZDEtNERvWDdWS0kzV1duUzI3WGRZSUg1WFFzdXBfT0lIUlBvTzNFbkR3UG9pRGZlc3pPek5OU3NmanpuRm5qTmJpSk9aT29ZSTJGS0E2RnNIa1Q3ZnRZTFVkbW1hVVMyZw?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 07:05:22 GMT",
+        "source": "DW.com"
       },
       {
-        "title": "PM Modi addresses Khelo India Dialogue via video conferencing",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcG1GR1pmUU9UYjFyQzIyT3pycXp3VEVEVG9Sc2hVYzV6RFJ4OWJIX3BZZTVidVpmWWFubE1rbE8wS2QzWWYtY1IzbWlteGVUNmlzTGlCMjJVWS1tb0twSjNvY2tSQWx6eTc2WEpIOGJFZmN5Q3R0TWtiWUc1U1JPcWZWV1B0cUp5TmJNQ1lSNnA4NzVNRkE2VW9n?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 08:28:21 GMT",
-        "source": "News On AIR"
+        "title": "Indians reached immigration centre minutes before flood. Then lost contact",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2FsTHhYZzh5aWtZZmd2eXJDVFJQM0U0M0NVY2lZU1E5TlJoVTZpSzBWVnZLenI4MkR1ZnJBcUFlc2c0bXJEZnB1czJreU1MYUdrZC1ORDlvRFhxMlJFckhrcHZjdnVJY3l3U3JLWkhnajlkQkF1SHNaQmN2eTA3WE9MLTFIUjI3dUdmdWhfTjNGS0VhV3dJX1Z0dzR6WGF4TDBqeTlHLS1VaGPSAbIBQVVfeXFMTnpWUzdrY3VjQ2szNFJWYWxLQWNNS1p4QTJTMEJudGxJVXJUQ2FYN1FtTjFEVXJVdzBGcmZwRENkd2hybTRxUXNCMFhrZFlfTmNPOW9ZUWVfZ1RzY2R4aE82bmMwVzBaSXBMYTNaSWZuRTFXRHhoNkM0eTVVNzc5dWp2SGlpTGhZRFBiQkN6TG1MaUIzby04Q3FobGZ5bGl1QWVfbkVXYzBuenlDVUpPSk92Zw?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 19:32:00 GMT",
+        "source": "The Indian Express"
       },
       {
-        "title": "Indian-Origin US Couple On Kailash Yatra Goes Missing In Nepal Flash Floods",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZERDanRXNTlsZTlmX0t4cGxvMU96eHdjNmhtYXJ5aXlNUmw1aDhYbDBTR2h3TlJXcmpCT1JTQ3VZTWlsVVdGam1ndnRKNko2bVJ1dVpEdlItNU1EaXZ6X2J5U3FoaW5jb0FmQ3pSLXdKRkpQU3hfOXgxWGpOT0UxSFNiOFQ5VzIwZHZIWXF6bHpVc1dUaEJKTmY4RFFSSWZzay1MR3dGLVhrdGI1U1pMWjZIbE1Va050SEVSNl9VbWV4UW9qNnJQTTEwajhLdHA30gHYAUFVX3lxTE5GNlQ4cE9ZT2ExQjhoSGw3TXA2djhXUzFaM1RuZzBlVDlib1VnbXlSdkpxZXM4SXRXRGl5RVAtQlNkSm5yWGpnV016dmJnXzVYbEZjbUY2NC1GaXY1ZGsyY2FNczB3TjBZd2tiN09PMTF4SEIyRE9QUXlJQUhmYzA3WnBuNWVBUFBlSkZyYU9QN3RWbEtkUmhxV0NjWjZLeVNNZzQ3NjNqN0NwLWJHY0cxRGhxQkw0V19rcFNUU2t0WkExVG9TWkdTM3ZFNWhWT3F1end4TzFEVw?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 11:49:11 GMT",
+        "title": "\"Flash Floods A Warning To Collaborate\": Expert To NDTV On Indo-Nepal Ties",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHNQUERfMGhXVi1velkwUlJ5U2xnMXdFdzFlNjhZUFBiVkRfZGxRd255V0xTRW85WW1qblNPaUNSME1keVR1cWw3V2FKc3FQbnRxc19ydlJLUHZDdVlfZHBfWGM4ZnY2WDgwbXhNLU5rZGtKcURIRGRpdXJfeHBjand0cGJFMUFXN1JsTUdkSmY0UjVncDRkanh3Y09FaV9YaW9iRkRmWXpvWTVPcmo1VGpn0gG6AUFVX3lxTE4tRlJPUmpqcEFoclBlSV95U1NhS19MbUp4N1pYQm1uUExWTXpoMVRQUktpMnFYbVFMX0phRHQ2Z2ZPY05LNW5MYm5sbzFTNVZrRFVmNnZDcmZGQlFIWGVXY3FBdnhBX1QwckplbXhnaV8yazA3Q0RGU0t3OVRlWUwxYlJnQ1VzYUlMSXJRQ1gzU0NnOVpHMEZOUEtYdWNvcnhBQl91cEtfdnIycXZ0M3V3elAtS29qUFpYQQ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 18:57:54 GMT",
         "source": "NDTV"
       },
       {
-        "title": "\"What Melts In Himalayas...\": Nepal Minister Flags 'Common Threat' To India",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 05:21:29 GMT",
-        "source": "NDTV"
+        "title": "Latest Hockey News and Updates",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3dOdjVQQ2RGZWFWUFB1VDlCSE1sT0lHNVE5anVQMnBER1RKM3pBc1VxcWxSbjlNRGRIVXN6LVRwMXRUQjZCTjZOYzhDcUxOZ0QwX0VBWnM5aDlPYk9LTmZzWkIzSXZiOEpDRk1XamRUM1hVVFZKQ2FhY0FNQkVQa0JiY3djY0RJQkxsNnlOOW9zOWc2OU5NMGFoXzZGSjg1N09GcWM0SzRiSmV0VDhhQ0U1d0JPUUVqeTRYdzVUQl9KUE84dXNB?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 18:02:29 GMT",
+        "source": "Hockey India"
       }
     ],
     "ai": [
       {
-        "title": "LLM citation mastery: Tips from Axios publisher Nicholas Johnston",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTBQWXhZZFhWTFYzcWl4ZEllQXEyZUp1eXpOZmVzYzNJandfS0xsXzBNSkk3MEswcjZydkpCMU1yYmY4YUxfZUhYVFB5SmhSMGhQVkVTYUNoeUUwQkJ1ck5reXdSQS05dXVILUI0eTBmMVhPUlJOS1hTM09YcWxfdWt5bjMweFFhMEFyMnpHa2ppWmlmWGRxWDJKem1CSzBWMy15aw?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 11:08:53 GMT",
-        "source": "Press Gazette"
-      },
-      {
-        "title": "This six-course Claude AI and ChatGPT training bundle is $29.99",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkd0ZTlMMGpyanJQMnJZSUFjRWFDNjNqYV85MlJVWUY0NzFnclRsV1dVXzlSNFBHallzSFg1NUszREJaQzZpVHk4Mk04S213MG9yVHAxUm92Q0NaRjNwOG1paDM2UEY0bzlJWmZ0MnFLb25QZ1c2NTU5dk83TTRpYXdXaWxGWWM4RmRyTXBZdV8xMDhxRWZ2YUNzSXhxV3dTcEtNZ3dn?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 17:29:37 GMT",
-        "source": "Mashable"
-      },
-      {
-        "title": "LinkedIn users are rewriting the past to land jobs",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGh6QXFxeWRXREoxUXFMMmducnVTTDkxRWpsMFZjYnM2SGRVcjB0QndUcnFqV1pTTkpOeHM1dkNEbElJU0Z0empXdkdCbS1GaHJtUGp6V2JRdkI3QTZCSFpVdkd1T1dZLXl5RlpGRmhFV091YV9YNTFfdEpiUU5YUUFxaDhfaGtQVnI2Tm9sRWZkV2F3UXlabmpn?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 01:18:45 GMT",
-        "source": "The Malaysian Reserve"
-      },
-      {
-        "title": "The Best AI Chatbots for 2026",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDemRmcjN4ZTJlb0xjeU5HTXYzc0tTWFFYYi1uaENRN1NsQjhTU1pNZEZQa05FUEdNczdCREJWOThtRGdSR0JGOUZFbHpBcUd1RkhFclV2UzliTnNFNEd3TQ?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 15:59:31 GMT",
-        "source": "PCMag UK"
-      },
-      {
-        "title": "Who’s suing AI and who’s signing latest: Editorial Perfil sues OpenAI, News Corp vs Brave",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 17:23:34 GMT",
-        "source": "Press Gazette"
-      },
-      {
-        "title": "Three Large Language Models (LLMs), One Heart: A Comparative Evaluation of ChatGPT, Claude, and DeepSeek in Cardiac Imaging Patient Education",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcUMtZV9rWlhxRXpTWlVicGo1aHdEYV94OEI2M3A3cFd4RVdTNElTTG5obllfcjFlQmUwTjdKWlVyVS01RWd1SmVCc3lrM2NHbndfRV9paU1Td3ZsazAtTVFqZUVTWTAtczV4UnhXbnl4a08tR2Z6YTlqc1ZHUXVnb016SFFRdENGdEt2aWFMM29KeERtc2lJSGZ3ekhWbVFOOUtteG42bTc4S0UxbExLN1IzSVhLaUJtNFlPY2h1QmhGQXgtSFFXQW9UN2J4SjR6NFFtREtUVU01NEpndW5ULXlWZTZmRUpVbkFSRWZyTThvanNSNHhoRG5vb2ZLREVWVXctT3ZRalJCd1ZMZ1JPS3g3b0oyM1hHbUdoWS13?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 11:58:54 GMT",
-        "source": "Cureus"
+        "title": "OpenAI Expands to Brazil",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXVlUkQ3dDZCb0w5VzVwaUxiMXBVY1FvSWNfQzNXYUFpR3N3UTBULUt6Y1NDSl9OT2h1cDlxQ292Ukk4Q08yTHNZNG9heHpOc0ZQMDB6VEJfWGRLZFM1bnA3TG9GcENlLU5lXzNBdEx0ZHFsUGl6ZUVaVDhPNHJVX0JUQzhsV09BR2dIYnNQVFA?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 12:03:54 GMT",
+        "source": "StartupHub.ai"
       },
       {
         "title": "Microsoft Stock Leads 3 AI Infrastructure Picks Retail Investors Are Watching",
@@ -96,18 +66,60 @@
         "source": "simplywall.st"
       },
       {
-        "title": "OPINION | Why Bigger AI Models May Not Define the Future: The Rise Of Smarter, More Human AI",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjFsOHh4bDNzWkc1eTczcDRzaHplMWt6cVM1UkFkN1NNbnhqRkhmaE9xdHFtWlpLWVhMZ0d2c2J0OW9ZeWJVNGE3bkRBQU5TR2pjSXI5YnEyUXhYT0dXcVRyenJOOXRueDVsdnpmYkJjcnloNTZjYnVQY1drWklySnFmSm5Vajk0aHo2UW04aElyUURvTlBuRmtmRmxlV2_SAaQBQVVfeXFMTWxWUnBneURoaHpDOV8zODJSTHJKTkZjX1c5dEl1bGxOUVc4RFMzTzY3dmhQR1VSZ2lxX3hQVnMwdjBka2JOVlozYVU0YmpnWXMtQXB1VUxhVmpFMWRNQndzaTBFZVNrQzl5VExkTHBnei15aWtXeGZFckFsd1M1RHpVVXZGZ2pBWHh0UDhaZThMYXBXT1F5N21pSko1aHNXVUllSmc?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 06:08:25 GMT",
-        "source": "ABP Live English"
+        "title": "LLM citation mastery: Tips from Axios publisher Nicholas Johnston",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTBQWXhZZFhWTFYzcWl4ZEllQXEyZUp1eXpOZmVzYzNJandfS0xsXzBNSkk3MEswcjZydkpCMU1yYmY4YUxfZUhYVFB5SmhSMGhQVkVTYUNoeUUwQkJ1ck5reXdSQS05dXVILUI0eTBmMVhPUlJOS1hTM09YcWxfdWt5bjMweFFhMEFyMnpHa2ppWmlmWGRxWDJKem1CSzBWMy15aw?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 11:08:53 GMT",
+        "source": "Press Gazette"
+      },
+      {
+        "title": "AI Stocks With Real Enterprise Spending Behind Them",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTk1LSlhRRDRPWjJKcjlSTC15eFZJZkJCUjROSFdQQTBNa3lLU2VFRHFRUGVyQ1JLQVZGMlk5TXdBbW1HM1JmU3Fkay1QekFyUzN0VWUyQ2RWUTN5d2c5UXZOYmdlZF9iaEZaeEhPN0NvM2Nva2IxWXU5WGtvNnpFdm03cGZkZ1hTU1gtUmhwMnQyQ3Ata0R0RUVzdnJHYWJ1cEhpMFJwbVdZeXJSS29INENiYldEMlJqS25Uc3M2RnQwd9IBwgFBVV95cUxQTk1LSlhRRDRPWjJKcjlSTC15eFZJZkJCUjROSFdQQTBNa3lLU2VFRHFRUGVyQ1JLQVZGMlk5TXdBbW1HM1JmU3Fkay1QekFyUzN0VWUyQ2RWUTN5d2c5UXZOYmdlZF9iaEZaeEhPN0NvM2Nva2IxWXU5WGtvNnpFdm03cGZkZ1hTU1gtUmhwMnQyQ3Ata0R0RUVzdnJHYWJ1cEhpMFJwbVdZeXJSS29INENiYldEMlJqS25Uc3M2RnQwdw?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 16:07:38 GMT",
+        "source": "simplywall.st"
+      },
+      {
+        "title": "LinkedIn users are rewriting the past to land jobs",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGh6QXFxeWRXREoxUXFMMmducnVTTDkxRWpsMFZjYnM2SGRVcjB0QndUcnFqV1pTTkpOeHM1dkNEbElJU0Z0empXdkdCbS1GaHJtUGp6V2JRdkI3QTZCSFpVdkd1T1dZLXl5RlpGRmhFV091YV9YNTFfdEpiUU5YUUFxaDhfaGtQVnI2Tm9sRWZkV2F3UXlabmpn?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 01:18:45 GMT",
+        "source": "The Malaysian Reserve"
+      },
+      {
+        "title": "Claude Designer Is Insane...Ultimate Vibe Coding UI Workflow Passaggio A Livello (za4TlUrWaR)",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MRFA3eXYwOF93N3otOHhrLVIyMzhWV0hPNktPZFBCb19iX3J4SzJDRVJhQUFudWRKempvUzBERktiRXJfUWNVWTB1VThTTVVhSDk3YXM5N2pycVJJTEJQcQ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 04:55:22 GMT",
+        "source": "Mshale"
+      },
+      {
+        "title": "Three Large Language Models (LLMs), One Heart: A Comparative Evaluation of ChatGPT, Claude, and DeepSeek in Cardiac Imaging Patient Education",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQcUMtZV9rWlhxRXpTWlVicGo1aHdEYV94OEI2M3A3cFd4RVdTNElTTG5obllfcjFlQmUwTjdKWlVyVS01RWd1SmVCc3lrM2NHbndfRV9paU1Td3ZsazAtTVFqZUVTWTAtczV4UnhXbnl4a08tR2Z6YTlqc1ZHUXVnb016SFFRdENGdEt2aWFMM29KeERtc2lJSGZ3ekhWbVFOOUtteG42bTc4S0UxbExLN1IzSVhLaUJtNFlPY2h1QmhGQXgtSFFXQW9UN2J4SjR6NFFtREtUVU01NEpndW5ULXlWZTZmRUpVbkFSRWZyTThvanNSNHhoRG5vb2ZLREVWVXctT3ZRalJCd1ZMZ1JPS3g3b0oyM1hHbUdoWS13?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 11:58:54 GMT",
+        "source": "Cureus"
+      },
+      {
+        "title": "Can you learn how to detect AI writing? Here are some clues",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOGZ4bEJDejlDSkJPWDBhQXp2SHFGWDA2cjFxZlhjb0xybzRjYV9RVkVNTE5ENWsxZW9ZM2VQOUo4UkotYXhfYWFvMndMVTV6YThrcHJEd184TUkyYThYWk9VQmN3UlhyeENKN2l1b3g2cEp6Z1VyUE5pZ2NiU0prcjI5a0VsSWRQaGlrZGdaRmdRMzh0QmIzWm5yTzRfZE0wZFNMb0dSN1JhcGZQX3E5dURJdEJtRi1QbUVYMTNCRzhReXVQWGdUcVFaMUc4RmdV?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 22:04:00 GMT",
+        "source": "Startup Daily"
       }
     ],
     "markets": [
       {
-        "title": "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkVfYl9zQjkwdkxBOTJObklVaDNGOE1XUHhoX0xIUFhabG44UUc1ZlJLZmpxNjctOWdqV2xmdWE0bWdzOXFvUXl3TGh6M1ZUT2lQTGN3aUh5Yk1fVS1HV3hsbEd1YkppOVNuT1VxZVNOTVI4emhRLUMydGRfOEJyUGJqWkFXWTA?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 06:21:32 GMT",
-        "source": "The Economic Times"
+        "title": "Sensex falls 539 points, Nifty slips 0.48% as expiry volatility, Middle East uncertainty weigh",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdTFuMGc1dGRWSGRnd1N6TnNuajNGLVhCYnRTNWYtQ013TjFqc2kyZm5kdml1X0lDTlhJaGNiZVJMOFh2QXAzMHdTb0p6T3pNVUY4dTdWbkVSWmlCUGU4TUR4aWUxLVhLRlRSVUU3TVVSQThlSWNEY2k2d0JYVzlRS3VSYlFFVXN2YzNFRDk0VnlGamhMTkluZ1NxbUt1N1BSUy0yWV9jX3plZENubjNuVEtDTUNoeVNOQlJMd3psSFBROGFjSndxX3h3ZHBsNmNVak5sbnJHTFBWai1Jd0R4cVFMZU9PZzNydEVUZW03WndGUS1CX0Vwd2ZzRGlTeHc50gGAAkFVX3lxTE91MW4wZzV0ZFZIZGd3U3pOc25qM0YtWEJidFM1Zi1DTXdOMWpzaTJmbmR2aXVfSUNOWEloY2JlUkw4WHZBcDMwd1NvSnpPek1VRjh1N1ZuRVJaaUJQZThNRHhpZTEtWEtGVFJVRTdNVVJBOGVJY0RjaTZ3QlhXOVFLdVJiUUVVc3ZjM0VEOTRWeUZqaExOSW5nU3FtS3U3UFJTLTJZX2NfemVkQ25uM25US0NNQ2h5U05CUkx3emxIUFE4YWNKd3FfeHdkcGw2Y1VqTmxuckdMUFZqLUl3RHhxUUxlT09nM3J0RVRlbTdad0ZRLUJfRXB3ZnNEaVN4dzk?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 11:47:22 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1htanU5VmNRTEhnM0FDSVMtd1QzSHJsNmF5N08zWDFyUkN1cG5DUjFMTEd3WjlBS1JCbGpEWlRMRVNhQWF2YVZRRnN6a2NEcXRtOXVkck05WVk0Q0pxbWxsSXhFTVM1cHlvV0pSM21XZTZWa2FKYTlMRE01UTlfdjdiaTU5VnlWVlFEdmR1UXI5WUVWLUFBR2ZSMGlnUU50VVBDNHFWdG1hdXhJOHEyb2dSTmpxNlEwWHU0ZWRocVNyNUxSZlF3WU90SjMxc09EM2FhdFQtZFQ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 17:44:47 GMT",
+        "source": "Goodreturns"
+      },
+      {
+        "title": "Alpha Wave pares Aye Finance stake; Singularity, F3 Advisors among key buyers",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTRIS1ZhbVFzanlvMnVZTllQaVJjTExxVncxdHctUnBKMzFsUk1tR1ZBRm1nblMzMklWMFFVWExCN3F1N245ZzlYYXBtc2xuaVFrSjE0eG5td1I2ZGFId3Y5STlkYkpPU1Z3blJLRGJvbVM4Qzk4akVNZ05FWllPY0dZYlpFemI4QVZmTmo2TWZoLUZpUzdsV2VhV2F6c0dCMG0tZXVxWHhQNTNNYXFIZg?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 22:31:12 GMT",
+        "source": "IndiaIPO"
       },
       {
         "title": "Sensex falls 539 points, Nifty slips below 24,100; benchmarks end at 1-week lows",
@@ -134,22 +146,10 @@
         "source": "Business Standard"
       },
       {
-        "title": "Top stocks in news: ICICI Pru AMC, Vedanta, BEL, Aye Finance, IRB Infra, Foseco, Juniper Green, PFC - BusinessToday",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDUwNDRicXMxenNLRmpFRzNJZDVqek9FMkNpemVqWWI1LWhlU0gyWncyTHU0RXZlQ3JKUGxra2Y2TDFORWdQVXBIU1BNS1BmTU1UcDBEYlBhVy1NU1ZGV0hFc3hXS2hjMmF3b25hTEVyVDNDQVMybjJvV1oxajhxd1o5Qmc4SEM2eTQyRDRkel9ONzQxcWRpaTVUYTR5SDRESmVCanVhZXhIVlhGSXRFaHJuVWRIU1pHSS1HX2pRbE00QkE5Rm1lX0hzbEhaTEEzVVJSdG9QM0M?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 06:09:28 GMT",
-        "source": "IndiaIPO"
-      },
-      {
-        "title": "Stocks in news: Tata Power, Jio Financial Services, Bharat Electronics and Hindustan Copper",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbXplLUI3eGktUExFenFRcms3U0VHQU44eGF0eFlvWHgxb1hDcUpQN3NPM3kxUlFJR2tqbl9uVXRxeXhCclNHcTRUbEZCZUhESzg3QzJPT2FXanl1M3YxbDkwOGhiZHVWQ0pheWduNE9RRFdweUdnOEk2bnMyZFVtOTR2dy1mdWVxbHR6VDBTMjlMbEJjdjJBazBPeVI1RW9SSnlJWFA4MnVxLVVCZlEydWZGaF9aZHotVVI5NGpzam1nN19FZ2dydFVSaXl0SVVUTGE5bXY3b0FlSm53S2ZLYXVVTGtGQ3BsM1kwbUdESEl6WFBr0gH6AUFVX3lxTE5Nak9aOVQwTUoxcGhlV3VsZzVhSjBxc1NkNkl4Y0loQVV5YmRfcF9SVWtTTUJMUFZaaTZ0VUxUa08tMkQwUFN6M01EWUMtLUhfQTBGckFUME96U1IxSTltOWlZSkQ2MU1Gb2hPSmswR0lRdkxVNkdZcXA3bktwaHM0bE1UaUh0U2lUSGlYVjhSN2NOS01uTHBta3FYMjhSR0l6dVBNZkNCOTU1dW5EN3p6Z3pkSDRkNUptTTlqNXFLMnJLQ29qd1ViMWpzeDNmYkN4c0ZIalZsMXphMkJQbG81YVoyVzFJOWYxSlVpOEpjQVFvZkJDRzBHb3c?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 00:30:00 GMT",
-        "source": "The Economic Times"
-      },
-      {
-        "title": "Nifty, Sensex, Nifty Bank outlook for today: GIFT Nifty down 70 points; key levels to watch",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTVF5MURJR2didE5vc3RBSV9EaDBqcjUzc0hMQ3RnVERkWVk0d2hpVU9ERkswSllXSFhGUXJteUVDQU9EQkNUaUVUMTREdVQ1ZTY4RGM0N19WbmNLRW9FQ29zT0syRFNYbl9nX05JUEx5QjdxUDNwU0FKcGF2cVdMRndwNVpqWUNRSmdPM3JxUEFnRjVTb1F1V2s2OXN5YVBrRm01MDVfa3M5OVlFa0NSemk5M3RNNDVyeWtPY3hkSW9oY3drcVZzQWhFUW5TeFhYbVNMWUNLVE53am1Bd3NpblZn0gHnAUFVX3lxTE8zbUNERFdHay1yNXA0TzJEUkp2UGFTNXJxd3pXZzcyQ2dFV1g4c0gzR3I5UmNWaDJXenA0NjE1ckdpMTRCX3gzZ2dGS0ZNT3JVUEhFcnNvZmVpVXBIc3cycFd2M19iQ1NjWmhyYlVzLUxpYUNEZnp0NDZkcDdoaFltV2FsMERER3MxTGE4NmVYQWxkNldhcHFuTTh3a3lTTEpub3NaN3QzRjNYSV9WYnRPR1RGWlR1VWJtRlJWS0RURHd3VElzb1NMa2h1LXZnTVRoTDBPTHBhZi1CUHRWcjhpWk9xR0tvVQ?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 02:07:22 GMT",
-        "source": "Business Today"
+        "title": "Stock Market Today: Nifty Closes Near 23,000, Sensex Up 1.8%: IndiGo, L&T, Eternal, Asian Paints Top Gainers",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVNuZk95U3dsWEJfcEZxeDBLZXhGMzBFSmFDekdIX0pwQ19pWnhMS0RpTXZGYi1LYlJPSU1BY0JySmF4YlBYQ3Zib3RKWjdsalhEb3RlVkdja3hYVXpEeGNyYWp3UHAzYXY4enhQOHJDMENBTmlXQnc2clFSSW9xY2hDa0pHaUF0MXV3angzLVc3dEpHLWY0ei1ObDJwTXdzbzIydkFZNFgzZ3l0cGd0UDhYaDV0MEJ1d2w4aXZuWGtkOEJ3TlB2ZEFJZThQUG9Ha0V0U2R1bUg?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 18:15:27 GMT",
+        "source": "Goodreturns"
       }
     ]
   }
