@@ -1,20 +1,75 @@
 {
   "date": "September 03, 2026",
-  "timestamp": "05:58 PM IST",
+  "timestamp": "10:20 PM IST",
   "sections": {
-    "world": [],
-    "ai": [
+    "world": [
       {
-        "title": "Brain activity patterns could help sharpen LLM deductive reasoning",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGgxS1JDVnJOcEpSTVVkOTFldlhOVlFBbGpCeVc3SUFsM0E1cGk0bWREN2g4dnNvR3hjdDF0LWJTM3NjWXpqSkJNRWNNRDYwZnBnWVRCM19ld0s0VFNqV1FsSVR4TXRCeFdjX0g2WlBCZEpEeWo0ZC1hX0RXRGwyYk1mSQ?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 11:20:09 GMT",
-        "source": "Tech Xplore"
+        "title": "India GDP: Q1 growth defies oil shock but data faces credibility questions",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 07:11:46 GMT",
+        "source": "BBC"
       },
+      {
+        "title": "Education Minister Dharmendra Pradhan reiterates govt’s commitment to building strong research ecosystem in country",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWG13Z09VVWoyU1N0TkRpYllxcFZVR0pucGVwU1F6T2ZkS1JzbUg4ZWpnTElGbjNIa29tMTNWNnI2SmJ1TDRoLUljdmJ0Tm1mNFdwOTlyVHBGZGFCWW4wZERsUXBPdldzVUhIUlJtakhNYTNrM3dYWXRuQUt2QUtDTTM4SWdsZVhuQW9CZUNHd1c5aU9hSl84blVVY0ozcjlWQ3E2RTkzYUs1ckpTbWs4VWp4TEVvSDU2WG9MVzAwaXc4NjFNZkxTUUJ4VUdGeTEzZ3dWX2V5WQ?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 15:52:34 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "'Needs To Be More Mature': Mayawati On Nephew Akash Anand's Role In Party",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZC16RXdLRjlsMHRQc3RiWDVBWFp4cUk4S3pyWVE3MnpvQWxGci1EQ25wWk1aWDJWNVVicmVXT00yTDVSSEUyWnhXOG91SUwzbEcwYnlCOERTTUFsV19Vd3NtZEI3T0o2eFJyc1N5N25lNjU1clI5NmhhVUdIUEdVQkhIQ2NxOFc4aW5XVUFpcy12dEF3dGItN04tdEFmbXV0MFhJTnl6SGdpNzM2VlVV0gG3AUFVX3lxTE9IeEFCeGNTT0hFd1ViTDhHU3NxXzhqNTJhMWZ5Y08tQks3TVVyWGdwUUwzWDhQZm8xZDIxa216SDJobDVrblptZjBtSEhqcFNpRnpxZE5DOUlPMlFKZHozV3ZIQ1hGSnZaVXoyR01tTDFDanF6N2txMTJLYy1STFFfODY0WVdkMnJ6TUx1ZXpBN2lERmlCWVo2N0FBNm9GWUxfX3ZVNnh2cjQ5ZzNORFBMM0dVVFBNOA?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 14:02:51 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 02:44:29 GMT",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "India-Belgium Joint Statement on the visit of the PM of Belgium to India",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVBKYm9DSXBKVHI5eTRJNEpodDFjMHAxY0pISXFwek1QZGVvMWVhd3ZlcmZQVHNOdUF0ZElfZVgyMWZsbXhsOEQ2MUFEQkVLWTRXdzFUTFZSekRxYWdqT1dpMkZ4SEdMWnl3SnAzSmhPWWtPYUxEREJnR2x0QTBzdUZKUlZjT1VFNXZyaVM1V1huNHF2R2M3T1BVcFdPNHE2OHluMFhub0RUWGhiWTBiODdQbHlyaGtUNExSaldma1hvOVQyY0dfR0JZN0U?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 09:55:05 GMT",
+        "source": "PM India"
+      },
+      {
+        "title": "US’ ‘no country should help’ warning after India-Iran meeting",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTklMV201QUlPMXUyQmtBTkpDSjU4b2tPY2NqOXRKZzNPcVN4Y3FJMVhvOXBieWM1SWk5YnBjM3Q3ME95OWtJc3BhLUcxd2d0U1l1OWxyOGN2d1RPbTRPZlVYUXpJQWQ1dU9mYjQ4a2xvcE1Gb0JBRVN6MjlTOUxxTDQzTHUtUWZtYlEwdFhZRW5neE83RWFiTDFUNDVWTzZHb0ZFQkpoYVNZQVXSAbIBQVVfeXFMT2Frd1JWZndtMVAzaUZOdVZmdVAtS0Jxd2pUU05Yb3pxdVNfWGFuVkpZYlFZYjJNUW1tOFhPcV9IVmFBZHIyYUZuQVZoOTZJZ1hyQkRCeGQ5VWVQUFVyYTlrRHZBRFJsbTRlVE9TNzV3eV9EU2x0bzRNVF9HNEEtR09OajR1a2pUXzVCbkdqQ1NnbnpXWVYxb2NaRjVvYnI4YVdyR201bEp2T2xoTDR5WjEwdw?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 04:33:25 GMT",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "India news: Jaishankar offers help to end war in Ukraine",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGF1dmVoZ21EQjgwVGJETWZNUTNGWk1Cc3dxa0VHYjBIQnRYZjZpUk1sV2dGSWFGOEpiWGYydzdjV1JmaXR1clRhaUlUZkdNWlZSWkpKV19QNUkwQ3g5M0RyUDdQMnNjMlNpYkMxbzZldG9FMUxpOVlMZWFxWlVmQlI4X200aV8yVHRPVndRMWdWM19sVUE?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 08:11:22 GMT",
+        "source": "dw.com"
+      },
+      {
+        "title": "‘India lost to Ireland. Has cricket ended?’: Mohsin Naqvi hits back at critics, defends Pakistan cricket",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQ3diVG5DSHVoSmxzVHJpVU9mT0ZFT2RnTEFCLXFxdkRPZjI2YTU3Uzl6U0xCQW02LWRyRWdGOW1zYWdCTmU4Tm5GRVl6TUs3N3MyYzFzdFhuVlN3aElubHZ5bkhvclFiNUxldmZrek5vRXZ3NHpNSnlxX01ELWtMa1hMSmMwY3cyajc3OXJoQ1BIWlJsVmpld2FxbW9KR3hsZkVnWWdlcjgzQ2hVWEFJOUdJOTZlTnlYY0ZobkVOWmM0M2d0TTRZd2tkQWxEYzRDSWJTWmxrVXhhdlU1VGprYWhxdWM4SjZlbG5Ic19QNThHbmhJakZZTXlwSy1ZMFNpQTFjTmRZd0dCa0ttX3NMdlhmMmdGMDNE0gGeAkFVX3lxTE51MDA0cjdwZDF2VW9UN3lEUmtHRC1MOWp1SUV4aFh0SDZrUDcxeVkzaWRBLWk2elZubkh1cFRDWlJ6RWZ3ZkNWRUhyTHgwYV9uQm01aXR0bngtRXZYMkw0dDR5WXVNR1VtZGY5ZU5KX016dG1yN002RDM0Nmt1dFE0ZDdoUnNqc3owTHRXYTBBTElidFNmWnRCTEhSOGR0anh0X0hZMXU2c0g2T2Y1ZmN3bUtDR3lfVDY5M200MFRZeHQzQmZxdXZSdmVCV1ZZUUdFWWhsSklzTHAwNjhpWUdfMVd1S1F5cmhEZlJ6Y0JOMUJXaFA4OUMxU3RpclQxM3ZPWWFDcWVIRVlTWG5vQVZTMWtzNUJCRWxNLVltbUE?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 12:27:00 GMT",
+        "source": "The Times of India"
+      }
+    ],
+    "ai": [
       {
         "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
         "pubDate": "Thu, 03 Sep 2026 00:55:07 GMT",
-        "source": "washingtonpost.com"
+        "source": "The Washington Post"
+      },
+      {
+        "title": "AI SEO Tools for 2026: 10 Tools for AI Search Visibility, Content & Optimization",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGhZaW1RUklJbFRqZ0lpOGNPYmN2RUZGVllLMUdmYlp6aFpDa0I1c1EzMkxvZ1p0akNtcG8teXNzOTY3SGN2c1Ntazg1SHRfVVRna0EydmNrNFd5LXNpcG5JaTBPRDNHV0FuM3AxN3Y2LWpWSkQxZmtGV01NYmlRWWlIVC15ejg4M1ZlYTctQUhNM3BtYzV5X0Z5TlFFMW5RbEp0eW81cjVOV0I1VnhZSGRiWdIBwAFBVV95cUxNOGlHeVhwV3IzLTdtQU54dC10WVJnQW11dWl2VzF6Q0hsMFlQSDZLUGY4b2pqc0tVZlcwQkpmOGt4bWFER3loYUdZMVRwUVFMV3hJSi1RdC13TEhKVXo2ZVcxRHlpTXdtQUhlY05TNzBTMHZQeEd3VUxtaWNqYmlFLXBiOTlXYmgyY3doM01QVkdSdXExS0wyRkszbEU4RHRWWFZZMENNWlk3YlRwRUpCYnZRN2RHWG1hdVpsbTRZelg?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT",
+        "source": "Analytics Insight"
+      },
+      {
+        "title": "Brands vs. bots: CMOs, ad agencies tell all about what they’ve learned marketing to our new AI overlords",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGN6cUhnZk1FVUtaX2s5T1lTTnZOODFVOW5xT3B6TFFXYm9Mcmw1QTRJdFhNZVNQSVd1YUtmbnJkSmNXMFZpT1BBRUtzMWJaczBmdHhGU1ZuQnNBZFpsMk05Y183RFVtMVFpNkt5aHlTMWlJWGcza2E0NFFVdWF0S0V1MHRqLVE1S0diN2c3TXFwR1oxbVdLN0hndlFhdHQtd3hET1VIa19laV9JQk5HU2VUWVNaRTlhbFl0dWxQVGhZaXBLb3VBTGNfZnU5aGktN05v?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 04:59:48 GMT",
+        "source": "fastcompany.com"
       },
       {
         "title": "Capstone Investments – Sept 2 2026",
@@ -23,16 +78,16 @@
         "source": "Hebron Journal Register"
       },
       {
+        "title": "Observability: Why It’s Important For AI and LLM Applications",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1VtOVB6SlhMMzZmMHFENy1LeEV1YTFzLURaUXhTOEpKRC1kRE4zSWZlR2hwRGRacmtfdThDQmt1TWt2RUZMcGVvOWxDSWhUbU53TEJRZGpNZVhwS0ZwUmdpbXNuTk5ib1hRcFNvTEVwLXZBMlRjNi12Q3h2Tmk4cWJucUFUMDhVNTktUjE4ZXJ0LTB1MkJhY3cwQWdwVXZI?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 04:30:39 GMT",
+        "source": "Open Source For You"
+      },
+      {
         "title": "This six-course Claude AI and ChatGPT training bundle is $29.99",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkd0ZTlMMGpyanJQMnJZSUFjRWFDNjNqYV85MlJVWUY0NzFnclRsV1dVXzlSNFBHallzSFg1NUszREJaQzZpVHk4Mk04S213MG9yVHAxUm92Q0NaRjNwOG1paDM2UEY0bzlJWmZ0MnFLb25QZ1c2NTU5dk83TTRpYXdXaWxGWWM4RmRyTXBZdV8xMDhxRWZ2YUNzSXhxV3dTcEtNZ3dn?oc=5",
         "pubDate": "Thu, 03 Sep 2026 08:59:00 GMT",
         "source": "Mashable"
-      },
-      {
-        "title": "How eager-to-please AI chatbots create an echo chamber for narcissism",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXJkaUlvRVVsdkdWVHhzb3cxVmtGcmxvd3NraUEwTTZaTG5OR3c5R1c4Wm5Za2ZnRWxwTXRNU3VXUGw1ZVBMcjJCbkNfQl9wVWZVSC1oSndFRmFTR2toMFBrenM0LVgwaTVnamJIOTFHZEV2SWRPTHJpbC1iZDNoUFBObV9YdkhxUHNrdUxRZWlaS28?oc=5",
-        "pubDate": "Wed, 02 Sep 2026 19:28:22 GMT",
-        "source": "Straight Arrow"
       },
       {
         "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
@@ -41,16 +96,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "US govt sides with OpenAI in New York Times copyright lawsuit",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ21ucURndnNxVk9UUTFNa0pCMW42cG83YzZXb0lPUHJnQ1FDX1E0aWxFNkJTdUNIaGdRcTFTdDVyUG9Ma1RVeFVORUkyZVFzVHYwalMzWHFpZTIwcWpoZ3NnZmFXYWtrZS1NRnZsa2RRcGF1SU8xOExIMFJpM3Y3UVItSEY0SmdLaTdjX0h4eXJLaXp5R0NwUTNNRlN1T1NfaDZpN1FEVmZQMTY0?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 09:25:35 GMT",
-        "source": "France 24"
-      },
-      {
-        "title": "AI SEO Tools for 2026: 10 Tools for AI Search Visibility, Content & Optimization",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGhZaW1RUklJbFRqZ0lpOGNPYmN2RUZGVllLMUdmYlp6aFpDa0I1c1EzMkxvZ1p0akNtcG8teXNzOTY3SGN2c1Ntazg1SHRfVVRna0EydmNrNFd5LXNpcG5JaTBPRDNHV0FuM3AxN3Y2LWpWSkQxZmtGV01NYmlRWWlIVC15ejg4M1ZlYTctQUhNM3BtYzV5X0Z5TlFFMW5RbEp0eW81cjVOV0I1VnhZSGRiWdIBwAFBVV95cUxNOGlHeVhwV3IzLTdtQU54dC10WVJnQW11dWl2VzF6Q0hsMFlQSDZLUGY4b2pqc0tVZlcwQkpmOGt4bWFER3loYUdZMVRwUVFMV3hJSi1RdC13TEhKVXo2ZVcxRHlpTXdtQUhlY05TNzBTMHZQeEd3VUxtaWNqYmlFLXBiOTlXYmgyY3doM01QVkdSdXExS0wyRkszbEU4RHRWWFZZMENNWlk3YlRwRUpCYnZRN2RHWG1hdVpsbTRZelg?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT",
-        "source": "Analytics Insight"
+        "title": "How eager-to-please AI chatbots create an echo chamber for narcissism",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXJkaUlvRVVsdkdWVHhzb3cxVmtGcmxvd3NraUEwTTZaTG5OR3c5R1c4Wm5Za2ZnRWxwTXRNU3VXUGw1ZVBMcjJCbkNfQl9wVWZVSC1oSndFRmFTR2toMFBrenM0LVgwaTVnamJIOTFHZEV2SWRPTHJpbC1iZDNoUFBObV9YdkhxUHNrdUxRZWlaS28?oc=5",
+        "pubDate": "Wed, 02 Sep 2026 19:28:22 GMT",
+        "source": "Straight Arrow"
       }
     ],
     "markets": [
@@ -61,10 +110,22 @@
         "source": "News On AIR"
       },
       {
-        "title": "Nifty Bank jumps 1% as solid FX inflows spur liquidity, credit growth hopes",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLVR1eFZYTnk0Zy1xZ1JianlVaGdLRi1XU1ZrekQweVRMSGE1SHEyVWstTWhNRGsxRUNtUEVSZDhkdWZFZ2VhdzFsSEk4M3VfVS1RZXluQ2pENGFESGh4MG9rNjVRbXBLWTJEQWZtdXl3YUVPMzVXNEozdUZXV2t6WUMzYzJlZndmMlJ6cmlqLXAtNFlmU0FSeFpVT3NybjZaZ2VCM0VQYlBCWk11enVzZzlXVjNMQ19adGtHZm05dGlYenZ6OWhzQXJlUTFfaVlaOHJKYjE3SdIB3AFBVV95cUxOOFRXRC1XOV9RNjkxTlRMT1NBejllQ2lRWGJFd3lpMlVOVnBPN3dpVU96ZTlUUGFDVzhvRFEyTDZwQ0l5bDlMcVV4WXo3UjhKOW95Ulhid3dxSmJQWVBXZDlUS3BvLXEyNzBuX2tpekpGOGQySjVFSFZGbUxMZGd3Y1RMY3NvckJ6Qk1TZFo3WHhvUTl0Q1Q3UWhxcGRWT0tuR0tQNFZVOEZYOXJJNmlGNVNxbVU1allTX2V5elJuTnBxM1VqYkpBMlRjc3VaTi1paXhQcng4Y1NVZVE1?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 05:47:24 GMT",
-        "source": "Business Standard"
+        "title": "Sensex Today | Stock Market Live: Sensex, Nifty erase all gains, turn flat; smallcaps jump over 1%",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1pwZlF4ekszbW9wWmNrZXV5VEdIV3dDNGM2OE8ycS1jUlZXc0tHeV92eHpmand6QkVWODJreTlrUk8zTWM5bW9Ic0pTYk8zUmd3NzVuTWw1N0ktUlVfQkYzLXRpOVRJOVI3TkZnUXlZa1VfOHNDaEJrTkxHZ0RkbWZuVjZJVmE5RUtSRmhueXRWN2RONjl4STNCa0dvSWt4OGwwTm5VWlkwRFh6aWN6TWtkcWNsSXJmTEVheW45ekRtajk1b1E?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 10:57:52 GMT",
+        "source": "IndiaIPO"
+      },
+      {
+        "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 3 September",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYlhnVFN4WTg5UjNIR2pXTkdnZ3ZnMlluRXY1OXVMQzMtbEE4dTIyY184MWlacGdyV1Q0SkVCY1RWUWRZVGV3WENocDhWNGNhcHVFbVVwX2ZQdnZ4ak5hb0NXeXkzN1lIOXdKa2JCVXVia1lNakVkc3BwSkhLMG1ReXNUekVKYjJBckU1RFl6WXExaS0zMmMtWEpPOHNUaHUzYkRjSUVCRkNqTUFMMUYxb0ZyRjRXYVF3ZDJTTUlBeDlVM0NWU093Mkp2dXJyb3Fxb3M5SUNyY2JFazllaXQ2MGVnQlN2WnpDeGpqbFo3WE5wWG9WMWhZdVFuTGkycEtYUzFONG1nbTZ3Z9IBjwJBVV95cUxNLUVNREpLb25UR2lFekpsSEZIcUZOVlN2TTExRndTZnU4aTZzZXBrQ2NWcXlqWjFLZjMweldHV21LN010Q3Bvc01zUkZfVHRZbE1vbGljVWhqSkpIYXpQZjhWdjhvbGx4bUQyWEhhZWxDUmx4OEhPUER6OVMyOEJnRVE1Rm9fdnBvN29BY1BSR0NTeGx0TFpONkdqR01yeEVjS2xjTFpFUDZjSWFnZC1nRy00US1FcTJ3dmxUZGRxc0JHalFZdUJNc2dOdWtMbi1tZ0ZweGthc0FzOXBiRDVPaWY4RjlubzdTMldvZHJjWGdmSnJIZ1l1Ukl5SmlMTW9rMDg2WmR0SGZkUWtYRnhZ?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 02:41:00 GMT",
+        "source": "Livemint"
+      },
+      {
+        "title": "Sensex falls 417 points, Nifty closes below 23,900 as market erases all morning gains. What lies ahead?",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaUdXSDdCQ1VqYVFTT0JVYzYzMDdmZkZHUVRNQ0c4VWFlSkpsY2NlZlQwQ0plWTZjQzgtdm56Rmw0cWZKTllLbXM1c1VZWVRsY2pfNWQzSlBTNzRlczdjd0pnU01fbDMzdXVuZHFpeWpFcGlVYmJUVk4tSjAwSG5ZRnJTWkJ6M0hhOHlrdnVtUFdTY19za1prQlk5WWtoYUZ4d09KVHlaRXhoN0FPaGJlaG5RelQ0bkZCYkI3OTFvNVNjV3QtY3FldUhHVWxRMjdYQlA2dkg4WUxwQy1IdTIxb3NvSzhmNVBScUlCRTdtTmdiaUhhNF9jQTZZVVdsN2ZQS1Vj0gGIAkFVX3lxTFB5bGkyMm5lZGVWbk0ya0VPc041dHNIaXlPUmlScFphbjNNM1BiUFFQb0taNjBRMFdrT2pUbzg4RkNSRGZtUFFodzFsQWVfMEVWTnNhX3NHVG1ma1Nab3Y3V3dFTXZKRVh6cDVJZ2N5N0VTQm01QkFLdU1xbnJHbXpFQXUxc2hadm5TV0dRd3lSQUJWOHF2UG1UZ2t2R1B1SUhhSnFYaW0tTkF6aDJ6VEFvc2tlNkM4M3NSbm5tTHVYMXctcjdOV3IzbFp4NFJHYm15blBCUllMQmN0WGJORHhPZEhSZ2lGWUFBaU5NX1hjSWp0bXlPVTRHVTBsbDZjci1FUEQwMUVZTw?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 10:17:22 GMT",
+        "source": "The Economic Times"
       },
       {
         "title": "Stock Market Today: All You Need To Know Going Into Trade On September 3",
@@ -73,34 +134,22 @@
         "source": "NDTV Profit"
       },
       {
-        "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGpiM0RiWE4xZTVrU044ZFhJRi01VUN2aVlRZV95Rkh6LWxFQ0ZFMFplY3hiQmdKTk5sb0ZGRDRFSlhoZ21SRGpXMEg5ZkJxOUg1dG9feERKdUN5ZDByRnVOR2ZVV3R4SUt0eWZtdWRrVUgwQldWQXZsVm9TcUZycFkxUDFfR3dzU2dTSTdR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 00:05:00 GMT",
-        "source": "CNBC"
+        "title": "Adani Power: 3 key reasons why MOFSL is bullish on this Adani group stock",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT0pGQmsySXMzVUx1UzZudnl2VzRrNllZaV9RT3NEbEVTQnp6eVFOSk1ySFFXOGFyMFRCY0tPMzZFc2FsQmdsUktrc2lqc2oyWk9iWU9JS01JT2p4Sk5pZ0QwNnNHaEJqeVJJakROaGM2bkgxMUVqVVJiNXpGQTlEZTBJdFlfLWtYUzN6QlhkSkN4a0xWbGpsVXNjMlo2RVhtSVRlVDFUeTM3RC13ZmdGdnBGZWVRaE5PbWEzZ2d0VjNaZDUwNkNLQjJGc2ZLQkVSSmNELWl0djZ4Tk90a2RhOFZIQdIB4wFBVV95cUxOT0pGQmsySXMzVUx1UzZudnl2VzRrNllZaV9RT3NEbEVTQnp6eVFOSk1ySFFXOGFyMFRCY0tPMzZFc2FsQmdsUktrc2lqc2oyWk9iWU9JS01JT2p4Sk5pZ0QwNnNHaEJqeVJJakROaGM2bkgxMUVqVVJiNXpGQTlEZTBJdFlfLWtYUzN6QlhkSkN4a0xWbGpsVXNjMlo2RVhtSVRlVDFUeTM3RC13ZmdGdnBGZWVRaE5PbWEzZ2d0VjNaZDUwNkNLQjJGc2ZLQkVSSmNELWl0djZ4Tk90a2RhOFZIQQ?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 06:23:21 GMT",
+        "source": "Business Standard"
       },
       {
-        "title": "Stock market holiday: Is NSE, BSE open or closed tomorrow for Janmashtami?",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHVyLW9laF85elFHQklPaXUxY3JJQ0pQNHBhUXVZaENCdVNBeUN3Ui1xMmh4NFp3d0JQczdtZzBCeUVHRUhEYVUtb2VfUVZFcEQ1UVVndnJLSlNNNE1QZno2WTNXSHhxbW5uSmxjNE9laHVqM0xrZWU0XzlRWlBMY1hiWVJSVGlWU25tNTc5eWlqa0JwSHV6bHVsam9NUTByTXAtQVh6U2tzdVdhVzMtNkQ1S1lyaURDOXVScTdvS2pzZGxLY2ln?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 11:52:19 GMT",
-        "source": "tradingview.com"
+        "title": "Closing Bell: Sensex down 417 points, Nifty below 23,900; IT, FMCG drag, realty, banks shine",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem1idlBBSGJxNl9OYXE2M0ExclFacVBHbWk0RU1fc05sSXd2MlVZaXBtT1dIYk54Zk1rSlFLOUFwTjhqRnhHUXo5R2ptWm5kaXhJeVJyR3EwSDMtb3F6SEV3YlZid2VTX2ZFNXV2QjlwR3hpRHVUaHN1bTNhOFhuLVpiUXVrcWxHQ000OTQ1MkJxdG9aRFA0QW1BeEl4bVdZakVjbWxwVHE4dzhscXdET2tKTTNscVdyNHBUT2J3?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 10:57:52 GMT",
+        "source": "IndiaIPO"
       },
       {
-        "title": "Sensex, Nifty rebound in early trade after 3-day slide; bank stocks lead recovery",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnAzVXFpckhqbVZTVXFkbENPampzMzgtZlZLWW43T3drSXhKVlVNVzhyRU5IZDBES2N1STh6VFhkQ3NfeFRadHI4OTh5V00xV2hfcWF2amdZUzNLb3pSZm84VmpvWEZMVkp2UjhIOVdCM1NPMkZPU1ZwWmdLWXJhMzg3blRIY0MyamZfalEzTWJJeE1aU253WFZMLUJyMTh5VW5pRjU0N3RJZw?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 05:04:44 GMT",
-        "source": "telanganatoday.com"
-      },
-      {
-        "title": "Indian markets turn green as Sensex, Nifty rebound on easing bond yields and FCNR inflows",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkNhbVRUX3pudkk1dF81dHI4c2U3Q010dVdwekg3Z2RNSkc3Y0tKWUpLM1pYcURZQzEteEt6ZnQ3WTdwbU9KSWpfOFF2OHZzSEplell0dnVUc0VvRENFYlhtMHp2MWpUcHRFN1VFSTFKT0xTZ0VOd1lsWmNGWFBFRmxMQVJiRXRBekdwTjhaSGtkZnk4UDZFZzlLeGtqYnRqZ3N2dGF2clJtdTVmNkU3bGczYXpVbEd2TWJMOV8yUklETXZkVl9mSXVoWFo?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 01:01:00 GMT",
-        "source": "indiagazette.com"
-      },
-      {
-        "title": "Sensex falls 417 points, Nifty closes below 23,900 as market erases all morning gains. What lies ahead?",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeWxpMjJuZWRlVm5NMmtFT3NONXRzSGl5T1JpUnBaYW4zTTNQYlBRUG9LWjYwUTBXa09qVG84OEZDUkRmbVBRaHcxbEFlXzBFVk5zYV9zR1RtZmtTWm92N1d3RU12SkVYenA1SWdjeTdFU0JtNUJBS3VNcW5yR216RUF1MXNoWnZuU1dHUXd5UkFCVjhxdlBtVGdrdkdQdUlIYUpxWGltLU5BemgyelRBb3NrZTZDODNzUm5ubUx1WDF3LXI3TldyM2xaeDRSR2JteW5QQlJZTEJjdFhiTkR4T2RIUmdpRllBQWlOTV9YY0lqdG15T1U0R1UwbGw2Y3ItRVBEMDFFWU_SAYgCQVVfeXFMUHlsaTIybmVkZVZuTTJrRU9zTjV0c0hpeU9SaVJwWmFuM00zUGJQUVBvS1o2MFEwV2tPalRvODhGQ1JEZm1QUWh3MWxBZV8wRVZOc2Ffc0dUbWZrU1pvdjdXd0VNdkpFWHpwNUlnY3k3RVNCbTVCQUt1TXFuckdtekVBdTFzaFp2blNXR1F3eVJBQlY4cXZQbVRna3ZHUHVJSGFKcVhpbS1OQXpoMnpUQW9za2U2Qzgzc1Jubm1MdVgxdy1yN05XcjNsWng0UkdibXluUEJSWUxCY3RYYk5EeE9kSFJnaUZZQUFpTk1fWGNJanRteU9VNEdVMGxsNmNyLUVQRDAxRVlP?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 10:17:00 GMT",
-        "source": "The Economic Times"
+        "title": "Sensex, Nifty Erase Gains, Turn Flat; Smallcaps Jump 1%, Realty Outperforms | Closing Bell",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWmRRUEowaFNpMWw0QzB6cDFKOVdPX3lxYk9pTFpjS1B4Q0tBTlJldHBOUm9hUzgyOWtIb2hCVy1sbGEtYzdKTWo0SXdyaEJUWDJSaDNqMzVpSGx0YlFZWDdNY1dLbkliN3pVN201NE5IeWh2aWx1OVJ0c0ZxT1NXaTNYUVZ5SFJGQ3RKbFk4Sy02ekZiaUF0Wk91cjF3dHN4bjM5cDhTZzRUbVNEM2Jqbk5fZGVzMkJRWjU0TDIyNlh6anlMamFuYUNyR1ZJYks4bXc0VVd1WEthTFR2NDBSTnkwX0JyN2FSLUpPX2dFbDjSAfABQVVfeXFMTlpkUVBKMGhTaTFsNEMwenAxSjlXT195cWJPaUxaY0tQeENLQU5SZXRwTlJvYVM4MjlrSG9oQlctbGxhLWM3Sk1qNEl3cmhCVFgyUmgzajM1aUhsdGJRWVg3TWNXS25JYjd6VTdtNTROSHlodmlsdTlSdHNGcU9TV2kzWFFWeUhSRkN0SmxZOEstNnpGYmlBdFpPdXIxd3RzeG4zOXA4U2c0VG1TRDNiam5OX2RlczJCUVo1NEwyMjZYemp5TGphbmFDckdWSWJLOG13NFVXdVhLYUxUdjQwUk55MF9CcjdhUi1KT19nRWw4?oc=5",
+        "pubDate": "Thu, 03 Sep 2026 09:36:04 GMT",
+        "source": "Moneycontrol.com"
       }
     ]
   }
