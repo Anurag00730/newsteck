@@ -1,75 +1,63 @@
 {
   "date": "September 08, 2026",
-  "timestamp": "01:12 PM IST",
+  "timestamp": "06:00 PM IST",
   "sections": {
     "world": [
       {
-        "title": "Why India’s economic data has sparked a furore",
+        "title": "‘Trust deficit’: Why India’s economic data has sparked a furore",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEpIeGdCRXNuS1ZUeDZIX2lYT3FMRE5WVVBNNXFLUGVWbFRLRzJZTURQejhqbXJmWjBnTG9XNzhWdGs4RXVrRmJZTW1CTUVqdWwteWg1U2ZaYUZEUWJIaVV2eWxIRlRmQkItbGRXNFpsTUxhdXlyVWtvQXZZcUk4WkhEdmVGcXRnR1VPRXRlTEtadkZxVmpv?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 06:33:11 GMT",
+        "pubDate": "Tue, 08 Sep 2026 08:12:00 GMT",
         "source": "The Guardian"
+      },
+      {
+        "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 10:07:03 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "Orangutans not native to India found in Odisha forest; Govt orders probe",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVFkWGRBRW45WlVZWXU0R1ZrVTFtV3QyYnNnOEZORjdhbDVwQWtDUWZMSExPX1NyQ3JnY3pTVGZJVEZnbnVxNmhYOHFFOGMwLUYycE1xZTF0aGN2S29lUmprWm1aUjBSUHpuSGVwN3Y2X1ljbWdRVGdvWDR0bnduUkwtT3ZjSXhwUUJvc0k1bWUyME84WDlXNEQ4LWdhM1Nia0VIS0dTUVBMdFJVMklmTUZsVFZ0UTBReHpLbVdLdmxrcDQwSHdTR1hQSDFwbDkybmZZ0gHaAUFVX3lxTE43Z0s0cDRBQmlyeXlQRGk5QmxYTDlPREtHQ1FTakw3MTd0RE8tNGZRYzg3ZXhncGZlc0RxUGQ4UDV3LUhQWGJodUZoTWJFWVZCbk40czhEaXR4Rjl4YzBvUUdZcFljZkpZN0FHU1gtSXVfNy1mWnNuTGRpTWtSdV8xRmIycUh0SG5xclUyWlpkd1FxT2psYzJWcVgxRktkSkg4b0gzNGdzOUlhQnVqWWVPRV9ERElsYnhuT0NZZ05NU3ZVcW9BVnV2c1Q5bFV3VWx3VGRwcWp0TTNn?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 09:03:18 GMT",
+        "source": "The Hindu"
+      },
+      {
+        "title": "'Between entities concerned': MEA reacts to BAPS-Eiffel Tower row | India News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWZNZERyck1uNnVDZnloOF9mUDlLa2hfMXpXUnphWUhscUxyMGJwczBrUWx5WGVRdnBZZ0o5d2FNUEJ2TFgtczFpaHpRM2xXRjgtZ3VfdW0xR2dEYThLUnMteXNwRk5aNzIxR0REZS1KcF96YVZreVA4TjQ4T1FJaWxSVkZmdWNVX3B3Zmk1Y2NZYzRJajNUbXFoOTBFblI0bjFwWDhsVUhSVV9DNEFDSHhTLXjSAboBQVVfeXFMTXlBN1FGaFdfTGE2SWM5b040Znl6R0c2MUwxT3Zsb0dUYkFERzRQZW1sbUs5VnQ4azJzbWNIOGtrcjcwc1drMEdhOGZmdVl2ZEFUWk1PN0RJSzgzR3lYZ0Nzam53Q1JJSWJXNTNsUWYtZGJPS05KQ003MDFxNEoteDBGSlBkTm1WUVY5YjljRUVZZTlNdTlxaHprcWhmWkJlQ3dQTmlFZDZ6Q3FSWDFhQVZHT3ZoLW94azhn?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:20:58 GMT",
+        "source": "Hindustan Times"
+      },
+      {
+        "title": "Samsung India Asks 100 Executives To Leave, More Cuts May Follow",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSFk4cTM2elh5Q1BVdUxhd3ItMTZQSldpXzdaMmFIUzY3WEczNDFacWNmelpvQ1ZYOXItVmNLMG1uTl9ERkJ4VlRMTk5aR3N5bkw5cV8zWVdlOVNNOVFlSDRrT09obWpjUVlOa0ZITExYYnBTcGkzYkdKOGtiN085QTF0R0tpdERUd1pNNEQtQjROZ18zWUZRT1cyYXZ3MVBvQUZsS2t0a0xzSHU1Z3FOLXJGck1scDhpLUR0cUxRRdIBxwFBVV95cUxQVWtmZjg5em9qa09VYW10R1htM2pnX0VicUYxODlfZlBtUTIyY1NWWXJ1V1ZFZTZZb3hZb3hjbnUyTU41aEFNZS03R0VDR3Vkb2VjczVkTkl5RVFIbGRKNjVJd21STmtSMEJMS0JWeGVPN3Q3cEo4QnpScjdheWR0M3J1dUc4ZTFTM2VoVUlLY1JuaWlhTEplUmVpRlE0US1GeTh2YUl2MGR2aFgyRVhYNDh5WnF4TzhWYjdsbDFiT3RCSUVZZmlN?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 06:21:03 GMT",
+        "source": "NDTV"
       },
       {
         "title": "India march into quarter-finals with commanding 7-0 win over Japan",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEtxV1NWSzNNR1BPTmhNZ1FRZVI1Q3RmMjYxa0szSWYycl9sSWIyZldFTnpMMDZYMHhBaFBXQVUxX2xSWU9JRUZBSUR3VmNjcHNHdld4X2R6YzVsaU5hMU0xMGtVeEdBWWkzR3poazlEdVJ2bURORE9FSVRBbjJ2ZmVBaE5JNi1YZTlSb2JzNU1GWkZzaFhxRC1RU2lBSGU1?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 07:32:10 GMT",
+        "pubDate": "Tue, 08 Sep 2026 07:42:04 GMT",
         "source": "Hockey India"
-      },
-      {
-        "title": "Delhi Building Collapse: 'Greedy' For Rental Income, Owners Built Extra Floors",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk9VMjQ5TWRaNWFUdGhtcy1VaTV0M1ctRk5fUm0xakVyLXV3aXRZdGxIUnZ3VHRCOHlETHZVSmJBNWtnRzVQbEhTaGtORF95QWZvV2s2bGFvMXppVkFzNWY1V0t6eGFlSUcwUUZTQWRXUDNQM1pJRDZFZ1QwTUNaMHJGRVZPUkdKRGVSeUNCNU4wTXJUblR2b08yX09oV2tmeUJUNGFRTHlQbmZnZm54Vm5HREIxZWNWY1pieTBGcVNrM2ZRbUYxMGhONkR6V1BGLTVNRVNVaTNYaGh30gHkAUFVX3lxTE9iUEpBdXRrelBFTjNIeEJtVmpybEVwb24yRzVNdHpNMW82X1JCSFBPbUFEelBzSkZzQ1Nyamp2S1dmOFo4UnE0Y1hoal9vLUJlMVpvNzJocTJRemowUEJSTUZLUk9KS3d6STh4NGw2NUJkcnZtWGNYU1p4OWJ1VlBxWS1WR3NxS3BCMUQ3YWlsTmtpa0VseFY3cGNsZmh1MTBkYTI0YUNoeTh4Qy00WDUzYkFsNi0xYVhpOW90Qk82Z05tVFQ2MXg2WDZwYWlSems4SFZ3TGtVZ2hJU2lVZ1hZcElIUw?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 06:26:44 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "Rescuers look for survivors after New Delhi hostel collapse kills 7",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVd6UWFMSUk5YUppcTdTYzJmV3NYeHNseWZZS1R0clRLS1NKUnJkTDRSeFFqSUplUTd3QjJPZkl1di1EWlBNdE9tdDlUTlpVYU1namd5bFEwSDBEVXRoWjJtSnN1Vkl6RE1uZUt1eVhmNVFiQk9sbGhtV0lfN1F2VzI1WTQxVXluTnowWkgtMVhlaUpMRjVZeg?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 00:40:00 GMT",
-        "source": "AP News"
       },
       {
         "title": "India news: Several dead in Delhi building collapse",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaURZeUFJSGx1QWwyTTFUaUJ5V05Mb1h4R2xOQkh4OVRIYTBIaFliVnhHRUp0ME5tQTRlYUdJSVNTbmZ5b3BpY05YcEhEX2V5S2lHOGdTQ040S2t4WHhLSGRnTkEzanNoSWVsbEVOUHh5WmlvNU15dGpLWVlZQ0ZZUW9Vd1RTVl9Fa0ZaS2gteTNCTGxwYmxaaUpzUzlFUFZQZWNDZHV4cw?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 13:22:36 GMT",
-        "source": "DW.com"
+        "pubDate": "Mon, 07 Sep 2026 19:27:57 GMT",
+        "source": "dw.com"
       },
       {
         "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 00:06:11 GMT",
+        "pubDate": "Tue, 08 Sep 2026 09:54:58 GMT",
         "source": "News On AIR"
-      },
-      {
-        "title": "Freight corridors to be finally operational fully after 2 decades",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNGSmRKNDRIZzB6YWVEcHJKQ3NmWXRYbllFYXNJRjY0N1dDcTN1c3lQaG10TzdlM0t6THpSLWpmSEM5WVB4MmNJa19zSjVwV0wzWFNSb2ctTTNUS0dGYmxFbFZicTBaQV9rbmtja2QxSzZzdXlrWHQzMTFUUzJsNXRDeTdVVjVFZzJzR2lkTHdxeTRza0M5ZGo3RmFuNE85dmlfLVAtZFRSQmpCc2d1aW5lZVhHcUJFRUZJcHZta3EtVEh1US1Eci1ZVWRMZw?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 02:30:00 GMT",
-        "source": "The Times of India"
-      },
-      {
-        "title": "Japan name squad for historic India T20I in Sano",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUctWVFpRlJKX2p6U0Ruc3U4aW5McHhPYldzZlhCWlJNNmNoYWpsY3B3OU9CUm1QZUd2Z0dLandtOXlLa3hOVnROQ3Q5UmNnUk4yT0NpRW5yTGtMV05vb1hsTE9remVoVGFhblR5VDBPZTJIUjVwTF9YdXN1R0Rrd2g2clBNQ1pR?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 01:30:32 GMT",
-        "source": "ICC"
       }
     ],
     "ai": [
       {
-        "title": "Salesforce Stock And 2 Other AI Stocks To Own",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFQxVDRSYWk3M3ViSDd5dlpwUEotNVNzbXRGaGQyYk1aRjlFaWwzRF8wVFdBTllzc3I1YlM4S1M3Q3ZwOXUzcFdQTlFuZWVKWUNGVzhyY3lqUnI1bXpRZFZfSDdUaUFjMU16STdwLUFmVmdoWGxPVXRqc2dCeGxjcTh5RmMzODRPWXNOMlpjcTNDWmMzZUEwUXp5QUQ3bWlENjVSZzdQQ3ZVWTlTMXZDQWxEOFNnUdIBtgFBVV95cUxPMFQxVDRSYWk3M3ViSDd5dlpwUEotNVNzbXRGaGQyYk1aRjlFaWwzRF8wVFdBTllzc3I1YlM4S1M3Q3ZwOXUzcFdQTlFuZWVKWUNGVzhyY3lqUnI1bXpRZFZfSDdUaUFjMU16STdwLUFmVmdoWGxPVXRqc2dCeGxjcTh5RmMzODRPWXNOMlpjcTNDWmMzZUEwUXp5QUQ3bWlENjVSZzdQQ3ZVWTlTMXZDQWxEOFNnUQ?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 23:48:48 GMT",
-        "source": "simplywall.st"
-      },
-      {
-        "title": "Top LLM SEO Companies in India for 2026: Firms Helping Brands Get Discovered Across ChatGPT, Gemini and Perplexity",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDdMTWVoU2NRR054Y3cwVWVTdlhlT0lPSEViajBPUWRQZm0tN0wzb0MxbXRTUGdoOXQ4TjlRU1BGSXBDVFB3ZkJ0QmJpSU1RQkotOUM5cEUwSW1RYnprVDBnSDdiVXZMN3VaWnJZdV9UYm1YZHI3cTVUZDNJSVllOVZuTk82YS1zbmhHSGJZUWYyNV9KeUtSM1dJWnBJVzd6V1ZMcFdTQjNiamIzTnliWlo5WTVCWlI4UWd2d1VpMFhrOEQzeld6YkdhSGt4SG5qUTdHZFFXdw?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 10:36:42 GMT",
-        "source": "Nagpur Today"
-      },
-      {
-        "title": "Wesley ter Haar: brands must be usable for the AI agent",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHhqYm0yOEpDaDRNQjZFaXNfbk9jOTFvU0NYVC1sZDNPZTZyZFU0RjRlTmRQYWExZUlQaTZjcWdXcGthRFV0a0M5a0NYcktxVnl0WGVUdk1LQkhXamUycndkMHVzellmVWFybDJWRXRRcFZwWjJNWEltY0VydnJYaVYyNVFFRVV3dlV2NlUwWW9aSkhrekRkZjBKX0RJeUF4MlVLSVRKTQ?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 09:00:51 GMT",
-        "source": "marketingreport.one"
+        "title": "ANI appeals the ruling that made AI training on Indian news fair dealing",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oZWRNMXhLa0wyYjZHMFZ4NXR4bVhONjJWMXpHd1RibTNOMkNUNXdOQVRiZklVYTJBSmRCRXJrZlZ0QVBUUkZ3YnBkb2VkVnV1ZFlreG5vc0NRQURjWmJjQXRFbDhYTXlLWFQ2MnR6TlJBNndl?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 07:24:14 GMT",
+        "source": "MediaNama"
       },
       {
         "title": "Artificial Intelligence and Jesuit Formation",
@@ -78,19 +66,67 @@
         "source": "jesuits.global"
       },
       {
+        "title": "Salesforce Stock And 2 Other AI Stocks To Own",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFQxVDRSYWk3M3ViSDd5dlpwUEotNVNzbXRGaGQyYk1aRjlFaWwzRF8wVFdBTllzc3I1YlM4S1M3Q3ZwOXUzcFdQTlFuZWVKWUNGVzhyY3lqUnI1bXpRZFZfSDdUaUFjMU16STdwLUFmVmdoWGxPVXRqc2dCeGxjcTh5RmMzODRPWXNOMlpjcTNDWmMzZUEwUXp5QUQ3bWlENjVSZzdQQ3ZVWTlTMXZDQWxEOFNnUdIBtgFBVV95cUxPMFQxVDRSYWk3M3ViSDd5dlpwUEotNVNzbXRGaGQyYk1aRjlFaWwzRF8wVFdBTllzc3I1YlM4S1M3Q3ZwOXUzcFdQTlFuZWVKWUNGVzhyY3lqUnI1bXpRZFZfSDdUaUFjMU16STdwLUFmVmdoWGxPVXRqc2dCeGxjcTh5RmMzODRPWXNOMlpjcTNDWmMzZUEwUXp5QUQ3bWlENjVSZzdQQ3ZVWTlTMXZDQWxEOFNnUQ?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 23:48:48 GMT",
+        "source": "simplywall.st"
+      },
+      {
         "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHp0YWJlbTRTUmVFaHZ3MXJTdzkybG5RODExMEFRMW92TC1KLWM4bzB5ZlBuLWIwdkUxUkhra21oaE8yWXVvUTRoQWUxTEdoVmJnZzJJeVAyVTl2UVNDUGRJQWFtanhGZTViejd0NGF0NWVYRTNRRC1UQXRtLWZpaEpRdDdtd0FkR29Id1FDSDc5VmVzMWRuZEZsaS05X2pYV2duc21BLThrSGRSSlQ5UHN3TWdULUdJd3FjX3hqNmg3clJOTUZSNVRBdG9uQ3FsNHdKdThBU0JOcUxqSjduNWNYNWFRRl9tT2hLcHlWelhmLU9EVkcwMmtR?oc=5",
         "pubDate": "Mon, 07 Sep 2026 13:25:56 GMT",
         "source": "Tom's Hardware"
       },
       {
+        "title": "Up-and-Coming GEO Agencies to Watch in 2026",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJXzJvaDJpeVJJd1lfUF9Bd1ZIYktUSWJ1Z0ZaNDNVZGxWNzZwWHRpdFZsbWJoNS1HSXNkV3ZIVG56bG9MeGkwOGZ2RzFfdno1ZmF0R0tIRnhNRk9CSjRORE13YUtVR1M5eDN6RlJhNldTdi1qY3U4?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 13:39:53 GMT",
+        "source": "techloy.com"
+      },
+      {
         "title": "Top AI Visibility Companies in India for 2026: Agencies Helping Brands Measure and Improve Their Presence in AI Answers",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORW9keEY3bVAwN1JMMGNpa3pLQ0N2WF9iY0VqV2ZhVlN6R2s5SVgzc25IV0JMYjV1NDhRa1hpNkxCb0JsODFXcTNIQ3NwcmNOZEVRb0RITnBpTE8wRC1UOXo3YXhUT25JdHpXTjF3TnFmcXBreDJKU3B6M1VjS3VkQ3lQeHJZVmM2T2JPWWRsTnU1M3FmQldYRjMzNjkxdXlEdGwzSUpmUGJuZjNfbkdaejBRNTFUNDdrMWlSZGhKRlVxZnV3MV9KUjR1SjNldU9kZ3J1QWlGV1dlcTYzZTl1M1Rhdm9vdk5Ba3FhWkJUVTZ1QQ?oc=5",
         "pubDate": "Mon, 07 Sep 2026 20:00:00 GMT",
         "source": "India's News.Net"
+      },
+      {
+        "title": "ThatWare Started Rethinking SEO Before AI Search Had Name. Now The Market Is Catching Up",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeDFyVWJlcWZxRS1zTjR4YUNoMkNxcXdPUFFLTlBlWE5FZVlmeU5CYkJEbHBNNTl1M0I1bUxSUHpPa2JHSk9FcGNPNlcxMldESHF5bi0wVnFEZlRaaDR0R1VZU3AwOHZvWDN0ZTdyeGlSOEhHcHpmYVIySDhrR3RIQlZEZmFLNGFreThKZERqU1dvdURGaEgxOFdUZWlSc0NsUXVUd0FFZTN1SnI5LTFETEkwTVhrbGhNaEFUem9aWms1cTYtVElhcE9ZZWtWdEVtcHEyYllIUzB3WjY0ME9IMtIB5gFBVV95cUxPT2d3bFZmWFJDdWNXMThyb1ZCdFdVYXZwQ1pQYlhpOXhkVmlndG1sSnBHbzM1Z2NJNTA5bjhJODBpS0FWSHdSTjl4M0RGQmhNTHROYk9Qd0VISjc5RlY2WElRWEFYRWFEelZ5SWdkbGxmRUpxanV4MXVYT2xPc09ieEtlQ3ktSDdXaldWSW9SblJhby1tVVR5UGJBd0xYOENpU0dhTi1xVmY1d00zOVI4akxGUG9hOFpyNnMzb1RUS2tBSzZXNWFWTDR3Mi1YRWpKRDFkTG1QWjVCaUpndkZYV1N2X1ZCZw?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 19:40:06 GMT",
+        "source": "Republic World"
       }
     ],
     "markets": [
+      {
+        "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 08, 2026",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1gxUEZncHVudm13VGVVa0Q1MHc4T2FFamRGcTRULUhyaDBMNU51UXRaYUFhSktSREVjbGpsOTZDLVhEY242eUpHUjRFREZFQXdVbXRFeU5FV3hOZzJpQlFoVzV4TlJwbkpOMTJOUHBqT2NpRXNKTURuTTZhTmM3MFAyS1l4SjA3Wl9XRDNOZHdDRjVLamVWVFdDejI1ZlJqTEtoemNrU0dLbmVHcS1iTXlmbGxvSWt6U1hKa0Ezd1BQNFF4X09xdldYRjFiMkZFMnFN?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:13:27 GMT",
+        "source": "Liquide Blog"
+      },
+      {
+        "title": "Banking stocks drag Sensex, Nifty lower; Hang Seng, KOSPI lead Asian market fall",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVhVSTRFNmN2ZDZ2Q3RlNXJ6TGRpUUFaN1VUSkVzTjkwM0ZqdGpBM2dwc1pOMGlDX1hjb1ZNSU9KWlFXcTdSMzMwR3V4TUFfbkZ0QThaYmZDamx3VVhSbW9WNDNRdEp5bTlCcUhvOTUtRnZieVJwdmszM1JWYkxoTnEwcENpYTZlQ0t1blpwZEE0akJYdV9xUndZM0djb3BuVkFGXzZXcDNiVTROSFBjM2pTQnk1ckF4NzFOdllpUTNPb2tiVlg4WFdqMNIBywFBVV95cUxNdVhVSTRFNmN2ZDZ2Q3RlNXJ6TGRpUUFaN1VUSkVzTjkwM0ZqdGpBM2dwc1pOMGlDX1hjb1ZNSU9KWlFXcTdSMzMwR3V4TUFfbkZ0QThaYmZDamx3VVhSbW9WNDNRdEp5bTlCcUhvOTUtRnZieVJwdmszM1JWYkxoTnEwcENpYTZlQ0t1blpwZEE0akJYdV9xUndZM0djb3BuVkFGXzZXcDNiVTROSFBjM2pTQnk1ckF4NzFOdllpUTNPb2tiVlg4WFdqMA?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 09:53:20 GMT",
+        "source": "Fortune India"
+      },
+      {
+        "title": "Indian Markets Fall As Renewable Energy Stocks Show Mixed Performance (08 September 2026)",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHdoeUpkZ2VlSUFLX0RRTElROTJTVlZiLUpXTndOX1BRdTRBSGo4NmdPLVpDb245NXlIRWtITkt5aWw5RFRwMW5JWlBTcGwzb1Z1YmsxMUtQNFRCaVlmZTNRQy10YjZONDdtc0s0cGtPQnB2UVBZTmszUVkzN0l6d3pOOVc4WWFUa1F6cHE5bFFualNfTVB0NVlzMGRCMnIyQnZxMXZqTkhOLWdhS3M1WGc2UlNGRTdsOGEwT1JjWFpsdw?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 11:20:50 GMT",
+        "source": "solarquarter.com"
+      },
+      {
+        "title": "Stock markets decline in early trade amid rising oil prices, West Asia crisis",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUNzeUdSZUpRTHREMFZyd1d2QTZVQWlYUUtlQVllUTk5NEpSZThEMFFFSnRjRWZTX1JGUzhUTUNNclR6NnVKYzc0ckZ6bjkteTZ6UUhscEdFUkxRelR2VmtxcklmalRRSUF3V19keFFWZ1RyY3hncGZvNjgyVzJBeVpVZzE2Y2hXRjlJTUZhX1BCWENMN0d3TDlGN29KQUpVZTkxLWFIRlNfS1B1MDY1b3hrOTBOdU5YVlk0UTVRWVplUGYyTEhTSG130gHXAUFVX3lxTFB5NTU4YlB3b1hWNkFjSHFxQjg0dk53dTFub2hOYWdMZ3h2V1VIeWs1VFZrZWp4bmNlNy0tTXpmWl91NHhVbHNIOEtyNUhtWEs3V2ZFc2RhOWFaWHd2dUtaRDFyQW9OQVU3cVlUbVZjUzJ5Qms1blJ2b0h4ckluY24wZlhsSmg4OFhUNjRxaXF6UVh4amlXX1NGdUpsUlREUVVkZl9RYUlDWWxmRTJGNVo0X21tX2I2d2hRemdZRXBnaDdKNTdIVUtyTE11dko3VEVCV1o1ZGJn?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 04:32:47 GMT",
+        "source": "The New Indian Express"
+      },
+      {
+        "title": "Nifty trades below 23,650; IT share decline",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2gxemwwZll0S0pSQkFLNUZIUzVmU3dUTXBYR2NLeWs3cXRqUDJaM19iT1JLQTNNcURabUF0d3pvNklSODNyZlNCZzRQTG1pZ3ZOdFFDQUpVckJxQThXQS11d3dLVU9yejRFeDc0NFIxS2Q4NDk1NmlDQXZObncxaDE0My1ZcndocUJmdFRDMVpBWnJ0MXowZEdtcG5sdUliNS1qRUNhU0taX0RXS2l1U2NoQ2NSUUp0TEpUVWFIb0swUdIBxwFBVV95cUxPOVNBS2RuSWJPdFVkRFlwNG8tYU15UDRqREJRUTVZRFJNSVdCWlFWUzF2bWpYeFF0bXRJVnlHTGpNUFNtR1c0NmhWMnFyMjNyTkRaMVZiM3FmOVIzanRtWUhUcS14RnFQeVBTTW9LZVdFWTVSNHZWam1yZXF0VFg2VE9XaW5hSXluN3Z6UUh5WWlmSDNzaFYycXd0ZHpMWmhEWU1Ya3JERUYxZVBGWXRpY2FaM2oxTHlNbE12ZTY3TjdUbl85TUgw?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 09:20:01 GMT",
+        "source": "Business Standard"
+      },
       {
         "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzJiRFl6ZFQ2dDJja3hNUDVkQ3hLZW9tLVhxZjBCQnBLN2JlbGtMYi1QSXRYVlo3VDVMTVlQUFc2Q01OVXhHamhUXzVwMWNuOVdTZWtPVHljV0R2NkQ2cnRrTEFuNlBOLS1XcV9LMzE2UkYxaTJKM0xDNnBFWWNxMXQybUZSa1pTSE1BSm5obThyUlM2QW1BMkM4dVgzQlZwNlEwZU0taUVkMWx0QS11RUhhWHFGbUQwNnU0Vy1lNFQtQVhXMmk3QWhyOTFLLUkzRG1zSVpBMXBVQk12WWtJUzlFMTZueGVZV0lELVQ4NNIB9AFBVV95cUxNNGNYQjNyZlZlbWVtcnZWXzd3SUd0dkNTMGtJcHVIZXR1cGVHbm1JajJnTmE3OHUxZzlzb1NnQjdQOUhyZlFacjU2Tl9wLVE2ZTlWbnRJbTN0akhJTnZSczRPLTVZRlBqZnUxS2xjdDBFZjhHMHlaRUVnXzR0MF9SQnAwb2wtMDFVbEN2T3RoZXEwQnpvYjVhOVdkTUFYWFR4blM2c3cxQzJqdW12SUh6ZElsQ2NKdEx5ZExibWVhUzhXU2JMaGNmNXo4ZHd5cEhWQ3Q4WkRNSktQU0U4WGF2cEc0R05BNUlpVTVMSFJxcnlaM3ZK?oc=5",
@@ -104,40 +140,10 @@
         "source": "scanx.trade"
       },
       {
-        "title": "Ray of Belief shares list at par with IPO price despite 108x subscription",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaW1vdXJwMzJibm01MDVGbk56TEM5V1VfQVF0V0dyMnFjM3hPZDJidHREOHFNWjVZbzhlS0dIbzZRbUVvd0NaTW9feURtM1Jva2FZdTdzUWdVa25qbXVoOXgzQXBScTZyeXBSLXJJVEVBeHlXRE80UFh6Qm9nYW9YazdiSWtLOW5MY3NNN2o0STRjUHFsQ0RNRXJ1RHdtb251a2huc19CUFEwbXZFVkN5V3FTZFp0Ulh4eWppLVVGVmVGd2JVMkwtZVVwZFV6VmlUMGtMT0NZREVXak1j0gHcAUFVX3lxTE9pbW91cnAzMmJubTUwNUZuTnpMQzlXVV9BUXRXR3IycWMzeE9kMmJ0dEQ4cU1aNVlvOGVLR0hvNlFtRW93Q1pNb195RG0zUm9rYVl1N3NRZ1VrbmptdWg5eDNBcFJxNnJ5cFItcklURUF4eVdETzRQWHpCb2dhb1hrN2JJa0s5bkxjc003ajRJNGNQcWxDRE1FcnVEd21vbnVraG5zX0JQUTBtdkVWQ3lXcVNkWnRSWHh5amktVUZWZUZ3YlUyTC1lVXBkVXpWaVQwa0xPQ1lERVdqTWM?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 04:30:50 GMT",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 07, 2026",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzRQSG1BbjZfZ2xNNzdrZEdoUmZJWk1EMVMyczVJSXJKcnp4cXg1aGFCNG15ZGwtcHJRQUdZdlhDaVh2MmRmU3pyVlhZYVJsbXJvZ1BDYU9GNXJCVUpVeTdIRmI4LTNQcV9SZVlsUS1sWXhTc2htSGRkTDR5eU1NWm1LdTNUNVpXQnJvLUVLMXpQcHpIMnR6Q2djeWxub0hZYm5JdWtNYmdRYmRVNF93VlcyM2dZVjNWNk1PWV9XZkVCMngxSjBEaGo4QQ?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 11:18:18 GMT",
-        "source": "Liquide Blog"
-      },
-      {
-        "title": "GIFT Nifty drags, signals muted start for Sensex, Nifty; oil above $97, US-Iran tensions keep markets...",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOb0VUMkllWjQxSkt0UGJPbUlvMzg3MDc4RGJBd3JRSjhTQXdGMTFoUFdlSnZfTElicDNLaXdGTGtVLTA5bGNnZ1NxYlRRQ1R0b2owSWJnbFh1QjJqcDZvdG1MM2MybnhqSXRUTmRUNGs3ZXQ4dmNEUE1ZekJMdUctWjlTUFItZmo2R3Rrd3oxVUxBNnpaT0Y1em8zYXZFekR1NWJTUDhOMTlKU19iaElaVDk5LVBPSlA3MEM5U3lvdFk0cGNLaEY1cFNZVnJjdkNPMHBTd0dJTFZjUGw1SURqN1N6SVNXRFcxUHJxSGZsVWNuU1YybHUtRGVJOG4tRnI5dXltbdIBhAJBVV95cUxOb0VUMkllWjQxSkt0UGJPbUlvMzg3MDc4RGJBd3JRSjhTQXdGMTFoUFdlSnZfTElicDNLaXdGTGtVLTA5bGNnZ1NxYlRRQ1R0b2owSWJnbFh1QjJqcDZvdG1MM2MybnhqSXRUTmRUNGs3ZXQ4dmNEUE1ZekJMdUctWjlTUFItZmo2R3Rrd3oxVUxBNnpaT0Y1em8zYXZFekR1NWJTUDhOMTlKU19iaElaVDk5LVBPSlA3MEM5U3lvdFk0cGNLaEY1cFNZVnJjdkNPMHBTd0dJTFZjUGw1SURqN1N6SVNXRFcxUHJxSGZsVWNuU1YybHUtRGVJOG4tRnI5dXltbQ?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 02:25:03 GMT",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Indian Green Energy Stocks Witness Mixed Trading Amid Market Weakness (07 September 2026)",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2F3ZDJjMjJDZngxaXlENkh3bjFmTW85MHlDSjBsSnl3ejg2eldRSjhIQVloNDJCME1ZeXdUSUVvRm92Rld2aklLSEQ0ZzlwU1p3Mk8zRUpSbVBTbGwwQWFfTUdManQ1REQ1bVlQZHlEajMwWjhmUkhoSXJqX3BfT01vdEpubkdmMFp2ZzA3LXphdmFfbTZpeWd1WS02TVlLcE9xdndTaFd4VkJkUFF0RkxhRFJ6RlhkWVpaYUlJWkpTQQ?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 11:39:17 GMT",
-        "source": "SolarQuarter"
-      },
-      {
-        "title": "Vijay Solvex Ltd Share Price, Stock Price - NSE/BSE Live",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wZ3ZweGpWX3Z3ZzE2RktOWmpacFFMR1poQnJlNWtxb083cDlhaXowLTd2azRDc2xRM0dOVDU3LUJhYlRoLU9mbktYeTNqeGx2MlBWWGhFeXVkVmRsRHhmNGFFMl9md1RyRU5hdEZlVzdtVWo5SnRYaVhR?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 01:35:34 GMT",
-        "source": "NDTV Profit"
-      },
-      {
-        "title": "TCS falls 1% as JM Fin expects macro pressures to stay; stock down 30% YTD",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVNIaDRXeGl1S0VZa1RtMnRvQ2ZYQVRPWG44UFVLSnlmcXBoVDgyOWRBODF5clZ2X005RTlUUm9PLVJhQlVNNDlGemNoRVoyQmxTcnBKRE45anRzdU16QXU0YVdHR21yQ1p3T0pHUXRIUFRTMmEyMmdDZDV3NFEtOVNZcDIxeHBKYzlxSkpjd05lYmdLbVBiMHNOSnhHbWdrZXhvLXJjOUxJYzFwRFJIdXRPbFVyMEdkbkNnT20zc002S19JNWNQaEFYa1g4RjRrckU4V2dYajVXQdIB2gFBVV95cUxQbVNIaDRXeGl1S0VZa1RtMnRvQ2ZYQVRPWG44UFVLSnlmcXBoVDgyOWRBODF5clZ2X005RTlUUm9PLVJhQlVNNDlGemNoRVoyQmxTcnBKRE45anRzdU16QXU0YVdHR21yQ1p3T0pHUXRIUFRTMmEyMmdDZDV3NFEtOVNZcDIxeHBKYzlxSkpjd05lYmdLbVBiMHNOSnhHbWdrZXhvLXJjOUxJYzFwRFJIdXRPbFVyMEdkbkNnT20zc002S19JNWNQaEFYa1g4RjRrckU4V2dYajVXQQ?oc=5",
-        "pubDate": "Tue, 08 Sep 2026 03:58:22 GMT",
-        "source": "Business Standard"
+        "title": "Sensex, Nifty slip after mild start on geopolitical tensions",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVNuMTk1NXJKdExweUpSLWd5Y0NpZ1N1SENDSEpWcEVIUHlGZTR1MnE1UTdxQ3BvbFZpOFo5RDIyUFR5R0ZjOTZrbUQ1cU1WOE1lclZkMHdzMnFSSTV6SXg5T3JmQXlFQ25JbHZvTjU2XzNHTDJvdXRGdEwzclM4ZDdtOV9Rd0VCeS1KcDRB?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 18:47:55 GMT",
+        "source": "DD News"
       }
     ]
   }
