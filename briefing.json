@@ -1,63 +1,20 @@
 {
   "date": "September 10, 2026",
-  "timestamp": "02:57 AM IST",
+  "timestamp": "05:15 AM IST",
   "sections": {
-    "world": [
-      {
-        "title": "India joins 24 countries in global initiative on 6G technology",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 14:02:01 GMT",
-        "source": "News On AIR"
-      },
-      {
-        "title": "Several Feared Trapped As Crane Collapses At Construction Site In Gandhinagar",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTJNa3drbnByMWd1TjlvTWdVcjNCVFNhQnVncm1zUXV4T3U3dHhpRlp0bmdkeXh6U3dVZ3E3Uk5SbEFfXzZCVEh6bUtxcUxuZkZ1TDhkSHM1X1c5MXozSmFVcUpVa0hRc0FScWdYeW9tYVRBdExzcFlvWFUzbW9Zby0zTy1RZk1jeWtEV21Rb3VQSTVkcmFmTnl3RGYwQUdWbERXTkM3N0NxVVhjZ3p5ak5INzRSREs2UVHSAcIBQVVfeXFMT3lqMUEyaDU0dlphLWFSTVJDVE1VRU9MTVYxXzM3TkFhaE5ITEdUZUFvZDV4Z3ptN2NSV05CZ2ZObzgxRjlzN241Nk9sVXdtNC0tVjNCM0t0Z2l6cHZrMUpJdVdsZzhucFMyZ1FwaG85OGR3OTFFMnp4RjgzREpucXA0YkJUTnFyTE5BSUR3VllPaGZuS0RxQU5YRkNYQXE2QmtiSm5mcmNGRGFGUHNqZlNleTdJSmV0amNCVm1aQkJYOWc?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 17:05:46 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "US suspends Cognizant's green card filings: How will the move affect Indians? | India News",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFR6UDl1VmM2TGlQaXEyOUtVVlN6QmhRS0VYYjdfRG85NDVvZEdKQ0R5TmllRUNjdnR0TWlRN2Nwbm5Zdy1hSlR2Y2xVQkpzZGFDeHprblFnNlhzdi1mSmhpMnh2NklJNWZnX3pFV0VMZkR2R3ZBcmU2NWhpSU9HTDZQN0NwdmV4cUJybkkzTWduTFRrc09DN3FaRy1xU1ZCSVVuOHp4MHQ3bVF0eUpKNk03ZTQxN0F3RjlFZjUyU3NqVlJGdjZSZHBrSmJXTWJfUHNB0gHYAUFVX3lxTE1BaDBWdHpPR1VvLWppMUMzcEN4N3VmYVlORWI5OFpIZ3h0U216X0w1YUN3OFR4d2xVOS00YjVjR3ZNVUFXcjJHRWZkbkV4bnVWMDRvcGt5Y1NURlZ2UnJGVU5pR25VcUZ6TGZkU2EzbUZzcUNFbkFXSDVfTlJlNUdkZ0RWX3M3LWlqUGNxSGE4OHBmb2IyclE1cVp6MkJVRURLMG5KdUs4YUkxd3FUNjIxU05nYjFqMXo5c195SmJmU2RPcDEwR2F4bjZFdEUyZDV2aE9JaERGWA?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 17:29:04 GMT",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "NEWS RECEIVED FROM BJP PUNJAB CHANDIGARH",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUlndnM2bzBVZHB4ZExGaFM3N3dsZS1nWlpVd3hzdmlTemhwQkllUERpbVlqSHU0Qm5mRzR4VjhvbHJMdjF2M25laHRRc0FDUjNlaVJGbDBRZTI5M2dZM2NqRFhzd21kNG01VzloT3pmQi11cWxDalRjQ1RSNUw0cjRCVnlaYkNoQlNtUnNra01zTWFsX05xRFlXaHBMNkhnNVE4NVVIUDZlZw?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 19:07:31 GMT",
-        "source": ":: India News Calling ::"
-      },
-      {
-        "title": "Authorities in India rescue baby orangutans dumped in forest",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHlydFByNTBqNUszNDhEYjIwMFdQZkE4OGFjSlE5MUd3eWpHN1E5LXN5RDlJSm0xaXFZeFR3cVV1Tkp4UWkxUzhLU2hncHpKcEs1XzZTZWZUcjg0VkFUUUZOWS1JQWZQamg4emdJdzV5MWlhQXZ4QnBfNTAwUmh1dm95VUJpclVIYkVzYzJCX3NOZVdmZGszTnRTZ0h5RzBsRDRlc2NZeDl3QmFpaUxR0gG0AUFVX3lxTE9xbkE4dXdmM01MZWttSmkzekJrekNvM2w5UjBybUR2WTF2a183eVJ4R3FfMTVOYWU5dmdxaEl6VEN3TGtnT2JtMUVaMGZZcGc1V1dxU19hRzJOZDF1a3YzOW5OLV9SWVlxanNMal9tRXRJeTQ3TW5MNmIxOVo4VlZjY1NCX1lTT2x4QWFrVEFiNUk1R1JzZ3haeVZVVFdndnNaUnBJZHhnaV9nZGVRX1ZKdWZRUg?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 09:46:59 GMT",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "India star nears return with CWC27 on the horizon",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFFjaE11Ulo3MlFBcjVHbTlnaXpFTlJYUFNkV0R1SEx4T0VvR3p3QV93NHNoYWVPWnZQSmhCSFJ4WTZsYkJybl9jVzczakhycVJ0QjVJWHhMM05SVk1JbU12ems4RnA1ZWE4V05qajVfT2JfQmdYYXpLRC05N0FLRER2MkxQc0FDX2VCRGwyMGFQMm55anUxcVR2UXNLclJHSEpjNWh2ajRJTnZUazJsLTZlOXFDTVE0cEI4N05n?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 12:55:12 GMT",
-        "source": "ICC"
-      },
-      {
-        "title": "‘Rahman wants to visit India, but agenda has to be set first’",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejRTN3kwUjZObENEaWVCTUVHQXBad3RWTVBJNG0za0tvbm5pOWFLcXZBaDRORV84WHo0dWw3YUJMcnd1aFZZUmtscmNGRVE2MkVXSXNNNTFUMGQxSUFOZFhvMVNDdHBmb19IRGwzNW9RNG1EdGhwelIzbzhwT2xLYVliUW9vNFBscWpMQ0twZW9IaWdRTXdhUmtBb3dmSHh1MVpmS1BUdXBLOWlJY3NVTTJ1TGtrSGQ0T1lUOW1yONIBxgFBVV95cUxPRnBrOGZScnZ0WG1vSnIwMnQ2Z2lWek9XQ2pVckp6NG5ZLTVWY3dKLTFlVTVQUngyUUV2MWpGTG1YSXNvMWhldFNGTzJpamZ6aW42Y0RQNVk4MnhBTnQ5SWZaOXh0aHRjbHFNTEQyaFpuaHVqQVJFUUh4b2FvSzRzZW9XTE8tM0tITE5rb1FWeldBRlp5dkh4R0xxRmkxSk1qMmdkejFENWxHa3dUYjFMclotTUhNSlQyQ003X2g4aTRHc1Uwa3c?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 17:39:20 GMT",
-        "source": "The Hindu"
-      },
-      {
-        "title": "Terror Probe Against US Mercenary, 6 Others In India Not Dropped: Sources",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmE2REh5aVI2LUc1WTItcE1lSkE0QS04N1lZbkFmLTJnRzJLM3YwZjhFRmZRNnVjckhST2REVnpOc3JPUDhQRkxVelhhemdJZkVkdkdwRENLWFdSTXVCdUM0dlpHTzEtWU5RcVptTk1OY2FuUHo5dE1oN3c0ZzZfUGg2VlotQnBLQTl4NXB5TjNnRW13SHpEWlFvcEhLaHhURVlaYjBkX3FMRVJnNllZbVdQM1pLR1dMWUlWOWZxbHlLYlc2OTQ2dVNMZjJHdHfSAdcBQVVfeXFMTnRVZDhOTkFKUld6ZkpEcFNjbnRLQUVkNlFCVnFfYms5WjROcnFhbDhjcm9SdFNIZmRvQWp6eU80RzRmUEpFX3JzMGRYU1hPWGl5LUZDQnBtT2VmTkROdkJKR2dScTBkZWZoZ2Qydl9QclJQa0Z6VEJvcWRwb2RwRGFicGZnQ19jM1o0TEdqWXA1Qml5LWlsREtkUWdCZkZ4dnZicDlEVEhxdUVVNVBZOHFqVDNBbTQxS3EtYlpIczlYVW1IbU5mZ1hITnp6eUczdG52S3pOaEU?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 09:33:17 GMT",
-        "source": "NDTV"
-      }
-    ],
+    "world": [],
     "ai": [
       {
-        "title": "Can AI Predict What Humans Do and Why? USC Study Sheds Light on AI’s Limits",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQal9veTdFY1lkc2ktdk1rRFJWSmJXanFPOW95YjIxUVR1TGR3MVdNZVQwZHR4MlYtSFd2Z21IcXpTSmcwQmZyNEdqc21xZkZVMEVSbTFXczZMNmZCQVgxQWtZUUpLTGxTM2NFMTBnR2ZmTDdQbEQwTGpLNkd5b2h6TktvOFBLSTBYUFFsd1lscE9XVzUwb0NKVjVtTjBSVzMzRG1OczE0Y2tWWUZValpwNEFvSEtEcEVP?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 20:00:15 GMT",
-        "source": "USC Viterbi School of Engineering"
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 23:42:53 GMT",
+        "source": "openai.com"
+      },
+      {
+        "title": "How to Build AI Agents: A Beginner’s Guide",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTjJ5WnRFaHNuR0tGS0hJM2xVdVA1RDlCeGw2RHU2T2VmVGZXelZuY19JbEVvdllZR0c2TjN4TFA3bFNTX3RaQ0dpOXdZZnhKdUUtaWFHdnNubWNNTElMWTg3bzd1bmM?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 20:45:00 GMT",
+        "source": "Coursera"
       },
       {
         "title": "OpenAI Deepens Samsung Partnership to Build Next-Gen AI Chips — ‘One of the Areas Where We’ve Made the Most Progress’",
@@ -66,10 +23,10 @@
         "source": "TradingView"
       },
       {
-        "title": "Bot Crime? AI Is Hitting the Legal System From Every Side",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CTHI1Z3BmSVFfY2RwVGUxYmhIMzF5X0FZU1N4RW12SC02aXFMaUxHYmNGcHJSZWJrS0FNWUU5VFd2S2JHblNDV1pwa1NKNmdNYm9BTEhDR2dzYTZzOGRsYXZnRmZmYWtzSFZENzh1Z2RELU55NFoxRA?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 10:00:00 GMT",
-        "source": "Bloomberg.com"
+        "title": "Claude Sonnet: A Guide for Learners and Professionals",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IOG1rN3V4b3pJMWlkOFpaUEZMZUpMQW13elFJVXZqYVlUOW91N3FsbDl4RzgtOHVrb05rTGNkRXZqRzR4WUl3eElXdW10Q0ZlQ1k0TjVyS3h5YlE?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 15:00:00 GMT",
+        "source": "Coursera"
       },
       {
         "title": "The AI Citation Mistake: Optimizing For Google, Not For Sources",
@@ -78,28 +35,22 @@
         "source": "Search Engine Journal"
       },
       {
-        "title": "No one ready for smarter AI, OpenAI chief scientist warns in essay: 5 key takeaways",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmdTd204MkFZSkdQXzJiWjlSbWNRMk41X09aa1JzZFVNd01FN29heDlOWDItdy1UMUxEVXlvY0RKV0VBb25NWGlUblIwUm50Q0lvSUUtQ2VOM2tRandBMHpBRDZhZ2pqa3J6bmlXSmFrVk5PdDVHY1QyTjZEQXdoa09ael9QekVGNU5CbTVyY0F4eEkycHRsMjR2eDhjRmxiRUVjeV9JQnhNU29CYzRtYm8wTXBLd3JCTDY2cVZtdy1RQVBwc1pjdNIBzwFBVV95cUxNaW5Zay1fdmMycWZiWlhzbU45dGVpYUhHWW5hTzZ5NTQybndWaF9HT05oY0hJQ2FxQWw5WlVoSll1ZzdrUXNreTZGSk9XdWtTb3VySEk1UHhqQzl6NmpRbUxpNE1KdnMzMGQ2QTE3d3kyU05SSnJGTGNyeFQybjd4dzExWGFNd3BYWWRGWUZZU1ZRMzFiZ3J2MU1jRFlGQUhlQU1qVVUwV0NreldyYzFERUo5eENQYncwVTkwSkpzRmRlbUJiaVlrelJyOEs3RTA?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 03:25:00 GMT",
-        "source": "indianexpress.com"
-      },
-      {
-        "title": "Can ChatGPT Wear Prada? When Generative A.I. Meets High Fashion",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTXFFU2JDWHgxOHBIZm05dlVNNi1rWTM2V3F5cHVmbmZCekJXX3BOY0lEdzZ3WWprMFczdnc0SDF6b09TbTlXbjhZUjR5Z1BDVFhMZzRrNjFQRWhJZGItZlFkQnVPMm1OYm1PSU5lUTY1ay1UY0E?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 14:04:18 GMT",
-        "source": "observer.com"
-      },
-      {
-        "title": "This AI Tool Is Moving the Needle for Brokers",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUFBzVGwyUTY3U2R4NEh2cENiaU5QZ2xvNTNEc1lTZlpjVnF2dTllTDNPR0d3d2ZCelhqVXR4X0ktRElQaTlSTWpSVDZyYzA2eEJRVng5SHluOFh0UVhybVJWTjB0SjJETGhtbENabzMyQTZ4Z0w3NU1NMmdxVUtTa0hTck1LdktSMEVaZTVTLWpzZmVKYXc?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 18:45:00 GMT",
-        "source": "National Association of REALTORS®"
-      },
-      {
         "title": "The implications of using AI in adjudicating legal cases",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkxXSzB6ZVBKbzZjd3hwdmlweFFCNWhuS3BNcDUtTmpWOGpsRTQyX1ZEZUJrSHlRM09YZjVoNWlVaThaMUtmcEZCYTBib09vTmUxbUhwZlpiWWtMUkVZYU5iMWpFaU1mZFNFem54QkFaT3ZWejFweVBoNDdsYUQ5MXpRdVdidGI0aVBfYnEyM3RyX014c2lNR0lvR2JlTVhZdEhfd0psVzd3ZVJKYXMw?oc=5",
         "pubDate": "Wed, 09 Sep 2026 00:54:45 GMT",
         "source": "The Daily Star"
+      },
+      {
+        "title": "Korea University has launched a service that allows students and teachers to use several Generative",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zeHNNWFN4Q1NMSG0yM3Q3XzJMUVN3X2Z5ME1vYUJXMjlITTlabERPR2I0MHFNaUx1bktsRGppclBpNkQ3alo1anhKd1FQVGc3ZkE?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 06:00:16 GMT",
+        "source": "매일경제"
+      },
+      {
+        "title": "Can AI Predict What Humans Do and Why? USC Study Sheds Light on AI’s Limits",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQal9veTdFY1lkc2ktdk1rRFJWSmJXanFPOW95YjIxUVR1TGR3MVdNZVQwZHR4MlYtSFd2Z21IcXpTSmcwQmZyNEdqc21xZkZVMEVSbTFXczZMNmZCQVgxQWtZUUpLTGxTM2NFMTBnR2ZmTDdQbEQwTGpLNkd5b2h6TktvOFBLSTBYUFFsd1lscE9XVzUwb0NKVjVtTjBSVzMzRG1OczE0Y2tWWUZValpwNEFvSEtEcEVP?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 20:00:15 GMT",
+        "source": "USC Viterbi School of Engineering"
       }
     ],
     "markets": [
@@ -108,6 +59,12 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9yVm41WVM4dzNEclUySTBwR1E5VjFfa1d2YmtFTXpONjhrQ1FrQ3J6SEx5UGNCTzZGZXFzV1BsdFpaZ19BWWQyOXNodHNvS1ExSkpUSHA0QTVRZTNOUGw4Z0pNVHdVNjNKOGdFYkRvQXpIZGlGdUxxVE9Cek5TMm5GTjEyMnVGZVdVWmhCOHlfUm5CaW1JajVlVnZvRVpTMlMxenFQVUZPNWRDM1A0TkNOWi1aMlRkbGdr?oc=5",
         "pubDate": "Wed, 09 Sep 2026 11:13:19 GMT",
         "source": "Liquide Blog"
+      },
+      {
+        "title": "Three Reasons Why Stock Market Is Falling: Nifty Below 23,500, Sensex Down Over 600 Points",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGpldXFsMEl4bkltRXp1bTJBbG8wREdKUnpXSkszRUZINmNaazBIMS03OEk4UmF6SE1zekMweF84REY0NkNNczAyLVd5U1p5SmMweWYxVTJCNy00TnhXWDhPV18yRnBuaWNtcjVFbzdRd0NpdThVVjVKZndfVk5aSzZFNFN4SzFJdU9nWjR2UHhfWnBveTZPamJpSWQtUjdYUzNMa1NKQ3BXYzdVZTZkLXp2aDM1NGhoOEZZUTRQSnBTei12ZmNhZ2t0U3HSAdQBQVVfeXFMUHliM2RsNE1TU3RyNlRSZklGajBBVHNUUk1ITVdxWHc2ZTduRkxFTjU3eHVxcFd0dmdqemxoV1E3aTc5aGxRT1VBTHk1N1dGNFZYRTZKXzdJb0Z2blpLSE0zSEZOc3NsNFVfWmp5Zl9aSWtTMUV1MHBEUTRiZ2hCSTA5NEVfNkpIWjdaQUd5bmJkZlRZc2hybTdZWjJvQVVlSXFBRUQ3Wl9wdEZSVXJNTEtiQXpoVEtGenVxa3phaGZmdWE2dkJ6VGlsbHRiN1N0eW5iSlg?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 04:36:55 GMT",
+        "source": "NDTV Profit"
       },
       {
         "title": "Indian Clean Energy Stocks Show Mixed Performance Amid Market Sell-Off (09 September 2026)",
@@ -128,28 +85,22 @@
         "source": "The Economic Times"
       },
       {
-        "title": "Top stocks in focus tomorrow: Investors must watch Coal India, Shakti Pumps, Wipro shares on Thu, 10 Sept | Triggers",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGJFN3FFTWpXUmQwNGhpbXdBQ0hHS0dvX0M3RjV3SkNSSFdVX0RXR2RFaXBvQzNKM3RwQUp5VXU3Vy1oaXdNMGptVjVnTXNhZ1JfVmRUTjVRWW50cFhWdVZKcnlwQjFhRkZETG9hLVowUjJCYXRlcHpaTVdTQ1p1cVd6WmlpYTdhYXZuWlNXZ1dYdHdpU0tWRXJnbi1HZHVtbFR6YXJFc0xTcGJ2bjF6cnZYQzlERGhaLXkxSmRhNjVIdlVBVmJReS01ek16b3hOVnczc2ZFUDJ0bTNsUTFqUXVzUlNhWUtFdUNOZ0RqV2tBV3M00gH6AUFVX3lxTFBoUDlkWkhvbVpKOU4yQ3NYWHVObFA0SnFwSkpDbTZmYlNLdzM5MGstYkVEZzFaZ2RmQXc3WDhwYUpORUFYNVdkcEdKWGlGcGhqZVZ2ZnQ1S0VlMG1kYlZpQWx6aXQ0dENaWFI3Umhjb2tMMGlncUFSNGtkYmt6WVJjZ210VTJMalZFUVVtWnREZUhkYnFENm0tUlQtdzhoa3N3LWZ2YlR6Vkd3dGVzWjBFb0UxN0YwVDB6eWJodEdZdjBqQzVvQUhpZkYtSnROSmpiaGxzV29nZzRNclpDQnZ3SEVUc1VkdjJnOFdtejBtd2J0NEFYc0pnY0E?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 15:16:33 GMT",
-        "source": "Livemint"
-      },
-      {
         "title": "Market Data",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JNllVNTA4X2pESFBZTVZrVEpkSUQzbVd3ZG0zMW0xdjFkVFRYWm1NN1dUSjVWemxreVVhMU96clJoSWFpOGFsR04wWUJvUW1VeTFvUU5peVZvSm1Iems2c3B4WVZ6bjQt?oc=5",
         "pubDate": "Wed, 09 Sep 2026 11:57:44 GMT",
         "source": "The Economic Times"
       },
       {
-        "title": "Stock Market Today: Gift Nifty, IPOs To Oil Prices — Five Key Factors That May Drive Sensex, Nifty 50 On September 9",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWpSekRHQTcyRGg5cDJGWDNVd1hISHVRWGptZVRFY3pWQXQ0Zk1XNC1VZDJlbmdLRmR4RHpSWEdvdzN2UV9xYWlVd3lQMlJlcF84S2Q5c3gzQnNPdXRTR0RIbmRycGVVNk9xSF9nSkdqRHpGeHpQSG5JcERZbTBaa3FuSHFiTEN4aEY3MTB0VnZudFk2NEtKYTVzNVRjNkVjRmxmcjJjT2V6RXFaMVJnRnJDSzF2ZHhjTlpmZzI1bjQ0SE1SaVA0T1p1M29FUUZmSXlsa1lBcTlJTHFEd1cxT2U3bHhDVDdNaWdPYUM4endLLW1NaFhvZ0NCY9IB-wFBVV95cUxNMWpSekRHQTcyRGg5cDJGWDNVd1hISHVRWGptZVRFY3pWQXQ0Zk1XNC1VZDJlbmdLRmR4RHpSWEdvdzN2UV9xYWlVd3lQMlJlcF84S2Q5c3gzQnNPdXRTR0RIbmRycGVVNk9xSF9nSkdqRHpGeHpQSG5JcERZbTBaa3FuSHFiTEN4aEY3MTB0VnZudFk2NEtKYTVzNVRjNkVjRmxmcjJjT2V6RXFaMVJnRnJDSzF2ZHhjTlpmZzI1bjQ0SE1SaVA0T1p1M29FUUZmSXlsa1lBcTlJTHFEd1cxT2U3bHhDVDdNaWdPYUM4endLLW1NaFhvZ0NCYw?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 01:19:47 GMT",
-        "source": "NDTV Profit"
+        "title": "Top stocks in focus tomorrow: Investors must watch Coal India, Shakti Pumps, Wipro shares on Thu, 10 Sept | Triggers",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGJFN3FFTWpXUmQwNGhpbXdBQ0hHS0dvX0M3RjV3SkNSSFdVX0RXR2RFaXBvQzNKM3RwQUp5VXU3Vy1oaXdNMGptVjVnTXNhZ1JfVmRUTjVRWW50cFhWdVZKcnlwQjFhRkZETG9hLVowUjJCYXRlcHpaTVdTQ1p1cVd6WmlpYTdhYXZuWlNXZ1dYdHdpU0tWRXJnbi1HZHVtbFR6YXJFc0xTcGJ2bjF6cnZYQzlERGhaLXkxSmRhNjVIdlVBVmJReS01ek16b3hOVnczc2ZFUDJ0bTNsUTFqUXVzUlNhWUtFdUNOZ0RqV2tBV3M00gH6AUFVX3lxTFBoUDlkWkhvbVpKOU4yQ3NYWHVObFA0SnFwSkpDbTZmYlNLdzM5MGstYkVEZzFaZ2RmQXc3WDhwYUpORUFYNVdkcEdKWGlGcGhqZVZ2ZnQ1S0VlMG1kYlZpQWx6aXQ0dENaWFI3Umhjb2tMMGlncUFSNGtkYmt6WVJjZ210VTJMalZFUVVtWnREZUhkYnFENm0tUlQtdzhoa3N3LWZ2YlR6Vkd3dGVzWjBFb0UxN0YwVDB6eWJodEdZdjBqQzVvQUhpZkYtSnROSmpiaGxzV29nZzRNclpDQnZ3SEVUc1VkdjJnOFdtejBtd2J0NEFYc0pnY0E?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 15:16:33 GMT",
+        "source": "livemint.com"
       },
       {
         "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdDVSU2xEV1ZacmJfVFRLbGFDbG9MUFdvVm04XzhsaHFzYXdocU9zeVVjZnRQOTZfeG1qcEIzQUZNb3p0YUllcEE2M0VVMGFCeHJrc3o4VGtnU1g3V25kUW9qTlc2TTFwYWx2T2JpQnR1ZVI5MUJsdDVEQU9yUlQwRmV1WUFFeGtBdzdrWFJ3ZFZnYVFDRkNjVTlVUjVHdzNDTlpHNktsODA0cDRDVGgzaERZb04yam1Ecks5ajhucUl4dDk3RzZvY0NTbnRET0pmV2Z1WmFHQ25Jakx5UnBheWFZRHpsM2hhLXFOUFJQcG51d2tsWmRmOVJiTVlyTXZFZF93N1B3R1VCZ9IBjwJBVV95cUxQTXA3TWI2VU9EM19jY2ZmSDF1TktsWWpFd0VUVXd5bkh5MGNLbGI5eFFRT0xNM3FybmpFSVd2bmhHbDJ3SV82RFRIMTZHTjB4ck9idjBwbW02ZXBtdXN0WkZWWDRreHpMalJFVjU0eDhzT1lzWHNaWjI3VThSeWllYU8zNXU0QkNqZHd6SlVFTVN4b3V6UE9PS0tYRzAzUGhRLTk1MVV0dGYyWGhvRDBram9kRmRqMXk4TGV3NEFYQ20ySGZJNnBxbFBkSFFudkdvYW91X294OE5za3ZXcG9ZRkx2RWc3d0VOVEVuSHdEcUhLYjItSGxGVnVUYzhtTGRvN1VaT2F2dE1FYzR4aWJN?oc=5",
         "pubDate": "Wed, 09 Sep 2026 01:47:13 GMT",
-        "source": "Livemint"
+        "source": "livemint.com"
       }
     ]
   }
