@@ -1,9 +1,150 @@
 {
-  "date": "September 12, 2026",
-  "timestamp": "11:07 PM IST",
+  "date": "September 13, 2026",
+  "timestamp": "01:31 AM IST",
   "sections": {
-    "world": [],
-    "ai": [],
-    "markets": []
+    "world": [
+      {
+        "title": "Modi and Xi seek to reset India-China ties on BRICS sidelines",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW1hdmpKRHlLcUJ6dVFoRE9xMEJOWlNpdEQ4VlEwN1RkTUlSa05JOG5Sal9CV3d2WFkyaHZWTl80S2lBNzJQSkJMRzhiV2wweHFXbk9QUU40SGt4bDlrZl9OOXVab2ZfVVFncHBXV0cydnVqUmc1LVNDR1dHcjIzelNkNk9NLS1SRmJyZVd5bENIenQtbDNveUVpdjdkeWtvMF9aWEhB0gGrAUFVX3lxTE9JendtdDYzMlpwZ09rS0lycS1fMnlmT0pZbkRfQllUclhyWW1wRlBnejgtMFVtM3I1ZmhuTS13Z3lGTGdMbExacTVIeVRFS3R4bkw3QlVjdzhCSGUySGFvdC04Q19DRmVwZ0xxblRnOXNQbWg3MzZpYjVxMU5QZDY4cEtrVDNpd1Y5VHVHUmJWVGtkRzR1YTQ0UUxUdEV0dndJR2dZSzc0WjZUVQ?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 18:28:41 GMT",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "Prime Minister Narendra Modi makes seven appeals for economic self-reliance",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnJuSTUyVGJyY2tKa1hrXzVXN0JBVnphY2xnY1J2RlZiWmd1QjlzS205VFk5aVg5NF9RdVdscVREczFvY0thdS1OQUItbVItMlU5bTBHTWRMY3FDNTZNU0l1SWRKRXhGRFFqZlUxb0ZZQ1BMYU9QcVRoT3FQUnRNWDNyOXNXcVJPYndjZ0tXT2k1M0JCUG9SSEVYQldBY1dqcnhwTVl3QVp2b2tOeUdhelIyYjNycXk2QUJWeldXeUxxM25VY0xoWDExQWFvYjdqQk1aT3lrT2wxcWRLZTdwRjVpMWxUQQ?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 18:17:22 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 12:45:00 GMT",
+        "source": "AP News"
+      },
+      {
+        "title": "Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 10:37:00 GMT",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Air India pilot dies during Delhi layover",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 12:33:00 GMT",
+        "source": "The Times of India"
+      },
+      {
+        "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 16:39:47 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "BRICS meets in India: What’s on the agenda, why it matters",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 05:25:13 GMT",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "BRICS Targets Self-Reliance Through Energy, Food, Rare Earths",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjdnaUJ6dFZWWldMRzY5dXNScG9xTG1oZEY2UE83S0d2d1ltR1VvVXVkY0dhYklfdTR1MGRGT0p0WGEtXzc4WmZZQjhRZDFoTGRqVjRROGYyV1pHQWttVl9HcFNJb19SVTJkd0VWUGVLc0J6N3BlOWwzaWszZXVwT3lHa09HTE5qVVdFbVl0dXhvYTFxV3dmcTFKdkdsZW5qMUHSAaoBQVVfeXFMT205RHQ4bmJ4MWZIS1BSU1llZ3hDUFVHQWZXUXVIS19nWlhycHlvMVM0c2tOQ21mZUhLOXdZcUpEbWgyZmx4Zk9RSXZwQXd1SUNCNnF6YWhKLUROTGxSdmY3cWpWR0FMRGprb3otVFc2ODlvU1ZXTFRTcERiR2twTDZ1MzZCTlJqZU1SVi1XV3FqRG00RHN5cy1XbDJLbU02cDZjakpJRXE0MXc?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 18:38:21 GMT",
+        "source": "NDTV"
+      }
+    ],
+    "ai": [
+      {
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 17:42:28 GMT",
+        "source": "OpenAI"
+      },
+      {
+        "title": "How AI ended Kenya’s essay-writing industry",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEVYaXAxYkoybG5OVkYtSmlGVHlKcGlSRGYtYmRrcUIxWXFXNUVnblpzd2FwQzgzQ2tWaDVNQVhOd3dzdXVWRE5MUGU0NGVUeUthcU15cGJoNkxDWnp2NjYwSWk3NkN4MThnTlZiY2RET1VnX2xDT2VnSS1PYmVMQ0tMdFl6SkY3TnNnWWQxTmpXNEU?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 20:53:26 GMT",
+        "source": "observer.co.uk"
+      },
+      {
+        "title": "How brand discovery has changed and what you must do now",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTndyaDFxWnZCVVRpWG1vNG9rNEEtLUV2X2hYZTNqdjlRRzJBaTd2U2lZQy1MaUdyaW5sZnQ3QTlFOUZTTzdEY29XWGptYlJDNVBfZXdPLXBzY0VlT2NNaDl6eUQ3TnljLTBnSmM0empWZVVBMHh3cnBhSVZjX19DSFBkaGJnX2dqcTJz?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 08:30:04 GMT",
+        "source": "Deloitte"
+      },
+      {
+        "title": "BharatGPT Founder Rejects The Race To Build India’s ChatGPT",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFZQYVNSR1p5V19Rd3RXV2ZweEhReVlUbjd2NjlER1VKNk5ldFpNUzd6VWZGOE5UVXVidlNJMDhlTlJRZTRSVUNnZzlpUlpJUkNPLUUyLVFOQ0lCS0hoVVl4eVZQRS1PYjJSNFdja2RQYXlSY29Id3M5MG8wVXdtRmRNOXY2UTRIWXN2RmtPM0pXdjFHb2d2YjhRS1hROE12Q3dPMFB3?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 09:05:14 GMT",
+        "source": "BW Businessworld"
+      },
+      {
+        "title": "Experts Warn You Should Never Share These 5 Things With ChatGPT — And What You Can Do If You Already Did",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMVBfd0tBMU5GY3h4VW1XTUI2OUFibTUzek9EY1hWZkI4Zl9TcVNsSUtXS2pQNERjdXlvQ2NKNXNaaG1Vb3hMbnZrQjhLWjY0MnZfRkdic21tTDk3eDBmMlpUbDE2cVBDQ1B4SHhkMEtReDRtdVZrZ1RsMXl5V0F6YkZMSVVzc1ppWVUxMmtVMTMwYi1COVJUYWI5REQ0TkNqelJEdnFaT2V2SU1zTTF5VTlCM1BMMXNBd2U2VWVoMG1rbFJFR1lWWjk3QmhqaEFCU252MkZqQkJ6RURYR2lhbG9IY1BRY3JUOFA1VEZiUlphSHNQOUgyTtIB_gFBVV95cUxOWnlScHNjWXc1MWpGLUUxUTlxcWhuM3pfYWVISGYwTjU1Q2lWVHJ2bWFfMWlFWFNlODNNT3pwZEQ3WXVCR0lNVzBCN0VFY09mdWNfTjFOZGFuMmtTOW9UUEdTZXZPR2YtdmNieXJZQXBRQnQzQWJ5VV9MdVhOQWFtcjJRWU9QbE9PWDY3cXhMWWJvQzFQWmQzOW1zUk1MVXVDcmVIa1dSaDA1elloNnZ2eFZIYlF3U25IZVh4UEY5UUwxeW5OMHZZR0hOVjE3eExFRlg4Q1l1RF9DdEN2YjlnNTFnRXdmd04tQzRMUk80Sko4ZUJrTk92N3c4ZjV5dw?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 11:00:17 GMT",
+        "source": "HuffPost"
+      },
+      {
+        "title": "How AI Agents Are Automating SEO & Content Strategy in 2026",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXZyZUxxaGRsSjZDVEpscXBwYUV3R0xIZVMyR2xiMVBBYy1GQlNveHBsTDNxX0x0LXdVX0lqc3lubUhfaDBFZWx3MlotS0hpVWdoU3dISnR4MFpzVm9JQXhfa1RuNjRablptLWhsS1dERHRzb0kzc053MzE2YlJYb1NqYW90VS1SXzRIaXJPWE1TMFhFVU9tZWU0VXV4Q0x6dFcwRHZXaGstU29uVmVOX3NRaTHSAcIBQVVfeXFMTTd6MExleG1USDRXQ0lNNkVsZ3pxRUNjVGdDZ29ENmoxT3Nla1BCd1BTRzgyMHRsdXlveXZ6RzN3cjc2V3MwbU1OTEYtcmpFVTE1N3l2NzVRaFB6YlFSUGNOQ0JRakVhenUzSldtS25jQ0FIS1l0OHl2bExERzlrcHU3bXhocllubWg3SE9Jd3NTS3IzS1l3NWl6QktXMThpcE9vUnJBSjdzWHBZMktaMWF3WjI1dnBHVTBtdDZ1THNyWmc?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 09:48:20 GMT",
+        "source": "Analytics Insight"
+      },
+      {
+        "title": "Digital Preparedness for Future-Ready Primary Education",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHFYbVRma0VFNmxKUDBndHQ2V1dsZUdlNkFzSGprT0lXR1l0Xy1aSjhHbzNFa3NPY0ppbnoxX0h3eHN1SXBmSWJiTk9BZlZHUE5pSmlrT2FnMXFadVpxVlREUEROc20wXzV0OHdJaVlaejVEYkVzZ3FFeVE0ZmlWNzdmQkxoT0ZmRlYxS1FtNE5nUlduT3lEUHl6dTYtSzJVMTNqLWMySTRvY2Fm?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 12:54:11 GMT",
+        "source": "The Daily Star"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmxOcnYxRzRlMXZzWjBDdFlyYmRqSUIzbHl5a2hPSkh3ZWphN2daMVo1dXFuTlpsbHpuNnZIRW4tZTRPRWx5SjY5bFpjdkRmMGo0eE8weE1PeG15OGM2aWNROEk3eDdrQWhha1lQNlpySTF4SDhiNGRGdWwwSWtEZHJwdEpqYUNnX1FKb3F2cjc4LTF1dzZxNzBn?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 16:36:04 GMT",
+        "source": "Liquide Blog"
+      },
+      {
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOF8xZWRnSzlMMmF4ZjNKYUNPSGM2SjdqaTFRNlFPclBHLVo4QkNmZXI1T2oyYjBoVGdRR2NmQVFNNjVhZS1KQ0FvYzhYbUVmZjBKYzlCVFZFUnlxejhqNkRVc20tVjNj?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 16:47:19 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "NSE/BSE Listed Companies Starting From d",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW5qSjhLNlRGNTZBVDBxMVE2bFJod1d0SV9RajJvci05ZWdvWXBwdzRYX0RuZENmYVhZSHlHNTNscmYxR19GeFZmdDJWV3Y3V1VsU1pJTWxmRHEzQW9uc29hTXJnMi04T2ktdHB6WTJqbXJ0LWVRdWpmVElkdXFJeDdvRzkzekNZNWNvaTN0UDk5cjMyMWZlYlR3MnJGNHVHMVZuT010OEloUnJqTkdOR0F1SjVqN1RVS2lCRUNrTQ?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 13:34:39 GMT",
+        "source": "Equitypandit"
+      },
+      {
+        "title": "Sensex, Nifty extend losing streak to fifth week; touch three-month low",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeVFraFA1d1M4N2NtcUQ5dElVbHl4MjZrRnFmNVlTaXpyNWhiandFN0FyMEUzdEZYTXRFOG9HN0VzOEdfMS1jTGxvbGhLVGNHajI4Xy0wVVJKSTZxN3BvQVUwRkRDLTFPdWFMaVkwSnE1emg0MUxiazNuZmF2QTV2Yzl4RjdtengyeFZDZkNxSmpNcElNZDQ3TXpiMFR5WXFOZzJDd0VvYzMyWWZGTXdjaU9nWWwxc2djV21Bc28xblJ5NXJIWDJiN2Q3T2RaanRkT19yXzk3YkTSAd4BQVVfeXFMTWVHZ3NoRDIwZDdnN0k1QU5fN0liTHR4b2pqVDhqODlzRmxqYVRwSTVfTFhJbDJPa2tYc3dqUUMweS1aVl9ReVQ5aWFYZzd1QS1zc1gwajM1M2VsZmVTajQyeWZwNUxTVEhPcXZEQ1pqbDdPcjlHUHJnUmpxeElMazVaV2RYSXZacDN1V2E2eTdKTWhoVU9fZWhYd1RJVThHMG9ITTNtYVlra3oxM0Z0QTJSTjB2VE1zM0ZGVm1pQWJnSnN2cjV1eHVEN2VZR1l6MDV1WUsxOUlfdnhjcjdB?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 05:28:25 GMT",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Viji Finance (NSE:VIJIFIN): Did BSE and NSE Approve Listing of 2.95 Crore Preferential Shares?",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWZkWG9qek41cEd5UEZCWDRCLU81MGVUcGVfOW5NcDhiMDBTdjZFa1BQa0lqUXVKeU5ZWE9VVWZ1OS1zTmFRRWZfZlh1MFhWSHV1c2MxSnJyeEFCUXluVU5BQ2xsNWtLd3lpSjd5M2ZwaHkxNUJMSVZaQ2l4alVMZjlOb0x6cGJudUs1WlphSHUxTEtZVmV3bHpmb3RyU08zd2FLUFBZbWhXNUhTQVVsaXJ2VkMyWjFCWGpLSkVnalh3N1BVc2hxQnNlZTNvSWNOUWc?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 08:33:00 GMT",
+        "source": "Kalkine India"
+      },
+      {
+        "title": "Nifty, Sensex dip nearly 2 pc this week over oil prices, global interest rates",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXhidndGbzh6SmtIUTZtMjFjS0R0bzBYaEg2QkYwc2VfZUVmNzB5SXl6UmN1cXE0S1dsZGpaczJHdFNGeHRQZVFYTkVrLVFqaHBaTU9uQmsxYlpKMlNOMXc5Y3h4LTlOOFp6dXlfQnl1cmtBdThyN3hkLUdDMGhwSW1sREJqQ3Z1VjA3bEFia3BkdUNVSEhMX24yQnFqajg0VlA4bkEyTjFob3RQREZvVVRFMnN6NDhfRUNRcFZOd1FUcXdGbTRvbklvZVZVNUxUYjVublhsVzfSAdgBQVVfeXFMTll4YnZ3Rm84ekprSFE2bTIxY0tEdG8wWGhINkJGMHNlX2VFZjcweUl5elJjdXFxNEtXbGRqWnMyR3RTRnh0UGVRWE5Fay1RamhwWk1PbkJrMWJaSjJTTjF3OWN4eC05TjhaenV5X0J5dXJrQXU4cjd4ZC1HQzBocEltbERCakN2dVYwN2xBYmtwZHVDVUhITF9uMkJxamo4NFZQOG5BMk4xaG90UERGb1VURTJzejQ4X0VDUXBWTndRVHF3Rm00b25Jb2VWVTVMVGI1bm5YbFc3?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 07:20:49 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Market Data",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RWUg4alktSHp5NVdfTTJzMXlmT0stekNDLVE3UWtrRUdNUmpmX2c2VWk4Wmhkb0lGQWZ3bzBUOG5fcjVFYTVLVU5vaTBhV0Y2UC1iWEdpR181S3RMd2xIa0JyTXkyTkhD?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+        "pubDate": "Sat, 12 Sep 2026 03:56:01 GMT",
+        "source": "Upstox"
+      }
+    ]
   }
 }
