@@ -1,70 +1,58 @@
 {
   "date": "October 05, 2026",
-  "timestamp": "06:59 AM IST",
+  "timestamp": "01:36 PM IST",
   "sections": {
     "world": [
       {
         "title": "Mass protests demanding poll chief resignation shake India for third day",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 23:03:45 GMT",
+        "pubDate": "Mon, 05 Oct 2026 05:10:35 GMT",
         "source": "Al Jazeera"
+      },
+      {
+        "title": "India-US trade talks hit 'plateau', finance minister says, as tariffs narrow room for deal",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1J5UEt2X3M2VGctS2FVQnMtVkJoOEwzdUZ4SENyTzNJRUZkUmJBYjBjWkVCbkVUNG9ITHRueUJONGpBUHVpZ3VaajhUNGY3SThiYTJHQVB3U2l0MXlaaGNKY1NLbWZ6TXNYV3FmNm9BVjJ0Mktod2d3SWV6TWRjUDNkanRCVHdpRU9oZFgtc2RGbUx1TUwyMU0weVM2Ry0wOGJMN0VMZGM5VGhUdDJ5bWNjYWh0WHhWQlE?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:36:00 GMT",
+        "source": "Reuters"
+      },
+      {
+        "title": "'Like Ghajini': Devendra Fadnavis Mocks Opposition Over Poll Body Attacks",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXVaSnJwbEk1ZlBDX3dsbjY0cTBlT3NLYVFvellSYXk1VkE1UG1uNEk4ZTdsanI2OUY0U0JDNGFGN2FnSmNYQlpoaXVqRkZ0d3UwZjZRWXJQYlJUSWdDRUR2SmQxemdkNm5yekdWTVlNV3RXaElIbmhiN0hrQk9tc3V6b0NEZ05hUjNuSUU4aUlyQlNRNEZYV1JWcWRDMmVsc2VRT2U4NVhMa0x6Yk5wbC1JU012WmE5X21n0gHDAUFVX3lxTE1GRjNQUHZhNXV5LU9seUFNSXFmS2FyUVhvc2lzMzcyWU9MT2hsbG5aZU0wZkl2azJvQWQ5TFlJdjdWWVIxVnJPdzJfSXIwaFlZTWdYUWdhUmdhS0toZ3NMcDVXNkVGb094bU1ZYW5VWHM5Uk9BVmF6dWFIQzlxX09LeG5kSEpxYnlZdG9NdGxjX0hIYnNTWXRZdFNMa2NjNmYyT1lfMUZFUTQ2RHJLYkVfZFl4NjZtRkJuUGx0b1RydDFzdw?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 03:48:00 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "‘125 million voted in India’s Presidential Election’: Trump’s faux pas ahead of Brazil polls",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnMtVV9xY0xmUW1KUnJJVWZvcmRGa3VRODVIb2FvcEJHbjZoTXVuZEE2YlYxQXI1OW1Ib0NnbHZVNHp6NjFUVmxONWVGRmt5TmVsYlk1djBtbFpyX3JZYXEzUVJsbGdtUmg0R0haRnZzQlktYmhyNk9wVk1DOTdqNjVkcUprQWpvdUhRQkZDdzE2bUVpQkJQcWtELWg4QVdHWmtLWQ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:44:43 GMT",
+        "source": "indianexpress.com"
+      },
+      {
+        "title": "India Rate Hike Looms as RBI Grapples With Excess Liquidity",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlJYbXhxYzdzQk1LbnREUWxMcUVZS2YxWXRES0N2YldKNHgzcENpV0tOcm16ejJIRWlnT1lzZHp1bVZBVDNqYnFvblI2MW5KaG85Y3ZrQmotUHhJa1BGMEdtN2RRanNucC11bVotMmkzM2tzanFicjRjSTRwWkR5QmpFbGdoMXh1RWJMOWU2V2pSaWtaUlBoSzl4YnZYcHhVYW9lNllRZmowVDM4LUhXdEZvMA?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 02:32:00 GMT",
+        "source": "Bloomberg.com"
       },
       {
         "title": "Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 22:45:56 GMT",
+        "pubDate": "Sun, 04 Oct 2026 23:03:45 GMT",
         "source": "News On AIR"
       },
       {
-        "title": "External affairs minister S Jaishankar says US has chosen to become 'lonelier power'",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdnZZWWtqMmtzNVFUdGVvTFpaNXIzZUVfcUdDU0gycVRGay1ZM2RrOHZaRVVIcDdObjNvaVh1VFFQazRFRDJYNW9rUl9qcUxDNVd5QnljX3pGSDdjbVM2cldDSFhuakVrdWxWc2xGUWQwSldMTFZBQnl3R2hfV2EzRXE4aDdMV0dyVTc0TUFfSGhZM0drT1FGYWhqWUtQRTF6Y09IekFaRHh5SElrVU8tdmdoSXhYcmJfVnVQZjJKUUI3Vjg5dTU4TGc3SHY3UUpDOHZPZjZVa0dfSnFCSXpCSjRDOXXSAeoBQVVfeXFMTk5qWGxuYTlmWFhTN3JmdERqbDVSNXJ0dzF3c1FudXI5TS1zLURYR2dFZWJHWUNJMDVBOFd2Rm5kRVJ6eUdaMDVmZzdjN2hUcVVHX0lUWEw1NFZuV2F3c0wzSG51eXFWanNfVGVlYUNPSVBsVEFQeTBGc3VZTXNKTFFfVUc3NlE2QWtkeWxkUlVUMEdqX1hIVlhVS1pUQmRtVWpZN2tXSkVrMm5iMldxMjg4TmxxUFFVN2p5MUhXWV82Q0FjdUZ3VkVVZnlvYWxtUDRSU08wRWlNd2kyUFBiY2pucGlfaUVkNmtn?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 20:59:00 GMT",
+        "title": "Presidential election today? Trump confuses India with Brazil, claims 125 million voted",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeGItTGpzdHZ5eldIeEh2emptMzVDMnYxSUFMYXpISVBUYnFzYUpVaFJsOEdzdDJNRExYVnpVUUdpRDBtYUF4RUFVU1FFOFVqMmVVd0xZRHdvX0pBZGlIOXp2UU5wWUVKMDN5WHJaRlJkbWw3LTJaUTl1SkE3Qnh6MEZ6em1XVlB0aUlIcUtBUFFUM3BFLTd0OTE0V09aVkwxVVJJcWZsaEJ0SmgzRVpGSEp1MXV5TWZnSE9rbVM1bzZyQUJKS3hKN1VKMWcxQXdjRV9nMGZTRUZHempjeTMwaGtfajE3XzVJ0gHuAUFVX3lxTE1kWHZjRm05R21Ja0xwZFZtZWMzZ05ZSVIxSDVtZzRXNHJUckltb1BkVFJOMXFldk55aE9Ca01tUUg1NEI0a1FDbGplNk1LQklRNW1obk9UNnIzQXM3bGxxeGFtN1FYS2ZJNVIzUVM2YXA4VGZSTzI1c3J1Wlo4T0gzR2RLM3hVYnVQeGxUXzByUUJEVElFTDhsdjgzbTN2NFJ3TWNDWkFVTmh1YmZwNWRNLU9yWFJ0MlIwNXYwdjN6SXZOMXN3RjBCZmo5NE9mam5KS1R5U0UzOV9KWTU1ZndmNHNUel9VRmRidThTZXc?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:30:00 GMT",
         "source": "The Times of India"
       },
       {
-        "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 05:05:33 GMT",
-        "source": "DW.com"
-      },
-      {
-        "title": "India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEl1Rmhtc1ZTdW1QbDJWVEtpVUVDUVVwNVVfSXBvcFFVbi02Rkt2U0xLSTlKSmx5aEtuN3ZSYkozSDlPSlpYRGl1MDIzY19wUEJ5U24zUDRBbkVxa1ZRUVFwMENtNUZpXzhRNVY5LTJFeGpZM0pQSlFEc1BrcEtqOGFObmpkNlhpdk5uWk1TbU52Z3FOdVJHQ2xXRDcyZGJXZjgxetIBrAFBVV95cUxPbWFualJsU0JGeWZtT3dERDgxYXNDYzVrU3E2QzFKb3lKbDFfMVU0RTFhWWdwWWFRRlRsdjBPaXVLZWl3WWIxTUZfUmFCb3l6MHktZ0QtaXBSQklGaHU3U1lwT2U5OTZIUEU3OUJya0pvOTU1ZS15d1hUQ1VOR1hIczludmR4d0ZqWDNyTmplN2IwYTJXd05PQ3N6WnBTTXRSLWJUbjdXWXhnWW5n?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 10:29:21 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "Sammy lauds Hope after Windies’ record chase against India",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGtlR0dNWEZRMzUtcG5mVWpEVFVrdmRaY3VZZlR0T3lId2lWYndhQ1c2SWYtd2dQS1NxeVpHc0U2VjUtSUZkaHcyaGFnOS1lZnhOcWV5cUFvaG54X0NQeXRsNjdWWUNuNmZSYXU3SnI3blBkdWZ6T2tRZFVBb3gyYTZSLUluNmRvV3g0TlV6cWhseE5p?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 00:03:53 GMT",
-        "source": "ICC"
-      },
-      {
-        "title": "Protests intensify in India over demands for election chief to quit",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 14:25:13 GMT",
-        "source": "Reuters"
-      },
-      {
-        "title": "\"Iran signed NPT, India did not...situation is very different\": Jaishankar highlights distinctions, deepening global energy crises amid West Asia turmoil",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPTHVpUG82dWhURmJ4emRWRUt5T2dyRjBoQ0w4aXNJdm9zQ2dOZFpyTTZLcE1ha19CdzJ2NV9fRFM2dGxxeENjQzhLMlNiY09uRG5vdmhwSTRaSHRaOWE3RmdEUmdlV2FZRTZEZ1U4d3AzeTAyVnpBdk04M1UzUkhZVG5mUUJ2UFRDbWlsY0RrZnBsWi1sV1VmTjQ1RUw1MlJ1YllqdkNESy1fd2laVTZKaEhHLXgwb19tV1dPQzR6MXd3X0k1eV9lQllzdmRZaDZIa1ctMk5xd3EwSVBoaHJmWHRRN2p0TlkzNjVMeDExNkJvN1BiRkVOZHB1RXJiV1NnbGozY25HTmdEcXRseFhUSGFEb3dWUE13bGs4WllKYUJONWJU?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 16:43:00 GMT",
-        "source": "aninews.in"
+        "title": "US choosing to be a 'lonelier power'; China rising on world stage: S Jaishankar | India News",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMVlwczJ0RjRFY2F2QXE4eFVUMmpPUHkyd3lRX18xNUNNUHhSR2dnYlF0ZFREZC1MSlduY3EyUUs1TUprRGNrMW9Sc3NvV1MybHVsczE3akh3OV9vcEJSVE5iejRIbUFod2NYTE8yd21MaFNsYTlKVXpGVEh6Rjh4cXVCVDJkOUNJbFRjR19ROWRmakRLeXE0M3FvZ3NUMDNobjFKOWdVU2Rfb1BPRDYyeXNmOGFFQW04bFdodmg0Q1VIOGhNY0tkNzh6bjBWX3Z1bk12WmxlTzcwNGNaZ2JEcXdFcERWUkEzZGpmbDRubkltQ3FzTV9wRXB3b21zaGp2RWJPWURn0gGLAkFVX3lxTE1HckZvb0JtYmFDdlBYMDBGMGk3T0lvS2FPZ2pEVTFlc21HSGdqYTlCaklwOFZ3VnoyeUdjSllnTUxRSzdaMWNLSmFJdjAtUGtuakJxV2ZNU1lDUHlZSTROdWN2TG5aMDFLSVdyWXVsU2QxVWwxUFNrUlU5UEZVUXF5WjJQREVRemhLdWNnS3hYMU1ieGF5WUFXaVJhUzFxcTFqV3BDSkwyTVB5Z0Flc3FfYUU1WGs4RXJ0bWVCQXh2T3hDN2tIdWtqTUdLaVNQanhSeGJoXzdSWC1oOS1fbEVtaWlsWXRqOFo0dy1ZNWFJM19fSGlaTWYxS3JmYlZ2RXZEUDJWV25sZUpaVQ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 03:10:18 GMT",
+        "source": "Hindustan Times"
       }
     ],
     "ai": [
-      {
-        "title": "How to Install an Uncensored LLM Locally on Mac and Windows",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0tTQzh2dlU4TVNob0pjSFNqWjNSRTB1QURLVEQ1M19aZWtyWkxBSmNaRnpmcTNnWk00TmtpRGRabWs0SUNxcEhQWDY4ZkZ5ZEdVbTF3WXdFeFIxRmxjMTFmbmgyalVLQlljcllTSmRIeFE3M1NBb2ljQkJkNzdkanFiWnplUHNXV1dPNEhmSQ?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 06:49:05 GMT",
-        "source": "Pasquale Pillitteri"
-      },
-      {
-        "title": "Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHo4Zjh1Y29GaURuOFM0bXJ1OVVzUkFEQi1ZaDA3ems1R0s2YnFXdnhhLWdhNU5aeDYwYzluNmpveVBXbFFQWmVBajQ0UUtXRzhJVUNJYXBiU0lkSVlxWUVBQ01oUHpvMk9wVzB6dldqWkRZeTR3N1dqWjc1Wjc0YlItWm9UZDVOVnh6MjNrQ2NJSF81M3NrTGQzbWxPZnBiVVZjSFJvXzZlbkIt?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 00:32:41 GMT",
-        "source": "WSJ"
-      },
       {
         "title": "AI Is Creating \"Doom Loops\" All Over the Economy",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajM3ZUxuWU1vZ3llNW1sTFI2czB3YVhlZm1kVmRjWkNLMUdaWlZ6SDdNVVhhS0J0M05wcURHR3ptWnpXNUJHU19UZEs1WnFvMEpfQ0RjWFdVOGZRWWZ1VU0xTC1zby1zRGdpSlY0UzYxVlNOOVEtVHVpT0VDTkgtOE9nVzgxVkF6U2Fia21XSGJvZmROMHc?oc=5",
@@ -86,64 +74,58 @@
       {
         "title": "Inside Jev: How Decision Models Trade Text Generation for Typed, Calibrated Answers",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWE9IU281bjFRalhPbFZSajJ2MXg5OFRISndsQ01VeVJzYTl0R2lkaG5DemRfUmdSVXZIR1UyaWNFdE1IR2piRHcyVS1OeUNzMndodHJleWtCYXFkeGQxVkdUX3Q5QUdmcGlwSmY0Z2p4elJyZTdjTmNWTnZjT2xiWjlMUG1GWWdHSkdHZ05XY1dBNnlWUjA2RUNyem5rRXFhbVlsYzFvTQ?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 17:34:04 GMT",
+        "pubDate": "Mon, 05 Oct 2026 04:49:05 GMT",
         "source": "HackerNoon"
-      },
-      {
-        "title": "AI Disinformation Could Be One of the Biggest Threats to the 2026 Midterms",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWpUWGtLWlI5cFUxWTdDX05TN3VlZDFOTnNXU015U1dUMDhZZTVVdTBkSml1ZTVjalJBaW9kOUxtWjlUbTlES0g5aVpsdVRVaElwTEM5Rld2VlZheXZ2N3pzZTVXM1RENV95ejBmYzdkWmM0VExoNld5ZHJfU3VSb2ctUDVaMXFLM2VDdy1MWkp5UnI4SFhZemhoQzJOUDI2VWJjMFN1eUJwZw?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 04:55:19 GMT",
-        "source": "The Fulcrum"
       }
     ],
     "markets": [
       {
-        "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 11:28:02 GMT",
-        "source": "economictimes.indiatimes.com"
+        "title": "Stock markets rebound in early trade; Sensex jumps more than 700 points",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWlRRY2J5dEpYc2xtQkJ2MEVscGxWeVBIellwS3VZVDNETEg5XzJ1akJRMldJM2ljMk5WbmpvM0dGWTg4cU1tV2pfZHJvNGM5RXZSU0FKYjZGSXREejdoQXQ3bDNoUGl5dUpiOVBpcjRCQ0p2bUVCSndwcDhwOUJFZUpNWVE5R3g4S2VtT1pyaXZRZWVjQVEzNnlQM0ZJeWxzd1JoOHhaSHNGM09qNGRqbnhLcEFxdHl1R0Q1YUEzcEpYLWtCZG9xatIByAFBVV95cUxOWlRRY2J5dEpYc2xtQkJ2MEVscGxWeVBIellwS3VZVDNETEg5XzJ1akJRMldJM2ljMk5WbmpvM0dGWTg4cU1tV2pfZHJvNGM5RXZSU0FKYjZGSXREejdoQXQ3bDNoUGl5dUpiOVBpcjRCQ0p2bUVCSndwcDhwOUJFZUpNWVE5R3g4S2VtT1pyaXZRZWVjQVEzNnlQM0ZJeWxzd1JoOHhaSHNGM09qNGRqbnhLcEFxdHl1R0Q1YUEzcEpYLWtCZG9xag?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 05:39:55 GMT",
+        "source": "The Hindu"
       },
       {
-        "title": "Largecaps bear brunt of selloff as 84% of Nifty 50 stocks slip below 200-DMA",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVl2aHhWZHZRYThhNFdFVHE5ZkVtS3o1bVhCZ3BxMG04bUowanpFMDZLRVZVazF3RFJmOGQyYUJhNDNXRXZHX3lkOHI4LWlISTFXZXBmZ1ZYUnJISEgzdC1GaHdXcjdheEh3OVZ4cm1VcXJYWlZvVy1DRjI4NjhoUlRWcC1nYWdlSmJleTh3bVU1UFNNcGFrdm1GQ1Vxa3A5NVhtdkVQX0h4R2JCckFxTnFXNGVhT0lnZ1I0MVRsNWI5d2l0bEYtNDRPZVpqbDF1TWxMd1RveTN5WHhta21PSHhoRdIB6AFBVV95cUxNSjEzcFJxNXdNdXJPWXBiRmR6TlBUZzg1MnRTbXlTU0M3MjRfaHM2M1k0UFFucXNKRHU0X0hXR08wdTFXajBhdWZMZlJaTDh0MmdJbmdDd2xZN3p5MkdHMU05QlE5UVhMa0IyZi1ZazVjUi1HN3Nvc2JEVTlpaHdPSldJUW9Jd3A1Vk1YYm9KUVFYZWh0c0JGcE8tcVY2RXJBX1MtdUpDR25xVWJxeVdQV200Z1c1MUJINGliRElqTkdCUnU0YU1qMTZnT1pyclFvbS1aWnNjOUhfOXc2NFlOS3A2Z0JrQy1M?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 00:33:25 GMT",
-        "source": "economictimes.com"
+        "title": "Sensex Today Trades Higher | Nifty Above 22,550 | Bajaj Finance & ITC Top Gainers",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR2VRYVg1YkpNSWNZZzRYWjRKcHlES3ExWGtibjREMmpGVFlYX2lMYWNPZTFPRk5ETTIxM3hNWm9jUmhCeXNDWXVSdFJ3bGFtYnF2UW5CM2FwdmJVZ0lRcFZuVVdZRk9YWVJfbWVGOEZxT2xpQkY0c1UyOWc0dkFfMnJ0amFkeGl4cDl1QlQ1Yi01cU9VSUNDczZiVXdLSUZ2am4zbGRzd05aM0ZhU1RaMmV6ZVh4M2tTUWRGc0F1Mk1hbzVaM1l3TDRteDNxOGxFWlNZ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:52:08 GMT",
+        "source": "Equitymaster"
       },
       {
-        "title": "Market Bloodbath: Sensex Falls 1,124 Points, Nifty Sheds 360 Points",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWkxSlJLbndBakVSOEdYakVxSHBkRU5pRlJ5cmhTUm53RXRkRTZrZ0ZtN3N1ODZyV3NvUkRPWHV2MmpkM2tLSWtzeS1SLTNKWFRSX0tLTkszQlluaXZud1JDUzBMdkE3S3pVY2d5NXpZcHN6ZDgyQ0lkdXdhNzlNMlctcXFuSVljWFdLYkZFZDR6VVQ0a1FFNmNJNmRoUmtSMWdPU19VRHU?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 17:28:00 GMT",
-        "source": "The Indian Awaaz"
+        "title": "Sensex jumps over 400 points, Nifty crosses 22,500 as markets snap 8-day losing streak",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkp6dXZsbHJLZHNBb0JyRXJYX09lLWEzczJFV0RHUEVGd1NFNFFfNVlKbVBiQXJURTZyZlk3YU5SRW0ydDVnemtRNmVmQ1ZIZm55V2Q1VlFuNFdlYXF6NDIyVlRsYjJ1eC1uN1V2ZEpscGRXTWVQVGctaDRYMzVSSjlwUmNEb1dQZlVEbWJ4elBwZ1V2cFdXbk9kQUdpNXg2SjFCdzhhOTNVM0FwYWItVkstb29Kdw?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:39:00 GMT",
+        "source": "DD India"
       },
       {
-        "title": "Share Market News: Nifty 50 Outlook & Prediction",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 12:57:45 GMT",
-        "source": "Liquide Blog"
+        "title": "Stock Markets Today: Sensex, Nifty Jump on Global Cues",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYTdwRWV3azlDZDFPVU5IWElRUG1CV0d3eXVHRDdwbFl1dzhkWWNZUXJCUWhuQmdncmtoR3A3X2NJY1RaaXpZS25uQmZhX19NNmw0ZGozS1pIcFFYMmhfR3JMWDduMks4ZmZoWjRwOVpyZHJndHEwUks0Y0cydnB6VlNpeV9Fei1QeGYzLUV1ZjN5SWF5RUFydGlIV1kxWnRXV1EtMnNNdkM2SDhreWthdklQTkU5YTJPbjQ1THRxMmNYMm1oVGtDQjdtMEVMVE5xUUp4eDBiM2prV2NwaXZFVmRHc21zanY4clhuZdIB7AFBVV95cUxPYTdwRWV3azlDZDFPVU5IWElRUG1CV0d3eXVHRDdwbFl1dzhkWWNZUXJCUWhuQmdncmtoR3A3X2NJY1RaaXpZS25uQmZhX19NNmw0ZGozS1pIcFFYMmhfR3JMWDduMks4ZmZoWjRwOVpyZHJndHEwUks0Y0cydnB6VlNpeV9Fei1QeGYzLUV1ZjN5SWF5RUFydGlIV1kxWnRXV1EtMnNNdkM2SDhreWthdklQTkU5YTJPbjQ1THRxMmNYMm1oVGtDQjdtMEVMVE5xUUp4eDBiM2prV2NwaXZFVmRHc21zanY4clhuZQ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 05:19:27 GMT",
+        "source": "rediff.com"
       },
       {
-        "title": "Top stocks to watch today: HDFC Bank, Yes Bank, RVNL, Bajaj Finance shares in focus on Monday, 5 Oct | Full list",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1BZeElfLVNOVkJFOG0xZlRmdE5rby1aTVdrMjFGVjJBNWR5eVgtc29xNWxVR3pGcWpKa1A0Tm1zWGNMcWYzZ0xiZ3c2WGhkZ3F1TjcwLW9YUE5xOGdTZlByczdVUmtWcmV4cE9uYXVfdG1PS2R0eXBGQUs4TUxKMTFGb1MwRWVnX0RZMUNVdktRTi1PdlVwdnFqNmJyWXFIQmxaMG1fSzFHbXpNdmJsSE56dlEtZW1lMmZVUHVlcDZiaHRiUlhsak9yOWZNVllGUWFjY1lPdTV3b256R1ZOY2pQRFZ0V3BOeUlaZ1FPZTFvZnVBdl9tbkwyVm9ZTWFSX0QtUEx1dGVrUdIBjwJBVV95cUxNd2pUM2sxcGQ2RDlsVkZkWkthU1pTX2JaeEhYSFYyVWphRm9sZzhVY2UzU0VST1c3Vkk5MFhIZ2hNQklPM0hyWldoSDQ2ejctb3FQMWdoUVdvOVRQOGxtdWFnLWthVmRPZk43cW55eUFjRDBkaVpoN1dMYUtsSW5DV2EtLXZQZkxOdkdhUG9idFdxRFBVZjQ5dnBUTGk5bkk4ZFZLYW1EYktmN05pQ3QtLWJmUld6c3NfdERuMkh4ZlR2WDRobTdYcFliVXVncERvWnNFVXRGR2w4cVhidkhFOXhMdVZuRDdSS1FSd2lqX2xneXItSnFQZWNzS1ZIZWJUS3VvcFhEV3FfVlZuZ2pv?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 12:36:09 GMT",
-        "source": "Livemint"
+        "title": "Relief rally in stock market? 4 reasons why Nifty and Sensex indices are trading green today",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2F5UVYxeklSNmNHMjNYZVI4MzhUa3BTNE9sc3g5RWpWcXJOZXRFaWhpZEpfLUYxNDZ3aXVueE43XzczODJDZ19rM1A0c2g4YUxtcGlLM3dZYXNhay15V2ZtZXJ2ZHJKeFNRdGR3S184U0NMXzlGUVc1N0FfUVFneEpFNnpsckFxbHkyczFEc2ZmMnBRdlh1ZHJseGcxM1pqTkQ1aDN0LTRZa01FZWlDYW1FR3NmOTJjUFFsU2pYN3FZOGtuOFpZYVJyVndURV9UN2FEUXM5NEFyMGRqTVNGZmp30gHiAUFVX3lxTE5nYXlRVjF6SVI2Y0cyM1hlUjgzOFRrcFM0T2xzeDlFalZxck5ldEVpaGlkSl8tRjE0NndpdW54TjdfNzM4MkNnX2szUDRzaDhhTG1waUszd1lhc2FrLXlXZm1lcnZkckp4U1F0ZHdLXzhTQ0xfOUZRVzU3QV9RUWd4SkU2emxyQXFseTJzMURzZmYycFF2WHVkcmx4ZzEzWmpORDVoM3QtNFlrTUVlaUNhbUVHc2Y5MmNQUWxTalg3cVk4a244WllhUnJWd1RFX1Q3YURRczk0QXIwZGpNU0Zmanc?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 06:17:46 GMT",
+        "source": "theweek.in"
       },
       {
-        "title": "MTF book crosses ₹1.5 lakh crore in September; PB Fintech, this drugmaker see biggest jump",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFJTd00yNnpNMDFjZXZ1NEdESGdhMkg1OVRHZm1QU2tONHpnZExzV21yNmcyNTJXYkNvNWFCN0xZTDU4Y0s1Nll4WTRHMjJMX3JicnJVajFCemIzcm5zcXNTZlF3ZllnR3VfbnZ0cmhsQjg4M3M5UFhGXzRYLUFIZUNhWTJDc3p2cThELWs0NW9yOVZYcHBiRjg3Q0MyMy1zMHBNVmU5Mk9rMTJIS1RKNTVkeGVuV3V4Q3dHb0JIa3Z1ajJ5RWtFNlhrVEpwQ1RRY0cwMkp4M2RCRFF0UHhLV2stc1_SAeQBQVVfeXFMTTBSU3dNMjZ6TTAxY2V2dTRHREhnYTJINTlUR2ZtUFNrTjR6Z2RMc1dtcjZnMjUyV2JDbzVhQjdMWUw1OGNLNTZZeFk0RzIyTF9yYnJyVWoxQnpiM3Juc3FzU2ZRd2ZZZ0d1X252dHJobEI4ODNzOVBYRl80WC1BSGVDYVkyQ3N6dnE4RC1rNDVvcjlWWHBwYkY4N0NDMjMtczBwTVZlOTJPazEySEtUSjU1ZHhlbld1eEN3R29CSGt2dWoyeUVrRTZYa1RKcENUUWNHMDJKeDNkQkRRdFB4S1drLXNf?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 22:37:45 GMT",
-        "source": "CNBC TV18"
+        "title": "Stock Market Today: Sensex, Nifty Rebound After Eight-Week Losing Streak",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlJXTnZ6X2FBNXdPc0V3NDdqTUY5emt4dGtLLURJMXN1bW1ueURCU2Q1VzZaa2JfenNRbVpnRkpLemF0TVBJS1d5YmtXOFAxRTJ3WXhZYk9HV3F3VmdqLXAtWldHTDBXd1M4WnQ1VGdIeGkyQzdHbGFvQWplOENrUGlWOFlFQ0c5NFRwaHlyX21JZGw3NFdZ?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 05:22:21 GMT",
+        "source": "INDToday"
       },
       {
-        "title": "Dalal Street Week Ahead: RBI policy, Q2 earnings, FOMC minutes, bond yields, oil prices among 10 key...",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQWxLY1QwY3RVdWNOMVhUckFwY1l6eEktREhiZmpOdDVDU1puanl4UVViYzRqSjd2TlhBT282eGk2a1loWFlpbjMzTWthQjhMQVNCLUlXSFZJSjZtTVJtUXZObEFrM3Q4dlRzcVFQb3VRSzlIRHZNelJUd2xPRnY4OW96Z1cxbDNhTVdHZEpnZUhuVlBpclExY0Y2aW5ESkhqX19Mbzcxc2ltRjRlVzhTWS1aOFhqY2N5dXpqcy1PVHFZY0Q1OXlScnFTa0h5cmR5UFpjVzRMOW5GcUpqaC1GZXdzRTN5V3NnMnUxS0RDOHpuaWVNNldPVTAtdkxhaUtrLTZKcjdBWXZlaFcwdXfSAY4CQVVfeXFMTUFsS2NUMGN0VXVjTjFYVHJBcGNZenhJLURIYmZqTnQ1Q1Nabmp5eFFVYmM0ako3dk5YQU9vNnhpNmtZaFhZaW4zM01rYUI4TEFTQi1JV0hWSUo2bU1SbVF2TmxBazN0OHZUc3FRUG91UUs5SER2TXpSVHdsT0Z2ODlvemdXMWwzYU1XR2RKZ2VIblZQaXJRMWNGNmluREpIal9fTG83MXNpbUY0ZVc4U1ktWjhYamNjeXV6anMtT1RxWWNENTl5UnJxU2tIeXJkeVBaY1c0TDluRnFKamgtRmV3c0UzeVdzZzJ1MUtEQzh6bmllTTZXT1UwLXZMYWlLay02SnI3QVl2ZWhXMHV3?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 16:57:28 GMT",
-        "source": "Moneycontrol.com"
+        "title": "Stocks to watch: HDFC Bank, Ola Electric, D-Mart, YES Bank, Bajaj Finance",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkppVUFFU3NtcVhiSlVXbVpCR0lJZ2ZmbEszMVVwaFdwVVlFcmdZeFIwU1pjWkhGYTlvTFhtQVVrdUV4WDU1M2lFa2ZWc0EzR1ZKT3d5dGtMUXRCRHVnU1hrOFVab0RFV1NiU0s1djVVenRNeGhBTmthRlM5ZERBS0k1OVpXbFJsSG5RWkxRUDV6R3M5NHp0VklENnZRQmhpVFZHTnNfaTFIS0NDTTZoM25qT2JwUTBncVVJcFp1Ul9MYjVUckRQVllBX0MwQ2FEakV2b2ZHazdORmVBN2fSAeMBQVVfeXFMT09Cd3FGeThjaWhHU0pCR001Q2xTNXBFdGtCUFJQNDhPZU9KWWwxaVFtZjNpdUhTZ0pIVGFsd1d1OHYwZWFlTXpnZmJpVEhhM0ZwN0dmdEVweFhoZ0NIQkNSNG5KcGtkY05fOTdHU0xOVkU3N0M2elZuUUlDS004MVU4WEVnVDh1RWhPRlNhV21DVXhtUlJNbnpCYVVieGpGN1dwdVFmTHA0NWY4YWI4WWVpb2RjSUVlVzVidzJpX2lkUFZiZzcwdC1wVDgzcWRLSkE0eXpjWG9LclpnTVp5Wm1QWE0?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 02:26:27 GMT",
+        "source": "business-standard.com"
       },
       {
-        "title": "BSE SENSEX Today: Sensex Rebounds 315 Points to 73,895.74 but Nifty Logs Seventh Straight Weekly Loss",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYTlMMFRMRzJyNGFNc3RqN3kzcy1mU0ZTbGJIaUJQZThqZU5lZUZrcVhzeFFMTjdDWDVyb1M4Q2NPSXpKQUswZnRxWkZKMmVxQ2dvMlBiM1k1TlR5dWM2N2lvcUZvVm5USHZ1bEpMVURiNTFPWDJpTTlERVhHQnZQaTV4ZUdkZG5JX3ltRVllM3hPaEdJbjZuMVJPbFNaOEN0MVF6bktGRjFRMFhhMmdNbVc2MlFYMjk3TjFwZHBOUUVqYkdhVmVEWjcydlIzYXRR?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 10:54:20 GMT",
-        "source": "BBN Times"
+        "title": "Why is market rising today? Sensex rallies 700 points, Nifty above 22,600. 6 key factors driving rebound",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa0tmZm9LdVd6LTZZbnV5c051QWJBMnp4QXB5dXJFdW5Ld1hTN0xJVmVCSzUwRTlpVGdEY1hYVU8wZ2xpbExnTlRyN0pCSGVlcFNqc3dvSktWMzhUYTRZVXU1ZUlnSjFOendhRVlIMWtTN0Z6OFRlTjZTVzFzWkU2bVJkamxGclRUVlMyVGxra2VleWVRLTZCZ0VBOHJyV2pNdlF0MF9FR1JaaU9zdi1EUVJKU1VfMWNxSmZGNmRhN01yZ2dGcG9MOHdkX0c2dWM2anhKUlkwOXlacnZqbjdOeDl4TFNWOXZlcUJQdG51YkNMNWZNa0RqX2IwczBGNTBTLTJIZWVmRkttcVBON3ctTVd30gGMAkFVX3lxTE0yUF9GUUNET3YwY3d2dXlmMFhpNVlYanhaU3YwNzlVSVJXOHZfRGVYdjZ5bnFBLVhRdEZPVGtabmx1SFpLNXZWN2hsS0xfUGdxNV9aWG9fTUhsTzNEa2FIdmtMLUpUbjl6SHVxaUlHX1hLQkt6bXo2VlllMm1FN0lvNnR1UW9WSDcxMjlJRF85cEtqOFl2ZmVUWDZKaGl0SlJVdmFnQ2ZZRFhudWJfWXczRUVsS05faWFWQmtuUkw2UzBpVEF4VHRWeXVubXlrUXV0ZS11WnFKeHU1Y3duRkoycHdRT0RLNTkwSENJbk5yNU8xcXgwTHFiTmI5MFR6TkZzME1OOUNnbk1nd08?oc=5",
+        "pubDate": "Mon, 05 Oct 2026 04:02:31 GMT",
+        "source": "The Economic Times"
       }
     ]
   }
