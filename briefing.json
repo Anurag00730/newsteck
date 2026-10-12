@@ -1,8 +1,32 @@
 {
   "date": "October 12, 2026",
-  "timestamp": "09:19 AM IST",
+  "timestamp": "05:03 PM IST",
   "sections": {
     "world": [
+      {
+        "title": "India news: Opposition parties march to Supreme Court",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnYxY2VsMmVEMDk2bG00SEZld3h1MmxGdnB4SnlvSmJDYWZ3aXlLa3UyWHZNVWFtVFAzUjNXc01raXZTWXU2aHlyWm16SF9UNGRsY1BiX1FxdEpaR0trWHJCNVZyVERFQjBzTEpJWlNTZlU1ekp2WTdaQ1NkbXdHdy1jX1U3NS1lVVl6UXI4cGw2UQ?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 10:37:56 GMT",
+        "source": "dw.com"
+      },
+      {
+        "title": "How India has sought to defend the slumping rupee",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFF2VFI4UGZEY2Q5dnVYMlRZZFU0SHVzbW5aT3MxMF9JNjhiNWtQYllxamg4MVl4UkNQenZ4RXY2NkZwVDJlUkltUzIta0xvRzE5RTFQdlZFTlU3YnVPM0lpOEtZQXJ2dlpoX2dwcmNJVUp4WFlhYVgwd3RXVlBYSTZOSmUzRWl4YU1aNy02UWtlNlZETll0R2txRmNOSl9Uc3ZqWk1PaEwzSmVwRTFaLVEyd3ZYM1FoVFE?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 09:58:05 GMT",
+        "source": "Reuters"
+      },
+      {
+        "title": "Delhi police shut metro stations ahead of election protest march",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnpZRFV5TmZ6NTJhNWRNQi1sdm4xMkU5elN0YkhraEM3aWpPbXExejhybTNGR3RGOWFLZ0U0SEZMTXIwWk9Da0JnRDg0Vnc4QXFDTDA1d2xGVlNVbDRISE9uTnVuUUVSZWxUOU1GWk14WkZIaHlYX2tGejVUM0hFdUhSemRTQmVDdGxzT1V6a0pYRWVzZFBIUmhDRTBwbVBWUjQwTm5YSXhjdXYzWndrTC1FSnc?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 05:51:00 GMT",
+        "source": "The Guardian"
+      },
+      {
+        "title": "India’s Youth Protests Challenge Narendra Modi",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUY3S19ubE9pYWdqMU5FMnJsWWVvZ0ZlZHRiTGlDeFNzbjFlRWZqSEtqZm8zLXdFZ1RoV3VyU3VYX2hqbDg2dHh2Vnc3T0E4bF9nckFwb0VDYThpZTF4UnNvQncxNFVibHlFUFBKRlprNlZfLXRQcWZLSVl5YUotNGRlM21xVWs?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 03:41:37 GMT",
+        "source": "The New York Times"
+      },
       {
         "title": "Poorest 10% In Rich Countries Earn More Than India's Richest 10%: World Bank",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3J5NlZtWGtjVHh3a3FGbFh3NFZxel9GbUZleUtXdnpIZkVxY3Z3ME5IVUE0Nkd1NmxqbWlfak50MjVrTGFvUTdsRVJnT3FteVN4NzRJMndDYk1uYTREc3hvM3JGRmVraENoZ0t5RlhsU3FleUtmMVZ4cnA4OGFzcEdNSXVqNVNuT3lIaWFKRGFQSHA3RmlxTk1Yb3hWMzB0ZVBmMEZIdHpjd3EzS2IwVm8xcFRTMVFlYWfSAcIBQVVfeXFMT19VUFZ5aUFOSU4wLTZyV2tRdFpxbzBnUDkxcENuTDVJcC1iMFBJbVI4U00yQ3huUWVyOHdSWG1qMmVQdURldkpBRHBYa1RDZzA4bkhfMGhXMTVkZ3pqV3RCcU1YUUZMQ0htckVyQmMyb1hJdmhnMEVETXRZTWkwalBWaTdaUzlPallPV2RlWU02MnRVb1RWcDgwclBrdV9YS2RZMTlheDktdzNLRUZpeXd5cUhhMWRKVGVPcEhRaEJPZFE?oc=5",
@@ -10,66 +34,48 @@
         "source": "NDTV"
       },
       {
-        "title": "India’s crackdown on youth protesters: What next?",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm04TDl6NDZMTmlWZ3R4ZHQyZVZvby1nRFR4dzh1cmhoMkJVSzFxdFBUQlJnZ282VDBFLVNqTE1MN0IwS0F1V3pxblNGUXhkUXdYNHN5aXFiMnZNREJBYmRoVGVyM3hOTDF1NEVweGhKTlRod29OU3dMWXk5X1pyRjdmeGZtRjNwT041V2ZQUHk5d9IBlwFBVV95cUxPV21pSndoMmdnNXBsQmdmdjhIUVNQekthSXgyWHRZS3QtTTRHSS11ZWx0dEp3Mk5QREQtcUJDX1JQUmRKNUNfWkNYQUpZWXZjQWNKWU8xeUo4MDFCSDJQeElnT0YzYVNSU2NyR25OYXZlS2FJY2JpVjlWVGxFbXNjMUpFS2N5TXJJeGsxeldYeENxN1hrMVM4?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 13:39:51 GMT",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "Indian central bank curbs to temper corporate rush to hedge against rupee weakness",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 01:24:00 GMT",
+        "title": "India opposition parties march to Supreme Court against election chief",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 05:03:00 GMT",
         "source": "Reuters"
       },
       {
-        "title": "CJI Surya Kant declines to meet INDIA bloc leaders on October 12 ‘with reasons’",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2lvUXBuSy0wOVdiTG9ZS1VEODRpN3JKeE44Q2pWVDhab3I1LU5NYWs4d0JqMGNSREZzYkktbU9LQUVjeXhiY3pvd29mMXNaWThaSEFURWR2UFgzQmxZSHhHeUFwTmRFemV6VjNzMUpma1pXRlhPLUdpWmluQTY4TUEtZ21CbHBhT1YtU3pVX3BHWjZLbHV1X1BYelJ5NHZNb3Y2Sm5Qc2tjN0pxQlVXbXBDYUlOTEhqT1dSR0tIdzMwZ01hd2w0U3hpeUxrX191dlHSAdgBQVVfeXFMTVZ3RTg3bml2MGgwVmVxNC1RdzR6ZUdGVUR5T0F4bG1vY1FfMlN0cHpDZ2czNGhXZ2RET3RzX2FlWEhHYWQ4SVhaMHVfcG5XTWZRNU5fWG81QVZRYTZuek1sWk41VlBBV2RwMlZONF9ER0lVMmdBTTdPbnFBVWlpbjRBZWs3aUU3WnpwenYwNWtvWWRkbE1LMFd4cmdmT3Y0cHpUVE5uVVhlczVDSUs1OXk1dTZJSjljc3RGM1Q3WE04TlJRMnRrNjVmNnNlR0FEVVYyeEpNdFNo?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 02:25:45 GMT",
+        "title": "March to Supreme Court: Who is attending, why CJI declined, what Delhi curbs look like on day 3",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVRSN2FPTENkcEg1NTdrNml0alpwTUtqTzlJYldackx5emtONXExYmJDRWJkaTBjYmxtQl9SWVNUNzZGLTNEcjBUaUpKWVdVQWhvTjk0RHNlWktqcnJLaWxMTzBNRkdvZHB2cUE2YVFHeDZpR0RVTG1YSE5ST1R4dC1aT1ZiVHpDX2RhNlpORG9NUVhxRVVkbldhdmVVckJHdmxkN20tR1JqV2l3U09mYms3SVNhRmRRVjRkcDVHdHY2RzZsRUlQNlE0c0d1MHZQ0gHXAUFVX3lxTE1BMzJ4bFVXTXktZW0wckUydmRyZzJHRzI4YWlJalRVWE04andISUNIMHNoRU5Xb0JMUW5pc3FOUk1IeUI1em8wQ29xcW9ya3ZISjV0TWJVMFZIRHBYdGV3bm9zeTVteWlXSGc1QzZTd0N2YTRvSlhpWUljRWNXVG5temZjWHFBQ0dkemlFVWR6QjVOWEc4eDZ0ZzA0U0E3QzRxYVlsMGdCWXh3WUFpX05nYWowcHd4N0xFSTk3MUp5NlBEdXRkTnBSc01wNWVJZ1JHdnVubEVB?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 06:11:37 GMT",
         "source": "The Hindu"
       },
       {
-        "title": "Abhishek, Arshdeep shine in India's Indore triumph",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbG12TGZ3SE41NDJDRGFvVmdDZEQyS3BKa0IxQjZhZTg5bUw3XzdHSndqaFJZVGRWUWhOU21WU19zTDVwYTk5dVJQOTJUSW96YUtTcHhQMmttai1MdndXcVpGelpCVU9hX3VTRTZyb0ZBa0dEUzFySWNIRW1SU3YxcjdvZUc2QkdZWUE?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 03:18:11 GMT",
-        "source": "ICC"
-      },
-      {
-        "title": "Haryana Police arrests Living India News MD, 3 journalists over ‘fake sting’; Oppn slams ‘attack on press’",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZGEyYkZRTklUQXRGTGViQVJuTnNRZUFZUnBUbHBjQWp1Nmp5Z0szYTBfN1N4bFZQc0drbm1YbXdJeFBMX1k0VjVERVgzc0FJLXVaVUdfYzRjZ3JwMXhna1pvX205QlhmZ2pPejZVSExCZHZ4cnN2bUtnUEVIaDdPcm5RUTJDVEwwMVpfQ3Vlb19uc1FoRHJKY3o3LTJHZUhzMXRuWGJXci1yT2haUUhvZzhVNkg0b1dXV0hZTkRFWnJ0U1FZMlNKcndWZHR4cG1T0gHWAUFVX3lxTE9BN0dSSl9Hd2NldC1qMnJ5eXNIWGk5NGlCcDVhaXZxS1dORi1wZTZvX2lLN0VLUmpkTVlCY2haRV83MkpUejdfTmo3Vk93Z0dpV0hmbG44a3BtMmE1aGhURTc0NDBJLU5TQndzejZwa01WYm9QYkpPemRpMnliWnR3VWxKT0EzSG5ETTJEdnEyRkI4blhRUXo3d3VCdGZkdGU4U29iRVZnUGdQckRTVXBhQ2M2Sno3RkUzeGtBc0Q0Q1p6SkRPMTNsZUtIVVhSbi04NmNsRVE?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 14:23:34 GMT",
-        "source": "ThePrint"
-      },
-      {
-        "title": "CJP at Jantar Mantar: Delhi sees more protests as freed 'cockroach' group's leaders vow to continue fight",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKVWpyNVd2VWVNQVJWMl9MdW9MTXRlVGNtbFFZSW1hSnhBWWtwYkZSb29ldHBrVG9GVVQwendYR05UWmp2ZXVoMzBBQ3Y4dG9JME94bENrLXM1dTA?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 11:11:42 GMT",
-        "source": "BBC"
-      },
-      {
-        "title": "PM Modi says India’s youth have the potential to address global challenges",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGFBNWtzYnVwUWV3Y2dVekU0d1B1X3FQeUNMallHU2lrQVotRUtYcnUzZmV6clJJa1BOY3I4eEhmUTJMZ2lCX3gwaFg2aWR1bzduSFdzaXVMd3hrb0hmZDhhZjI3cVJMcHhhRVBNME5yMlo1T2g0WDAxZXVpbkg3dG05Z2o2eS1faEo0TzZqZ2ZTZ3VrakdOakFtajF3VFNa?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 02:53:00 GMT",
-        "source": "News On AIR"
+        "title": "\"It's Tandava, Shiva's Dance, No Plan Needed\": Rahul Gandhi On His Strategy",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXE4Q1JrQzdqa1h2bDB1dFBPcVZxck12RldoVVJYUTdhRVJtYXFUdUE0M3BBakNTLTRnQXotTXN6QjVoYzlBekszM29nMUIyRFhOamVWQncycDZpY1gweFlKLURkV3NyQzVMVEpYSGJoSkxkR0JfSjc5TEQySHRzcUNMTG1yRlFITXhYZmExNERsQUVlOG9mamtxLWk2T2E3cXhwT25GaGVpdXcxcXM2aVFHMllXM25JTjVjcnYxZUh0d3VZVVZ6b3VSUzlSME1pX1B30gHbAUFVX3lxTE55R3ZVbGFuTEwwSEJXVm1TTW94RVVVQms3TGN2UTBaQThBemxNWUxVZVc0U0RKMElvekZRNmJQc1ZmM3ZYUjdzLVlPN0l4U3B5d2R3MHBqZXhaMWozNHhvbWJ4UTdRSFdTZGFJVFNtMmp4RHZ6Sko3Z3MzV2p3eEs0WmJ1M1Zfd3p5R0xtanVyckNESHpiY0JLck9TdEtvSXpDMGd1bVBTbDRTWGswZkQ0bmMtUnkyNERwb0NrMmc0S2twbWU2TTNydHpfamhfNDJvcFNoWk5jS1R6SQ?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 08:42:41 GMT",
+        "source": "NDTV"
       }
     ],
     "ai": [
       {
-        "title": "GPT-6 Is Now ChatGPT’s Default. 5 Things to Know Before You Trust the New Interface",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1pvY1pRWFM5S0tlLVlzaTh2LTM0ZExHcTlMMHk3Ty1qUlZsRko4WFUzNERDNDVzZDNWdEkyTEJ5WGRENUNIeFF4bU1LbEMzX21UbWlKV2tQS1ktbUEwZlFIdFBuQWV5RFNCd0treU1hVFRPbVVfakpkVlJiR2gwVjBXUlpWRDFLVGhsSjNYQTcxbENGUmx6LS1uTFZwR1RIN2hNTDhpOUZ4cDNoa25qZS1JbW9zZWo3bjM4dk9YSG9Fdmti?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 04:51:18 GMT",
-        "source": "Medium"
+        "title": "Completely Unused ChatGPT Accounts Are Telling Users They're in the Top Percentiles of Intelligence",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjZQa0tkLUJET0IxOEFjREp6UU5hUVdIQTd1cTNsTE5RNmdmMmNXUklsTzU0dWQycVUzSWpYUW5SSy1aWTZwVkxfR0szaHExQ3BmTnZNcnFIT1ZjV1g0MF9LUVJ3ZFByemtndmNyOUJYRjV1a3VoNGZhSzBfbkNsbW42NmxUUlRBVm9IRk5xS0RraEx3UHlHaHAySGZadw?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 11:01:00 GMT",
+        "source": "Futurism"
       },
       {
-        "title": "LLM-inspired study sheds light on how brain cells encode the meaning of words",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82RERpZV9tYTF2dGVnTGN3YzF3VUh3bTdMSW9mckxkWkJJNTlCZl9la2JndHhBUDBYd2NlQ0tjMHdwbUJkdFY1SnNzSGN0OHJvR1NIU3FHZEF6djR0eVNsQm9rc2hJUlJLOUt2cDNsTFRGWVRrUDhNWGczWjA?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 13:40:01 GMT",
-        "source": "Medical Xpress"
+        "title": "Leveraging Artificial Intelligence to Appraise Social Media Narratives on Breast Reduction Procedures: A Snapshot Analysis",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3VpSUFSVjJYUUFwY2EtXzNYcVZhdV94UzJtbDJPWHpQYVhDalZqMWxuVkVXZjRYOW5oWTU2NlgzTGJvQW83dzVMTXlJVEFfUDc0VDN4SGt6OV9JcnpRUnNaRVhTUTJNcU9EYXlSU21IaFA0S0x5dGVOaWdrNEtvaVVvaDRUeS1uUlA2V1VyYndTVFlYcDlRZnZ1dWN1endZcU5tSE9pY205bUpVUmxLLXhVT1dGZGtLcHM0MHdQOWVMYkdmbXFPVzg5TlNXS3lSVTlYb2JGaEJvcXR1YzlKQzZ4ZmFVVlVuVlpRNzRENk9oUQ?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 04:42:13 GMT",
+        "source": "Cureus"
       },
       {
         "title": "South Korea Job Postings Shift From 'Computer Skills' to 'Claude' — AI Tool Mentions Surge 170% in a Year",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTGJISllPVFlEa2o2ZlhQNTBUZzh1N0lMLWg3b05OQU9ubVF0YS12My05U0doZXp4WlNYNDFlbkdyeEt6SzJrbE1LcFpVWE5Ld01mbFdtd3JPdGtkc3FXcU5jdkdJaW95QUNmOFBpOWFObXFZS3c?oc=5",
         "pubDate": "Mon, 12 Oct 2026 03:05:00 GMT",
         "source": "BigGo Finance"
+      },
+      {
+        "title": "LLM-inspired study sheds light on how brain cells encode the meaning of words",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82RERpZV9tYTF2dGVnTGN3YzF3VUh3bTdMSW9mckxkWkJJNTlCZl9la2JndHhBUDBYd2NlQ0tjMHdwbUJkdFY1SnNzSGN0OHJvR1NIU3FHZEF6djR0eVNsQm9rc2hJUlJLOUt2cDNsTFRGWVRrUDhNWGczWjA?oc=5",
+        "pubDate": "Sun, 11 Oct 2026 13:40:01 GMT",
+        "source": "Medical Xpress"
       },
       {
         "title": "ChatGPT vs. a Dietitian: What AI Gets Right—and Wrong—About Nutrition",
@@ -84,72 +90,66 @@
         "source": "Pasquale Pillitteri"
       },
       {
-        "title": "I’ve worked in mental health for decades and I think AI could save some young people",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTmE1ZFkxNzBmX1lycTBDQkZEcTJQcGpKZHA0TWlXV1FhWjJZUERlZ0FtMTlLUUpVWXc0eWdQOXItdV9lT0llY0tXZXhteWVhLUpORUtRaVdwemNUNmtHV25WN2dJUVhtdlBObTVCSXZLblFOc2ViRE5jVklFRlpGZy0zbmRlRk1GVEZTczRhM2EteHF5eld0aUxSc29yRF9aU1dhZkI0WldxNkhNdVMtRjBCRUZyYVhHaGUyWUJVeW9QaGdIOWtwaE5tQVh5MG5tdXB3?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 05:30:00 GMT",
-        "source": "SMH.com.au"
-      },
-      {
         "title": "ChatGPT Watermark Detection by Language, OpenAI Reveals English Near 68% and Romanian at 42%",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVJoWHozcEdiY25Xcm1DUVJidW1HTFEwUEptNldnY2tIeTA4Wlp2MmUtVjZTQl9EcFJnRk1oMEV5WmxhR2FRSkZEd05iaWgwYWNOQWVYWEExMGZxWkpFSENQamp4X0szRXBHM21RRG52QW1UUnQyWThhY1UzU3hnM09XNEc1RVJlcVlPRmU5U0g0ZjNI?oc=5",
         "pubDate": "Sun, 11 Oct 2026 19:24:59 GMT",
         "source": "Pasquale Pillitteri"
       },
       {
-        "title": "In the early morning of the 0th, an eye-catching phrase caught the eye in the middle of an Instagram..",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oT1JmLU5pMGxBcmo2aUhfeGExdktEUklqbnNMSE05VmIxWnRrY2ozbnc3RGVZSmtJYkhLOWdZTGJXU1pMV2M5QlVnVVdpT00?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 05:23:07 GMT",
-        "source": "매일경제"
+        "title": "ChatGPT Watermark Removers Can't Strip textGrain, OpenAI Says",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHJ3bjg4TkNPTHBLR0pZMFgzeFJFd3lnN2FDeklmak5MMi1DRk1yRWdyU093YWRDSHdRRWExam9nYTBLRFRJYTBxd25JR2liR1A4ODQ2cGpfVzRjX1ZOX25UNVo0LXpLU3gxVE40X0s2eTRhZWxuZ2Z1X25VU0MzTFlhQmpDbWE2dnR2N0FkUQ?oc=5",
+        "pubDate": "Sun, 11 Oct 2026 18:28:05 GMT",
+        "source": "Pasquale Pillitteri"
       }
     ],
     "markets": [
       {
-        "title": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1htanU5VmNRTEhnM0FDSVMtd1QzSHJsNmF5N08zWDFyUkN1cG5DUjFMTEd3WjlBS1JCbGpEWlRMRVNhQWF2YVZRRnN6a2NEcXRtOXVkck05WVk0Q0pxbWxsSXhFTVM1cHlvV0pSM21XZTZWa2FKYTlMRE01UTlfdjdiaTU5VnlWVlFEdmR1UXI5WUVWLUFBR2ZSMGlnUU50VVBDNHFWdG1hdXhJOHEyb2dSTmpxNlEwWHU0ZWRocVNyNUxSZlF3WU90SjMxc09EM2FhdFQtZFQ?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 12:14:10 GMT",
-        "source": "Goodreturns"
+        "title": "S&P BSE SENSEX (^BSESN) charts, data and news",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6SUdIQ1J4MS1MQmNLQ1FJZkt6UHhRM1U0aWVVX0xYT2RuSU5vbzdveXQzUWtkcWN5Q0duc053ak1UQVZ4SUJ0bmw2YnRtNlAtejBYMERUbw?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 05:07:30 GMT",
+        "source": "Yahoo Finance UK"
       },
       {
-        "title": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONEgzTy1XM3lQdWRVLU9WNS1wTUJwamFZcjRCSzM2c2h2LVB2T3RMMDVBY1kzWm9EUVgtODJ1LUhfWlRmcTBZSzFEWmZZN2pPOHo5c3BFYVd3YmFsZ1ZyWFM3dHJWeU5MRktwNnJsM3JJc0hIQzRsLVZXaDZkQTFCQTZUM0MwYXdaUFJocFVudF9CQTZFVkRzb1RPYUlOQ1hOSWFVMWZiMHdBRVJOQjdCcjM2cm1nWWhsWHdwWUNHR1dYeU4zcnQ4dG9ySmFSOU82akRFMU5yUTBJeWx0WjZhTmRSS2t5OXdkVDdqUlJmMEZhN3FQc0M1bUhHWdIBgAJBVV95cUxOdk9QRUhQZjkzQWp0NHpMbDlpYS1udHV3aWlEcXhHUl9LRFZVOXdOYnZYeUdoYWg3UWVUVXNaekhEaF9tYXJPUEhRclE2VE1jZWNvX0dKZ1JoZks2d3doRWZJa01oTlVXOGVwYVo0RVVnMWNTQlJJNEpGU2ZkUDdVNi1uTkR2WkRwZFVhN3p6am85S1RTR3RmNjBjQks4NEdGaUlvOC1HTFFmb3gxMFFURHdGVmRoTEJnWThnNksyZFhuU1pNaW84ME52V2p3RXNMdUEzRkpkMUFLbTBYMFRDLTdqUmhYYkdra1d0S2huNmVLVmFueGNMZmxhZWxKY2U1?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 05:21:02 GMT",
-        "source": "Livemint"
+        "title": "Share Market Today: Nifty 50, Bank Nifty | Oct 12, 2026",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1gyVUhHajY4ak9hVjIzVkdjRG5iZFltU1ZkQ24xNkRvWFczOF9ySTg2YXZHTjc0bVhVOWZncWtkXzZmSTJxQ19qUmZlY1E3Qk9SU012NXdRV2prX0x2T2hfY3FhYW9EY0VXNnVlTnN1dEtZNTBvSTRJTkZQcUtCd3FUVVhZdDFJWGpteThhNU42VW9DdnY4bXBSWmM4T3o2dnZWZFAwaVU3S0s4dk1J?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 11:16:26 GMT",
+        "source": "Liquide Blog"
       },
       {
-        "title": "BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 22:14:48 GMT",
-        "source": "BBN Times"
+        "title": "Sensex rises 329 points, Nifty gains 0.5 pc at open as easing crude supports sentiment",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMEd6d19kNk5OVUlXZ1YyTmczUGFWQk9pODA0SnB4dnVUMExZRWlUYTFMUVVISnpnZlE1YlBQX1RyXzgwMWdnS3V6Zm1iUUNjOUhLUk9wUkZGd2c0Y0lmZWMzZE5ZVDFJVFhoMDFYaF9jNFBHYmRzSFZUX0xEa1pOb0FQbThTVWRJLU1Vb3VWLU13dlJwemZKYlJCbjVVN3ZFQTVGZEtSaTEzUmlZLTdOX2ZNTG1kR1ZUNDlBSXlWNVdDVDJDa3l3V3lkVXZsSGpkX0p6MEk0YWVWR2lVWmxwWHRQTFNYdUhZUGw5bnh4aS1CUkXSAfgBQVVfeXFMUFI3bk83eVU4LU1yY1FlRXdUeENnWnVBMWYtekpLNnBqaWRlNTc1TlRJZFdjT3dEcEFpcUNXVjc0OC1mLWJLS1BzMHNJdHNTdzhoLWZhZFVUenZUek9XTFZiemY4TWthdjVYZmJBZTFBNm9NeDBld012ZFZfcFo2SkFKaS0wV0xvdXU5ZUQzekRSNVVoOHUxRDZTSWFFRlByYkRzbHJfUkFSMHFKNVlsTWZBR2pBUWNCSjc1MW9iTDd0Rm8tc09fVXdMeXJGc1FtNm0zQTgyUWY0VEdqUlpFSzBaR0ZsVVdiTFhteENXaERhV2lOSFVZUjc?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 04:30:42 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
       },
       {
-        "title": "5 Best Small-Cap Stocks To Buy In India October 2026 | Top Picks & Guide",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFRBTDFkTlBKeWlJUDlnSDdycmczUVhlZ3otYktuVkZSTGd0OEJKMkwzaDNzVER6SUdIRThLT28wWXdUaFNlWFRkOEsxcUZMYTZ0bjRwYS1XZ09oTEd0SFNOdWJTOURPUmIzbHkxLWtyQmZNN2wteGFHR2xkUWhhWWFMeEhwVHVQMnlTa1pKNC1wVXc?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 06:51:11 GMT",
-        "source": "Samco"
+        "title": "Stock Markets Today: Sensex, Nifty pare early gains",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM1hFbjcxdWs2elI0QVFoZWtiNnZRakdod1I3bDlWNU1hWDFlMHdzcFBEbjJyUnk2UDJ3NGExMTRycVRHb1E4bE52bWZWZGZFMzZuNEJoNk5JYkROYjhiTmpKN1lpRWFxVkVjSTYxc1N6MkpsdzZNT1ZNaENzQW5Ybjl4V2FLVEpJaGZtMVZuRkFVeXdwRWhaTGtRa0h5QUp5R2xtaVBmRVF2aWJIbnJDd2VpLVNXNGxwcXA0X01VakFpN2FXeHo1SHVHako0TVp4YXR6bDZaeUFMc1N6Yjhz?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 05:22:47 GMT",
+        "source": "Rediff"
       },
       {
-        "title": "Q2 earnings, inflation data, oil prices may drive stock markets this week",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX19vMHpiVHZZNXF3WUJHeTFhM3JJbGpEVFl5NVlNN3JNeGVlWEhKU1p0SmUzTEVFNDBSbEpIYVZYZGlrOFc4RHB6NFRZeldBTTZ6YzEtQ1p5OExwSDIxenZ3TndubmVyMXh1OGZud09XNU4xcVQta1oweUhpV1dTRHBWTEJBS0pfeWx0d3o3QnhRMFhSLWwySU80aVVXdnRyaG1vNEI5dl9tVkU2XzhwX3M0dlRJVTIyN3BPaE1aYVVCRjhXQmwzS1QyVnVvTlMtX0E4ZmZTbl9LUdIB2gFBVV95cUxOX19vMHpiVHZZNXF3WUJHeTFhM3JJbGpEVFl5NVlNN3JNeGVlWEhKU1p0SmUzTEVFNDBSbEpIYVZYZGlrOFc4RHB6NFRZeldBTTZ6YzEtQ1p5OExwSDIxenZ3TndubmVyMXh1OGZud09XNU4xcVQta1oweUhpV1dTRHBWTEJBS0pfeWx0d3o3QnhRMFhSLWwySU80aVVXdnRyaG1vNEI5dl9tVkU2XzhwX3M0dlRJVTIyN3BPaE1aYVVCRjhXQmwzS1QyVnVvTlMtX0E4ZmZTbl9LUQ?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 09:48:39 GMT",
-        "source": "Business Standard"
+        "title": "Indian markets pare early gains; inflation data roll out today: Oil prices slide; financial stocks drag ind...",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDZtS0dWbXlXek96TTNzTHdNbEJJdlloOU96Q0c2Y1dYMGI5dUU5bnlNUjczMkctX3BOOXNyS1ZsZlJiWF9lSlpLUjdleVhzQUJ6MlJtSklxTW1zdDFURl8xZ25QUjJWY3lWNXVfdDg2RVhTcjFtZEVQb01OSUprX0FaaHU1N1BrMTFfV29GN1ZjNWJHTUJsZE9KTzJERlBGTVJiTVVrWWU0bnlscjFRV00tQ2Nmd9IBuwFBVV95cUxQdTAwSFR6cUk2TFcteGpDbkFlc2N6TnhwMXNzM2tYQm0wdEFoMEdjWTRLSTllN19mS29xQmRxc3I2ZXFXNGp2YkNjc3gtYVR2VGhQR2hpT0Q1b3Q4S2tjR0pLR2NoTDRJVUlVcG9MTlNRSmo1aS1lZGFQVjhBdGJ1WWoyMHZDR0h0LUFteW1fTFg2eWxvREFVZDJyU1lXUjRrY0FPaEl2UkJYYjBZVEVNZTA1YllqYU5oNGF3?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 04:24:11 GMT",
+        "source": "Bhaskar English"
       },
       {
-        "title": "ET Wealth Edition 18 October 2026",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSjZHVjE3LVBScUxXUjc1OF9LbTRWTmxGOE5ia3hiVThnbHN0WUp5VnplLXFPVWJTUGU4TURObnBqN3NEZ2FKZ181LUtXOHlLYjhxOC1jeU9TTjZNdlowdFI3UDNFbzhZWllsRDZ6NEZkT0J5UDJwcl9ETlpIM2lPUG5nNVVzRE9lUWIzMlRVQjU4UXV0QS15RzFubXJMUXplTEI1ZWNJNy1fS2ZFcXBxQ0F1X2pwMVBGNEgtaWEzd01DWkRXdXBDaW92WUkzdDdSQXhzZnFvV3pXN0tDc2RySlpvSGhmYnRVMzBfLXZpajlUdXFKdGZJWk9ZM2VzRXFJS2ZnTjhZejBfcjFjVURsRzlBVk8ySTVKRkE?oc=5",
-        "pubDate": "Mon, 12 Oct 2026 01:21:44 GMT",
-        "source": "The Economic Times"
+        "title": "Stock Market Today: Sensex jumps 300 pts; Nifty crosses 22,600",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZndkowVThfU3hPT1VwbU1jYXRKb3RlT0pKblFEMDRxc3FJQVBLb0ZWam1YZnpjcDVlTjJuWW9SWlRxMnlwb09qUGJmNFlFRmxVNFJiMjJ0U1VXb0VhdWN2VjVSTGZMQThOa0ZWWGtoRmFVRmI2b1F6ZkZnQUgwU3lyeTNRa3NhMDFaNmc1TE9uLXRFbkNYSmVNU2JpUlNWMURRcElFS2UwbTQwWHBj?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 03:21:00 GMT",
+        "source": "Zee Business"
       },
       {
-        "title": "Gold Stocks With Strong Fundamentals: Top Picks to Consider",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZExBN21zNnBtN04yMzh1NExnQmZtajZUekNCT2hyak02MlBTRzRnZ2NoY3U4R2x4X1IzUDFQb084OWo4YVZxNDZLdXVscjhzamdsUUZYd0RZT0xxdzN4TlVKZnB3QW5GMlJhSG5QY2hVempUZWdDYXBZR19kQWM?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 07:02:00 GMT",
-        "source": "Univest"
+        "title": "Taking Stock: Bears back in action; Nifty below 22,400, Sensex slumps 548 pts as IT, FMCG drag",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHJpejlRWjk4MU5HR29wUEJ2WWthNl9FaGpRNFlkYk1kX1IxX1Vpa3R0RklxZFZ5cEtxMWRTLWRUUFkxRW5LdlpGMkNQU1BfYVNnT0NObDRLYnI1NGQ1a0dZbXB3VE1YVXBjeTVkZXBXbEE2ak1VYjlsMGEzc3RBYXdOUjRqclVqZ2x5QnktRXRGNkxkUDBrQXpmcmltaFMya0hfTlNqNGdEbDlQZ0xkcjNpX1FTbnVaUXVSLUR1dGRpTEozRm5vNmVzb0hFV09HREp5b3FPTzVZeGxNV0VzNFBPYmdfNjRzRkp1SFp2anfSAfABQVVfeXFMTnRyaXo5UVo5ODFOR0dvcFBCdllrYTZfRWhqUTRZZGJNZF9SMV9VaWt0dEZJcWRWeXBLcTFkUy1kVFBZMUVuS3ZaRjJDUFNQX2FTZ09DTmw0S2JyNTRkNWtHWW1wd1RNWFVwY3k1ZGVwV2xBNmpNVWI5bDBhM3N0QWF3TlI0anJVamdseUJ5LUV0RjZMZFAwa0F6ZnJpbWhTMmtIX05TajRnRGw5UGdMZHIzaV9RU251WlF1Ui1EdXRkaUxKM0ZubzZlc29IRVdPR0RKeW9xT081WXhsTVdFczRQT2JnXzY0c0ZKdUhadmp3?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 10:19:46 GMT",
+        "source": "Moneycontrol.com"
       },
       {
-        "title": "Nifty Outlook For October 12: Make-or-break levels for the week & key market triggers",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa1pVaVRmcGt0S05LdHkyZndMQkM2OGY2VE96ZjgzMVVBa0lJNEdhWFJkcmI3VHRBVnNpQk9KLXlFS1V3MndWNGZCRGc3aGxLeU1SMmFjcXdWa1pZb1JTRk9QTE9FM215ZWdfLV9RcEtXV3U3ZlBUMEt3Q1RvVE90WlFqWEhXYmpRMF9zUm40QUQ5VW5rYTZGUy1fbko3UFNySldnb0ZmMWlPdVNfTUlEVU5EMnB4LUcwVWlHOElvWmN4Mk1jdTVCVGprbkd3U0dFOVFqQW5Md29CYTlrRndjc1Jtb0VqWl9WaGNReHlEYTHSAfYBQVVfeXFMUGk4anVkOFdWTnViMDFlRDlIUG5DYmRjbmZuNGtxTlBmQ3RDMXo3LUlRd0JIX25hLTlXeUNzZjh4dkpod2NCcml5ZWVnemRZdTdPZng3Uy1tYl9CWUEyZHJjOTZHcVJpT0hweVplNWY5RWwxOHdiRXU3NFlNWTJCQXlzWGVqV3JkWFhpVG1zWUVUUWh3Y1ZValJMV2xqMHg1bmhCZE1EeVhZdE9ZTms0SWxweWNFb2p4QW9yOFhjX29TR1diWl9Rb0V5LUZWbFJPVzdWUEZ4TWlJN29aWm1aNEFRQndsY0VhYkw4ZGhOSm1wSmo4Wll3?oc=5",
-        "pubDate": "Sun, 11 Oct 2026 03:53:47 GMT",
-        "source": "CNBC TV18"
+        "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+        "pubDate": "Mon, 12 Oct 2026 09:02:45 GMT",
+        "source": "Upstox"
       }
     ]
   }
