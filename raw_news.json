@@ -1,31 +1,19 @@
 {
   "date": "October 21, 2026",
-  "timestamp": "02:37 AM IST",
+  "timestamp": "05:49 AM IST",
   "sections": {
     "world": [
+      {
+        "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 22:57:00 GMT",
+        "source": "The Guardian"
+      },
       {
         "title": "Bhagwant Mann Stopped At Delhi Airport, Fined Rs 50,000, AAP Reacts",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXc5cWtHcHRGLWxFNHg0aFpiVlg3NUw0TktubWJzV0IwNzdySkhNUEhpZnIzZlZFTnNublVBRW44bnZLSmtFRzk2RnF3UFhIWVVJdjNSczNaWnlzcDEyTldhRGtIdG9hSzNuY055TUMzMkJXcXRjTXhFN2JEXy0zTFFkaG9wdjVZcnhpY3hSUmQtb2NpUjEzVWRST2xpMHpPODJqMGp6T0ZCZ9IBsgFBVV95cUxPOUlkeVhwdFFsQzJ5QWNUU05Wb1hlNHo2dTlDYUp1Nk9LbWRLZkNQaUlLeHVKV2tNSDA4VUdHOTRYeFFKMW9oeDl0WU1xcFR0Wld3UjVSR2gtZW1SMjgzWjloS3Q4ZGhJWTlkX1FTc21RZHhpV1RqR2ZZcEdua2VLd29GR3ZBa0J5bE5QNC1RZkhfWXRyN0RidUVvdWJ6dXRTTVdVT1F3UEh1R0pmdFhSelBB?oc=5",
         "pubDate": "Tue, 20 Oct 2026 18:45:13 GMT",
         "source": "NDTV"
-      },
-      {
-        "title": "India news: Trade deal, energy security to top agenda for Rubio's visit",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnI1Nl92ODBfQ2t6RzMtOUhiMTVNX0xUamxZb1VwUVJUbFhNM3Vwc2J3NFRMeW5lU1RfRGF1WERDMWdoUTRlY0lPWnBkb2FwMmhCaklZX00yQkw4MXlxWDJCVGZiNUFqcjNTUDYwSE1oclZabGV5S2tXUXNDS3JueTZ3dVAyTjJzbTlBcFNRWksyZlB5bElR?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 17:21:16 GMT",
-        "source": "DW.com"
-      },
-      {
-        "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 13:18:00 GMT",
-        "source": "The Guardian"
-      },
-      {
-        "title": "Indian Embassy in Riyadh advises Indian community in Saudi Arabia to take due precautions under prevailing situation",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlpMSG1pX2F6RjVNQ0hTSDZiT181RmZYRUt0dUE5d2VUZERzR0JibHZkWDB1dHFKYzIzY2ExZ0xnV3hFOXRCOTVpSU5pVGFtOVFBSE96aDFSc2o2Nld2SzdrRHk0MTUzTmlaS29fZGVKTGp4eEo3c0RZVUxYODFIZTluRV9LR3Myd2RxRER1X09lRTlNR0NRMlRnNnRRU3RSb01HeXRSclVPdE5zSXVwODNZTXE5NXNhU050d2RtYi1sUEd2a0Uyc3I2TWdjek9GZ0hEaDRkWUh6UQ?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 19:59:50 GMT",
-        "source": "News On AIR"
       },
       {
         "title": "India: UN experts alarmed by fresh crackdown on protests and rights violations",
@@ -34,22 +22,34 @@
         "source": "ohchr"
       },
       {
+        "title": "Indian Embassy in Riyadh advises Indian community in Saudi Arabia to take due precautions under prevailing situation",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlpMSG1pX2F6RjVNQ0hTSDZiT181RmZYRUt0dUE5d2VUZERzR0JibHZkWDB1dHFKYzIzY2ExZ0xnV3hFOXRCOTVpSU5pVGFtOVFBSE96aDFSc2o2Nld2SzdrRHk0MTUzTmlaS29fZGVKTGp4eEo3c0RZVUxYODFIZTluRV9LR3Myd2RxRER1X09lRTlNR0NRMlRnNnRRU3RSb01HeXRSclVPdE5zSXVwODNZTXE5NXNhU050d2RtYi1sUEd2a0Uyc3I2TWdjek9GZ0hEaDRkWUh6UQ?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 19:59:50 GMT",
+        "source": "News On AIR"
+      },
+      {
         "title": "PM Modi flags three ‘enemies’ of India, calls for unity in national interest",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5",
         "pubDate": "Tue, 20 Oct 2026 16:40:25 GMT",
         "source": "The Hindu"
       },
       {
-        "title": "Roy Makaay in India",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnlndGtVTkQ3VGlhb3hFSUlMcC01ZDhRQkF4bm43YkJza1VkZHQzYzdSZjNDQ3R3V0RwYWVBM0xBaVRhNFhSOGQ3NjNRbURUVjZ3aDdKVWgxTlluNDVCdVMwTHN0Nm9INndqLW03NnJ3T2taUjBIWnhuZ2dXWnhyOGktZXYzWE1YTk81Y0RKRzk4ZWNVNHE5alJYZV8?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 17:42:48 GMT",
-        "source": "FC Bayern"
+        "title": "India news: CJP alleges 'deliberate' delay in leaders' release",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ21Rb0JtbDZIaFJXSGd1VDZlcFNDQW5nQ21wWDRWdUpTbTBjOURGOURGaG5ob0pnVlg0MlJMOVpWaXlJX1lXbDMzdndJVEJCWXRFa3MxaHBjR0VfQ1NuLVA2UmJfd1NaOVZlNHVHWnkxZld0SUZUQVdUeG5qZ3V1N1JGY0ctNlFOY2d5SEcyQVpKTnl3RFJvQ2l3?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 02:37:06 GMT",
+        "source": "DW.com"
       },
       {
         "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3o3LVJjQV8xVkxMVGg0Q1FnaHhqa1hwZjR3R2djZ09kZ1QtOFZ2M3JtUDQtTm5yMUJUc2tseVNJbXNjOGFvVlBXT1EwTmgyTnJDVGxleFRqdDNhUG40WmxTS1VVTDhBWjBhLTR5U1haRUVncFhJVGs3U2psaWxTSk9IM3VwQWhQeHlRNTFaS1Rzb29ELXlwOTNFQmJHbTJnRjR0M2d4WUVtam5Cb04yNFNWRmXSAboBQVVfeXFMT1pxZVRhX0RrRi0tRlNtNHV2MG83OVV5TDE2Y2lrZ3NlNlFZZTJnc2Q3Rzd3dC1xRlFMY3M3eXEzR0RnS1hhU1hDc2NhVjlxcUs3OFZTOGRGN0NJdmFjQjNyVlhwcGJPbzUtdlFLUjJlRWN5SVdaTE4zVkRDTnJxSHduRXVQQUR5ZmgyakZVR1lsMUxZck1GYjVkb3l2WTRYMGFXOVk0YjVjajBHb1NNbHdwN1JQRF9wQUVn?oc=5",
         "pubDate": "Tue, 20 Oct 2026 12:41:12 GMT",
         "source": "Al Jazeera"
+      },
+      {
+        "title": "Today News Headlines for School Assembly, October 21, 2026: Prince Harry looks to reconcile with Royal Family, Marco Rubio in India",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN2Ntd0VHVnllMFFfdnllOEtyQlppRXQ1R181SlJNRm1rQTNoX19KWW9xRE1yZ0hOWGUyTGVSZ3lNVzJ4c1J6Q1pKcTZEcFNsY2JKdTNTVGZQM3NDNkVBUmstM1Y0a1VUbm9aczJCY3JGZlo4TXdwWlVTeWFiT0lpbEZYTFFoWnFNSWozWk9oRnFzbnZ5X1o5MWZiYW1tOGR0cXp5NS1nNHZxWU13ajNXbV9aUnc2X3Q3WTVWWF9xUE5RMFRITDBjcklOeC1tMEpVLWp6QW5HYTUzU0w3OFlSbDQzS0Q5bldKX2NrbS0wTVlieVNja1VyX2JlSWUxRzl5WmZVOGhlRHpTZmxNNG1GMF8yQXdnZlotUWQ5dTRrQdIBpgJBVV95cUxNSlpnT19FRUhPdFFGb3Jtc0kzTlBkZEhUNlJacXNvak5ja1lkS0tsVEhTM3VkSGZvQktQeW52MGJkTm5hNGRIOEVzZGpRamMzSEFwWktxNXF4S1pWTjlycUt5Y1d5U1NZMXRDeXRQQkxnUHpHeUVfWFdrMGVyTS1UcmR2UGZ0VnBmUllsOTJZM3R5dDZ3YVM0NkEycDN0RWpxSjJzWjdMVHZtS3NmTWRLa0REeENNVmFpcmNnLXRoeS1mOU9vT0s5MmR3ZEdWaVBJeEVLcUNHallMdjhnT21jeWxHbEJLMXRxMENBc0VEV2JZNC1Ma0x1QnVSMVJwVmkzRzN4dE1FdS1vM2JDUUdWQWwxUGRJTURSeDF2YWhDcVdtaExSbFE?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 11:26:06 GMT",
+        "source": "The Indian Express"
       }
     ],
     "ai": [
@@ -60,10 +60,10 @@
         "source": "The Open Notebook"
       },
       {
-        "title": "AI lists 2 cryptocurrencies to turn $10 into $1,000",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JNGpoNEZ6NlN3QmVrYmJ3a0MxRmhOeHJxb2Vlb19tYzFyWFlVY0Y1NlRTWlF6Qjk3SjMtcXl0M0daQkRUVldKTlZhVUxPTVl6VGpMRXVteVZGLTZXOVJ0TkRURG85MHBWQjlZdVlPU28ya3VzclctMA?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 13:34:05 GMT",
-        "source": "Finbold"
+        "title": "AI with attitude? Engineering professor explores how AI performs in high-risk situations",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFdxMC0tVTVwbjhiR1RlcUZpdzE2V0d4d0RiX0dfQ0M4aHN2QkZDNTVmaDFsRFF0WU4wd3Z2WTdoS0NrcVFfU1BQMkl3MUsxZHpHeU1ReWQzMjNHSnZOc1VzUmdWSnRXelYySkNoT1NoNTlTcGtHOG9fOEg1M1k4QkN3?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 13:20:01 GMT",
+        "source": "Tech Xplore"
       },
       {
         "title": "The AI SEO Agency Launches AI Search Optimisation Services for Ch",
@@ -84,22 +84,22 @@
         "source": "Akamai"
       },
       {
-        "title": "Secret trigger words could make AI-powered robots dangerous -- and these researchers developed a defense | Newswise",
+        "title": "Secret Trigger Words Could Make AI-Powered Robots Dangerous -- and These Researchers Developed a Defense | Newswise",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWhrdGFNcnZ6QWltUkNmdk9Xckd1SG55eU9NVk5VMVBWT0JndkJOd3dOM3J0SnphVVF1bmFJR1dkb0JVOEdjdGtJQWtXaXlHcXBmaGVsTWVoUklVNTFOZk1Td1hEaVR5QmJDeHRRYnZNWlVKdW9XSWt2VHRGdmktMkduQ053aGRMYnA2UGllc3lrNGhOM2dWcUFwWEVFa0c1Tm4zNTdRUVdROTJUZnJ0QlFEMVp4RkYtYk1DRU1PQURFQkk1QlZVZXRvcXpWWnZD0gHQAUFVX3lxTE9laGt0YU1ydnpBaW1SQ2Z2T1dyR3VIbnl5T01WTlUxUFZPQmd2Qk53d04zcnRKemFVUXVuYUlHV2RvQlU4R2N0a0lBa1dpeUdxcGZoZWxNZWhSSVU1MU5mTVN3WERpVHlCYkN4dFFidk1aVUp1b1dJa3ZUdEZ2aS0yR25DTndoZExicDZQaWVzeWs0aE4zZ1ZxQXBYRUVrRzVObjM1N1FRV1E5MlRmcnRCUUQxWnhGRi1iTUNFTU9BREVCSTVCVlVldG9xelZadkM?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 17:15:00 GMT",
+        "pubDate": "Tue, 20 Oct 2026 23:05:00 GMT",
         "source": "Newswise"
       },
       {
-        "title": "AI with attitude? Engineering professor explores how AI performs in high-risk situations",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFdxMC0tVTVwbjhiR1RlcUZpdzE2V0d4d0RiX0dfQ0M4aHN2QkZDNTVmaDFsRFF0WU4wd3Z2WTdoS0NrcVFfU1BQMkl3MUsxZHpHeU1ReWQzMjNHSnZOc1VzUmdWSnRXelYySkNoT1NoNTlTcGtHOG9fOEg1M1k4QkN3?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 13:20:01 GMT",
-        "source": "Tech Xplore"
+        "title": "I tested 11 AI search engines: Only these four made the cut",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4YjA5UTBSSG9pQ3lJb1VUMG9kZVl1UlJOY0FpWFVvS2JiSm9wTmZ3OVZxaFltX0FKUkxDSnVPd0lXVmplSlp3QVp3M0hYWnJXTUxzbVh5S2dEbldfLV9LUm5n?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 15:17:45 GMT",
+        "source": "Search Engine Land"
       },
       {
-        "title": "AI is reshaping caregiving. Some see companionship, others warning signs",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckdPa1VtT0RGYllicVBqRUpiUUxtSTBGTk5pb1RSd1ZpS3BfWFB2VkpfdF9zOC0tTWpnLXdqRUVIbFNtNmpITXg0d1loUl9LaEtfbzlLVHlPcWpNZGlGZ1RGQ3lZZnV3Z1g5czNqUFhnOUhUU1lsTldrLWdFMXFHQWs4UXJCc19CSTNkWU4waXRMcVJjTjhOd3hwMDlqV3JQN3JvVTR0YjRDdw?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 18:32:26 GMT",
-        "source": "Bridge Michigan"
+        "title": "Perplexity Publishes Explainer on AI Gateway Mechanics and Limits",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG8wZmlra2p6QnlnT2tESU9PdTFKNHIzcWdvNzdGd3d4d3BoQV9ZV2NBVzJoMDNTUGUwYzFtdmYyd2xPajd5cXhUT21fQjgxUHhwSTQzVnItbWpHQlVEQ2hZbmRRTU5MeUxZLWRCNV96WXR0UDlXejFKdWVlZ1lHNnhOWkVlYWhQZnZMUFhJT2k?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 16:38:08 GMT",
+        "source": "Unite.AI"
       }
     ],
     "markets": [
@@ -140,16 +140,16 @@
         "source": "scanx.trade"
       },
       {
-        "title": "Banking stocks, high oil prices drag Indian markets lower",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWU1Nnd2c01JQ3pCYWRPVE1BRTdHRDZ4Q3VtUHdaT2J3akJEQk42WHJpWVNrSjBxRXh5cFVHdXpoc0NLZkIyVjcyLWt2amVTdXZieFhCRzRHY3BsTDFqcTdhVkl2Y29oNThXWUZXT1VycXZRdmNuWXZkNWRRMlhHMFAtbGRyQWZIcEQxWDM4c0xRQzh1M0VPOFhvTTVVQ1YwZ3p6N3Y4dDUzcXg4Qk0tWHN0UVJ2bkhJaTc3MmFIS3RlV29EOVhIUGVn0gHPAUFVX3lxTE0zLWl3T01WZnlCUXBMelpzYkFKWDRlOERva0J6MEJ4cHctYzBKVU5VYWhDT2pwVEp5NWJBb0FpaEVkV0VzaERpWW5VaTgzMG1xMFNrZ2o1aktOazQxcmFuNnQtVXVBWklvYy1Tdnhob1VWeEN6ZGxFMHFSUzhwdXVIalZySVZ5djJfYnZKdC1zUkgweFNQTXdpZzZQVkFuVWZuN1draTVHNHB2bjEyRXlOSEl4b3ZxWGlURlRWOUc4NjlyQU9sMFUyeTdLcjhfdw?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 00:05:48 GMT",
-        "source": "The Economic Times"
-      },
-      {
         "title": "Korea to build Samsung, SK Hynix chip hub in Gwangju, defying Trump concerns",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0TEV3NGc0TE1HVmtsV0lsUm1YY1RQaFFvOEpTM3JuTzZXLWU3S3ZUZFRWZThYa2FmTVNKR0U5bUdFU0VkUnY0cS1RaWtQdEdJNFU5bjhreEoyajV1NEdOdUpHMnJKVWJid3c?oc=5",
         "pubDate": "Tue, 20 Oct 2026 08:51:05 GMT",
         "source": "Motilal Oswal"
+      },
+      {
+        "title": "Vedanta, PFC to LIC Housing: THESE 5 Stocks Look Surprisingly Cheap on Valuation | Full List",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU55RE4yeUtFS0ZEb1J5bURSSXo3SXlWZHBYRHNQM05Na002VVRoR0p0UVE1bW5JNVlPVUxDaWFNckNCd0ZxcnJtdUZOenV3dTNUazdvZkNZZXgyUEwydUxLc0NfZHN1NmRyTExfaERmdFpjTWlCXzVkVC1Ic0h4OEpYX1V3RmxFWEltdnVIaGU1QWstWjR2S0Rwc3o3dk54V1JVb25oRTZFTUdxdnYxekVfTDVJRGtzeWxvakFhbnpXclVPeUplc3pBZVJLZw?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 08:27:53 GMT",
+        "source": "Goodreturns"
       }
     ]
   }
