@@ -1,8 +1,14 @@
 {
-  "date": "October 23, 2026",
-  "timestamp": "09:05 PM IST",
+  "date": "October 24, 2026",
+  "timestamp": "01:12 AM IST",
   "sections": {
     "world": [
+      {
+        "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnJXUUx3Mks0cmlocXpReTJkcXJCYTRaM01TRlNKVW9jMzlGaUFOTmtvQ3lhNGJOc29MVkE2eW1TWkJnb3hmZDBrdnhoRVpleENTWTZXQUtBY3dwOENWR1NlOUgwaHJNSnQ3OWxmSEx4dVItZHRWdVVYTHdNaU9BSFJKdHRicWFUdVNGUG5pdVQ4bm12WFNpNlNWTThIVW5QQUFqa1pwbUkyVnpZNmg3V3J4TVRHYWMzNjNlVmt6RnU1dzhWU0E?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 16:19:25 GMT",
+        "source": "DW.com"
+      },
       {
         "title": "On 'Regime Change', Shashi Tharoor Fires An 'Emergency' Retort",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWVyaUFLNmZxMm9PNzJyMjFIVi1CRXIwa0RSckhtYlM0NEo4ZVhCbWQ2NmFlcVRXdjI5cm0yWV9SRFdHSUd0dkNHR3hwa09saWlGZlE2ckNmaFhXMTNEdVU3UUFOZ1BIczZiMHkxemZWcW8zWldib0ZEdnZodDhqZzgwMlBxemlOUjNZdkJSMmZRek51Ni1YNXItdEpsdE8xV3F0QkVpb2JPTy1kOUZRMVdaalpraFXSAb8BQVVfeXFMUEdUbk1QVG9HZ3FoR2hfREQ3NVRkQlhPdm1URjJzdC01QzN6Q01PU0doMGVIVXFOSl9OdFUwS3pLdHcyeFdPRTBUck81TFBsTTNqNW5MZ05UTkFWck5VX0IwSmtQcFM1VkxEcGJzSU11MkI4QzZJdkVVQVF0cUdvMTZzNm0zeElkdHNUd2hwdmlBWUJDQXdZcHFpQ3NfVlkxV2hINDQyTmxIdFRUelU0QndhOHhoVzFxQmQ5MFlRSGs?oc=5",
@@ -10,16 +16,10 @@
         "source": "NDTV"
       },
       {
-        "title": "India news: Thousands of Indian pilgrims stranded in Saudi Arabia as Houthi attacks disrupt flights",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0pNdS1kUWg2TDdUNEZsMDUyVUpCRlBUNE5qa0J3bUEyNTczazVIZC00eVd0RVN3LW96RXdsZXM2S1o5MU1rX2N2S0pjSEdxQWl0cnZSenliUTE3OVlQeFMzNldhOGJYTlhndFBGckhOMkFpMk1OTGN2ZlpRdi1NTWhNRVlLcHp1Q0JhWFNNNk5RZzlWRkwzaFJMSkpJbjRobmM1aWhNOEdjY043TE1OdVBMd016M1lKcGxkeGJrZGJsNGZTSXJHd2xGdDFqVlk?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 09:11:15 GMT",
-        "source": "DW.com"
-      },
-      {
-        "title": "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 08:39:42 GMT",
-        "source": "BBC"
+        "title": "Injury blow for India ahead of second T20I with New Zealand",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2E3cWstdUIyOURMUm5ENnhsYVM0UVRGTWlIbXpLRE5aekNoNExLcVFBemNFRlpGSWI0Ykc1QTFHZTFyVy1GWHZ1b3lFUUtQMXM0NXZ3Y2N6SlFpbko2bm0ycy0weUd3cjJSQUJJUlN6OThWRzJRUzlxNkRkS2l4TU9UY2E4WWhOQllPemZ4aGVfb3RxSWs4?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 15:50:29 GMT",
+        "source": "ICC"
       },
       {
         "title": "Situation along LAC gets disturbed when Chinese forces diverge from established patrolling pattern: MEA",
@@ -28,27 +28,27 @@
         "source": "The Hindu"
       },
       {
-        "title": "India Reiterates Offer to Make Its Nuclear No-First-Use Commitment Part of a Multilateral Legal Agreement",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXQ3QUJOYlMzWXVOVzg3QmdrRE5EdkR1WExwMEpvandvdmhYNjFYT3gwMU1xTXRVTWpjWnZNdzJlcU9YaE5BUHlyM2JwaV9VZmVacF9sZS1yT3diQVZfdTY3LUJOcVYtV0hoSFZGNkpGWElVZjkxMmloVEFBQV84bjI5NnQ2SjFjazliOVdaZk10SmplM3gyWEU2N0VaZzdpZGxNX0lJVHZzcHo1R3hRUzVIZHdUa3BMU1Q0TFZEV0tpV3c5V1dwaGl1SQ?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 11:16:51 GMT",
+        "title": "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 08:39:42 GMT",
+        "source": "BBC"
+      },
+      {
+        "title": "1st ODI: Rawal’s ton, Shafali’s 64 power India to nine-wicket win over Zimbabwe",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTJFQ1kwNG9UOG5zQWxRYTZONmJ3VFdrTlZHUG5McGhyWmVuZnRfLWFFeHpQb0tQX0laQmc3QU1nSzc0SjE5QVIyVmdWLTUydG9nWHZvelppTi1lWl9FWF9OaHpnT3MtN1hCT213OWFWbnY4dFVQNVB1bEZ2cERGMEt1aUNyalJoWGxudkRIYlJSUm4yNFFVbXlEZ2p1bVNlbXdB?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 18:01:02 GMT",
+        "source": "DD News"
+      },
+      {
+        "title": "India, China agree to discuss ways to improve understanding of LAC for better border management: MEA",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXdDREtfU0Z5T1Mtc0FfRkxhVHFBTXcxY1dhdEZRSTkxR1B5SGtXUHY3SG5fMFJScGo2NVVjdkxZUl95VXNVRVM0aHlDU25PYl9rT0xuMEdoajhzT1h1eDh3emlDRm1iNlhtQjhXVUYtQ2lPS3dRZW9NbGlzUjNIa1FuOFd5cDJQNThLNWV1NWRpckNyRzNlNzZ0cXZ4c1RPM1dpVUpnU0JLMkpFal9GcTNDLVlCXy10VjV1VWJrVHFIdw?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 17:07:03 GMT",
         "source": "News On AIR"
       },
       {
-        "title": "Injury blow for India ahead of second T20I with New Zealand",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2E3cWstdUIyOURMUm5ENnhsYVM0UVRGTWlIbXpLRE5aekNoNExLcVFBemNFRlpGSWI0Ykc1QTFHZTFyVy1GWHZ1b3lFUUtQMXM0NXZ3Y2N6SlFpbko2bm0ycy0weUd3cjJSQUJJUlN6OThWRzJRUzlxNkRkS2l4TU9UY2E4WWhOQllPemZ4aGVfb3RxSWs4?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 06:11:08 GMT",
-        "source": "ICC"
-      },
-      {
-        "title": "At UN, India reminds Pakistan how Indian Army buried its Kargil soldiers with ‘military honours, Islamic rites’ | World News",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaHQ0OEdZVlJVZDZna2QtVUpXTFRTTVJTekZzSFB4TVJnV3Rrdy1VdjJYMjlRT2luQU96M092dllEQzlSNzFuOTJTaWpOSmhFVWNKR2FFMldqRlVFUFVnOVlaa2NSMGRQUVRpS3pURmFVekNkRlFUUG9BY1VkX09BOGlobmVWOFpQbmkwV2NvQmlyNGpNYkx3MU9lZWoxbTRCT1ZDYmVLempIbHRjU1ZjZUU3V1liWTBual9oVHktOXI1VlFlN3BfMUpnemZLVXIzbGJJQUZSMXFyZ0hWMWEtVWFBcERRdTUzd2JzdkVrX0phRnBiaWFYb0VZcUtCM0ZyV256MENVZzI0YXdLZGg2M1BfcHBhZ9IBmwJBVV95cUxNQ2JBY2gwUlZ5ZnpoNE9SSGdqTUtqREpvSVlPaWswZXFEODluUHBrTkVrdWdjZkFSSUM3ZzVuRXFsV1lFSGdiMlFka3NjWGpSLXIzNHZpUXJndEZ5ZGlGVkp3Y2NIU256ODI2ampwbE1OMjBmdVNTQ3VnQThDeXl3d181dUVnUnJDV29jclFEaENqVUxoTWhlNHc3el85YjdMVlBZRDQ5aDk2bDZFZnhleDA0V1FzR3Fud0ZmdUZ4cjlGY2htTXVhZll3a3puS3oxaHRfQjQwZld5RUI1NXBoZFhlYW5DYXJBU0ZXSVRYZGs3bXE5cHQ0cWxlcVJuLVJicGxiZEcxMjFEX1VSRjRLeFJRbkMyQUVJQ29B?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 06:15:48 GMT",
-        "source": "Hindustan Times"
-      },
-      {
-        "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar's resignation",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnJXUUx3Mks0cmlocXpReTJkcXJCYTRaM01TRlNKVW9jMzlGaUFOTmtvQ3lhNGJOc29MVkE2eW1TWkJnb3hmZDBrdnhoRVpleENTWTZXQUtBY3dwOENWR1NlOUgwaHJNSnQ3OWxmSEx4dVItZHRWdVVYTHdNaU9BSFJKdHRicWFUdVNGUG5pdVQ4bm12WFNpNlNWTThIVW5QQUFqa1pwbUkyVnpZNmg3V3J4TVRHYWMzNjNlVmt6RnU1dzhWU0E?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 05:12:26 GMT",
+        "title": "India news: Thousands of Indian pilgrims stranded in Saudi Arabia as Houthi attacks disrupt flights",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU0pNdS1kUWg2TDdUNEZsMDUyVUpCRlBUNE5qa0J3bUEyNTczazVIZC00eVd0RVN3LW96RXdsZXM2S1o5MU1rX2N2S0pjSEdxQWl0cnZSenliUTE3OVlQeFMzNldhOGJYTlhndFBGckhOMkFpMk1OTGN2ZlpRdi1NTWhNRVlLcHp1Q0JhWFNNNk5RZzlWRkwzaFJMSkpJbjRobmM1aWhNOEdjY043TE1OdVBMd016M1lKcGxkeGJrZGJsNGZTSXJHd2xGdDFqVlk?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 09:11:15 GMT",
         "source": "DW.com"
       }
     ],
@@ -78,18 +78,6 @@
         "source": "Pasquale Pillitteri"
       },
       {
-        "title": "The Best AI Coding Tools: Tested and Compared",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdTBrYUxNOXNkRUp3c2FWeUtvbmlwczR5T3o5dmFFZlY1ajZwaE5Pc1BnOGEwYWNNU1Z1SE4yOHhUdzVzQ3RBNS1QNzBRMmNFRlRUOEFUbHJtNWxPNXhxSQ?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 11:47:10 GMT",
-        "source": "Simplilearn.com"
-      },
-      {
-        "title": "Uber Puts Agentic AI on Every Desktop: ChatGPT Work Rolls Out to All 30,000 Employees",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDNlaElaWWZQZDV5RmdXRzRISVdfak44V1Bob0QtWUp1ZG9kMzR6SWZRNExGV2ljMGlKemZ3RmVBMEFzUkMya0VwcGQyaEh5bXcxeFltU1dQT0ZUUUJfYm52Q1hoc3l2a2JzOXJYZFpuY0hXYXh0YV9UTnBwbWgyLXJ2TndoNHJGLTUzZ2JUcnZUeTAyeGxTZkNVelhUVW5ZS19kU0JUT2s1ZkNUMXB0azg2TGZLZWxqQVNIWk9qTU5Ia2FNOXdRa1NreVQ?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 07:00:19 GMT",
-        "source": "Tech Times"
-      },
-      {
         "title": "Op-Ed: On \"AI\"",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIeUp1TEVYUVZoZnJPYTV5b3VwVjVFZHRJUDBZcTJ1a1AyekQ2Tlg4Z0s3ejFJRUc3NnY4ampxcTBfZ0ZoVlZ2Wjk0NXM0aDRYOTNSYUxTU0M0Tjg?oc=5",
         "pubDate": "Thu, 22 Oct 2026 19:58:37 GMT",
@@ -100,6 +88,18 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUTEhRTEVYZl9obDdiT0d0NHRNSHZnZ0RXQlg3amVwSGtmd3YzejNKRXdIUHVvRTFEd1A5N2NvajNWNko4dHFJTTR0ZzQwMHFuT2xLaTVQSXd6ZnRSWHhlYUM2MlpDems1UXEzNmpQam56Ukx6MDVVNQ?oc=5",
         "pubDate": "Fri, 23 Oct 2026 03:24:20 GMT",
         "source": "DataReportal"
+      },
+      {
+        "title": "ChatGPT Bug Sent AI Referral Traffic to Direct After GPT-6",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDFfN09CUnA3Qk42YlZ4R0RQcmN2eDdxYVhGeEg2M0JSOVByV2lacFlubEtUUnpuWlBFc1Y4bUFBZ3ppYl9XWVVrMjUxeGxlX2t3bkZBTG1sMEZJajBZUFZkYmpNNmFKOTJIVEZ6SnIzcDkyeHFpR21ka3lFcnlHd3RSalA4U3pmcmVjVQ?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 16:24:06 GMT",
+        "source": "ALM Corp"
+      },
+      {
+        "title": "Black Hat SEO Rerun: Are We Making the Same Mistakes With GEO?",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDZZTXpEazdPRzRaRWR6TzM0enMxZ2ZlQ0ZndFdIOVlqVVhRSEhCX1ZURHF2WHFMbGNIcUE4SXZzSmgzUkV0NlRKY3Q2RHlFWUdfVDdKOE9oMHphMk9lajd0cGYtdHVXQzA3Sm5EdzVQNDFGQkhxQnB5T3Zpc3FyM3RpS1UwY0dUc2tjbTRDc1RSZXBmMEFiQzVjT3hHRUtoSE9ndk5WREtkM0U?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 10:45:54 GMT",
+        "source": "Hospitality Net"
       }
     ],
     "markets": [
@@ -122,22 +122,22 @@
         "source": "Liquide Blog"
       },
       {
+        "title": "Global Market: Eurozone bond markets stabilise after volatile week",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 09:21:02 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold on 22 October 2026",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uNldqdzV1c3pPZVBoUGRJMkc3SGZRVXFoeWRqNjlfZTRrQzc3RmppdXBnV1BqZWNTNndMMTQxZGE0dnp5cm5uWXNYQlNsdHV4c2tJNTZTRVRDXzc4N2xrS210V0ZvS1dBemZwZg?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 08:49:07 GMT",
+        "source": "Univest"
+      },
+      {
         "title": "Sensex jumps 373 points, Nifty rises 0.19 pc at open as IT stocks rally despite global tech sell-off",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUHlHMGszem82T0U1OXlPS0U2ODQzTVhQQjVFNXZGdXM4dmpZdDA2UFFrY2pTVTlwSUN3SnhKN3oyc1JiOXBJSWxjY0pwM1dCZHByNUYzeVUza3NQeDRQb181NWp1LWdneDZpVXVUa1dITDU5ZW9FQlhEeHRKSmNOZGxsZlBTMDk5YVg5MVFFdlBuYXhrMVU3V3JteWducVlkdlB2bkQyUUxWMlhKMzlCcXlhanZNOTBvdEg1YV9qQ0pRY01pVEJDTFZzanp1U254UHpmbUx3ajgza25MNXdVWkF6RTVLdDBmdVYtQnpLNFdNNzYzb2EtallSMlpEYW9pYzY1YWxn0gGLAkFVX3lxTE9MZHFkWXBGZGtPcFU3WVpmU3lqQ21ZR283VTdabndndlZRbHB1aVMzMWh0bWkwcXZWUUxwWFJCMm1WdnhCNEExU2Z2R2NTbHVvRURyeVJBTlZXQUw2WTBFcnR4ZkZ6V3Q0V0s5dm1Zby1FTHpwdDM1S1Q3WEk2SEkxb0w1bk1NbVNEUUxqT2R1a0VlVGVWMDdidmNrenhSdEo3aGZ5cEF0LTNjeS0xZDdyeGpPSU0xUGFua1pTdTAxeGUwdHJPWVZzbjNHb3FiS1BWWXk0VUxfX2NZdXVGdDAxWm9YMlhTMF9JSnBFenZwc0tuLXpaUzVxb25tWjNsTGRiZU1qMVdMYnVTTQ?oc=5",
         "pubDate": "Fri, 23 Oct 2026 04:54:36 GMT",
         "source": "bfsi.economictimes.indiatimes.com"
-      },
-      {
-        "title": "MSCI India rejig: JM Financial sees 3 inclusions, 2 exits & $1.4 bn inflows",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0NTSDFSVHpPdnNCUE00V3NJaXIzLUFFcHZpUUxnQ3h2ZS1DckpEeTFBeWpPX2l2LVRrUVBKXy1YRE9aazFsR0R5NUYtTzgxdDdtYTk1V2lObVFUNDBnNG14V2lRNTRXZ1ZPeFYtVnhuWVJCbDRZUy1tRmdSaDhVcjNMMnptdkNpcW1hU0xnSXJyaGdGLVpHbFd0VTI4RE83eHFuMFlZc3RyQ0trN2lfSG1hVU1SSkFpT0pyQ2pHYnRxQUJkU3UwUEtCU1BFTm1oLXJtOE5nWmrSAdgBQVVfeXFMUHdDU0gxUlR6T3ZzQlBNNFdzSWlyMy1BRXB2aVFMZ0N4dmUtQ3JKRHkxQXlqT19pdi1Ua1FQSl8tWERPWmsxbEdEeTVGLU84MXQ3bWE5NVdpTm1RVDQwZzRteFdpUTU0V2dWT3hWLVZ4bllSQmw0WVMtbUZnUmg4VXIzTDJ6bXZDaXFtYVNMZ0lycmhnRi1aR2xXdFUyOERPN3hxbjBZWXN0ckNLazdpX0htYVVNUkpBaU9KckNqR2J0cUFCZFN1MFBLQlNQRU5taC1ybThOZ1pq?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 08:04:22 GMT",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Surging oil prices drag Indian shares to weekly losses",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVk5bXN2THRVWVBubnpudHpPQ2dreFhuVUxXSUFqZWJLa2psTU1rbjl3UktXTlVabEpvVEM0YUpuZVBUWkJQSjB4X1o1QlI5OEZYNE1fNE5QREZ1RjZqeURTcEFZSm5DbkFGYkFCLVNVYkpRNXRCQ3RMTDExMGVJdS1lUjUtdlBFVkJQY1VXdVBZTF9qVklpbU1YRXp6dHpXNWhqcHVFVFNsZUtQeXV6SGNBTnJYaHBzWlE5SF9EeFpiYllha3c?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 02:17:00 GMT",
-        "source": "Reuters"
       },
       {
         "title": "Century 21st Yearly results, Financial Summary",
@@ -146,10 +146,10 @@
         "source": "The Economic Times"
       },
       {
-        "title": "Top gainers and losers, Oct 23: Shriram Finance tumbles 4%, Adani Ent down 3%, Eternal surges 4%; check list",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQ1hmRzU0dm8xSHVGOG5MUG1YcXVCOWF1NUxCN21XanVReUZDbU5OcTd4M01GdnprWTRWak5rMzl2SDNIM1ZDRGtmNmZ6SDctNERvcDB4UkFxNWF5Wk1iT0dReURUZ25DYXlCMnR0Yy0waUJHTUJZaDU4WU5fZTJqaU50VDhsNnBLb2NoV2RzMy1tZVJ2UXhmS1FkcTBzcGh6QVlOM0pmTHYwQTRsa2hjM214bXNuaF8xWndqTHIxc21mSjIyLWVWVExTV3Ywc0JMVVZ4SVhKVXpvVzA4RXRRX01DUHJycHdWb0JpMFk3NUhyQl9nV0d0cw?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 11:51:23 GMT",
-        "source": "Upstox"
+        "title": "Sensex, Nifty Fall for Fourth Consecutive Session as Geopolitical Tensions Rattle Indian Markets",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnIwOFFjZ0FXd3hPQzNZZjRGalJkb1BNUmF6QkszZG9KeC1pN2N6VTBmeW0wOWtPYW94STFRZEtGbk4xbHpwNjYtNnREaGtlcjg3blBQQmNPcGdQX1ZmMWRuR0VGZ0puRVNfanc0R3J4UFA3aFlxcUFOc3ZjRnNuaW9fZWU0MnY3NmdYdWdxcjF5eVpZN2pROUdKRHFCaGRkbkswVVU4SFFRN2sxaEF0NVNzeHZuQmpXZGxDUjFUMkl6UQ?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 15:07:22 GMT",
+        "source": "INDIA New England News"
       }
     ]
   }
