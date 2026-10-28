@@ -1,9 +1,156 @@
 {
   "date": "October 29, 2026",
-  "timestamp": "12:44 AM IST",
+  "timestamp": "05:17 AM IST",
   "sections": {
-    "world": [],
-    "ai": [],
-    "markets": []
+    "world": [
+      {
+        "title": "India news: Cyclone Arnab turns weaker but deadly after landfall",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGhLWGcxSGNNU0d3bDBjSWFRZE1HYnozLUd3czcxQkVyNWg3U2xLYlozRVFjZVgwVERwSHRXZVJCai1tMUJZNEVJdHZkOS01UHJlZFpRY0xzcWNKMG1MTnV2M3lKQk5sdWxsbFN0Vk9BQmFSRXFPREFjWmNQTFp6clIwSFV3R0d6a0RoTWZSVjRGQQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 12:21:09 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "CJP Backs INDIA Bloc's November 1 Rally After Months Of Distance From Congress",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM0NIMnBkRzZ3VkdubFRNMVZ5VWhMUXV6MF91RUxCTHlKMnRpTU1PMWl3b3RFaU94Vmc0bUFHZkV3Uk1LZDJzWEJZdXF4VHdHNVhuYXNsYzR1WlJxMmdPNnBOMHczU0JuX25KRS1jYzFUMGZrcGZCSWU2Z05BZ2Qwck5DaFJ6UlkxXzBJN24tSGdKNVJSX2JnZ1J1VkhKQmR2OG5tVGhtLUQwRU03dzhzc1JUTE1tOEJmQnFjNXBjMTRmRVJDOFd0bFh2amJoczRqam9wbUxvRkFVRDFfazdsaUJhS2VBeEHSAe8BQVVfeXFMTU9xM0dBX2VDamQxdDlsQWU3c3owM1BUZGt3blJtVHJ4X3VuTW94eUFBOXVIQ1kzVWZqU2pMNjQyaVphc2w1N01qb08yQ1U2eGtQaTl4cjNlQTJaNmR4ZE5Hc083R2xKVktORHRxbHNwRUlQN2pfTmN6b1hWVzIxU0VqdU5KcmRUMXpCSksyRVdGNEdNZW9kTlZSS0Z6eUJRWVliSmRjalozaFBYekg1OWs0SEl5anNlQ1VmMmxkR3A1eUtfWm0xNFJPbWVqS2s5LWdYaXVUMy1LTzl4OW5NMkloV3NXbDJmLW5ZV29mdmc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 14:20:02 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "At least 3 dead after Cylone Arnab hits southern India",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGtkR2NQb1VrRW1neFNuUk92WGZZeGgtcXRodUZ5eG5BZ21SajNVTEE3bTFLZUtibGxZZ2xyemxXZkk0SlAxaHJNdEw1QUpNT2tYUVE3RUhrR1NKNm5rWi1kYklaM1lMZVVmdG9idG0tcWh0YlJaVVAyUjhyb2VGWWVMSlU1YTZXeHNscGkxTzF4OXBQUjRYc2YyONIBoAFBVV95cUxQNWJDY0FXb0JSYU5tajlIM0dDWmU2dWlJMzNPLXNTeEU1MzFoQjhRd1M1a2JhTUxpcmctTkdGVkxiRUFHcEdXYnFzb1dBSHdxVV9LWktfdnh4Y0RONkwwU3pQWHZVQXdlM2U0bXdyeExLUVhmd2gxVDVlWFBHZ2d4Z0xXTmFOMl9kZlk3X21jc3VKYnl2VWxUVmlNZmhwQU5E?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 11:16:17 GMT",
+        "source": "Al Jazeera"
+      },
+      {
+        "title": "India, Austria discuss new avenues in startups during FMs’ meeting",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDFHS2tybWlzN0pidWFSOHBfT0RwMFFIcmxyelpFcE5HLUk0NEFwMS04YlpPc0VrUFBNSlhsandpX3BUSGltT1RSZFNlREg2TWgyMU15QWlYQ2UtNVNJWVJvYl9tcnlMV2FrdDdSX0g0ZldEbnh4elJYa0czdmRqSnhpNVpxTXdjcUtNNmNHU01hV0Q0UjZOYW5QQU9sbTZlQTYxZ2pQWktLc3dOTXJOWVdESnViejVv?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 19:35:59 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "New Zealand lose two key bowlers to injury for India T20Is",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3BuRHhqTDNUS2lSWW5ISm12VFNyRUQwWlY3Zm1wQ3BUbU1PV1MxN1BlWGdtWFI2Y1oxQ3Q3TmF4QTRXS3NsaWdWYUtUZHJVcWs5a2Q0MkxpNllqWmdUVWp0LU4wMmZBeFJ2akVGSnE1bENlYl9CWEFkV0dwYXdzS1Rsck1lMENIbVNkVkd3ZGdSTW5JUHc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 23:01:20 GMT",
+        "source": "ICC"
+      },
+      {
+        "title": "India vs New Zealand 4th T20I predicted playing XI: Ishan Kishan injury update and who will he replace in Auckland?",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zLWY0S0Y4OWhGYWFyMk9fVHFvTnNaOWtJNUctQThib2thcExoY0JXMEVjbWE5Z0tIblo1MUlSRmYxT0R2RGlic2JZbHFRV2lvZWt1SkphVDhjdXU0bFlmdy04UHNQdU9UUlI3Y2JybFV5UlQ1Q1FZczBKWmZIZEk?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 12:18:40 GMT",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Photos of Cyclone Arnab’s impact in eastern India",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFJDUlMwT0xfdWNzNjZmOG95eXczNGJvSUIwM2ZVSWpVaXloamxuQXFFbUp0SV96SVh1VUhHVnZyazZhNkxpQS1BWV9xajRfMU1ITXlTMk5hRlhMTERkYkJSMGhEdVZhZ3NUdjQxc1o5bGFlLTktQWg2SWFMZVdDRlZXdkJNMHd1WUxCa3FIaGp1NGxQNnE4eWV0dlRkRldmVmFJNjdfM3p6QWFBNEE?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 20:45:00 GMT",
+        "source": "AP News"
+      },
+      {
+        "title": "India news: Cyclone Arnab batters east coast with drawn-out landfall",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGtVMFRwRC1WVVV4VTQ4S3NGMjN4X0xmSzhUU1Zyd0NLOUIwNGFpNDRORXREVjhSMXdqZWdqdTdEejFBN3lRTlN0UWVPcUxQdC1EbWVBbU5RUXNkV293b0s2dmllNGZvOTNmYnloM3FtYmtjaldYd2FjbUxEM0VGbXpJS2M0RmFaMHZUc01HOG9EU1k?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 07:50:32 GMT",
+        "source": "DW.com"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Qa01pQjd4cTRwZ2c5UTg3aUc3OGNrT0JHXzA4QzFUd0JJVHhxWDlnY280NnNQMzB6ZndLQ2ZMM2w4LUJEMGxCbHRPTXNQQVRzdS1Eb09jZWt3VzRJakRj?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 11:10:35 GMT",
+        "source": "Nature"
+      },
+      {
+        "title": "The most important part of AI chatbots is being ignored",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzgzUFR2VGtibXJmZnBqNkIwQUk0OER1aV8tUlR3dU9MNktCdEoxSmdhN1A1VjFzem1yQWdYRHlxWlhuSXNkWC1KeDRETEJUUmhxWUJ1WTQxSFJCS1lxeGhvVU0xTHZybWxzVmx0bDFJSXUtWldLVFh1T3V1WUxQbG1HQ3lfZFEwNFdXOUgtQzFwZjhrdEF1VWlINExxTUFZMkEw?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 09:01:12 GMT",
+        "source": "New Scientist"
+      },
+      {
+        "title": "Best LLM Tracking APIs: 6 That Return Structured Data",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHVka29Wa281bVphUlN2OVBQUTNURVVGOGhwbE5PNm9IMGEyZTBydU1Na2MwYUpKU3VGVmVRQmYwajdtb1Q5ZkdrWmgzZlYyX2pOaVpFMzlBbjJXMWFaUGI0SWZ4QkFxa0puclVKZ3Qzb25BdUFSTGxrMzhZNFdIX0lqNm9aSlNvZ3R6eUd2UQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 16:55:20 GMT",
+        "source": "Rebellion Research"
+      },
+      {
+        "title": "Best ChatGPT Scraper Alternatives: 6 Answer APIs Compared",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm9FNjRVRXFteUlobnRTTGhwb2NoMkl4YThKb0lPTHpPRkFLVThma2hMNnd2ZV8tVG56UG44MXB6bWJsMFlkLUc5YkJGVThBT2VJQTctUHF0c0UtT3NJYlVVMHE5aVpxVlk0WG80Q3hIYk5UckpDNTFWbHJQYjJpa1R0S1ZPU1JGVW5uYUMtNUo3YUJoUmYwUE9GZw?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 11:48:17 GMT",
+        "source": "Technology Org"
+      },
+      {
+        "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHM2xuV0Uwd1VhLWFMQXRmSHpzSGh4cC1kRzJZQWdCWjcyeHNOenZ1cWVzUDhCR0h1alJxSkpzWUxNcTBqdW54UTVXVW52NWZrbFNVcjlMWmw0Z0U?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 01:01:02 GMT",
+        "source": "BBC"
+      },
+      {
+        "title": "Apple, Microsoft and Google top the Interbrand rankings: the value of the top 100 brands has risen by 8.1 per cent to 3.8 trillion dollars",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORUN5SVJyVUZhNUFJUE1nbGV1Vm5KZ3NLcHZUU1ljNGt5UnRXR1VCODZNdXBqc1UyMVl2el82azFYMGxyT09lVlhDWlBhYldyOUZqTjdHZTh6U191U19tOEZHbG02NUIwMUw5NHdnd2NuTjRiNklBNUR0a01yVUZIZUJWaGhCWVJ2VUYyeDlFN1BGU2NQem02ZUNjZk5Dc1lEUzRrb2YtTEFubjhRTHV6NVVNSXhsQ0pzS1FxNl8tRXV0eXhNUGI0ZmxCWXk0RE16ZldLb0pmcGYzRnpueXF4Z3NBZ280S2FGQ2xid3BsLVh2WDhlYl82MFpBZmZjMU5Ib3ROQkN2ZGs0ZTQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 06:33:58 GMT",
+        "source": "Il Sole 24 ORE"
+      },
+      {
+        "title": "PR News | AI Is Rewriting SEO: What the Zero-Click Era Means for PR - Wed., Oct. 28, 2026",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNE5GNXhMODVRWGdoMmdOX05zY0Z5TWhxMzhSTDBROVU0UEhtMnpGbXJVa2NYVnY5MDFBN09XUWUzYmFqN2R1Uk41VHBZLVAzMTVQMXpaZnZlZUNhWmFQRGNNal8wU1BqZXNLZUdKQW9pZlYyZ3RyU3E0UDN4NTVucHhPWDdFVTg1YnpMdjBJRDk5c1lib2lkdkJqcF9UZjZ6YzZ3YjlDczJZR09kbVE?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 13:10:01 GMT",
+        "source": "O'Dwyer's PR News"
+      },
+      {
+        "title": "Google DeepMind unveils Genie 4 AI world model",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnFLWkpWNjJMMTdDaVZuQ0dUbnJjNGJ1OHJUWWNOb1hDR1g1ejdUblJOX0xoWlB5S0JfNjFpNUxrNktFY1F0REF2LUtQQVRfR0QtVGo3THJqXzRrQmRlS1M1TGpVSjE2ZXdOQkRoXzFJUUlIQTFzbXNXQUEwTWhTalF4VzVwejJwQnZ1bNIBkgFBVV95cUxNTlpPNkREWHhxNHlQNlpuTmNwYWJiWnJaYWpnSk5uYlJQcDJQYkdTSWJab3Vmb1BPSGFYVnlUTGh3ZVdEWlMxSUNvR1drYk5QazR3VVZmbG9TUzVTMndnb1JyY0liWVZiYXRQQVUxVTQ0eGdqbDNicURSc05tN0pVTWxZR243NkJLWnF6Wjl1NXJSZw?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 05:05:46 GMT",
+        "source": "TechGig"
+      }
+    ],
+    "markets": [
+      {
+        "title": "Indian shares open lower as oil rise weighs; Jio market debut in focus",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaXBFOFpPS1VSODczdm1QZlJxeXpLRjV2Yl84enZtRGtrUjdIWndadFMzNjRLQVQxTF80TTBfOVZvWkdpWjA3ZUc5TmpqN2NtV29QYVBzT3kyTU9GUTZWMjRuTW5ZMWtBV1JHMDRTQkVTS2RRNUhsYjJMMmIxOFREYktYa0FCWGtaWXFkMHJEQ2F2OEhaWGc0cHdfZnhOcmp5U2h4cEh4Rk5lS0JHV2NEWTc1Wk1kQ29TQmxIVEJMUjV0d2hDeUQxUFZJY2NOOUhIakRwV3paVTNlVWo3dkHSAeMBQVVfeXFMTnlGNmlockJ5Nk1QbVdBTktpb3RaRUFJZ2FXSEJwZnR4VTZmSVZrdnlHazNKc25BcnhSRVlLUnM1WmdQQm92YXl3TXR4ekdsaWJhdHFybVI2eTJDVnJRZkdwUnUxWHpmZUVxRF9Udm0tWlh6V0o1M2dWRHNwUldNMXdfN19RcG5ncXpEcWZZTGFDSkc1cENrOU1POWp5WkJNQXpjeWlwdDVTSjVSZ0ttd0lkLW1OVmtWVVBKVGFGMloyRmZDRkg5cVB6Q24tbDF0dDVldzJhQUJKUUs1bWM2UkZkRG8?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 04:00:07 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Dabba to demat: Rachana Ranade on women's road to financial independence",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGlCUUZzRW1RZVpNUVZTRDBNWUd1SUtQeE1kemhsdnBob0lNdF9GM19lc1BGbUJtU0o3ODg1ZnVoSVJDek5xSDc2WmY4YnU2WnZWazFPOV9DclA3b1JfNS0zTUNaZFlTRUtLRkgydEVhUGcweUdsZW5TVUVWWnpTODMzMFB4amc4QkZOWXVwMktlZGQ0bkZacWwzZFBXTFJsU1NINkMwc2EyQXYyQW1KbUJFaHdYYXh1ZDcyUW00cE1mY0h4VWI1RTlPLUZSTVY3a254RdIB2gFBVV95cUxOaGJ0bDd1eVdsa0lfTkUtdzRiNkx6Rmw3dXJIS2lwdVZESXRUTkFjZWRWUXQ3VUFQUXJJYVd0OXhPcEdTLTRKQ09walo4TWFNaVVad0NDcXR0akNKdWxpZ2E3TjBHY3J6c0JHRUstVnJNaUI0eTJ5ekpwRk8zT3pCV3lxVGJ0U0p6Qkd3MHRwSFFOQXdLYlU2VGVEVTFYd1F3dDU5cXFsNkM1UnV0bC1POF9qdGxORFBjLVZUOXM0THgxeXNIaTFKbUFCUE1BSlhNTkhVNGNPXzVBdw?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 09:12:00 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "Taking Stock: Sensex falls 353 points, Nifty slips below 22,700; mid, smallcaps outperform",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFlDSjE2VVRtUWhheXB3SXdZaWZxaHVtWngzeUsxNlUya29pWFJ1b2dDV0VwUzdDaHFzaUtUTWF3VjRuLTg0TmxhcmRiZGRySXpFcHBVY3VfSHo0M3E1UDc1T1pJdXgzdHpDajNESVk0QndqNTg1d1AyQlJWVDJIRkJvREJNQllqTHV1bC14WUl0YzYwNFg2bWVUY21rMi0zQ3N3YTJQdFlPLUdwQkhsMmxlUF9BeVlqZjdQaGtQaWtlSlhROFhJNFRsTEU2QzNlQjIzUFFGVE02WGRaWURmamtHd1lKUVllU2130gHrAUFVX3lxTFB4WUNKMTZVVG1RaGF5cHdJd1lpZnFodW1aeDN5SzE2VTJrb2lYUnVvZ0NXRXBTN0NocXNpS1RNYXdWNG4tODRObGFyZGJkZHJJekVwcFVjdV9IejQzcTVQNzVPWkl1eDN0ekNqM0RJWTRCd2o1ODV3UDJCUlZUMkhGQm9EQk1CWWpMdXVsLXhZSXRjNjA0WDZtZVRjbWsyLTNDc3dhMlB0WU8tR3BCSGwybGVQX0F5WWpmN1Boa1Bpa2VKWFE4WEk0VGxMRTZDM2VCMjNQUUZUTTZYZFpZRGZqa0d3WUpRWWVTbXc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 10:14:30 GMT",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Share Market Today: Nifty 50, Bank Nifty | Oct 28, 2026",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWjVEcUU2dFBsQU1mZ0tXN0JhUF9CNWkyZ0VYN0VlTUQycFNQaFphdmhrSTU1YlpPV1VaMXZvbC1JbXdZNjI2QXBremc4MThKNDFyY3NGbGNZdjliQ3lCNFl4VEJId3FnVkVJSEdrMEJYS3VhQzgtcmhia1lYNFdsMkEySW5MMmhlOWJtTGJkS1RrOVFkQTlKNEVTTFh3MG1CaEFDclI2cE1iVC0wSWtZWmZQZV9mZlNxRjY2VFRKUVFCcFI1aXlhYXdyclJTcGtzblc5R3gwRW50TGZId2tFTXFCTFZMenNYaURGalptMA?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 12:01:37 GMT",
+        "source": "Liquide Blog"
+      },
+      {
+        "title": "Sensex sheds 691 points, Nifty falls below 22,600 on rising crude prices, FPI concerns",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSXRiNjNsTVRBWkVSbEdIMjQ2aXp4UGhKSnI3MzlPTUNXVlNNTmU5WVg2X2pDNmJycDlMRXVTWjd1ampYLUZ0RkFUSlZtR1k5ZXlLb2ZPS1lYZjFGQkJObUlwSGMzdllBWjBXRU9YOVdhZ2o1bm5EVG9ac1VQNVdZdW5LUTNMRGpRZ1gzZUZEWXIwYW9NZnlENm5lT0dwWWtfLTBGLUFvQnBKM2F1SUdyeGRrd3RCTEVKWFBvTFFfdjM0ZWVsYkZLMTVJa0dFTU5jNzdhcnh6R0IwTDNPbFByNF9B0gHnAUFVX3lxTE5mNXZmRlV5MW9PR2lLdnVWbTBsdGExZXFzSy1ZR3h3aUFybm5Pak95SHFtNE1lMTQwUk9qMjhyd0RtZVloSHAyRFhVVkZXQXd5b2c0THlRNHN6cDd0bTFZSWJlWnFIa2RsLTR3WjhDUkRhYWFuN29uWTFjYkZKZFZ4cDl2SGhyMG5qVWtJTVN6UTh0aDNQUTU0NVJ4ZEpNTURYdk1QU2ZMOUlTUEFDSmJyeVQ4NXlxdGI3RUF1d2dEQm9jOGNoeU9XYWNSc3BNZV9xcXM2REpnWXQ2U0wteE1aUFltNzBXWQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 04:11:37 GMT",
+        "source": "bfsi.economictimes.indiatimes.com"
+      },
+      {
+        "title": "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlBRN3hYa1RJQVU5ajRWaHVEQ3ZHdnA0bFl0Qzhub3A2U1JvU2lhUW1ZT2RScHlwcHNPekRHaS0xb1hXNUZuU3BfdGQyRTRHWVhaWXh0emdydnozeGliOFFCa2NESkpXTjJjNDJibUI0b1NwOHUzZGhKX1ctbjZnbjlKa0dKWkZQUWJJYzZBeGYxaThRanZTTmRYY1NkZm54ZjVsS01uMDJMOGx2dkJYS016RVJZN3JBbzBya3ZWUk5RT1BPSHVWNFI1R0zSAdIBQVVfeXFMTXVtZ0huaFN6aUEtSm90Q2FMWl9aSDFDaDVRZnZKQlliSkNQNXIza1hfeFRvN1gtYVRFMVhYRkFsRnhPVDF4UGlLb3dmQUp3OF90TkhlUjd6WXFwZHY1eWllMmIxaGhoZXZMODd1TGRNamp4Y0t0V3RkRnZsNnQ0U195Wmp3djl1a1VkZGxmX1ZMOEFNVUNrRmNiX3hTcS1LRGp4bDhiX0YwVWV0cmhBMzNaT0d3NUo5OTM1dXNPcW1qb2VtQms2SUdVX0tUSkVNVzV3?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 07:38:21 GMT",
+        "source": "Business Standard"
+      },
+      {
+        "title": "FIIs, DIIs turn net buyers of Indian equities on October 28; Sensex falls 353 points",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmN0RFBHd3RpbTQzQ1l2RkZibmdIRG02dTh4RG5JR2lwZVVWcldpR1ZHaTdlNTZOU1AwWlhWMmhUWDR1TGdGOHd1akJMU1RFd1dlcVhGNUpsTnNLWjdyM3JiYjJqREVVSlo2LVJJakhhYWVVWGo2UkpGWDYzSm9SMmFHYktjeGxBWVIwQktCbnAzME4xakl0UV9pNjB3ZnNtcUxxdTI1TW9qbDBnSGdvWG5PcWRlSjI1S2FEeUxFN0cxT3cyNFHSAcsBQVVfeXFMTWVzSXE2TmswaEp0eng0UUdwMTRqLXBJeGlaZld4Y2pxemFKR0tiVmhEbktKVFNVbEYxZzcxYXRDcng3MGV6R2pVbnlYWkRkRTRWemNYZzlrbHRaZE15ZkZfQnFrZmVwMTdNSE1Ub0pibXhBa3VmTUJ0bnBFc1E2WFp2dmZmX2lBRFVSVHJVNkRhUUtsNW5xSjQ5YUpuV09XN0RKYzMybEh5TmhwZFBQaU1mcFFDZjBkcTNlbGlONE0wZWhCUXRZYnIzMFk?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 14:51:18 GMT",
+        "source": "CNBC TV18"
+      },
+      {
+        "title": "Stock market closing: Sensex ends 350 points lower, Nifty below 22,700 dragged by Oil & Gas and IT - Check top gainers and losers",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHNvemo2amRoUkRSRXpTcmhrN292VzNOUXNmTmFNT2FjcHJwOWJRTFhabDdIdWlVVERDa2Z5MlFOUzBXZjRlY0JodE9YSVZHNXlrYWIxc05jUi0wRmx6eFQzN2ZqS0FEZlE0dmVNM2g2ZkFVRFY1T29YbnZ5VS1STGstSjR1TkpPUTloLXhIMVJWd1h2VnNvMHJkSE5CbVVRbmotWjMxRWhZcExGaTJyTVN1cjBWbThrXzZST3dR0gHDAUFVX3lxTFBKa3NaRUlDcHF5cFZiVGtMd1NJUUk1cHN5cUltZC1ocklpVDdxRnpzN2dzWFJhSkMzWGtZc2VQaWwzV1hIQm1KM3B0NkE3S3JyNDZ0RFNSUlcwWHBiUnR3RGNwZm14UjlXbDFRYTktTWhITWVMdEpnY183VkFMX3h0dGdXN0JUY0dNSTFhenNPVVItZGtQOVVZS3pyYk9XdUR6VnZmQVRGNEhvNDJvUUJJRGk2SkpGSFgyOWkybFZfYl9sTQ?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 10:11:03 GMT",
+        "source": "ET Now"
+      }
+    ]
   }
 }
