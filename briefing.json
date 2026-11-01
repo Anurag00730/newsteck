@@ -1,74 +1,74 @@
 {
   "date": "November 01, 2026",
-  "timestamp": "07:16 AM IST",
+  "timestamp": "02:03 PM IST",
   "sections": {
     "world": [
       {
-        "title": "How Ambani’s Jio became India’s second-largest company",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVV4eld2a3RxeHVaY0JWdXREdFFFN0hqdDYtWWlleVM4TTlFVDFUTk5LZEVLcDVEc25mM05XZkhzOU43VjZjWm1USUlMcUdxYzdMZFJHU1NaZU1hMXFZT3VKcm1TdWx1VmNxSVNtY09od05EUVQ4VG1QYkJPQXdsTWpyeEhraHhrczg4bE1RekZGXzFCMHhnMk1B0gGfAUFVX3lxTE9KclExQUgxbnBQWHZfLUs2NHEtclNUbkNfZkNxSmZPLUtuZlRfNXlBTlJzSjRfcFZWREpUUEV1eVFURTNTQjdlb3ZMOTRfNFFPOFdiRGJ5N1ptUFpKcFpsR2dId0t5ZUhiTWQtRTUwMkxzaEpfcjNsZ29SYmFOdVNETm5kcFBmSlJORHU2Sll3V25XSFlLMFdFMFpnNmpoMA?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 10:44:05 GMT",
-        "source": "Al Jazeera"
-      },
-      {
-        "title": "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2x6SFJ0STdaaUpPNjZQdUEzRFdnU20zaWNmWG5nNnpiT2xiZzlrQXl0ak16SHhBUDNuSldVR0tHNWNBcFJiZ25KZ2g5M1I2NjhrVzg4OUltQ1gzUkE2b0FUSkxMSmo1VHNfNHEwSTdqWkJnRzJjR0dZdGlyQzRpXzRvZkktSml0cVIzbUtHaWFHUXpHUGxhMXMwUXBLMWwzTUx0MTVjV1pIOGo1d1JnX0lEUkNPYUNwZ3lRRzN5N2ZDanBCZk1TXzNtbjZ0S0dOS2lhcDVEZGo5UG5lWWJfWkc5RzgtRnI3bi1WTjZTMmfSAfcBQVVfeXFMT2xmMGJFUzhVTV9ZR3hVN3FHbmd5bTd1dm8wX2ZqbHJ5b1lkV2NOMjBMYTR2bGlFcmlqMWRvMGlaSlUtQ2pSTzlyWFY1TkJfbGRNQV9ZRTNWWGlnLWVfcG1JNU83OVByRE1xazBIUnRxQXJONWlrTHF1amhhei1fdWpDUWlzZnEzOVZKUkgxMkRpbzBiZU15NUxuTjZqRWtLdlRaSmZRNFFvb0VnbVA4SlBHcXlCR2dXUmV5VjhNTXVzR0pJUVY0dE85OVhxRXhKMVZjT0F3MFZnM2VHV2Vwb1lpc2tfMHpYTXJ6NldMRHgxeTZlaDZ1VQ?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 19:49:25 GMT",
-        "source": "The Hindu"
-      },
-      {
-        "title": "NRIs Buying Real Estate In India In Record Numbers. These Cities Top The List",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2g5TW5PeEdxbmdOdkRCY3ktZ21pQXVyTWNFSk13OVZhWE5uakNXWFh6NUpJcTY2Tjg3LWJubE5FV0hENy1ScU5vNU81ajI0SjBNWkdadGRncGZoM2Vjd0g3RFFadnk4RmhZWHVxYXAwcXEySjR1ajRoTWlvUmdvMFI0ZTRkYkFZREdyTVRZdWRzMjBKenBkMXZrY3hXUjhNQ3RjYUk3cGYtZnpMX0hIT0JlQXl3dTk5cDNR0gHDAUFVX3lxTE5JUW1ueUdpc3B6SzFOdnBZUmNKX0tUY25SUndYS0JZenpyQjlHcm9ZZEJWQVBLUGE5VklqckhiejJDY2tCSEZXMFVTNGZUc0YtLXBPSGpiTDJwRkE1RFBXaE44MExuVGdoMDNKb2RHdkJtcVV4NHhraTJiTEE1b29vS19JQWtfVnlGaWpkcURPMmdNeXhSZFNsVVZsSU5BaUxCWEVBMmVPX0VVbUdLWGo5SmNhWmpjQW1PdlVIR0FERUNUaw?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 09:20:28 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "North India cotton yarn sees thin trade, market nervous",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYzg0UG1EX0M3S3l1dnpGRjNFNlRCUWpzSUFmQVZEMEQ0MXBSS3NDZnhseXlqRVQtc0NkYmw5amFJLUVSdF9pWHZqaEFQSnpINlJNeS12cHFCUFhlbEUwZGczeVZQU1ZDbnBpNzRmaTg1WWExTUgwd09zWkdEM3BGMDhCamFwYWh2MmhDQTdFWEhBOFNqUWV3QnQwX3VqQzU1ZS1XNGZfZXBabTg4VkpqMlpEZllKbUJEYkxyNkhJNWtSaUZMalRaSUpnVVp2Tjl1WnZJSGROSXMwbXM?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 17:15:12 GMT",
-        "source": "Fibre2Fashion"
-      },
-      {
         "title": "Rahul Gandhi: India's opposition rallies against voter roll revision exercise",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vemJrY091NzlUb1prS24tVkYxQ2pzdmFaZUdfUms4WVYya0t2d1FFeTVKNmJtTEExLWxJeVlveVZ3Ml9fVV9sZ3VMbGRtZV9ZV19yR0lLaThiVUZuakE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZVJlSWV0RXVQNlpUckJvWnh1b0h3RWtEaU8wQTh0SGp4OXBlbHZqeUZfY0hRbmlwdE1YVE5jc2ZwLXJBSVNfSXFBcXBhMEtITzRNYTVLM1lkQW8?oc=5",
         "pubDate": "Sun, 01 Nov 2026 00:12:07 GMT",
         "source": "BBC"
       },
       {
-        "title": "Water ingress reported on INS Kesari at Visakhapatnam naval dockyard",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFBYR2tJSnp3NkpTeXB6SFVuYnVGRGhaQ2ZCNU9ZSE01WkdrN2pGMENmTTVSR3g4WXJuVHBFQVlIaTA4SW81QnNRcjFrOVhRNEIwbDhrcHNITDNNWVZKZnlqVTh3UTBmWVZnbG1yeU8zRjRXNmlxT3c1cmJKNFF6WUFPRUoza1J3QVBhRjJmRWxReWZZZzhGNWxtRGNjSXFsdGNFaHFuSzN5VzJzaE5OSU1zdWZQYkpJZnhUamhDb05Ha1B4TDFXRnlOM1d6Z9IB0wFBVV95cUxPcmhhcGlRVHdvWTZ4S3l3TUJYakwxbmF3cHR3N0xKSHNfd2c4QzFUSGxvMzd3V0QxdVhNak1nem9oeWswN1BFR0o3c2NicjVwbXlZVF9yenowbU1BUy04YUNmMXB5QjhJLUlKYzBuQTRLZGw0bWlTdDBvNGZoMWloZmlNUkxIMGRrQ3NxaVFBNWg2NDM4ak9jMVJSbXg0anNpeDB4LXI1SXQ1dTRhb0g5NHZ5dXcyUGs3S0tIXzNselNwQVBJZ0V1dDhKU01TOE5KTTh3?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 17:31:30 GMT",
-        "source": "Business Standard"
+        "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2xyVE1yam1FZWVoS245c2dRUDhKWmxOalJWOW1WdldXcTg1dUNJMUl3WjdwdFBOenV5ODBZcVVhNDlIRnBNLWxZSWJRVHp4OVlHYkFHRVpQbEw3TEZlcURpZy1sVkd3R0Y4TTdtUTBTWktKYTFMdTRHdlRndFJMbDFQZnNteWVXeHc?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 06:20:00 GMT",
+        "source": "The Guardian"
       },
       {
-        "title": "'Protest, Then Go Shopping': Rahul Gandhi Urges INDIA Bloc Rally Participants To Support Delhi Traders",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVNLRkVjb3p1UGZDRWhtSndHQlJhbXFhRDY1OVVmU2JmbGJyLUJvVlV5RzVzVXRqTXRnU1QyanRmdWlULVp6VmxNNlJhSHExamZPUTFxTGQ1aVZmZ29VVUQ2Z1RlTUpDQXFvZDY1bjRHbmtsNUl6LUpxaVVFcllBNzF5QXhYV0hxbFItZkloMEdhLW0zeFNWQ1dIbnBmQXFLTDAxRG9jWXBNdWlrRXlIQm83aVBWbXFVZ3N4T0lmaTROdFg1c1FpRk13QUtTSFJhVS1UWkkzbGFYdFV0RWx3Q3ZR0gHnAUFVX3lxTFBralV3VV82eHRwX0d6WWdMSUQ2TUlmMkYtdzYwaUUzV053YktTOGtsZ1p4dllrc2VJZlpvUC1iWDc0UmpLZk1PcUNaMldZSjlpUmpTdnMwRkV1cmZvNHd6Z29oTzFlc2Nrc1MwYmQ0Z1dWNm5PZ05RRnR1a3AzN1pvY1hIbmRWeEM5d2s3djhMeWtMcVNrZ3lWN0RLS0NIZXZkZDFkVmNCMDdJbGVMZnJqZ0Nadnpud05tZlVNbmp2NHdCRFBMbklnNmlxTVVLNURRbWFkLVo2U1hyS3FqMjBvV3MzblhUUQ?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 22:55:46 GMT",
-        "source": "News18"
+        "title": "News On AIR | October 31, 2026 10:45 AM",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUJYcmNSa0F4Qmw2eW02MElQcmlfQ1FhZXNfNUk5MXY5dmFCelhsRGtzTE1Jb21kWURHV2RHTkhlY0pJRV9ObGswN2lnejlJMER2aE0wa2xjd1ZmSmZ5ZHpmVlNsVktHRnBkdjNBLURpdmpNMm1ial93TDlzbExlc3ljbXB6Q3VRdkRtMkVlVnlQd2xpNGRTdlRnR2FDWkFzeFREZDdxSlpOeUx0eTRzbGl3?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 07:46:01 GMT",
+        "source": "News On AIR"
       },
       {
-        "title": "NEWS RECEIVED FROM DPR UT CHANDIGARH",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU25sVF83dVNtX2hHU0hrRlBvbGg3Z3JwR21nZmRsYnNCWU5rblRBVVF0ZUltMnVjVVRRS1J2aUxOSXhGQXFxSEJDUEpyR0JHR3l1ZWZ5QXhJWWVmbTgtWjNKbDRtUGFLeFRPUWxlQ1ZiMTJodUJ4cXE0TWtZSmYxYXVIMEdNTmljdnh1d2ZNV3dJYlBPS0VvRTk3cm9Yei1BcXdqWQ?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 20:34:37 GMT",
-        "source": ":: India News Calling ::"
+        "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS09QVUljNWxnMDB1UndSazY1QlZLZUNFbVR3d3Zwa0lySC1MQjI0eGozYl90Rjhwb3Fma3ZpeXFxbVVub21leERkczJNZGxSQXQ4WnF0N0dVbWl0cGFEM291d3Q3Q24zc3JxM3hDek9oSk1oWVFrZlh5bUo5RFZVZ19YQno4dHBoYkFRd0s4SEdmSjk2Qmx4Zmk4SVNWRU4tN2F4THhCeW9NTlVoUVZv?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 06:56:15 GMT",
+        "source": "DW.com"
+      },
+      {
+        "title": "23 years later: Pakistan recreate India's Lord's magic with record-equalling chase",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaTVOdUJXeWFZYTZ2WkVXVXlJaktLNi0xRnFUdUtPckZlNFZHUVIwVGMxZkJPSVhoT2lla3NpQWY3TFJVNmFpdTVMZ1VjcVRqRzhGTDhOWmd6WmU0dkp4NnMwT09JNEc4OEZCenRLbDR0WEVSenNXbUxUNl91emNFSmJYYmk1YjNSNGgtdVBzcDRzQzF3NnFGN0JqYXgtcEhvNElmbXVmbWpRWlFDWGpMSk9wakM5NFp1R1dDLTFyUnpSZ3AxT3pGUmowVm9ReGFSZHc2YXo3MVg3NERQVWQtSXluVG9McHNMWjVPMnUyc3hFQQ?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 01:40:00 GMT",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Mass Protest Expected in New Delhi Over Modi and Voter Roll Changes",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 03:44:51 GMT",
+        "source": "The New York Times"
+      },
+      {
+        "title": "INDIA bloc rally today: What to know about the Ramlila Maidan protest",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZnhVT0RORmlSN3NNTkNRWUNrVExkLTBreFQ3MHc3MWVvZ3RLeTN0UFQ2S3MzdURmczlRZk9LamhZdlh0ZHM3ZHJYVlA3OEMxNTNNUDRhT0JUTk5sN215RnhyV0dhRkZQRXNYaTBkSlRXM1RkMkl6bjcxd3llR2JFb2FDcHQ3aEpuTXQ3aXUyYXFUdWlLdDNpb1hBYUt0OEFGQ3puOWxzVE1oY0FyMHNLaVUzcGxTVnVWVGJGS0d2YmFaYW1ONWRVSkRTNUxnMFRpNHBrdVhPMHQtd1BXMTlxUkpzU0NMYnJ0cjktQ1U1SDdvczlPaWtUQlRJbU1tU2dxR2hWeElpdFnSAY8CQVVfeXFMTTJRR25vTGVlQmRpSUk0dmxlanFia3VtZ3FqTFZ5VldXaURtdkdjR2NETlI1VWI0cl80bUhQV1MyaG1hR0RTaFVVTmtjc3pnTGNqd2tmczYzbXJXTGFqR0dUU09VR29wc0ZfVHdjLTMzb09LWnFUal84cHp1R0dUR0t5VWNHUkRwQVNIUlY0MHgtanBhZTBOMVBqYkRGMk9CbFRWMEktbkQ0TEFRcUVZMFJSX1pLY05jOE91akJsZk13Vm5tTl9EYnhGUXRVdEFnSm5Nb25Na2FhSkNBMTVIRk5TRHhhaEpLRG0zbWlQaTJHM3hjVlJVamhIZU1JTW5pNGlHbjhiZ09EMThra3FfTQ?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 05:26:27 GMT",
+        "source": "The Hindu"
+      },
+      {
+        "title": "INDIA Bloc Begins Delhi Rally, BJP Calls It \"Foolish Orchestrated Drama\"",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUpHZWNBVjdOa1hHMS1jRmktWlE1cmQ3dG5HWV9aVFhJMWdqNWJCSzVMdGtOdmk1WXdFY21JbGpPRU5UT25yeVVBcmVQVWVXMFVYZFhFMVZudXNkX3FVTTE5NUpxOC1IR1IyRTZpLUUyMjNfdFRST2hucWtsSVZKNDBzR2NWZW0wWV9RX3JyQW1hN21QeHZnTDVXSnplZzdZcDd2RnVRaHdoNld3OUZFQlNTM19JMldkUjMwMtIBxAFBVV95cUxPSHl5aG9zcXV2Z3hsV2ZobUJ1Yk9CSklOT3FqSllPcjZqOFhNaHRsOEl5dDh6RUF5Zl9MV29IUFVLYmtWMUlmOXlYNXRLRWpRS2FfWUx3UW9pTXEybDM2NHRnRDF2MkljWHU5NWw3cFJGeEt4UGV2M0NpZTZscUw4VlZ5OGZIcEd4OS1oTEVLSFFyQ19aVnFqV2I3YkxqdkRuM0o4YWxldlcyXzB0ZTFNdUZXYkM1MFMtN1VOMFgySEZhMmhV?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 03:46:00 GMT",
+        "source": "NDTV"
       }
     ],
     "ai": [
       {
-        "title": "ChatGPT, Claude, Gemini down: What we know about the AI outages (updated)",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4bXRac3oxOVlUVU45Y3JvTXhuVkhkX3JPb3BraElNZ0VVeWd4cVMtank0RWZ1QS1DeUtrakdtZTF2SE1LTF9qX0RlRWVfTUxFOF9fR0ZXYUZTbktVWFh3UEJtZGRqOXFkR0lScnhJR3dOYk1Ebmc?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 14:28:41 GMT",
-        "source": "Mashable"
-      },
-      {
-        "title": "7 Peec AI alternatives, compared on the answers behind the numbers (2026)",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PdnI4QnBjUFRKOEVsZDJfME9wZHNrUHoxQzE3WElqdmVTLTVLQktvUXd5VVd2Sm5zVi1ZS2Z5V182c2NYU3F4U3ZqTjg3TFRuQmhFZWVkX2pCT0tiY1Z6S2l5Y29qa1dfa0pTTA?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 05:45:57 GMT",
-        "source": "https://tech-insider.org/"
-      },
-      {
         "title": "Expedia announces ChatGPT-powered travel planning. How to try it now.",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBabFV2YTc4UWlTRnJZWHBlRDB3cmZDZDBoOVBPVEc0SzdNZjdGZEFwWl92d3o0bnBMOXdBa0JFTXpPUEJIRlEzNjd2cWhRcjF3S1ZONTEtem0xWGxsWmZ2eHl3MzUyQU93N1doYzlfWTZmamU2?oc=5",
         "pubDate": "Sat, 31 Oct 2026 18:13:47 GMT",
+        "source": "Mashable"
+      },
+      {
+        "title": "Google launches Android MCP in beta so apps can talk to AI agents",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVdGdWNsNTY0Sll0ZTB0aVZ6dENTdEVqS2Mza3Rya3A5QUZIZHd5TjdkcnJPNW5ZUHRMZTFGd1AwakFUWEJUU0RkQWlWVkUwT0p6U0tOTnNuRjVkcG51djZCSFVkRlprTFEzd2NkNUFaVmUtZDFJOHdNOUVqS2RUMzVHbmdEMVVITF9xTWRkSTc2eV9W?oc=5",
+        "pubDate": "Sat, 31 Oct 2026 16:16:37 GMT",
+        "source": "Pasquale Pillitteri"
+      },
+      {
+        "title": "ChatGPT has a scary security risk after new update. Is your data in trouble?",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5pWVNtTVRFaG5zZ1k5Y1AxeTNid2xrT3ROenUwdWZNSVRHeXZDQms5enZjMGM1Z2xLSm5yZjVOOXRaN3pXa1U3MWZSS244OU9jektxSjV2aC1tS2Y4VmdjUERSZGNnSzlveDY3NU1ZTnpZaUU1YTFyd01YTUN6Ny05aEdQdw?oc=5",
+        "pubDate": "Sat, 31 Oct 2026 14:28:41 GMT",
         "source": "Mashable"
       },
       {
@@ -78,25 +78,37 @@
         "source": "StreetInsider"
       },
       {
-        "title": "ChatGPT has a scary security risk after new update. Is your data in trouble?",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5pWVNtTVRFaG5zZ1k5Y1AxeTNid2xrT3ROenUwdWZNSVRHeXZDQms5enZjMGM1Z2xLSm5yZjVOOXRaN3pXa1U3MWZSS244OU9jektxSjV2aC1tS2Y4VmdjUERSZGNnSzlveDY3NU1ZTnpZaUU1YTFyd01YTUN6Ny05aEdQdw?oc=5",
+        "title": "Google Assistant is getting an AI makeover",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12N3Y3em5lcmxPNmstYnlWd0M3UktIdEx5XzBCMnRmMlEzcUgzQ0xmUWhkUnFuZ19SdlNKZHllbG14STBmV1pXRUdfalg0aUNGT2RJeUUwWHdkbWtWa3ZhSkNTQW9TS1JB?oc=5",
         "pubDate": "Sat, 31 Oct 2026 14:28:41 GMT",
         "source": "Mashable"
       },
       {
-        "title": "Prosecutors say AI influenced a teen accused of killing mother, brother",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05dkVaZEtVeWNGSUdoVU1NeWlSYzZkX3ZmSDlCSE10VUZzUVM0ejdmZW00S3NiRHV3TG85YlBZcXcwbHpNSFp6OS1uZUp5ZlhqOW5KUFpfb0ExYkJ0cjd0c05R?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 14:28:41 GMT",
-        "source": "Mashable"
-      },
-      {
-        "title": "Google launches Android MCP in beta so apps can talk to AI agents",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVdGdWNsNTY0Sll0ZTB0aVZ6dENTdEVqS2Mza3Rya3A5QUZIZHd5TjdkcnJPNW5ZUHRMZTFGd1AwakFUWEJUU0RkQWlWVkUwT0p6U0tOTnNuRjVkcG51djZCSFVkRlprTFEzd2NkNUFaVmUtZDFJOHdNOUVqS2RUMzVHbmdEMVVITF9xTWRkSTc2eV9W?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 16:16:37 GMT",
-        "source": "Pasquale Pillitteri"
+        "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXo3WlNLSzFqM0pjWUt1ektfczloTFo1dUlKd0hwVEhuc1NSODhSMDVUbF95YVphb2d3dWhqaFQ4OElfQjBhRHlYMTYtRmlkZV94QlpLQnZmeDlIUm5UMWN6T0E4d3AweDFBLVM3endGbDRveGpzU2JrTDhUdkpRdm9oVXF0d053UnF5SWZSQWluVDEwS2ZDcF9n?oc=5",
+        "pubDate": "Sat, 31 Oct 2026 21:51:56 GMT",
+        "source": "Towards Data Science"
       }
     ],
     "markets": [
+      {
+        "title": "Broader markets outperform; Ather Energy, Piramal Pharma, Laurus Labs surge over 20% each",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1RjX2RsbnplVG1MZENCd1FtTkZ5cHNIYkdTZE9ZRkhQYVA3UmtOeENjYUo5QzA3aEg5c2NYN3dLTGhGVkk3UnpYZUkxa2Q3NVl2clJmcHB3Y3ExSjFsYmZ4ZGpmVE1oVHMtQnlDWTlZOTBPM25XSnZTT1RaRVAwQ0JKaWJxX2RoNWRNNEJFakthZVVQNktySGxYRmJDVHVvRHYtS29KR05PSEVVNUcyelJ1bmk0N2owenpFT2kxMWp2VUZUbDBxZGhGak9FTFA5Q0VrbkhMcDBvZ25iMXZaRkh6Q084Rmt4ekHSAeoBQVVfeXFMUFdUY19kbG56ZVRtTGRDQndRbU5GeXBzSGJHU2RPWUZIUGFQN1JrTnhDY2FKOUMwN2hIOXNjWDd3S0xoRlZJN1J6WGVJMWtkNzVZdnJSZnBwd2NxMUoxbGJmeGRqZlRNaFRzLUJ5Q1k5WTkwTzNuV0p2U09UWkVQMENCSmlicV9kaDVkTTRCRWpLYWVVUDZLckhsWEZiQ1R1b0R2LUtvSkdOT0hFVTVHMnpSdW5pNDdqMHp6RU9pMTFqdlVGVGwwcWRoRmpPRUxQOUNFa25ITHAwb2duYjF2WkZIekNPOEZreHpB?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 05:58:06 GMT",
+        "source": "Moneycontrol.com"
+      },
+      {
+        "title": "Mangalam Industrial Finance - 10 penny stocks plunge up to 70% in three months. Do you own any?",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR3FfV3dyemNSelZ6bVZXYktpZkxlN1VZZkNIbVpaVTVVM0xaWDh6S0F6dnBaTFBRd3U5RnRkc191X3VzMzUyTjdfcms2MFRjenJTVWhRYk5IRHFjMmt1Um1WbXlEaXpoZ1YwVTcyWDU2ZHZwN3cwLUhlRUNfNVdjMDlFU3BhSFJXMmduUlBoQXdCSjFuM2h5cEQtYm15MUNaX2drY3g1bWk2THNhZXhHV0NabEczSnFNOG5FekJhUHNaQ1RxSk5ybW1MSUMtVE83NHZybDl0TEFoNkR5eU1pdUZIQUFXcXZrN3dvU2NNUzRjVEwyeW5lY3dkYV8xVDdO?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 07:24:18 GMT",
+        "source": "The Economic Times"
+      },
+      {
+        "title": "Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUjJnZFdBYXQ0cGRHX1dPUTZXMWRIemR3SXkzXzFuZWo5eE9Ea1ZNbkFXRnZFbVZIOVhvZWJsZUptYUUtc1IwOXlsbWl6MW1zZGg3LUExOXRtSFRQRnRqeGNjZ0pleHRSeUpUeU1JSU1tNkFQb3Vvd3dlMl9na2djZkJ2TGloMGlQd2p5NUlkQkVMY25xOGJzR3A3bzRxNVlwWGd1eHNydVkzZExReUdNU2I0NTlmaGpPcTd4aUJaQUhyTzhrMXlhdlZENXp4dmp5eTUwTFJ6UlEzSFpqNWQ1Mjd5eU9obGFzdF9NWU9ISlJUTmViaHFyQzQwekNSU1pJRHFrWkhQdFU?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 05:24:07 GMT",
+        "source": "Upstox"
+      },
       {
         "title": "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZ3RiTUhTdmJRYzZZUUZqVG81ZWI3c0pQRUcyUW5sdFdhMzNHdW53T1ZTblVxOC00YUNsbzBiUF83eF91YWZpWVlaLWY5YlhjRUV4dzVyWUtpZjFObzBVWVBiNmZLNmtRMnlIRFFVb0lBZnFFNlM3U3VtMU1vYTZNNHp5Uy1qQzBnZ2ZEOVhKaU0wSThsNnVELVo4dFhsWFFyWVhDaHFVOUtmWVlDQldJUTl4ZVZNbFBLVm9MS3hBWmRRUUJLLVdnS2lvdlpKSDdkaDl2eXBTRWcxMHdWYVhxQW1KWDFvQjhHNlZHeUEtck1ZSFI4MUdGalRzTFgyTkRpbFh5WWJqcXZ4dlFJMkVPctIBlgJBVV95cUxNa202ZkZSQjFObUJrclVTOXlMVHRkVjBBX1N1QVR4UktMM1FIVEVKMTh5bW5naW5WYXg1UUljMTNkNlVyRzF0N1BON3hBVGlEcUFrcWk1WkU0VFUwZ2NtWjZzbWV3cDZ1bzEwbnVldmZHMzcteDFVRkk4QkE5elN6b3pZZXQwWDBoNnMxb1pINE40Sm8xYzFVc1BkRThGX3ctakUyWm9TLUtnb0NibDZNOXhqT01OOVJMeGJ0eENoMnFTaVVocWp3M3VJNjV3SldidXRMbk5DWGZYdFZLXzNBYndTd242c3JfTEVEYk5Td05CbXR4bXg3Qy16VHBPWkVhQlJUUWpaTFNwV3oxUUI5MkhUeDA0UQ?oc=5",
@@ -110,28 +122,10 @@
         "source": "The Economic Times"
       },
       {
-        "title": "Nifty, Sensex see nearly 2 pc gain amid renewed FII buying, easing bond yields",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0hsR2lCMmtveHlmemtBWGNUZi15anRVSW5VVUV0VGtlV0JIaEx1VVJpRGVKOVFOTDh4OFE1eWY2MHVMRVZ6dVdHZkI5cmxySTdqZ2tMd3pFa09KR01qd3RReTM1MWhELWNnWEFtM2Itd0hlTF9ZVFJJallFNlRpMGNsRjB4UWRXSXFPYXdlWXJYQldKVlNncnpQRXRnRVk3UmNJOW1JSWVKTTRqTDJfd2FEenVWVVVSeVR6SnNUeDM2c0ZpT1dPTEh3M21QQVVmeFNFTi03eHNlNDlFcEg0V0k2b1hwaTjSAewBQVVfeXFMTWlsTUhDNjBpTkM0NlM3OVdYYzNLUDVCaFN3N1A5S2ZNaHZjNjBSSGExck5EaWg5bGEtcjNFWWUxNHcxMTYxRi0zOGN2NzFEVmFOYUx5MnIxVGlDRFJvcXhmdTJ3ZFFKd29mX1dSdlFESDVPTXMwRzVWejJOQnp0bklsd2xnS3RkYm9XdEpuWjFpN3QtS3pFMEpiU2tnbzBhc0F6RjJSZUsydzJPLWJMYktRclNWdlk0TWVqSlVLN3lSc1FvRTVUbzJLS1lCOF9rYklXU211QnlKc3JiS0VYX3VxN25oV3laVFY0dHE?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 06:49:53 GMT",
-        "source": "bfsi.economictimes.indiatimes.com"
-      },
-      {
         "title": "India-born financial journalist rings closing bell of London Stock Exchange",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUE1Mb0FxVGZqdkxSNjY3MFU5UXh4cGx6NVdDLWNJai1VRU9rOXBRUmcyWVZoZl84VVpLTUh3dnROZl9uZVAzSmNTczBFejJwbURGTm10UFB2a3FqUkswZkhqdHFtekxmcTVHUGc2Q1phTUtoejNlYWQ4WWp4YmNEaDRBRE1VRk80THYyY2NSWGU4UmZZaktDSC1uLTh5ZnBhTkhmMUc5RDFPMFFoXzN3OFdPaXZ3Mm0ta3N3aGtZTWtvYWRmVXBQMklZTkhuZTZMMzktSVpOY9IB3gFBVV95cUxQTlVUdWlNY3RSTk9nV21CM1hKWl8wSXRSR2xqbmJjN1psM2pVVXhZc29NMEtGdmVEVEZNWVJERXp2Sm1MSHlkTzNfaGdLSUY0QkZIcEtnbHJmeDVtb05LMFpEN2hUQTZNRGRyQTJodFZmcE9aTENmbDktTm1uS3B0czk5eWV0eTRkRFZmeW5ucHdyV3BtZXJoSE5xMUJZcUsyd0FEenl3T2ZjMWRkMTJlSUxRV0Rac1dPS18zVF9WMVp0TUZLU0k0VkFRbVM3LVpJaXRNWVpmbGNzRm1oRWc?oc=5",
         "pubDate": "Sat, 31 Oct 2026 09:18:54 GMT",
         "source": "BusinessLine"
-      },
-      {
-        "title": "Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUhVNzNkY2xCWmQxM3lRRHJHcE4ybVlOUFF3WUZncExvT2YyTmlCbGlxcE5fdnZrWEhGSmpXY09DWkhIYW1Qa09ieE5hd3g3WTBFa1MtZkdQUldoaEJzSTBGM0pUdVFqWHZJSEcwa21MbmxaWGNYc0xMTWxoYzJxZko4TWg2ZWc1Zk5FZ051eUQ3eFduWU9SUm41aHFySEFFYlRvVnZ3bDVibkV6UXZOYzVWR0M2RTg1bmpQeDZmTzIzanpZYVZpaUltWFRTLVd1VEVwckRGSHpfUEY2SUE?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 06:23:22 GMT",
-        "source": "Upstox"
-      },
-      {
-        "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFdZck5uMHBPeFdidVJCbkE1MjVQLWhra0Q2M2VWYmYyY1VpRXV5Y0VxSmd3TzdFclVlVTlzVGhjcmtkbEVjYVNQLXhzNXRiV1l2UGdEUjFlNnVlb05BTEhJSkJveFhtQkRFb0taUnFTcGMycE5CRGZCYVZEamt1VzVVY1JiNUlnLWdlVVg3aGNUMklxOTlnVHhOWVZrbkpma1Vvd29CVkNjMlN4OG91R1hwLWQzMHFwX3FPRThvMi02aEpQWHF5MDZKVlMtUdIB0wFBVV95cUxQQVVfVUlfMWIwTVViVG1SNkQ4WlVFSE5uMFNndHpZbjJKbklZX0c5a0ZHN3RhWnhKUGRqZ3BqdzI4MnVZSVE2dE9iLTkwNnAxVThtb0lwdExzUldBc0FRVUtGUFhyLWdTNnpyV2cwOVF4Wmh0YUpPem5EVUs5UXh4NTI5czJnV1hqazlhNzliVHA2cExfbTBBR0Y0Q2pCUUVZejA1MVc2RXZ2cG5TbjlNcWhDLW1wS2g4QzZoOXlUQW5zVmRZbmZhN19WVXRLLTZ4Si0w?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 16:47:36 GMT",
-        "source": "Business Standard"
       },
       {
         "title": "Best stocks to buy under ₹100: Sumeet Bagadia recommends 3 shares to buy — SJVN, NHPC, Bank of Maharashtra | Targets",
@@ -140,10 +134,10 @@
         "source": "Livemint"
       },
       {
-        "title": "Nifty reclaims 23,000 as FIIs turn net buyers; rupee ends unchanged",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjhjeW5FXzVaM1lkNGdBN3BmMC1DZXN3eHFkQ1Zxc1V1akN2R0haX2lZQUtzYUszN1V3REZGREN1a0lPc0xJdVJqN1ZMOUpGVUtTOHQyaHlPVC1obE9jdnBzUUdOU2FadWZrVVVsZXVMbDVBY1dWYy1Ic1A3QzREbFpOa3gyMGRqWTZLdDFmSTY5RzBZRWhZS2RCY0NfTl9tVmhPZlk5aEk0b05hT3JSRlBBNDdFQlNYd3VTLV82WDNKMmhvU3Bqa0NkdnNfLXdWTHFLMWlxeXFDd9IB2gFBVV95cUxQMjhjeW5FXzVaM1lkNGdBN3BmMC1DZXN3eHFkQ1Zxc1V1akN2R0haX2lZQUtzYUszN1V3REZGREN1a0lPc0xJdVJqN1ZMOUpGVUtTOHQyaHlPVC1obE9jdnBzUUdOU2FadWZrVVVsZXVMbDVBY1dWYy1Ic1A3QzREbFpOa3gyMGRqWTZLdDFmSTY5RzBZRWhZS2RCY0NfTl9tVmhPZlk5aEk0b05hT3JSRlBBNDdFQlNYd3VTLV82WDNKMmhvU3Bqa0NkdnNfLXdWTHFLMWlxeXFDdw?oc=5",
-        "pubDate": "Sat, 31 Oct 2026 02:51:05 GMT",
-        "source": "Moneycontrol.com"
+        "title": "Anuh Pharma (NSE:ANUHPHR): Did It Publish Q2 FY27 Financial Results in Newspapers?",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDVtblR6Z0N5dlFENUMwbVBDSzB3MllOOFVITEZwd1VzVnh2b1dkLTd1VGtYdnY3ZU5ieG1WWXRpaXNwQk8wajBwemo2M1N2RVJlbWlTQ3dzd1ZMa1dTcUw4QUJIaEFwX002N0hYMFBxTmQ2aHdYb1J2Q0VNOVFybTJDZlBFS1h1T2Z5OVNIaEk4bU90ekdncFNVVkFhU2FoVUdhYlkyajFwZkpCVzViRUducnJXbGZiOFdhb1FkVUJiQTQ?oc=5",
+        "pubDate": "Sun, 01 Nov 2026 07:05:00 GMT",
+        "source": "Kalkine India"
       }
     ]
   }
