@@ -1,13 +1,37 @@
 {
   "date": "November 08, 2026",
-  "timestamp": "04:28 PM IST",
+  "timestamp": "10:26 PM IST",
   "sections": {
     "world": [
+      {
+        "title": "India joins 24 countries in global initiative on 6G technology",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 14:39:25 GMT",
+        "source": "News On AIR"
+      },
+      {
+        "title": "India Plans World's Highest Railway Station In Rs 1.3 Lakh Crore Project, Beating China",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkczbzI1UU1aTU93WDZ5cVhNSTZRRTUwNkRsR1hvYXRNVVNoblA0TDZkbHk4VEN3anBUR240NDZ2Ymdhcm9zTFpVNDEzUnFZWjFYOFY1RGNhX1hPV1dCSzFGNG1qb2lDMGExUE9uVzl0TlFHUjRQcHBPcDdtUFFtS29RdHdLSUJRbVA1V1lzZHN2UXpxZFVSSUY0S0FTVFpLQmUzUlZjelNaR2ZqdTlCNm1KemtSSXoxT1E4RWdIZzZ2QXdvMUhHb29XcEVLLTVnM1pYTFN30gHeAUFVX3lxTE1IVm90aV9WdVIwMHI5eWhrVkdaY2c4Mll4bUtodVo3c0pYbm9kMFNDczJfOWRIU29rQWtGRTJBR2xVTUJaVWp6MHVfQXhTQjFYaGdkSUpVMlBnX0E4U29WQ05wX0dMeE9pb2czZXNXd0JJVEZxakp5d2ZDMm9CYWQwNXpqbG9HbXEtX0RDMkplWnUwWG1QWC05bzUxczgwVkpuN0RQMl9oNDAtTXNxNm9waUo0VUJUbTBTdHVvWGxDMDRwY0pJLXpseGhmbFVQeHJyb0JqUEZFUnFwZHBMZw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 11:01:50 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFFYRVBiNW9yb2F6S0pEQU94V3A4RkxaY0k0bHlMeDBTWmt5MzJKbmNKaVBabllMNnE1LU5lcGhoV0lUTk1LbVVYaWk0LWhETDRpdDAwN01wQzZXTDhRS1cxYlZkd0E1MHEzZXp0dXFfYkh5X01HS1YxTnp4UF9XcmZic19iVWUtdEpuYTlqVE5ZOVY2eW9fRGlFSzZIT0JKWE0wbmlfM1ItY0xYeTFiOVdQQ3PSAboBQVVfeXFMUEpHTzBHOFZFeDA3YXhSRmVIckRaelc4REZkQ2w3OW1uanlZcUo2NTZqbEc0WnhKYkcxZVQ2UXd2QXpnbUJabkM2UUIzeUgybkhSYlR2Tk5TRUVnQlVJNEt3aHY5TTNvdnkxQ1Vsdl9SdVpGN3NadUxDZWJtYTFzdk5sLWdGWk9QV0dwWWo0X2Jtd1BlN3hsV21hbkVGb2Q4Ukx3SU02MGp2eDAwZVd2WkFGc0Fwd3NoaHRR?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 09:02:36 GMT",
+        "source": "Al Jazeera"
+      },
       {
         "title": "'From India to Pakistan, everyone invited': Anant Singh on daughter's grand wedding",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkF6WVdxbERqNTVTUGZ5VVBVNlFYRGVJTkRvM1poV1haR3ZwOENyNnpkSTdOQUxIeUFBWGdETGlIb2tTYllMRjBnc3FLYmhFaDFoak1fWG5yRm1xLTVDalZLYTlKVDZZTjBvZGhGeUQxeU1HdGRmcl9ZcVZDVE1vbndWQ3VVWWkxM3B1MTF0aEZGR2UxbmdnRTZqQlU5dGp3YVZMRzFsMzVUcklURkJrSlRPSHlzVUZtLVF6cjE3ZXhuY3lUdUdrMzVibnc4ZE9WLV9oeVotQVVBVTlpSE5R0gHkAUFVX3lxTFBDVHNMb0ZyVlExT3ZubVdoWWlpWkpwYjZGWEdsTGdwaFhlWTdrQWhGbmowcFRReWNVd0ZjbkVEanE4Z2NSR3BVMURId2o5YkhINERVcThVNlY3Y3RZUlRfbk5IV2J2WDhVa0tUVXNaS1ZpX3VNbG1YSkF6aVI3VmtlV1U1a3VTUjIzWjVFYU55QkphNGNQRTIyLVktM21zZjFQdGwtTXk4dnBnM2NVamhFMGpaT0t5aU9UZVJMVVlxNnpEQmRtY1JXbEdJWXNxR2lCME9GeGZLaVYtZXZWOXNSN01tNw?oc=5",
         "pubDate": "Sun, 08 Nov 2026 08:36:00 GMT",
         "source": "The Times of India"
+      },
+      {
+        "title": "IM Anuj Shrivatri Becomes India's 100th Grandmaster",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGQ3paYU1FYVFVWnUzaVM3QXROZWEzUDdsNFZRM3VZY1BsSWV4RUVENC1Rb3k5RUpVZ2Y1Z2MtQTJEbUU2b0EtUE5uaEt6UXc5dGpnVmRRUmxILUZ0bkJaT0JadUh6RlY0cWhWaFQ0Ylh5bk9wNW5DRGw1bk1Tdw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 13:01:49 GMT",
+        "source": "ChessBase India"
       },
       {
         "title": "Oil India Limited In Assam Suspends 4 Officials After 3 Killed In Fire",
@@ -16,40 +40,16 @@
         "source": "NDTV"
       },
       {
-        "title": "India Emerges as Third-Largest Arms Exporter to Europe: Defence Secretary",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1k4UzY5a3RHV01oMGw3YnN5eUktYVNFVWNjTUdGSERsT0hGLXBNX1dPdV9iNmV2M2R5WVZpRWFTYWdfNjdyUTl6UTNWWUdhOS04b1E3WldKbWp5QjlOVV9iN3BkMmMyWG5PNkwxZG8xVFRxTDJUM2RMdEtQMUxjUTZBcE14WUp3TmZlWkhfTkJiX1liWXV2VXdaZThCUGs?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 09:57:08 GMT",
+        "title": "India suffer three-wicket defeat to Pakistan in Under-19 Asia Cup",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTzFRMzRONWFLanlMTS03NGd3eWpTX09WeFdVaFNLVmtEdFlnUUtBV3F1QlZKSjQ3RVQ4dHhTME1DUFAxMll4eDZ4RXdMd0VEQlhSM0UxNFFnbnNtNm5raHNzV0otSmtsSTZYeG1GYUh1Rm9oSDA2MkNmNldhTXZxdUNfams4M0ZNMC1BVGlBMmZSNlliLWc?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 16:07:41 GMT",
         "source": "News On AIR"
       },
       {
-        "title": "Bangladesh Law Minister calls Hasina ‘convicted criminal’, says extradition request sent to India",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWmpDRXVnZkI4eFl2TktIblZmMEIwWTVsOENfQTJzN2laUGJkVUZ5NUlBUWVRY3BpZ0xLWlhXekJkX1pOQVVuWk9wdEd2M0MzbVpKUFU0RElKb2xDN0xhUjBXMHE1a1VBU0ZiRUlfN1dxVHpZMEtTVW54OXhNdHpjUHpxVVFuamE5RW5FRXdIeGdMcjNhSDVkMlI1WHA5cGU4UENwY0FtNkcyUjBPSnN4bFlkU1czSWRORUd2WWd3NEVoVnZnQzVoOG1zd3hiNzNvSXl0WGdkMDBvRUlxRW5jS09YVWtTS2FhNV91Smd3NNIB9gFBVV95cUxOR3FqUlpGZGZocFRmaVpKc2VkMHNNX2RvNzZYTHViZENiZ0NzT2xLUmdfeGZTT2Q0YTMtLTQ5cDU4X1ZoLURDdUV0SlR1N3hwUUxlUlFLV09Lem5mYkdtV1hCSUppb29Od1BsZzVaMXlzRnFnM1U1TlF0S040UFRFSnVDNGZCS2xPWU95bzB2OFBpVGxodHhNTDF3ZFNXU0lzTF9DV190N1luay1VUGVPUm1WY1M3LTFXUjhhZlhmRVRybms2WGJGTnZJN1dqYmVSeVF2RE9KVEpMNzdfVl9tRVU2N0VjR1ZNSGhTbW5XWEt1RDVyeXc?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 09:23:29 GMT",
-        "source": "The Hindu"
-      },
-      {
-        "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 12:50:38 GMT",
-        "source": "DW.com"
-      },
-      {
-        "title": "First Diwali With Every District Free From Naxalism: PM Modi",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmJiQ1NyUjNUZ1Zya3ZOVndfS25CUzlXaHVXVmxwaDhEeFM3TzRhMVlFMTQxbGNZYnRhdl9IVUVsWE14YzBUX3N5bDBnOThFNVI4aG94dC1DRXUzamhLTFRZVzlMc1g0ZWVQbjJhQ3pYTmgybktram5MS3R0X180SGozWS03SFZzeE91aC02TlJ6UnhmcGtFeFBwTEhuQ2hoMmfSAaoBQVVfeXFMTTdWOE5ybW1rWDQ0LVJ5c1loTDZ6ZzM2dFJuakVSOEpiUW9KZXEzYTZhc3pHaFRCcl8wdGhGZmdPQ0htRlB4ckkyNDBLdTJVWnNmbk1JZmlGcGJmRlZId0lwcVNLYlIyMHhuYXpxeFpwbUwxdHU3NnVvVnltajRJR0VLazhJcG5TOXZTOHN2S19UZVhackJSRko4amxyUUMzd1hyNlQ4RXR5UEE?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 07:23:02 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "Dangerous harmonies: Is there a hidden villain in India’s devastating electrical fires?",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclJaejRTZktITWFnalZTVVNuUzdlVkNSM3dUaWktenJNemxKTG12a0tpM2J3dGwyTlRldkdvVGlkWWFPYzZJNnd5dWg4TGVDd3VYNXpRNmktTHoyR2l6UVRfeFpuMHZ0Q1QxQzRDOUJ6U05oNVd3RjNHdk1zQjBJVV9UMzRSVWpBR2V4dEZ2VXFXNmFfX3FHbFlCSlA2VE1HQ3o5NE1Rd0RIaXdER0NCd091LWVVMlJ1X0o1dTlzUWlSMzNQaE1YOXRQRmpxd0hHa0NleHItaHUtbnfSAeIBQVVfeXFMTmw2RmNXbTBGOEVDSm1zWjJrVHBCcUxGU3ZMZzNMYVFDaUhjcE8zUWh5dkE3dVBGcFVJZUhpQnhWeG1ELTVWS3pHSm9qejduNHhaVjlhM3BsdllCNkVSaHlzLVVwX181clJ1OU1hQTA0d01VS3Rqc2xZTUh5RGw0YmU1RUtRbzZNbGFvNWFUdGx0YnZJTjdiQUxCZzZqWUtNRVdGaEtjMUY1a2l6S0Q5MzRpb0Z4b3ZYRjhmR0R3UVFOTGZjbjZvYXprbW43Z01CT3JlMGdiRVR1UGlkZTY1aXVsdw?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 08:38:35 GMT",
-        "source": "The Hindu"
-      },
-      {
-        "title": "India’s Media & Entertainment Sector Hits ₹2.78 Trillion, Digital Media Crosses ₹1 Trillion: Minister Ashish Shelar",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWNQSE9iNkw3bldMbkp6MEM2T0YyeVlOX1diZU9JdjZVZFpwMXNTemp3dXFqaW9iX3VwdTJvT3BsQ1pXWnI4ZGs3VlMzZzRMeEF1VG83SGVZVHlrSnVYLU1WcWhlcmNzRlNUWFhXaFdyUzRUaVQzN2RCX3lOTFZ6b0xHUzgtQUJfTnhvQllmM3gxQWF4c05vd1I4NjdsaGFmcnlQR2lNdTUtYVlQVm9JLVBKVTdnMWZuaElFSWphZm1yUGZOZHBVZkxmeExENGk2eWtwTEt2S1VhcjNIMG1PcnBsYmdWcmc?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 01:35:21 GMT",
-        "source": "News On AIR"
+        "title": "Anuj Shrivatri creates history, becomes India’s 100th Grandmaster",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0lpdHRHWnpRYmEzbUpUU2xudEMwSVN6OFFDVXozVmFiTkFnVVlEeGg1bTdkUW4yVE1NbTlEc1FPUVkxMjdjbmhzRks4X3pucHlaNnlsVlo0T1pxMVk4eUtTSElGWFJHSHVwektOc2JmOWREMTNnSHRsb0pFUjNBSnBSaGd6VDY2MXFlc29MUUFFQk1TNDc4alctYzRWeUl0eGphS3hIMmdab3JOSHdRZmRtblE0UVZVWFcw0gHCAUFVX3lxTFBMMEwybjh4Z0JqWDUzQ19hUUV0WmFDOUhJUENtYnpNSUN2MzRLRVd1STFIYzdCZ0ZGVjJERUs1U19rcmRuRW5nbHZkbjdIM2VQeDR3U3FKNWROU3M5UGFnQmtFWmtUajZBODFZeXJjVkQ0QW0yUUxaeEw5aGN5MXlmV3JoalRQcTI1S3pTM0IxUVYtZm43Ymw4b2xubGd2NDUtdFU4TlQ3NXkzU19hdGpDd2lTU2FIdk5oLWRZV1VNZGl3?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 14:55:40 GMT",
+        "source": "The Indian Express"
       }
     ],
     "ai": [
@@ -66,22 +66,16 @@
         "source": "Pasquale Pillitteri"
       },
       {
-        "title": "AMD confirms it is a data center first company as gaming revenue falls 40%",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFotUmhLanUtTW5QS25YVkM3LUJhU3dJSXBXQ1E5VlZmM0poVW5RcGZTU3Zrd0l5SldxOFJJdHhZMEtFcXRGVkRXZnNlaGVQUHZlRld6b21nT1JqMDNnczIwVWpMbFR6c1hDTTZ3a2kzTWx4aTBSdU1aMkNHVWZQZWhXeTMwWE0?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 12:57:48 GMT",
-        "source": "Pasquale Pillitteri"
+        "title": "I replaced Gemini and ChatGPT on my phone with my gaming PC’s 26B model, and the app that does it is free",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcHotSTRNTTJBSHRDMDctWlMtc3o1UkZScVh6Y2JfdXhnVkl6cVJTOHhVVzRKN29CRVVQRGFFZDM4UHVGSjF6aURWRDdhQzRzd2RJSXBJOHRTZjlmNTVFME9YZnZ2X21vNnQtbFVVYU16eFA3LTduWHVlWGZPS0RoUi1oX0dOMnk3a3c5OVJ1RUVGRGVpcUxzekxzbXg5dUhvUmJ2OUxKcGtIcE1aNHFNWk9rV2lwZEVlUXI4MUF3ZDN0NzNuclpPSS1nelYzMmwz?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 11:00:20 GMT",
+        "source": "XDA"
       },
       {
-        "title": "GLM 5.5: Why It Never Shipped and What Comes Next",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93VUo2SU45Wnc0RXc0OGVSSzRZWGFXaXlHdjg3ZktkSFFBMks0RFpIX1pITW8xa0ZDY3UzZUdObXlDZw?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 03:11:38 GMT",
-        "source": "Fello AI"
-      },
-      {
-        "title": "Leaked Bell Model May Equip ChatGPT 6.2 with 10 Trillion Parameters",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9waHdmbGJUWHRrbUh6aWhJU1c1UHczMVRPcHRZdDZLa0lVRlRWR1pLZmtWZmRmb3ZmeW8zT0FlSHBJZXVFWTgyZjdBcjRpYlJpbHdVVG5KTW1PXzlmRGhIb1ln?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 11:01:58 GMT",
-        "source": "Geeky Gadgets"
+        "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbE10al91Y05oVlY5cF82a2gyaUNUVVN2NWtQU3U2TzV3eTFiOFRaM292elBuU191eFR1a201dFl2VzlJZFlFMU1oN3pKalU2bXA1RFBQRDhaTFNhenZFQkVDMW84THdOR3FndEN1R2h3X3gtMXZYS2d5S1VGcHdseUZLa0U3SktGMmExdDF1bjdsbEdxNDNRRUliUzVWX21iMWQ3WXlDd9IBpwFBVV95cUxQbE10al91Y05oVlY5cF82a2gyaUNUVVN2NWtQU3U2TzV3eTFiOFRaM292elBuU191eFR1a201dFl2VzlJZFlFMU1oN3pKalU2bXA1RFBQRDhaTFNhenZFQkVDMW84THdOR3FndEN1R2h3X3gtMXZYS2d5S1VGcHdseUZLa0U3SktGMmExdDF1bjdsbEdxNDNRRUliUzVWX21iMWQ3WXlDdw?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 10:46:18 GMT",
+        "source": "MarkTechPost"
       }
     ],
     "markets": [
@@ -92,16 +86,10 @@
         "source": "Yahoo Finance Singapore"
       },
       {
-        "title": "INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeUVHdTFQTm14bW5VMU1Fc3dSV3NWYXNscUNWM0YzelRRNEZwR1BIbDR4N0pfZ0FHcnBDQ1RoanFqcTZpdDRIZXd1UkMxYVMwME5RVklOV1FERzY3aUY1dUgxOW90U0p6ZDQ5TTF3?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 08:41:38 GMT",
-        "source": "Moneycontrol.com"
-      },
-      {
-        "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3IyQTFQMUNEMXJmc01QTU1GQlZLLU4tOU5GOWY2RWNPdHVPSUZPcUNOVUlwNkdzM0lwMFExVVZrR2JURWh3MzlpNjlxbkN0QThlV1JscjlZSnlKcjMxSEdLbk9XcG9Mbl9XT0l2azRXZFB5UFlFVDJwVXlJZjhvakRTU092bnZnbUh3djdXTWdOYXUxczVSWjFPWWdGR0o2dEZCRVVKTnVHTmZRTU03Vmg2UkRpZk5TS0hvRjNFNy1DTG5xNnpDZzF2VXpnVkh6Q1FVb0hRSE8ySzRidmtFZ00xZ1dvb0cxcG13NzhlT0FmUXJkZW5WeA?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 09:45:00 GMT",
-        "source": "The Economic Times"
+        "title": "Bajaj Housing Finance Ltd Share Price, Stock Price - NSE/BSE Live",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hem9hWG1TOGZWcGN3S0ZTcHlhM0l5QkpCdnM4MlJmbHRBVTEzaXBXUTNhaUhUT2pXOTNEdXBkOXJBZXhIM21ONGxGRmtTOWpFSVMyZkVjMFBCNUlqRzEyREFsd2FaTDRwaC1XT2R5WUF5OTVXZnhN?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 09:01:39 GMT",
+        "source": "NDTV Profit"
       },
       {
         "title": "Diwali Muhurat Trading 2026: NSE, BSE to open for special session today; check timings",
@@ -110,28 +98,34 @@
         "source": "CNBC TV18"
       },
       {
+        "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc3IyQTFQMUNEMXJmc01QTU1GQlZLLU4tOU5GOWY2RWNPdHVPSUZPcUNOVUlwNkdzM0lwMFExVVZrR2JURWh3MzlpNjlxbkN0QThlV1JscjlZSnlKcjMxSEdLbk9XcG9Mbl9XT0l2azRXZFB5UFlFVDJwVXlJZjhvakRTU092bnZnbUh3djdXTWdOYXUxczVSWjFPWWdGR0o2dEZCRVVKTnVHTmZRTU03Vmg2UkRpZk5TS0hvRjNFNy1DTG5xNnpDZzF2VXpnVkh6Q1FVb0hRSE8ySzRidmtFZ00xZ1dvb0cxcG13NzhlT0FmUXJkZW5WeA?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 09:45:00 GMT",
+        "source": "The Economic Times"
+      },
+      {
         "title": "Diwali Muhurat Trading 2026: Special Trading Session On BSE, NSE Today; Check Timings, Settlement Rules, Tips",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTG5faDAtc2w2NFcwVWtSeC12R2ExeE4tRC1ubFpyTzJpY2pTdGNiUUdJZUtvTGF3TFdvb3VocHNLdTNHMlUycEQxeFR6amxWQVJyS1dqbHV0bl9GMngzS1BHeS1mNkwwTThMRWRpR1JjeWhQY3BGNlg0dU5ZT0pTQ1JPcnhBX2hXUmJaMkMyWHkzTTZ2QTNYb1Vhakx4cVgwSnZaTERKRC1INVhTZjBORE90SEp5S3NCMXhKVk1KbHpLQTcxaFItbk8tTk1yVG0yMEJORlB5ZW9hQkhINlE?oc=5",
         "pubDate": "Sun, 08 Nov 2026 03:35:05 GMT",
         "source": "Goodreturns"
       },
       {
-        "title": "Share Market News: Nifty 50 Outlook & Prediction",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzhEN1RyYnhBb1hQSmZPdDRPUDlHT25idDJMR1hudUptYVR5UWNzSmZxaVZyTUFTLXpieGtNb1dUaFhMaHZxSktnR3Z3UHVSekJ2a2xHM3ItdXkxNTAwUjlpdjFHYVRVUloxbEU4SFpwV0V3N3Z4R0hIY1FveGQybWxlbG9ZT0pqZjZMRDhZX0dsdW5fdzN4eUJ3?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 16:21:45 GMT",
-        "source": "Liquide Blog"
+        "title": "Muhurat trading last 10 years data: Nifty 50, Bank Nifty, Sensex; what history tells amid Special Diwali session today",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUVBrUjdpRXYxU2FsSGVEeFRtMDU2LWIxb1JoSkVwZnpKMFdlUHJnLXViWnI0NE5mMWU3d1lYLU9ELTlqWWhCSkZtc1pOS1RSbFlpUnc3NG5Ka2F0MjJmd3Y3U1dhRHJfQTBKZUhMTnZDZ242eXdlYm9zeGgwa25LRTdubEl5clZsdlRjRG5SRS1sWk5lbkF1eDU1QkxhNDMzd0RSNTdCNzd6OER6NW1sWWVfMGMxdm40Nks0UFdoYk85QXVpOVc1YnJQZHByQXV2bmpfRHBzTW53UklOYlNNdmhIZFQ0Tmo5cDM2eEFtSHFLcTFLV1RXTG9NZDRsdHMwQjI1UFhWMHV5QjFObFhWNUt30gGXAkFVX3lxTE1jM3FjOTAwWklmRFJ1aTBhZnF1SHRZSE04WmJyRC1ySG16ZXBhdHpQNzlReGxMT2tyalB0OE1tem5SWXhpZFhLTEJicFBILW1Sbmt6TU5hclZRcGRaeFR4TDhGOGtwMXZ4dlRSclNtR2REenhMNHV2U0hQemNBVjNsZE9OQ1BOdElYckdwWW02R1BNWkc3ajBVMGJJbVhVZW1sbWZuVUpKdG9WbmtJSEVENUpjU3FTLV9VVWFsb2x3N1NVMnU0SGRVZnR1VUQ3QTBLZlV2MUVoVVpHcXZSLUdFel9wbXJwTlROWjRMbnoxV1FVTWNsajNZMGFHV1VORjRUcDdTempJX3lKbVBxT0xsWHhUbEtmUQ?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 05:07:28 GMT",
+        "source": "Livemint"
       },
       {
-        "title": "Samvat to Samvat: Nifty ends lower, while pharma and metals shine",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTd6Umw3cW1ZVm50Z0VhWmdlUHBuT2Rja1FZQXg5MjVEcXZURWRybHh5RWdiWUNERTlmUjk1WjV3MFBNeThWeHNOUnExbmc0N1d1RC1zVGZ4RGpzNVVoWmgwNzl1a1VNN21XYzFWMTdVUmpNeGZTZkxzcXJRaDdCQTB6VjZaYVQ0ajdZaUk1VU5ISlFMLWhmcFhHUm5jeWk2ZWdPalZvbVo2UkJDX3dScXRURUPSAboBQVVfeXFMTUtPMjRUMXluQ0EzWWQ1bml4V2U0eGprVnROTThuOU1PM3hxNHNDR24wVzVZc0FMc2wyVXpEb3phLUhERFlQTzY2TW9ueWxCYkNZOG1oRFJ4azN0b05hZEtqRkc1andqeVNSWVJJZHphY1owOVJTenZabkNURUdTSjRMdWc4LXFNRHlJLVdGNk5aY3VHNGhMMDhwOFA2UG5lMGRtcVpoN1dYVHNrWklEM043RzNuMnRJNXR3?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 12:20:09 GMT",
+        "title": "VECTRAS ENPROCON LTD. Fact Sheet, VECTRAS ENPROCON LTD. Financial Results",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSW5qcVFTNnhxTTVMb3FsczF1bG03YjA5T3V1bTJlY1kyT212RzN1M3FLdHZ4c2lRamd5YkVycHhZQVlTV050NUl5VElWU19kbTY5ay1lVjFZZy1sd3pGM2kxOGwzUXoyanZXb09VaU9CQnR4MEc5RjZQWjJWdFZEZndXcTVsb3pKQ3dpVlk4QlU3N09OM19iU3loU1hZUnAzRENzMEpnanRGanJn?oc=5",
+        "pubDate": "Sat, 07 Nov 2026 21:22:30 GMT",
+        "source": "Equitymaster"
+      },
+      {
+        "title": "BSE sees more room for market growth as strong GDP and policy support boost confidence",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUdYZDhmRWxNY0dwRVpkNWhYTndIYXhOVE9QRzg0aUFCRWNGaVZnRzZ6ZlhtWllVT2c5M0RwQldRZHhvMF9sWk5Zc0JtVFNOWkN5R20yNFA2OEpuS1VLYmhaRVBnZjloeFcxRHlKTkVuTW83aWtVMndGcDdpX094VnpVU3g3d1pTWFJPZHBaYTgwOFZQZGUtcEVnRUl0ZWM5MmFySnNkcUJkNVdLUzhBWkxoRUJqWFc4VUJMUU9pVS1fNzlP0gHKAUFVX3lxTE1kQV91ME9GV0RWVWdmOGdxb0RzRE1qaVNxSGtseHFrdVZKejYyODUySW95ZmZUZ011RjlVOTJmU2ExT184eUtKZWQtbnJ4clFwOEQtYUpuZmdaMVJjQjc1V2Q5YlQtSElGYXNXRlUwaGVIcWtGSjViY2ROODc1VnBmVXVaaktpYjlYVGN2alZJellOc01FRTRDSDRpcERvb0RPeTZyVDlPYVlHMTVlZzJaZTZ0el9sc05BT3Bkem42OW1SUm00NDJHZ0E?oc=5",
+        "pubDate": "Sun, 08 Nov 2026 10:32:16 GMT",
         "source": "CNBC TV18"
-      },
-      {
-        "title": "Muhurat Trading 2026: Which stocks to buy during special session today? Analysts list top technical picks",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOanRZNWNrWjA5OHJYMllpQW4zN1BIdktlUGVqeE9ETjh0aHpuSXFpc2ZmZUJvaElaOXhiOVZ3ZDc1T19YNWtEX1E5Um5fVThZcUJ4SktFLUxkRnV6OGhnTlFvVE8wWXc0Q3ZFZFd6cVpKcHluZ2pjalpiVTZBbnNYZno2U21lZ2JjRFNuSkZpekpUSWs1X2p6UUF6dUNsbVlTbGNtRFR4Qk5DN3oyODZhQmpfZmROd0Flcld5TnAteFRBS05EbnNqTmdkNGw2cnV3YmZDYmROb01GNFQxTlRLOEdod1hBamJIaVJDclNhRHNPRWZ2emxIdzI3UUlTdEY5cEdSRW9tSkrSAY4CQVVfeXFMTXBuNnVFZXhNdkMzTUQ3RlVkamJ3T3o3ckFwQmRWZ29rTTlMQzV4UzNUWFkyTTNKUlFOb1lMeVlJbmZmR09ESnJRZ3FFR0JkWXA5enRVSE94NmtMaWtEYWtER2dlb2ZIa2hJak1fOEs3aXRKZ25QM0RPSUxmQXJjQnpvdkpleVNUSjFlVjRHZnZvbUdGUUxnNmpfZi1nUUVJSFM0TW5vclNzWUFIRlpZaWhzQVhDU1p6ZWJCQV9Eb0tCeEIxeHk4ZFR5aGhFNGpwM3dRWWFnYnFDdE42YzljcUlMOHhRVERjSXR4T1kwTGhJeENUdm5yZDZ1RTdGMVg2b1dZWW82Tm1HQkRpVlVR?oc=5",
-        "pubDate": "Sun, 08 Nov 2026 05:29:34 GMT",
-        "source": "The Economic Times"
       }
     ]
   }
