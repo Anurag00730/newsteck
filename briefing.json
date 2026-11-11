@@ -1,38 +1,8 @@
 {
   "date": "November 11, 2026",
-  "timestamp": "03:40 PM IST",
+  "timestamp": "11:46 PM IST",
   "sections": {
     "world": [
-      {
-        "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEVSOW9pWnFvSnlkNE9YYnV5X05DYlhSM09MSDAzVXNmWDlFaDdhbWx5bmE3UDVTaVNNcWNoR0hwTm91Y0V5RG1wejZZcnhLemw3R2lZQUVHNjJIa0VVVkVnUE9CY3E1dkw2OEJxenBubkJnN1FFM3FUT3VfeV9JZkdaWkliYXpWN0QxVlh3TnMtOTdOZkt2djdjbGdBbTJ2SlBnbzJMbGNycGY2dFRVcWJXbGt4dzlaR045NmZrVXgzdF9BWWFWUFdNY2Z4d0pDNTVMcjZKbndvMm9RSzRRaUJ1dDbSAesBQVVfeXFMUHRRY19BMHhhbUNwUThBci1GUGRBUFlIR1I5MVE1ZjRJVGQ4eUNpYUtBMURrdEYxRDFQSFhYNG5mMURLQVpVS1NzMGZwVmE5UW9vZlhZQU1PUERGX0xla05oU1Z2Z0xjVGE1MlpCSkxXbFMwVTZDSUc1ZzJqSU1GZGs5UTBwUDRsNjYzTUtJRm02N19NeC0wS0hzR2MyYmNHUXY5TlB4d1o3bXE0ZzZOZkI4NzFvcFRUN095SllCVUY4dlJXUlBXRzNudFA2bDEtZ0o3YzI0UXRpSjctNTlkTWJ5dXRrSERMcVJ2VQ?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 07:07:36 GMT",
-        "source": "The Hindu"
-      },
-      {
-        "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 00:26:02 GMT",
-        "source": "BBC"
-      },
-      {
-        "title": "Air India Flight Issues Hijack Alert Just Before Take-Off At Kolkata Airport",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JnUllzZDlKWWhzOThTQjZ5UmVoZU4tVlg1aFotNXdxcGRRR2hsRFJpNzJuMVhOeDlGdFJDM1hqY082QlB2UnVSUmJBNGpwcElRM01vcU9KOWF4UzRRZmhFbVF4T1BMcVJIcXF6aGZvOUxVSFJhZE1pRkgzUGJMRlY1ME9CSlV0SVZ5Q0JIb0cwX2FQdF9leDFoZy1SX1hEV3g5VnIydnpHa3A1YnBoYXZISWFFUzBV0gHAAUFVX3lxTE5mVEE1SjBTYUtYTUJNOThlcW5ocTRpdnVodVU1Vy1MQ3ZRVVJhWUJqd0tLYmFfYmF5WUlUYnNVY2tSbzMzWmoyb2N5Q3pVNV9OZEdZdDQ3MC1EY3o3czJLZ2hsZkQ5OTBYdjVwOWtRdGVUXzM5b081MzRSeU1LOWxVZnpLNWc4bmRZVFpteFpxOGZpUU12TFRwd1dtMHhjWjdEVEhmTGZodmRuX0Zpa3M0a0hvbk00ZlRhNEhRRS1ENQ?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 06:40:45 GMT",
-        "source": "NDTV"
-      },
-      {
-        "title": "EXCLUSIVE: India holds Pernod, Diageo Scotch shipments as investigators seek higher tariff",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dKQl9URVgwZzRNcjdPZWtXVDNPd1gyR2QxY3V2d294UWRqUm5CcnAxSm5hOXh6SjRyYzMzQ1ZCQXo3a1p3MW5Jck9NMEtabkRmMHpYU1lCeHp1cFNEOUlXRHItMnlOZnJleFdRbndsdkpQOXFleUJGQWVfWnlyMUtxak5TblhrLVUwQWktT2F1XzZuNjYxNHhhZENtcTlLcDFtRkNXR3luaU1CUldLUVNoRkhWZm1FT0xzSHZUQ2Q?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 06:38:00 GMT",
-        "source": "Reuters"
-      },
-      {
-        "title": "Hijack scare on Kolkata-Mumbai Air India flight, plane moved to isolation bay | India News",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONTRvb1ZMVzRnZjJqTFRod1MxYVVVdjVCSmJkeHdUZENSUFlwcUZDWTlaRFhLNjg0THBaY3VGcEhldGVQXzhiVWZydXZHWmNOTlVsMHJyNXRPSEoxNUNJcUVYbmhfeEw0TE0yTHphZWVpR0xMcF9sX1FBamx6QlBuNXo2NTB5ejctWlU0MmpXVko3enAtb1p0WXlPM3R6dC0ySWNrLVdLemE5RFlybWc1RnRDVlZpUnQ2S2VDVnEwTkdCd3N6RE80Qk9lelFSU3FJemw1bHUxVlBGWGdoa2ZHRXpvckdLZVljSmZxVDgwNFNGX1llMzgzRmpoaWdLa1Y4TGVV0gGIAkFVX3lxTFB5T2tyZ1FUTmVoSVFJWmpidnRoSUU5TWYxb2lvUE5OdnJJYi03N1VsSnRQNnBoazlGU3gtX3ZMVjI2X1R0aFFWSWtxT3FyV3B2cGFWejJyYi00TXAwajRtRzJsUlNESUp4SWtIalFRTERvU21xMkRJQUZrZk9XVW11S1JXUk9WOUhqUW01eGtPRTh3ZGl4dVJSWTJMOFd2cHVLa0RTNDJFZUxtQVBReDVMNXBkQnc3eU03emRTb25YSTRjY0RtbEpHUm9PS3lEbkRraEhIdHdrOTJzSC1MNTZjSGpfbFJjRmRWWlVmVlNRTVpNNDg1NHVXRXZJSTVEaXZKd1pCcU9zTA?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 06:48:23 GMT",
-        "source": "Hindustan Times"
-      },
       {
         "title": "How are Pakistan’s imports from India growing again despite tensions?",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5",
@@ -40,16 +10,46 @@
         "source": "Al Jazeera"
       },
       {
-        "title": "India urges developed nations to fulfil climate finance obligations",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazNRZFZpSDM0dHBqTFJyZ3hpV1oyb3ItM3Z0cVlnM0xZUENSb2RZU0R3ajk5OHQ4YTFvTUxSZlpPaVRMN1lKWE1qd3NCc2FueFEzVUhUeDRjVEpxZV82Q0dKQ01md0UxVm1peVhMQTl4N3Mwd2ctOTdob3RJNGdTYk1hNU9sZGRlRHJNWTJBX1c1MkRkTDFubQ?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 05:07:00 GMT",
+        "title": "1.48 Billion And Counting: Delhi Billboard Showing India's Population Goes Viral",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVloWkJNaTNaVDllODFTT0hRS0YwVmZZYzlsRWowNWI1Z1RObUF1dXI2TTFRRENLcVJJS2N1VnFnaEpsTVlYR0VkVkVtRGtSQUJfSzFYN19WUmdFWTh3eTFyTjlaWFkzS2o3bUhzVnlYcm5uaS1DYTcxbEtQY1N0UmZDbVVsc2p2M1l3ekotdGFiZVRJVzdlN3M1MGthamZNdlc2ejV6Q2ZKTVAyT25GMEFIeHJaUdIBvgFBVV95cUxPa0NfVnlQWHhiLWhiaXlEalU3dmdUTkFFRkpLV0l1dUhodDh1QThEdk4xVDlRTWFXRTUyODk0NzA5c0xoRHA4cHpHcFFwOEtlZzM5cTZaaC02RE1DUUhVQUNDSDluMTVzdUtVRUlpbkpkM2ROdWZWQkYzT2daeTRQcnlSUDB2SlB1Z29GQmVUcmI3ekd4UTdjS2hCeU1OQ25IamstMDBTQUtaT21NZDE1WWRUTVZWU1FyLUNnb213?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 12:01:16 GMT",
+        "source": "NDTV"
+      },
+      {
+        "title": "India Emerges as Third-Largest Arms Exporter to Europe: Defence Secretary",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1k4UzY5a3RHV01oMGw3YnN5eUktYVNFVWNjTUdGSERsT0hGLXBNX1dPdV9iNmV2M2R5WVZpRWFTYWdfNjdyUTl6UTNWWUdhOS04b1E3WldKbWp5QjlOVV9iN3BkMmMyWG5PNkwxZG8xVFRxTDJUM2RMdEtQMUxjUTZBcE14WUp3TmZlWkhfTkJiX1liWXV2VXdaZThCUGs?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 12:54:14 GMT",
         "source": "News On AIR"
       },
       {
-        "title": "Aaryavir in focus as India face Afghanistan in U-19 Asia Cup semifinal",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmRLdG03Q2RlUXVfVVh5MDdWZFI3NElzd25nLS1wM1VIeFFfV1lWWDFsMUNjWWxabmdWNFdKbjRiMXFhaXdMbnRhN1pSYlBUMGFrZlN3OVdmcGdRUGZBWWJybVk5am52SUtWNTd6Qkw5Z2lzcS1hWGJNM0x1NTZ5MGExZ1VnNnBEdXdEQVd5NXhMV2hFQUR0YTZfYko?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 09:18:43 GMT",
-        "source": "DD News"
+        "title": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 11:33:24 GMT",
+        "source": "BBC"
+      },
+      {
+        "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 15:18:00 GMT",
+        "source": "The Times of India"
+      },
+      {
+        "title": "Press Statement of Industries Minister Harshwardhan Chauhan issued from Shimla",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjNtTGY5aXBWdTM4NFlPbTNDV0Yxd0lSYy1ZMmNnMXZMX3dybGNhVjRodXQwNWV5S2swLXI1THpHcUdnQXdhX001aWNyRHR4b2RGZWhTVDdka0xzZFJrVWxYMEY4Xy1tbm90bkhMNnQ2a2dLWkxraUREbWx1X1d3UG9nMlJiVC0zY29iZ1FNVmNqVnBXNVNVTUZ2dVVQaWNuRlgwY3FKNUh6dUZKczZsRmRpb21EeXV4WEt2ZjhPS29CVy05U3NIMQ?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 14:21:15 GMT",
+        "source": ":: India News Calling ::"
+      },
+      {
+        "title": "2 SPO personnel missing after firing in J&K’s Kishtwar",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3ppSTlLVHlJYTRmY2pTcE1JSUc2b2ozdl82c1lrSnNyU1ZmRGVaMnExaGZDSm1yeXhWcEE5YUlVZk9kakhDNUl1ajRqalBIeEY3aFJUckhfeDFMRWphSEI0ejE5YmIxaW5tdVV3YUVXT1RvcTlQak01VGdxaUx0N3Y4WEpSM3lZV0xmN1BwdlpJNXBZc2FUbVA0bFFnYUJFOGhSSkQxU2rSAa8BQVVfeXFMTnBpYVpJcXpBYkdkTjJRTmNmQ2xtdFNVeTh1S0Y0NTZDLTJrUkNGWkp3V1N4Rl9VQjlQZ2plMURJc19zWWlzTjN0TUYwS0R4d0FlUFBSUWVWb3E4aEt6ZUp6R3hsMTNqUFp6c19fSmVtLU1tNmltZ3A5R2E3Si1lS0VWNEs5dENickEya2VnWlRMNE5yRWJnZmNQcXRaNlNVVElwZlNvM0NsMXNybXBvNA?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 16:59:42 GMT",
+        "source": "The Indian Express"
+      },
+      {
+        "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVNrX2N1TXc1dzN4UjZ6TkViYVBDdldjTFZWZW1Qc2Q0X2VLRk1oZFJmZmQxbGw2ODlRdm5yOGNBWmZ3NjFlMGxwUVM5dTZMRGtFQkpWcFZBSXh4MUlzZHBZVnRVb2dSODVZR3FVMkZtM1N3N2JBQUdDMXpoc2hKNUZ6X05Wd0swZTkySWppaE5hb3hUMnpIME1ISWdYRm9mTkJGblZB?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 11:15:16 GMT",
+        "source": "DW.com"
       }
     ],
     "ai": [
@@ -58,24 +58,6 @@
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOem4wSzloS0wtYlJHRy1nNFpwTEVLYnpaVUFyYm5vNUFMbEIzMFVPVWtJNVhiOXZObmg0OFRaLVNDQUpfVktFOE5YNGdZbmYyUWlEOHRxekMwS2ZRbHZDZ0FpeU13aHZsWXRqa1RvanNKWU5RdmZkbXRGcEZSdlpDbEJ0Z3NKRVlFYjlJeVhfejM0UWM5M0JuRmdxOG04dzNmTGNLNlR3MGVSSHg0d3dTcmhfdm10dDVCRVdLTkFVWnRUc2ZHNWlEZWJZYkIwelZrTmdsUlJmNnhSWUlVLUYybHB5TEhKMHhPYXVha09QOEVYV0FiWEhaaFdGMjBmTG5hN0NCeWtzdjd5X0FoWlln0gGPAkFVX3lxTE56bjBLOWhLTC1iUkdHLWc0WnBMRUtielpVQXJibm81QUxsQjMwVU9Va0k1WGI5dk5uaDQ4VFotU0NBSl9WS0U4Tlg0Z1luZjJRaUQ4dHF6QzBLZlFsdkNnQWl5TXdodmxZdGprVG9qc0pZTlF2ZmRtdEZwRlJ2WkNsQnRnc0pFWUViOUl5WF96MzRRYzkzQm5GZ3E4bTh3M2ZMY0s2VHcwZVJIeDR3d1NyaF92bXR0NUJFV0tOQVVadFRzZkc1aURlYlliQjB6VmtOZ2xSUmY2eFJZSVUtRjJscHlMSEoweE9hdWFrT1A4RVhXQWJYSFpoV0YyMGZMbmE3Q0J5a3N2N3lfQWhaWWc?oc=5",
         "pubDate": "Wed, 11 Nov 2026 05:30:00 GMT",
         "source": "The Economic Times"
-      },
-      {
-        "title": "Don't Want Your Data Used for AI Training? Here's How to Opt Out Across Apps and Devices",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEM4VUtRZUN2aU1pN0FYNEJzWmREU3BYVVpEYkNJbGlFZkhsZUYwWFlSX3JQLTNCcDd5emxtcjR3M0NLZnZjNEJGcm5wUTBhOEVqWVF1aGl0cmdoVDJ6Uk9tZjhHOXdqdC1CSDZtQVA1MHBhS0hYYzVOekkxaU41WmVVVVN2MjNPcDJnVTRISHNOVDk1R2JobnVGS0tyQ2FYQUh0RUJuNUNldVlRYVB1M0RB?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 12:25:00 GMT",
-        "source": "Digital Information World"
-      },
-      {
-        "title": "Salesforce And 2 More AI Stocks To Own",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFZNVUt4Z09XWi1pSUV4Q3YwN1dwSU1aMHEyZUpiN09OLXFZNTByU2swb3pwaHNGT2FoNkZaY0FzWXFOTnlsOFNKcmttV1VVV21wNU80VDRMTzQ0VExLVmZNY2VTZWpZQlBONnlHY3FnWktkLVM5Y2VWOURXSUIwbDFEVEVSUUlrY0FuQmp4bWF0YmtrejJUY0ppTVhOeUllWENNZ3Bkbw?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 00:47:46 GMT",
-        "source": "Simply Wall St"
-      },
-      {
-        "title": "AI App Hosting: Automattic Launches Spacefast So Claude and ChatGPT Can Publish Apps",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDRLSlFCdUdoUk03MHlyNTZNYkdJVk5QRFNEY1lFai05aFRGWjY1ZEk3ZGcwSjEzMmlmLUh2ZTB4alN1UWNJbjhWRUpYRnJFN3BCVVhJTXhCTllTWDFxdVN1eENYVEgtQlh1RVlINHZhWHpuc0NkYkVKbWVZaWp2RWc1Qkh4dThTZFltakQxYm10NHYwYUJwSGVUOGhiU2swQ2hyUUpsWFRUQWppOHZDNV8zQ1ZlQlAtNW5lM2RHaWJMUlNZaHduYzdGV2pVbzQ?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 10:58:31 GMT",
-        "source": "Tech Times"
       },
       {
         "title": "Best Chinese AI Models in 2026: Ranked and Compared",
@@ -90,16 +72,34 @@
         "source": "Stuff South Africa"
       },
       {
-        "title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzA2Wld0QkFFTkVjZGlIQ3JfdklNNS1SeUVIb21TMFlFZTc4ejB1UWZqN3FLT2FlWVhEeW5QOFM1STZCM0kxRE9lcERjRTY4ZjlDZFNLaVNiSDVZMDhMdjEwbUQ2WG9XeUZ5M2hBeENWaENUbE5tTE1tU2tBS0x5TV9Gak8wVUlMTmlqRl85SkQzSnJmMGd0T1JaelpWS3lvVWc?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 06:44:29 GMT",
-        "source": "The Motley Fool"
+        "title": "Salesforce And 2 More AI Stocks To Own",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFZNVUt4Z09XWi1pSUV4Q3YwN1dwSU1aMHEyZUpiN09OLXFZNTByU2swb3pwaHNGT2FoNkZaY0FzWXFOTnlsOFNKcmttV1VVV21wNU80VDRMTzQ0VExLVmZNY2VTZWpZQlBONnlHY3FnWktkLVM5Y2VWOURXSUIwbDFEVEVSUUlrY0FuQmp4bWF0YmtrejJUY0ppTVhOeUllWENNZ3Bkbw?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 00:47:46 GMT",
+        "source": "Simply Wall St"
       },
       {
-        "title": "LLM statistics 2026: Adoption, market growth, and trust data",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95ZVl0WFg1dlpfVEVFdmU4RTh6bmtHZG1obnl6RXczMnJGbkVuZ2ZXM19jamhsTjlKWU1MVUlPVDBqOGxfbDV6UzVRMFBmZUxaREU4LTFlSm9fUFljSndMNE5JeXI?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 11:26:30 GMT",
-        "source": "Hostinger"
+        "title": "What May Artificial Intelligence Do for Writers?",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 14:21:54 GMT",
+        "source": "Daily Nous"
+      },
+      {
+        "title": "Are AI Tools Improving Care in Safety-Net Health Care Systems?",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0c0TVpiX2VyZEZEeGNKTVljRURhUnFhUW5XbEpvd0dlR2tqYnk1R0xndFpnbFlJMGFnS0I1VXJmWGFWUWJEcGJtSkpUTGJGODFtRDBXRkJZM2VESWtxb3JRLVZSSkpJUlFrU3lQLTlKcnhNam5mODJRSFR2RU5TdmNDVzg1R0VVTThKdVdUN3Zjb29NSFlTX1Ztam11aWdfSlVzWnJoZFFYOEZheXFLSnlMQmswS0F1Njh1Ylp3TkFDM0FSRGc?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 12:00:00 GMT",
+        "source": "Commonwealth Fund"
+      },
+      {
+        "title": "OpenAI invites brands to set up shop in ChatGPT",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1lfeHRfQjY4QTNoUEZjcWtKMEh2ZF9yR25WNFgwei10WVJsUFc1VVM1LVZMZ3kxY2hKa2hwN19lV2lZNlE0ZEFYczdMZGZpYzZCSmpqYlROM0JramNYTktXbzBESHFOWS1LQ0hzNkRoanVHUUFpMEhITXNEU2duQUhkdTZRbTVUa0E?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 13:07:30 GMT",
+        "source": "The Rundown AI"
+      },
+      {
+        "title": "ByteDance said to prepare Muse-like agent in push to close AI gap",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tcTlFMFhVNXExbWp2YzhmXzJKM08zc1VBLUQwdWE3X254WmM2bXAycGJKWnFxaDFNQWhfdmI3M3pzNmJXRlpqUmluVXMzbDNRajlB?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 13:36:02 GMT",
+        "source": "The Edge Malaysia"
       }
     ],
     "markets": [
@@ -108,6 +108,12 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa2pzSm1LNGRjeVNmMFRaNGNua0NzNGROai1zdl9paTliZUNJRDFhZkhjMzRCQlBjb2p3bUpfOV9PSkotRkh6cWJJT1NHaklUblAxa2x1blBzbWFYZ2YxZ2pfMmN5X0Fla3drMHJkR2diemVhSG82ZXB6Y2E1dkhZX3pqNEhMb1Nnb1NLU2xvclU5ZXhCSDRrLXF4c3l0ZlRIZFA4dlVXS25zMGZ3d2lOdUJZdy0yMHoyWUVjaVJXQnVrT2xKVlJENnlnYm4tLWtMRS13WkFiQWdIanVVbXRUUFp3SkYxdVpHclpVTHExaw?oc=5",
         "pubDate": "Wed, 11 Nov 2026 04:51:03 GMT",
         "source": "Equitymaster"
+      },
+      {
+        "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGvSAdQBQVVfeXFMT0Rmc3AxQ2lhTG9zYmxZTTVVano3dmV6U3ljRkFaRko0Ykh6eEJrbEpYQjdfU2tsSWVEUWxMWXRmdHpLSkFGc2taSnk1d3BaVjNidV9xc2oyVUZHbV9BWmVad0tmdnpLa3lHOVgyTV9NZWZWbENqbllCLWdsSjg0dUROelgwT1pwVjdnR1JEN0dCMmRXRGd1LUowQm5EeUlaNlR3RHRkeXF4R0xFOUxMeENyaEFKbGJ2MUt6TlYzLVNKSGJiWVRYM0VHekdETERKeGZCWjY?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 04:08:27 GMT",
+        "source": "Business Standard"
       },
       {
         "title": "Stock Market Opening: Sensex jumps 1,000 points, Nifty above 25,300; all 30 Sensex stocks in green",
@@ -122,34 +128,28 @@
         "source": "Business Standard"
       },
       {
-        "title": "Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November | Full list",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSUVkUk1NUzhLcWF6bGVXU1A1bXNNY1MyRGxuVDRPdXRTbl9haXViRVYteUNUQy1XaXdBc2tySVl0YUd6Yk4yZXVxTWxGLUJZaEsxWnFueHlEQ2t2UVZRbk9iaG5wU0JwbW1ZUUxnMXBJa0FKeVhWLUJVWVNmV1BXQTIxUDc3VEdVY0RsOVcwR05hYmVOTVpiZlZzVWVYUEdaMGhaeEdqa2c1WHdRX0x5Q1pMV3hOeFRyMEFTbTFGOXBsdlM2YzVyUXlndnNiVjBXWGc0em8yN3F2QXhub243WlFPT09BOHRuaVBOWm1uSGNmTDBUQnk3TjNYb254ZlNLaFFSXzF3cy3SAY4CQVVfeXFMTU5uZko1ZFRSRk92blZZX0RINmdHdE9oRE81cFFVeEd2ZHdaa1BUclNsRmFVOV9VUWVWNU5HcGstNEpPT3diMDNmQlRWRlpsNWNFejBzdVlnRzFVdEwydW5lTzY2dDBlNkxELVkxSk9mUndBenNsV3FiaWpFdlBhNzM3UmxwQ1Q0a2hlZGdRZEtpU1pNa202TTBudDM4aDdOUVF0ZGE1MGRqVkZGdEZsNWJ3RmY1aEhHY2JpUHFISmNRSE9YTktsZHo1bVZRZ0UwQXM0c0JBekszSVU5THZUMVFrSVBaX2hEbWNwd1lzMDV6TXVaWmtOQnJwYTZvZ0p0bmdBempXcUZRWFlYYXZB?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 01:56:58 GMT",
-        "source": "Livemint"
+        "title": "News by CNBC TV18 on TradingView, 2026-11-11 — cnbctv:03ca3362a094b:0",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZzhkSG15aktfSFdKRUpidGNueW9KNDJhc1o5d2lNUVEtekdVRHRiaEVpRFdSTTR5MjBtU0haNTFsdGxHeXB4eHMyQTJJdVBibjFtQ2NaU1VacjVRWjBrYjdYT3FvcTg?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 10:09:16 GMT",
+        "source": "TradingView"
       },
       {
-        "title": "IIFL Finance-Blackstone deal: Stock gains 4%; brokerages decode impact",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFA2TW5QZ3oweFlMLUYyamUwYWhuTVQxYjNlb05MRk1Uc0VuN1U4U0lkNk8tbXUwZlhwMWxYek1jNklkNHFrNFRzREt0TG83elJ0V3pLblRPUWNNeEV3OHRfSXB3R0pRakFTRlA4U2FoZkNYRlZXVnRQWXk3eHdvN1lFd2NUYU9kQnJhY2JOWHdVWldJa21KUXBSRmtQY210NjFUVlZkQUwzeFBDdFpaRENTN0FpTVJDb0dPbTlpRlpvS2pnMTRBT09nNlZ6TGs?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 04:08:27 GMT",
-        "source": "Business Standard"
+        "title": "Market wrap: M&M, InterGlobe, Adani Ports SEZ, ICICI Bank top gainers and losers on Nifty and Sensex on We",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbDhweEs4SkhWMlBPQlRpbDQyODd5WWZveEVSeVF0OXFuOVlob19GQnd0Zi1WTm5uVTRCTjJRNDNkMk84TmNJNXV6c0pic1c3M0JvVkdyNTA3bDJ6TzVDb2F2VUlHUkQ1MlIyUjRzUmlVRGp3bnRFX3BzVkE4SWF0NTJCSURUXzBPOU5CT2cxbnM0R3JEbmkySm9EY3MybHA0NjhhUG1wX1h1V0d4S0FHanU3LW5zMTA2ekdTXzgyUDhsdkJkRXNVTWdfb3psQWVFalpaQWtsNVMyRFVrSktVN1Frd2dxQ0dtLWNTRDZVQnhVcFEzN1hEQmlsT3EwSzhEX0hOeW0zNmhtUmZPQTdz0gGUAkFVX3lxTE1wa3F1Q2ZSTTR1b3ZwaUhkdnJadGJhTWF6b3YtYkhrY013RVRlc0Q4aG9UVDBROWNxVFFBZmtTcDNxLTJ4aUVRaTVyMmxWLV9UOUE4d1ZodGVzS2VVR2lDV3VCV2VwVTItMmJ1Y2hPY0FXQ1MxNGVLank1MkJoWVN3SmcwcDFBQVY5b3VfUnpmVlFjOF9nOVRobHQxS1FUSk40cGhLMWlJT3U1VGJCYkV1OVcyMW42OThSLW1hUkFjd0tkZTVwajUxMHhVd2RJbTJhZkhFUHdjdUg2d1hRSDh1ZUVQQlB0ai1wSVB4eHExRFc2Nmk5SDAxTnJ6V3lnUVRsTFFpUFBRTkdWVnBWeUJ6Mi1xNw?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 12:26:53 GMT",
+        "source": "The Economic Times"
       },
       {
-        "title": "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRzhyNDV4akRyNFFZd1RMT1lORHJibjF1bkREaDVzMWU4dXBmQlRhNS04YWxpWHN0WVFmVnhrdUMxdXJVbXZDMzJyUVYyVlVVcWdLcWxqRXo0V1RjalZoYl9sNC1iaGFmQnVIbFJhbXlMR2FndkJwY1lYSFBmT28yYl9SVVpjU1o1Q0taOUpiR09FUFlpaHRoZ1Zpdk11TzdBWjBxQndjTFU4QjNGcUpPamtlSGFmSW4wR0phakVNbE5HYTZkcEhuSkZ5ZGdNaVFLVTlmSk1oNlNyanNjUktHQ056cHBPUFNuczg3UFhjS1RuRzVna1k0RWJPYjN1OGg2VldSZkk0RFdBd9IBjwJBVV95cUxNa3RVQVk2Tk5RUUdDLTdKc3p5dWRDUnJteXpUR0otYkxnNktxdXYzeWZ5NVFYMW8zbzhjaGdBNS0zNWFnOG1COWhqTms1VXJJcVU5REJ3Q2J4TndDZ2tmVmdESTRHMHVWUFV5T1kyS3RQRFZpY2xxSTNwbnY3dFpyT0FQY3lpODNoVml2NXpqdUVPSzBLSE0wNWpqR1FQeHBTajRXSDhnVmdTUDdNaGRiX3ZHeWZDMjEtOWlRSGhFSkVUazNJbFRlTk1vSjczZTd5anl6UmRIMTNUdU9NR1dFX2IwV3ZmdGVNQWZ0TTRlMk5BVGc0QW01TjhsV3VscUxSTUxrTlozRnhJYnJTWmhv?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 06:47:14 GMT",
-        "source": "Livemint"
+        "title": "Market Wrap, Nov 11: SENSEX, NIFTY50 rise 1% as banking stocks rally; NIFTY Smallcap 100 outshines, M&M top gainers",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWGFuTHNzM1RCdHoxSDlFeWxQaFFvNk1ha1gwRk94MzRteGtMTUllMVFjTFUybS1ZNTZQNHEtY0JmZ0ZsQXhfdlp6RGdXVjN6T2hoSm5zTzZEZ1pfaFJ1bV81R3pfNF9BMDhhOTNoR09xYkx1RTZQUUItQmpCeHd5LXJicmhYZ0N3M1FaMmFGTWVtaXpkcUhJV2pMQ0pSSFZ2UFA5SVBpaDBGVmNxVWRTXzJEa1ZxR1JoZUZHdVpxOUJ5RUNPTFJ2bTZmMm9ZbEJ2NW5xWTI0cDZzUjVhUXF2eWtyajlFNHp2TGFmaUttWWZCMkNxN2U2aXF6ZXBjMGV4UEs4?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 10:23:32 GMT",
+        "source": "Upstox"
       },
       {
-        "title": "Cochin Shipyard tanks 8% post Q2 show; what's plaguing the defence stock?",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZjlCTXo0YkEyOVpQQjRqTGdmSGgxbEVmMXNtcUV6cEw3VHIwRklVQnFRQ2IzczB3NmppbTNCNDJjSWNIcXd3c0R5SndNZVZGM0g3XzVvNTVfOVNYQkZ1ekdfUUhSSG81eWFINE5KNHMwWGl6Zks0UkFIZnpwVWRfdDNYaC1wd0REZXV3RWVYZlk4eFBRNDBjLUpCTEVfd2dCclZBVmRIRDUtbGlQN1RNMDNkZmNEOWVXR1JsMHNpbjN1OUJEdHk5YS1fOHd4VWNOdUFXVEtEOXd5QlQ0MW5CcE1oc9IB6AFBVV95cUxNNWhITi1HeDRua1dDWTZ2SU4xTFhiZ2FzWHBidGtRb19xdmtLMXpOSmt1a0JxT3lOMk5Wa3hfUTRsSFF0TjA1OExDaEgtZFJ5bi1NR3psSUhVbnZrcVNHNlhiQzlldEVneVBxcVFmN1F0RlVnYllHRjBDNkgxZlZMUG82ckxUMmxWMUpnU3Y3T3h5SDI4Wk8xX2gxdklmb19tc3BfcGNHWVdyZ0RHM2o5SzZIUVZGR2p6RVU0dmRmZ0ljLXMzd0ZNYlRKWi0tQm40M1FDOUJyMU4zQkZUWWtDS2ktUG5rbF9T?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 04:40:29 GMT",
-        "source": "Business Standard"
-      },
-      {
-        "title": "Stocks to Watch Today: Kalyan Jewellers, Matrimony, IIFL Finance, HLE Glascoat, Ashoka Buildcon, IRB...",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQaENYLTdtLXZOcHZMaE5EUWIxQ1drd21XTWVFV0pIR3VsbVNJSDBmYS0xOWhtZ3MzdGYzUk92VTluN19vVzZxVmN5bU92R1VQR3NRLXI2dWhKRkVLZmhZQ2N2ejFLN3pRWU1OanJublF4OW55OWMtT1lfV0daTzJMWGZhbEVwUWpZU0k0alFQZ2RDM0NFME9kR09QdHFIX3Y2WlR2QjVHMHk5NHR1Qm01ZVlqTTVsYjJLSWp1Z2xmVW90RS1IYWhKeE1SS2hEci1HSUpUM1BhTERNYlBzb0ZnOURsNW1aNkFaaDFZN3htSVJqUzc0cHRTVVBkLThaTnNtRTBMTjAyenJHc05ucW9vTFlYdmZzT2RsWFBQLWtPNXM3T1N4OFI2NUdPUTNMMV9FdVVrOGt3WEpUU2ljQ3pRelk4MNIByAJBVV95cUxPNmtHNFVkakxibFg4MUw5MGFoeXR2R1pETUlVX21YT1RrRWZ1cS1remt6UjlyMnNXTnptcGIzT3BGOERjRkZWQ0ZzZVdxNVRfT0hmQ0k2NkV0WGRPRkpDSWNSNDdYMzJ0WUx0M2YzSFZmekFwcWgxeW1hVGxiblRXWFA5UVoycHc1NlZ4OTM3azRVV0pvN2k4d2JfTnhCSGFiZjhvZHZESUUyMkZtTnZkbGN5MjJqQ0RsMDNDYkhmS1A5ZWhOTFVqeU53M19aZ1ExWHFKMUNMdVJ6MFRySm5rdGRjZlNYRDRiSmlMSmhnbVpuakdGUGhVS1BxM2hZRkdfbEFzVVVTU0lWcmh4UWVOWlItNl9nbEVqdE1Edml3RU9jOEptbkFfX3FJWkRRdmxPRlB1SnZXNUFNTEFBTDhtaFBDazZUMHh5?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 19:16:11 GMT",
-        "source": "Moneycontrol.com"
+        "title": "Fairfax Financial likely to exit IIFL Finance, sources say",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQS0l3X3c1THFpWDBwX0Y4S1JSbUhIRnB3RDVzQjFkNUVFazhLTUx2Snd3MjQxUDI2aV9ielFhZUxEemVwNzZ0cXVXU1FCT3gzN0NIWnBsc0JFNEQ4SlVhUWxiM01uck04OFdqUjNUR01jRXJBQ2Q5bS1QeExfczZXdDV4OEFTcWY1TGpWZnMyeERrVkNxVVBqT21iWVVyTUdsR01GWEdCM0V0amtpSkJFRFI0MEhmQzU3bWt5MExINWVhMzlLNkZxREdKeUxJMHRJNVVsYTg3Z1pyRHJhbHBMb09LQmlEZUhEQnp6aExQazVaNHFNaEZBbGxjUnJDNzBBTFVWa20zMlgtQThCRVpsY2ZUT0J0dWt6MzF3S1M0R2pkLVYtaTJHckp1VVZEN0VhLUU1SdIB0AFBVV95cUxPMXV1NzJjcVlXQUhuQXNGNmdGa3U1bkJMZ3NUUVpNT2twbTBTWlJZV3NZcURiYUlEd2FKQUQwT2xKcG1yX2tyUHNINElDQjRYQVZxWnBSR1FEeTNQMzJtVUR2WlpqMFpRNTNObzJFMFdWSjJPRnhvRHJrZHY3WjJjU0pqMzdMVW0za1B0blduM3Jqc1loc3dBSUN1ZjRoNmZVWm9BN0plUXl6Nk5WQVh3dUFoWkp6b2VKQXZOOTFFX2lTV2dLRjBVUnJkb1ZjZkI5?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 13:09:37 GMT",
+        "source": "The Economic Times"
       }
     ]
   }
